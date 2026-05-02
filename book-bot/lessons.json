@@ -1,0 +1,44 @@
+{
+  "hg01_scene01": {
+    "title": "The Hunger Games — Scene 1",
+    "level": "C1",
+    "quizlet": [
+      ["rough canvas cover of the mattress", "грубый холщовый чехол матраса"],
+      ["cocooned in my mother’s body", "укутанная телом матери"],
+      ["as fresh as a raindrop", "свежая, как капля дождя"],
+      ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная"],
+      ["eyes the color of rotting squash", "глаза цвета гниющей тыквы"],
+      ["muddy yellow coat", "грязно-жёлтая шерсть"],
+      ["belly swollen with worms", "живот, раздутый от глистов"],
+      ["crawling with fleas", "кишащий блохами"],
+      ["he’s a born mouser", "он прирождённый ловец мышей"],
+      ["he has stopped hissing at me", "он перестал на меня шипеть"],
+      ["supple leather that has molded to my feet", "мягкая кожа, принявшая форму моих ног"],
+      ["crawling with miners", "кишащий шахтёрами"],
+      ["swollen knuckles", "опухшие костяшки"]
+    ],
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “cocooned” suggest?",
+        "options": ["danger", "protection", "speed", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” suggests being wrapped, protected, and enclosed."
+      },
+      {
+        "type": "choice",
+        "question": "What does “crawling with fleas” mean?",
+        "options": ["almost empty", "full of fleas", "moving fast", "very clean"],
+        "answer": 1,
+        "explanation": "“Crawling with” means full of something unpleasant."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase describes physical damage from hard work?",
+        "options": ["fresh as a raindrop", "swollen knuckles", "muddy yellow coat", "born mouser"],
+        "answer": 1,
+        "explanation": "“Swollen knuckles” points to physical labour and hardship."
+      }
+    ]
+  }
+}
