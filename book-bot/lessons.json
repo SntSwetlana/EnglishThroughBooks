@@ -265,6 +265,89 @@
       }
     ]
   },
+  "hunger_games_01_scene01_part4": {
+  "title": "The Hunger Games — Chapter 1 • Part 4",
+  "level": "C1",
+  "text": "In the woods waits the only person with whom I can be myself. Gale. I can feel the muscles in my face relaxing, my pace quickening as I climb the hills to our place, a rock ledge overlooking a valley. A thicket of berry bushes protects it from unwanted eyes. The sight of him waiting there brings on a smile. Gale says I never smile except in the woods.\n\n“Hey, Catnip,” says Gale. My real name is Katniss, but when I first told him, I had barely whispered it. So he thought I’d said Catnip. Then when this crazy lynx started following me around the woods looking for handouts, it became his official nickname for me. I finally had to kill the lynx because he scared off game. I almost regretted it because he wasn’t bad company. But I got a decent price for his pelt.\n\n“Look what I shot,” Gale holds up a loaf of bread with an arrow stuck in it, and I laugh. It’s real bakery bread, not the flat, dense loaves we make from our grain rations. I take it in my hands, pull out the arrow, and hold the puncture in the crust to my nose, inhaling the fragrance that makes my mouth flood with saliva. Fine bread like this is for special occasions.\n\n“Mm, still warm,” I say. He must have been at the bakery at the crack of dawn to trade for it. “What did it cost you?”\n\n“Just a squirrel. Think the old man was feeling sentimental this morning,” says Gale. “Even wished me luck.”\n\n“Well, we all feel a little closer today, don’t we?” I say, not even bothering to roll my eyes. “Prim left us a cheese.” I pull it out.\n\nHis expression brightens at the treat. “Thank you, Prim. We’ll have a real feast.” Suddenly he falls into a Capitol accent as he mimics Effie Trinket, the maniacally upbeat woman who arrives once a year to read out the names at the reaping. “I almost forgot! Happy Hunger Games!” He plucks a few blackberries from the bushes around us. “And may the odds —” He tosses a berry in a high arc toward me.",
+
+  "quizlet": [
+    ["be myself", "быть собой"],
+    ["brings on a smile", "вызывает улыбку"],
+    ["looking for handouts", "ищущий подачки"],
+    ["scared off game", "распугал дичь"],
+    ["got a decent price for his pelt", "получил хорошую цену за шкуру"],
+    ["at the crack of dawn", "ни свет ни заря / на рассвете"],
+    ["feeling sentimental", "расчувствовавшийся"],
+    ["roll my eyes", "закатить глаза"]
+  ],
+
+  "questions": [
+    {
+      "type": "choice",
+      "question": "Why does Katniss feel different around Gale?",
+      "options": [
+        "he reminds her of the Capitol",
+        "she can behave naturally with him",
+        "he protects her from Peacekeepers",
+        "he gives her expensive gifts"
+      ],
+      "answer": 1,
+      "explanation": "Katniss says Gale is the only person with whom she can truly be herself."
+    },
+
+    {
+      "type": "choice",
+      "question": "What does “looking for handouts” mean?",
+      "options": [
+        "searching for free food or help",
+        "looking for directions",
+        "trying to hunt animals",
+        "waiting for instructions"
+      ],
+      "answer": 0,
+      "explanation": "The lynx followed Katniss hoping to receive food."
+    },
+
+    {
+      "type": "choice",
+      "question": "Why did Katniss kill the lynx?",
+      "options": [
+        "it attacked Gale",
+        "it stole bread",
+        "it scared off game",
+        "it was dangerous to Prim"
+      ],
+      "answer": 2,
+      "explanation": "The lynx frightened away animals Katniss hunted."
+    },
+
+    {
+      "type": "choice",
+      "question": "What does “at the crack of dawn” mean?",
+      "options": [
+        "late at night",
+        "during a storm",
+        "very early in the morning",
+        "exactly at noon"
+      ],
+      "answer": 2,
+      "explanation": "The phrase means extremely early in the morning."
+    },
+
+    {
+      "type": "choice",
+      "question": "What does Gale’s Capitol accent joke help them do?",
+      "options": [
+        "forget Gale’s worries",
+        "practice for the Games",
+        "cope with fear through humor",
+        "impress Effie Trinket"
+      ],
+      "answer": 2,
+      "explanation": "They joke about the Hunger Games to make the fear easier to handle."
+    }
+  ]
+},
   "hunger_games_01_scene02": {
     "title": "The Hunger Games — Scene 2",
     "level": "C1",
@@ -314,8 +397,6 @@
       }
     ]
   },
-
-
   "hunger_games_02_scene01": {
     "title": "The Hunger Games — Scene 2",
     "level": "C1",
