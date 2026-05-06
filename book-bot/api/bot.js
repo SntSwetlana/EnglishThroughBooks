@@ -7,6 +7,31 @@ function getLesson(id) {
   return lessons[id];
 }
 
+function escapeHtml(text = "") {
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function boldQuizletPhrases(text, quizlet) {
+  if (!text) return "📖 Text will be added soon.";
+
+  let markedText = text;
+
+  for (const [phrase] of quizlet) {
+    const cleanPhrase = phrase.trim();
+    if (!cleanPhrase) continue;
+
+    const escaped = cleanPhrase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const regex = new RegExp(escaped, "gi");
+
+    markedText = markedText.replace(regex, (match) => `<b>${match}</b>`);
+  }
+
+  return markedText;
+}
+
 function lessonMenu() {
   return Markup.inlineKeyboard(
     Object.entries(lessons).map(([id, lesson]) => [
@@ -17,6 +42,7 @@ function lessonMenu() {
 
 function lessonKeyboard(lessonId) {
   return Markup.inlineKeyboard([
+    [Markup.button.callback("📖 Read excerpt", `text:${lessonId}`)],
     [Markup.button.callback("🧩 Quizlet", `quizlet:${lessonId}`)],
     [Markup.button.callback("✅ Practice", `q:${lessonId}:0`)],
     [Markup.button.callback("⬅️ Lessons", "lessons")]
@@ -36,9 +62,13 @@ bot.start(async (ctx) => {
 
   if (payload && getLesson(payload)) {
     const lesson = getLesson(payload);
+
     return ctx.reply(
-      `📖 ${lesson.title}\nLevel: ${lesson.level}`,
-      lessonKeyboard(payload)
+      `📖 <b>${escapeHtml(lesson.title)}</b>\nLevel: ${escapeHtml(lesson.level)}`,
+      {
+        parse_mode: "HTML",
+        reply_markup: lessonKeyboard(payload).reply_markup
+      }
     );
   }
 
@@ -56,10 +86,35 @@ bot.action(/^lesson:(.+)$/, async (ctx) => {
   const lessonId = ctx.match[1];
   const lesson = getLesson(lessonId);
 
+  if (!lesson) {
+    return ctx.editMessageText("Lesson not found.");
+  }
+
   await ctx.editMessageText(
-    `📖 ${lesson.title}\nLevel: ${lesson.level}`,
-    lessonKeyboard(lessonId)
+    `📖 <b>${escapeHtml(lesson.title)}</b>\nLevel: ${escapeHtml(lesson.level)}`,
+    {
+      parse_mode: "HTML",
+      reply_markup: lessonKeyboard(lessonId).reply_markup
+    }
   );
+});
+
+bot.action(/^text:(.+)$/, async (ctx) => {
+  await ctx.answerCbQuery();
+
+  const lessonId = ctx.match[1];
+  const lesson = getLesson(lessonId);
+
+  if (!lesson) {
+    return ctx.editMessageText("Lesson not found.");
+  }
+
+  const markedText = boldQuizletPhrases(lesson.text, lesson.quizlet);
+
+  await ctx.editMessageText(markedText, {
+    parse_mode: "HTML",
+    reply_markup: lessonKeyboard(lessonId).reply_markup
+  });
 });
 
 bot.action(/^quizlet:(.+)$/, async (ctx) => {
@@ -68,13 +123,20 @@ bot.action(/^quizlet:(.+)$/, async (ctx) => {
   const lessonId = ctx.match[1];
   const lesson = getLesson(lessonId);
 
-  const text =
-    `🧩 Quizlet\n\n` +
-    lesson.quizlet
-      .map(([en, ru]) => `• ${en} — ${ru}`)
-      .join("\n");
+  if (!lesson) {
+    return ctx.editMessageText("Lesson not found.");
+  }
 
-  await ctx.editMessageText(text, lessonKeyboard(lessonId));
+  const text =
+    `🧩 <b>Quizlet</b>\n\n` +
+    lesson.quizlet
+      .map(([en, ru]) => `• <b>${escapeHtml(en.trim())}</b>\n  ${escapeHtml(ru.trim())}`)
+      .join("\n\n");
+
+  await ctx.editMessageText(text, {
+    parse_mode: "HTML",
+    reply_markup: lessonKeyboard(lessonId).reply_markup
+  });
 });
 
 bot.action(/^q:(.+):(\d+)$/, async (ctx) => {
@@ -83,18 +145,29 @@ bot.action(/^q:(.+):(\d+)$/, async (ctx) => {
   const lessonId = ctx.match[1];
   const qIndex = Number(ctx.match[2]);
   const lesson = getLesson(lessonId);
+
+  if (!lesson) {
+    return ctx.editMessageText("Lesson not found.");
+  }
+
   const question = lesson.questions[qIndex];
 
   if (!question) {
     return ctx.editMessageText(
-      `🏁 Practice finished!\n\nGreat work.`,
-      lessonKeyboard(lessonId)
+      `🏁 <b>Practice finished!</b>\n\nGreat work.`,
+      {
+        parse_mode: "HTML",
+        reply_markup: lessonKeyboard(lessonId).reply_markup
+      }
     );
   }
 
   await ctx.editMessageText(
-    `✅ Question ${qIndex + 1}/${lesson.questions.length}\n\n${question.question}`,
-    questionKeyboard(lessonId, qIndex, question)
+    `✅ <b>Question ${qIndex + 1}/${lesson.questions.length}</b>\n\n${escapeHtml(question.question)}`,
+    {
+      parse_mode: "HTML",
+      reply_markup: questionKeyboard(lessonId, qIndex, question).reply_markup
+    }
   );
 });
 
@@ -106,21 +179,25 @@ bot.action(/^a:(.+):(\d+):(\d+)$/, async (ctx) => {
   const optionIndex = Number(ctx.match[3]);
 
   const lesson = getLesson(lessonId);
-  const question = lesson.questions[qIndex];
 
+  if (!lesson) {
+    return ctx.editMessageText("Lesson not found.");
+  }
+
+  const question = lesson.questions[qIndex];
   const isCorrect = optionIndex === question.answer;
 
   const resultText = isCorrect
-    ? `✅ Correct!\n\n💡 ${question.explanation}`
-    : `❌ Not quite.\n\nCorrect answer: ${question.options[question.answer]}\n\n💡 ${question.explanation}`;
+    ? `✅ <b>Correct!</b>\n\n💡 ${escapeHtml(question.explanation)}`
+    : `❌ <b>Not quite.</b>\n\nCorrect answer: <b>${escapeHtml(question.options[question.answer])}</b>\n\n💡 ${escapeHtml(question.explanation)}`;
 
-  await ctx.editMessageText(
-    resultText,
-    Markup.inlineKeyboard([
+  await ctx.editMessageText(resultText, {
+    parse_mode: "HTML",
+    reply_markup: Markup.inlineKeyboard([
       [Markup.button.callback("➡️ Next", `q:${lessonId}:${qIndex + 1}`)],
       [Markup.button.callback("⬅️ Lesson", `lesson:${lessonId}`)]
-    ])
-  );
+    ]).reply_markup
+  });
 });
 
 module.exports = async function handler(req, res) {

@@ -1,47 +1,61 @@
 {
   "hunger_games_01_scene01": {
-    "title": "The Hunger Games — Scene 1",
+    "title": "The Hunger Games — Chapter 1 / Scene 1",
     "level": "C1",
+    "text": ["When I wake up, the other side of the bed is cold."],
     "quizlet": [
-      ["The blood drained from her face ","кровь отхлынула от лица"],
-      ["bring someone back to themselves ","привести кого-то в себя"],
-      ["make way ","расступиться"],
-      ["trail off ","осечься, замолчать"],
-      ["steel oneself ","собраться с духом"],
-      ["to someone's everlasting credit ","к чьей-то вечной чести"],
-      ["take part in dissent ","участвовать в протесте"],
-      ["we do not condone this ","мы этого не одобряем"],
-      ["compose oneself ","взять себя в руки"],
-      ["get the ball rolling ","запустить процесс"],
-      ["out of nowhere ","ни с того ни с сего"],
-      ["take over as head of the family ","стать главой семьи"],
-      ["keep a predicament secret ","скрывать бедственное положение"],
-      ["hold out until ","продержаться до"],
-      ["chilled to the bone ","промёрзший до костей"],
-      ["sink in ","дойти, осознаться"],
-      ["the coast is clear ","никого нет / путь свободен"]
+      ["rough canvas cover of the mattress", "грубый холщовый чехол матраса"],
+      ["cocooned in my mother’s body", "укутанная телом матери"],
+      ["as fresh as a raindrop", "свежая, как капля дождя"],
+      ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная"],
+      ["eyes the color of rotting squash", "глаза цвета гниющей тыквы"],
+      ["muddy yellow coat", "грязно-жёлтая шерсть"],
+      ["belly swollen with worms", "живот, раздутый от глистов"],
+      ["crawling with fleas", "кишащий блохами"],
+      ["another mouth to feed", "ещё один рот, которого нужно кормить"],
+      ["he’s a born mouser", "он прирождённый ловец мышей"],
+      ["he has stopped hissing at me", "он перестал на меня шипеть"],
+      ["the closest we will ever come to love", "самое близкое к любви, что у нас будет"],
+      ["supple leather that has molded to my feet", "мягкая кожа, принявшая форму моих ног"],
+      ["crawling with coal miners", "кишащий шахтёрами"],
+      ["swollen knuckles", "опухшие костяшки"],
+      ["silent as a stone", "тихий как камень"]
     ],
     "questions": [
       {
         "type": "choice",
-        "question": "What does “cocooned” suggest?",
-        "options": ["danger", "protection", "speed", "anger"],
+        "question": "What does “rough canvas cover” suggest?",
+        "options": ["comfort and luxury", "poverty and rough living conditions", "danger", "magic"],
         "answer": 1,
-        "explanation": "“Cocooned” suggests being wrapped, protected, and enclosed."
+        "explanation": "It suggests a poor, uncomfortable, practical environment."
       },
       {
         "type": "choice",
-        "question": "What does “crawling with fleas” mean?",
-        "options": ["almost empty", "full of fleas", "moving fast", "very clean"],
+        "question": "What does “cocooned in my mother’s body” suggest?",
+        "options": ["fear and punishment", "protection and closeness", "speed and movement", "anger"],
         "answer": 1,
-        "explanation": "“Crawling with” means full of something unpleasant."
+        "explanation": "“Cocooned” creates an image of being wrapped, protected, and safe."
       },
       {
         "type": "choice",
-        "question": "Which phrase describes physical damage from hard work?",
-        "options": ["fresh as a raindrop", "swollen knuckles", "muddy yellow coat", "born mouser"],
+        "question": "Which phrase shows innocence and freshness?",
+        "options": ["swollen knuckles", "as fresh as a raindrop", "rotting squash", "crawling with fleas"],
         "answer": 1,
-        "explanation": "“Swollen knuckles” points to physical labour and hardship."
+        "explanation": "“As fresh as a raindrop” is a soft image of innocence and purity."
+      },
+      {
+        "type": "choice",
+        "question": "What does “another mouth to feed” mean?",
+        "options": ["another person or animal to provide food for", "someone who talks too much", "a dangerous animal", "a family celebration"],
+        "answer": 0,
+        "explanation": "It means another dependent who needs food and resources."
+      },
+      {
+        "type": "choice",
+        "question": "What does “silent as a stone” emphasize?",
+        "options": ["complete silence", "heavy rain", "fear of animals", "a loud sound"],
+        "answer": 0,
+        "explanation": "The simile emphasizes that there is no sound at all."
       }
     ]
   },
