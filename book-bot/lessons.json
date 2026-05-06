@@ -1,8 +1,70 @@
 {
-  "hunger_games_01_scene01": {
-    "title": "The Hunger Games — Chapter 1 / Scene 1",
+  "hunger_games_01_scene01_part1": {
+    "title": "The Hunger Games — Chapter 1 / Scene 1 part 1",
     "level": "C1",
-    "text": "When I wake up, the other side of the bed is cold. My fingers stretch out, seeking Prim’s warmth but finding only the rough canvas cover of the mattress. She must have had bad dreams and climbed in with our mother. Of course she did. This is the day of the reaping. I don’t want to think about that now. All I want is to get up, to get out of this bed, to get out of this house, to get away from everything. I want to run until my legs give out, until my lungs burst, until I’m so far away that I can’t hear anyone screaming.\n\nBut I never do. I wake up in a cold sweat and lie there for a while, cocooned in my mother’s body, trying to calm down. It’s not as bad as it was when I was younger. I’m as fresh as a raindrop compared to how I used to be. But it’s still bad enough that I can’t sleep through the night without waking up at least once.\n\nI finally manage to fall back asleep, but when I wake up again, it’s light outside and Prim isn’t there. I sit up and look around the room. The bed is still unmade, but there’s no sign of Prim or our mother. I call out for them, but there’s no answer.\n\nI get out of bed and walk over to the window. The streets are empty and quiet. It’s like everyone has disappeared overnight. I don’t know where they could have gone or why they would leave me alone like this.\n\nI start to panic and run around the room looking for something to hold onto. My heart is pounding in my chest and my hands are shaking so badly that I can barely hold onto anything.\n\nFinally, I find a small stuffed animal that Prim gave me when we were younger. It’s worn but not so beaten-down that it can’t provide some comfort. I clutch it tightly and try to calm down.\n\nAfter a few minutes, I start to feel a little better. The panic has subsided enough that I can think more clearly now.",
+    "text": "When I wake up, the other side of the bed is cold. My fingers stretch out, seeking Prim’s warmth but finding only the rough canvas cover of the mattress. She must have had bad dreams and climbed in with our mother. Of course, she did. This is the day of the reaping.\n\nI prop myself up on one elbow. There’s enough light in the bedroom to see them. My little sister, Prim, curled up on her side, cocooned in my mother’s body, their cheeks pressed together. In sleep, my mother looks younger, still worn but not so beaten-down. Prim’s face is as fresh as a raindrop, as lovely as the primrose for which she was named. My mother was very beautiful once, too. Or so they tell me.\n\nSitting at Prim’s knees, guarding her, is the world’s ugliest cat. Mashed-in nose, half of one ear missing, eyes the color of rotting squash. Prim named him Buttercup, insisting that his muddy yellow coat matched the bright flower. He hates me. Or at least distrusts me. Even though it was years ago, I think he still remembers how I tried to drown him in a bucket when Prim brought him home. Scrawny kitten, belly swollen with worms, crawling with fleas. The last thing I needed was another mouth to feed. But Prim begged so hard, cried even, I had to let him stay. It turned out okay. My mother got rid of the vermin and he’s a born mouser. Even catches the occasional rat. Sometimes, when I clean a kill, I feed Buttercup the entrails. He has stopped hissing at me",
+    "quizlet": [
+      ["rough canvas cover of the mattress", "грубый холщовый чехол матраса"],
+      ["cocooned in my mother’s body", "укутанная телом матери"],
+      ["as fresh as a raindrop", "свежая, как капля дождя"],
+      ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная"],
+      ["eyes the color of rotting squash", "глаза цвета гниющей тыквы"],
+      ["muddy yellow coat", "грязно-жёлтая шерсть"],
+      ["belly swollen with worms", "живот, раздутый от глистов"],
+      ["crawling with fleas", "кишащий блохами"],
+      ["another mouth to feed", "ещё один рот, которого нужно кормить"],
+      ["he’s a born mouser", "он прирождённый ловец мышей"],
+      ["he has stopped hissing at me", "он перестал на меня шипеть"],
+      ["the closest we will ever come to love", "самое близкое к любви, что у нас будет"],
+      ["supple leather that has molded to my feet", "мягкая кожа, принявшая форму моих ног"],
+      ["crawling with coal miners", "кишащий шахтёрами"],
+      ["swollen knuckles", "опухшие костяшки"],
+      ["silent as a stone", "тихий как камень"]
+
+    ],
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “rough canvas cover” suggest?",
+        "options": ["comfort and luxury", "poverty and rough living conditions", "danger", "magic"],
+        "answer": 1,
+        "explanation": "It suggests a poor, uncomfortable, practical environment."
+      },
+      {
+        "type": "choice",
+        "question": "What does “cocooned in my mother’s body” suggest?",
+        "options": ["fear and punishment", "protection and closeness", "speed and movement", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” creates an image of being wrapped, protected, and safe."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase shows innocence and freshness?",
+        "options": ["swollen knuckles", "as fresh as a raindrop", "rotting squash", "crawling with fleas"],
+        "answer": 1,
+        "explanation": "“As fresh as a raindrop” is a soft image of innocence and purity."
+      },
+      {
+        "type": "choice",
+        "question": "What does “another mouth to feed” mean?",
+        "options": ["another person or animal to provide food for", "someone who talks too much", "a dangerous animal", "a family celebration"],
+        "answer": 0,
+        "explanation": "It means another dependent who needs food and resources."
+      },
+      {
+        "type": "choice",
+        "question": "What does “silent as a stone” emphasize?",
+        "options": ["complete silence", "heavy rain", "fear of animals", "a loud sound"],
+        "answer": 0,
+        "explanation": "The simile emphasizes that there is no sound at all."
+      }
+    ]
+  },
+
+    "hunger_games_01_scene01_part2": {
+    "title": "The Hunger Games — Chapter 1 / Scene 1 part 2",
+    "level": "C1",
+    "text": "Entrails. No hissing. This is the closest we will ever come to love.\n\nI swing my legs off the bed and slide into my hunting boots. Supple leather that has molded to my feet. I pull on trousers, a shirt, tuck my long dark braid up into a cap, and grab my forage bag. On the table, under a wooden bowl to protect it from hungry rats and cats alike, sits a perfect little goat cheese wrapped in basil leaves. Prim’s gift to me on reaping day. I put the cheese carefully in my pocket as I slip outside.\n\nOur part of District 12, nicknamed the Seam, is usually crawling with coal miners heading out to the morning shift at this hour. Men and women with hunched shoulders, swollen knuckles, many who have long since stopped trying to scrub the coal dust out of their broken nails, the lines of their sunken faces. But today the black cinder streets are empty. Shutters on the squat gray houses are closed. The reaping isn’t until two. May as well sleep in. If you can.",
     "quizlet": [
       ["rough canvas cover of the mattress", "грубый холщовый чехол матраса"],
       ["cocooned in my mother’s body", "укутанная телом матери"],
