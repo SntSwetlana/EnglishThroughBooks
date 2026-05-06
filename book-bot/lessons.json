@@ -1,22 +1,219 @@
 {
-  "hg01_scene01": {
+  "hunger_games_01_scene01": {
     "title": "The Hunger Games — Scene 1",
     "level": "C1",
     "quizlet": [
-      ["rough canvas cover of the mattress", "грубый холщовый чехол матраса"],
-      ["cocooned in my mother’s body", "укутанная телом матери"],
-      ["as fresh as a raindrop", "свежая, как капля дождя"],
-      ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная"],
-      ["eyes the color of rotting squash", "глаза цвета гниющей тыквы"],
-      ["muddy yellow coat", "грязно-жёлтая шерсть"],
-      ["belly swollen with worms", "живот, раздутый от глистов"],
-      ["crawling with fleas", "кишащий блохами"],
-      ["he’s a born mouser", "он прирождённый ловец мышей"],
-      ["he has stopped hissing at me", "он перестал на меня шипеть"],
-      ["supple leather that has molded to my feet", "мягкая кожа, принявшая форму моих ног"],
-      ["crawling with miners", "кишащий шахтёрами"],
-      ["swollen knuckles", "опухшие костяшки"]
+      ["The blood drained from her face ","кровь отхлынула от лица"],
+      ["bring someone back to themselves ","привести кого-то в себя"],
+      ["make way ","расступиться"],
+      ["trail off ","осечься, замолчать"],
+      ["steel oneself ","собраться с духом"],
+      ["to someone's everlasting credit ","к чьей-то вечной чести"],
+      ["take part in dissent ","участвовать в протесте"],
+      ["we do not condone this ","мы этого не одобряем"],
+      ["compose oneself ","взять себя в руки"],
+      ["get the ball rolling ","запустить процесс"],
+      ["out of nowhere ","ни с того ни с сего"],
+      ["take over as head of the family ","стать главой семьи"],
+      ["keep a predicament secret ","скрывать бедственное положение"],
+      ["hold out until ","продержаться до"],
+      ["chilled to the bone ","промёрзший до костей"],
+      ["sink in ","дойти, осознаться"],
+      ["the coast is clear ","никого нет / путь свободен"]
     ],
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “cocooned” suggest?",
+        "options": ["danger", "protection", "speed", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” suggests being wrapped, protected, and enclosed."
+      },
+      {
+        "type": "choice",
+        "question": "What does “crawling with fleas” mean?",
+        "options": ["almost empty", "full of fleas", "moving fast", "very clean"],
+        "answer": 1,
+        "explanation": "“Crawling with” means full of something unpleasant."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase describes physical damage from hard work?",
+        "options": ["fresh as a raindrop", "swollen knuckles", "muddy yellow coat", "born mouser"],
+        "answer": 1,
+        "explanation": "“Swollen knuckles” points to physical labour and hardship."
+      }
+    ]
+  },
+  "hunger_games_01_scene02": {
+    "title": "The Hunger Games — Scene 2",
+    "level": "C1",
+    "quizlet": [
+        ["turn a blind eye to something","закрывать глаза на что-то"],
+        ["hold one's tongue","держать язык за зубами"],
+        ["be at stake","быть на кону"],
+        ["keep tabs on someone","следить за кем-то"],
+        ["take a dig at someone","съязвить / уколоть"],
+        ["set someone off","вывести кого-то из себя"],
+        ["be powerless against something","быть бессильным перед чем-то"],
+        ["to someone's advantage","быть кому-то выгодным"],
+        ["the odds are in your favour","шансы на твоей стороне"],
+        ["be scared out of your wits","быть до смерти напуганным"],
+        ["get past something","преодолеть что-то"],
+        ["well up","подступать, нарастать"],
+        ["register on one's face","отразиться на лице"],
+        ["break down and weep","разрыдаться"],
+        ["you could hear a pin drop","стояла абсолютная тишина"],
+        ["hard not to resent someone","трудно не злиться / не испытывать горечь"],
+        ["make out well","неплохо справиться / удачно разжиться"],
+        ["keep on good terms with someone","поддерживать хорошие отношения"],
+        ["be counted on","на кого-то можно рассчитывать"],
+        ["turn up one's nose at something","воротить нос от чего-то"]
+        ],
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “cocooned” suggest?",
+        "options": ["danger", "protection", "speed", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” suggests being wrapped, protected, and enclosed."
+      },
+      {
+        "type": "choice",
+        "question": "What does “crawling with fleas” mean?",
+        "options": ["almost empty", "full of fleas", "moving fast", "very clean"],
+        "answer": 1,
+        "explanation": "“Crawling with” means full of something unpleasant."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase describes physical damage from hard work?",
+        "options": ["fresh as a raindrop", "swollen knuckles", "muddy yellow coat", "born mouser"],
+        "answer": 1,
+        "explanation": "“Swollen knuckles” points to physical labour and hardship."
+      }
+    ]
+  },
+
+
+  "hunger_games_02_scene01": {
+    "title": "The Hunger Games — Scene 2",
+    "level": "C1",
+    "quizlet": [
+      ["The blood drained from her face", "кровь отхлынула от лица"],
+      ["bring someone back to themselves", "привести кого-то в себя"],
+      ["make way", "расступиться"],
+      ["trail off", "осечься, замолчать"],
+      ["steel oneself", "собраться с духом"],
+      ["to someone's everlasting credit", "к чьей-то вечной чести"],
+      ["take part in dissent", "участвовать в протесте"],
+      ["we do not condone this", "мы этого не одобряем"],
+      ["compose oneself", "взять себя в руки"],
+      ["get the ball rolling", "запустить процесс"],
+      ["out of nowhere", "ни с того ни с сего"],
+      ["take over as head of the family", "стать главой семьи"],
+      ["keep a predicament secret", "скрывать бедственное положение"],
+      ["hold out until", "продержаться до"],
+      ["chilled to the bone", "промёрзший до костей"],
+      ["sink in", "дойти, осознаться"],
+      ["the coast is clear", "никого нет / путь свободен"]    
+    ],
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “cocooned” suggest?",
+        "options": ["danger", "protection", "speed", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” suggests being wrapped, protected, and enclosed."
+      },
+      {
+        "type": "choice",
+        "question": "What does “crawling with fleas” mean?",
+        "options": ["almost empty", "full of fleas", "moving fast", "very clean"],
+        "answer": 1,
+        "explanation": "“Crawling with” means full of something unpleasant."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase describes physical damage from hard work?",
+        "options": ["fresh as a raindrop", "swollen knuckles", "muddy yellow coat", "born mouser"],
+        "answer": 1,
+        "explanation": "“Swollen knuckles” points to physical labour and hardship."
+      }
+    ]
+  },
+  "hunger_games_02_scene02": {
+    "title": "The Hunger Games — Scene 2",
+    "level": "C1",
+    "quizlet": [
+        ["cling to life " , "цепляться за жизнь"],
+        ["It didn't occur to me that... " , "мне не пришло в голову, что..."],
+        ["a bell went off in my head " , "у меня в голове щёлкнуло"],
+        ["be doomed " , "быть обречённым"],
+        ["feel conflicted " , "испытывать противоречивые чувства"],
+        ["the opportunity never presented itself " , "случай так и не представился"],
+        ["prop oneself up " , "приподняться, опираясь"],
+        ["slip outside " , "тихо выскользнуть наружу"],
+        ["head out " , "отправиться"],
+        ["sleep in " , "поспать подольше"],
+        ["silent as a stone " , "тихий как камень"],
+        ["roam freely " , "свободно бродить"],
+        ["know how to find it " , "знать, как найти"],
+        ["be blown to bits " , "разлететься на куски"],
+        ["carry severe penalties " , "строго караться"],
+        ["turn a blind eye to something " , "закрывать глаза на что-то"],
+        ["incite a rebellion " , "подстрекать к восстанию"],
+        ["if trouble arises " , "если возникнут проблемы"],
+        ["starve to death " , "умереть от голода"]
+        ],
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “cocooned” suggest?",
+        "options": ["danger", "protection", "speed", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” suggests being wrapped, protected, and enclosed."
+      },
+      {
+        "type": "choice",
+        "question": "What does “crawling with fleas” mean?",
+        "options": ["almost empty", "full of fleas", "moving fast", "very clean"],
+        "answer": 1,
+        "explanation": "“Crawling with” means full of something unpleasant."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase describes physical damage from hard work?",
+        "options": ["fresh as a raindrop", "swollen knuckles", "muddy yellow coat", "born mouser"],
+        "answer": 1,
+        "explanation": "“Swollen knuckles” points to physical labour and hardship."
+      }
+    ]
+  },
+    "hunger_games_03_scene01": {
+    "title": "The Hunger Games — Scene 3",
+    "level": "B2",
+    "quizlet": [
+        ["be taken into custody","быть взятым под стражу"],
+        ["left alone","остаться одному"],
+        ["calm oneself","успокаивать себя"],
+        ["say goodbye to loved ones","прощаться с близкими"],
+        ["afford to do","позволить себе"],
+        ["wrap one's arms around","обнять"],
+        ["get by","сводить концы с концами"],
+        ["to run a business","вести бизнес"],
+        ["be familiar with","быть знакомым с"],
+        ["to ask for compensation","просить оплату"],
+        ["to be terrified of","сильно бояться"],
+        ["to concentrate on something","сосредоточиться"],
+        ["take care","быть осторожным"],
+        ["cling","цепляться"],
+        ["to wipe one's face","вытирать лицо"],
+        ["to catch a glimpse","мельком увидеть"],
+        ["to cover something up","скрывать"],
+        ["to turn out","оказаться"],
+        ["stand out","выделяться"]
+        ],
     "questions": [
       {
         "type": "choice",
@@ -42,3 +239,4 @@
     ]
   }
 }
+
