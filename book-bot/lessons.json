@@ -4,43 +4,40 @@
     "level": "B2/C1/C2",
     "text": "When I wake up, the other side of the bed is cold. My fingers stretch out, seeking Prim’s warmth but finding only the rough canvas cover of the mattress. She must have had bad dreams and climbed in with our mother. Of course, she did. This is the day of the reaping.\n\nI prop myself up on one elbow. There’s enough light in the bedroom to see them. My little sister, Prim, curled up on her side, cocooned in my mother’s body, their cheeks pressed together. In sleep, my mother looks younger, still worn but not so beaten-down. Prim’s face is as fresh as a raindrop, as lovely as the primrose for which she was named. My mother was very beautiful once, too. Or so they tell me.\n\nSitting at Prim’s knees, guarding her, is the world’s ugliest cat. Mashed-in nose, half of one ear missing, eyes the color of rotting squash. Prim named him Buttercup, insisting that his muddy yellow coat matched the bright flower. He hates me. Or at least distrusts me. Even though it was years ago, I think he still remembers how I tried to drown him in a bucket when Prim brought him home. Scrawny kitten, belly swollen with worms, crawling with fleas. The last thing I needed was another mouth to feed. But Prim begged so hard, cried even, I had to let him stay. It turned out okay. My mother got rid of the vermin and he’s a born mouser. Even catches the occasional rat. Sometimes, when I clean a kill, I feed Buttercup the entrails. He has stopped hissing at me",
     "levels": {
-          "B2": {
-            "quizlet": [
-              ["climb in with someone", "забираться к кому-то в кровать"],
-              ["prop oneself up", "приподняться, опираясь"],
-              ["curl up", "сворачиваться клубком"],
-              ["bring someone home", "принести / привести домой"],
-              ["get rid of something", "избавиться от чего-то"],
-              ["feed someone something", "кормить кого-то чем-то"],
-              ["stop hissing at someone", "перестать шипеть на кого-то"],
-              ["slide into boots", "влезать в ботинки"],
-              ["pull on clothes", "натягивать одежду"],
-              ["slip outside", "тихо выскользнуть наружу"]
-            ]
-          },
+      "B2": {
+        "quizlet": [
+          ["climb in with someone", "забираться к кому-то в кровать", "climbed in with our mother"],
+          ["prop oneself up", "приподняться, опираясь", "prop myself up"],
+          ["curl up", "сворачиваться клубком", "curled up on her side"],
+          ["bring someone home", "принести / привести домой", "brought him home"],
+          ["get rid of something", "избавиться от чего-то", "got rid of the vermin"],
+          ["feed someone something", "кормить кого-то чем-то", "feed Buttercup the entrails"],
+          ["stop hissing at someone", "перестать шипеть на кого-то", "stopped hissing at me"]
+        ]
+      },
 
-          "C1": {
-            "quizlet": [
-              ["rough canvas cover of the mattress", "грубый холщовый чехол матраса"],
-              ["cocooned in my mother’s body", "укутанная телом матери"],
-              ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная"],
-              ["as fresh as a raindrop", "свежая, как капля дождя"],
-              ["eyes the color of rotting squash", "глаза цвета гниющей тыквы"],
-              ["he’s a born mouser", "он прирождённый ловец мышей"]
-            ]
-          },
+      "C1": {
+        "quizlet": [
+          ["rough canvas cover of the mattress", "грубый холщовый чехол матраса", "rough canvas cover of the mattress"],
+          ["cocooned in my mother’s body", "укутанная телом матери", "cocooned in my mother’s body"],
+          ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная", "still worn but not so beaten-down"],
+          ["as fresh as a raindrop", "свежая, как капля дождя", "as fresh as a raindrop"],
+          ["eyes the color of rotting squash", "глаза цвета гниющей тыквы", "eyes the color of rotting squash"],
+          ["he’s a born mouser", "он прирождённый ловец мышей", "he’s a born mouser"]
+        ]
+      },
 
-          "C2": {
-            "quizlet": [
-              ["seeking Prim’s warmth", "ища тепло Прим"],
-              ["their cheeks pressed together", "их щёки прижаты друг к другу"],
-              ["mashed-in nose", "вдавленный нос"],
-              ["muddy yellow coat matched the bright flower", "грязно-жёлтая шерсть сочеталась с ярким цветком"],
-              ["the last thing I needed", "меньше всего мне было нужно"],
-              ["this is the closest we will ever come to love", "это самое близкое к любви, что у нас когда-либо будет"]
-            ]
-          }
-        },
+      "C2": {
+        "quizlet": [
+          ["seeking Prim’s warmth", "ища тепло Прим", "seeking Prim’s warmth"],
+          ["their cheeks pressed together", "их щёки прижаты друг к другу", "their cheeks pressed together"],
+          ["mashed-in nose", "вдавленный нос", "Mashed-in nose"],
+          ["muddy yellow coat matched the bright flower", "грязно-жёлтая шерсть сочеталась с ярким цветком", "his muddy yellow coat matched the bright flower"],
+          ["the last thing I needed", "меньше всего мне было нужно", "The last thing I needed"],
+          ["this is the closest we will ever come to love", "это самое близкое к любви, что у нас когда-либо будет", "This is the closest we will ever come to love"]
+        ]
+      }
+    },
     "questions": [
       {
         "type": "choice",

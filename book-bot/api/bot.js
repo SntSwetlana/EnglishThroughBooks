@@ -29,7 +29,8 @@ function boldQuizletPhrases(text, quizlet) {
 
   let markedText = escapeHtml(text);
 
-  for (const [phrase] of quizlet) {
+  for (const item of quizlet) {
+    const phrase = item[2] || item[0]; // если есть match — используем его
     const cleanPhrase = phrase?.trim();
     if (!cleanPhrase) continue;
 
