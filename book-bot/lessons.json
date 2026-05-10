@@ -75,6 +75,114 @@
         "explanation": "The simile emphasizes that there is no sound at all."
       }
     ]
+  },
+    "hunger_games_01_scene01_part2": {
+    "title": "The Hunger Games — Chapter 1 • Page 2",
+    "level": "B2/C1/C2",
+    "text": "Entrails. No hissing. This is the closest we will ever come to love.\n\nI swing my legs off the bed and slide into my hunting boots. Supple leather that has molded to my feet. I pull on trousers, a shirt, tuck my long dark braid up into a cap, and grab my forage bag. On the table, under a wooden bowl to protect it from hungry rats and cats alike, sits a perfect little goat cheese wrapped in basil leaves. Prim’s gift to me on reaping day. I put the cheese carefully in my pocket as I slip outside.\n\nOur part of District 12, nicknamed the Seam, is usually crawling with coal miners heading out to the morning shift at this hour. Men and women with hunched shoulders, swollen knuckles, many who have long since stopped trying to scrub the coal dust out of their broken nails, the lines of their sunken faces. But today the black cinder streets are empty. Shutters on the squat gray houses are closed. The reaping isn’t until two. May as well sleep in. If you can.\n\nOur house is almost at the edge of the Seam. I only have to pass a few gates to reach the scruffy field called the Meadow. Separating the Meadow from the woods, in fact enclosing all of District 12, is a high chain-link fence topped with barbed-wire loops. In theory, it’s supposed to be electrified twenty-four hours a day as a deterrent to the predators that live in the woods — packs of wild dogs, lone cougars, bears — that used to threaten our streets. But since we’re lucky to get two or three hours of electricity in the evenings, it’s usually safe to touch. Even so, I always take a moment to listen carefully for the hum that means the fence is live. Right now, it’s silent as a stone. Concealed by a clump of bushes, I flatten out on my belly and slide under a two-foot stretch that’s been loose for years. There are several other weak spots in the fence, but this one is so close to home I almost always enter the woods here.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["slide into boots", "влезать в ботинки", "slide into my hunting boots"],
+          ["pull on clothes", "натягивать одежду", "pull on trousers"],
+          ["slip outside", "тихо выскользнуть наружу", "slip outside"],
+          ["head out", "отправляться", "heading out to the morning shift"],
+          ["sleep in", "поспать подольше", "sleep in"],
+          ["flatten out on one’s belly", "распластаться на животе", "flatten out on my belly"],
+          ["slide under something", "проскользнуть под чем-то", "slide under a two-foot stretch"],
+          ["keep something out", "не пускать внутрь", "keeping the flesh-eaters out"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["the closest we will ever come to love", "самое близкое к любви, что у нас будет", "This is the closest we will ever come to love"],
+          ["supple leather that has molded to my feet", "мягкая кожа, принявшая форму моих ног", "Supple leather that has molded to my feet"],
+          ["crawling with coal miners", "кишащий шахтёрами", "crawling with coal miners"],
+          ["swollen knuckles", "опухшие костяшки", "swollen knuckles"],
+          ["black cinder streets", "чёрные шлаковые улицы", "black cinder streets"],
+          ["silent as a stone", "тихий как камень", "silent as a stone"],
+          ["weak spots in the fence", "слабые места в заборе", "weak spots in the fence"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["wrapped in basil leaves", "завёрнутый в листья базилика", "wrapped in basil leaves"],
+          ["the lines of their sunken faces", "черты их осунувшихся лиц", "the lines of their sunken faces"],
+          ["a deterrent to predators", "сдерживающий фактор для хищников", "a deterrent to the predators"],
+          ["the hum that means the fence is live", "гудение, означающее, что забор под напряжением", "the hum that means the fence is live"],
+          ["concealed by a clump of bushes", "скрытая зарослями кустов", "Concealed by a clump of bushes"],
+          ["electrified twenty-four hours a day", "находящийся под напряжением круглые сутки", "electrified twenty-four hours a day"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “the closest we will ever come to love” suggest about Katniss and Buttercup?",
+        "options": [
+          "they deeply trust each other",
+          "their relationship is distant but peaceful",
+          "they constantly fight",
+          "they completely ignore each other"
+        ],
+        "answer": 1,
+        "explanation": "Katniss suggests that feeding the cat and the absence of hostility is the nearest thing to affection between them."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why are the streets unusually empty in the morning?",
+        "options": [
+          "there is a storm coming",
+          "the mines are closed forever",
+          "people are resting before the reaping",
+          "everyone has gone hunting"
+        ],
+        "answer": 2,
+        "explanation": "The reaping takes place later that day, so people stay home instead of going out early."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “silent as a stone” emphasize?",
+        "options": [
+          "the fence is active",
+          "there is complete silence",
+          "the woods are dangerous",
+          "the electricity is unstable"
+        ],
+        "answer": 1,
+        "explanation": "The phrase emphasizes that the fence is not humming with electricity."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why is Katniss able to enter the woods safely?",
+        "options": [
+          "the fence is broken in places",
+          "the Peacekeepers help her",
+          "the animals are asleep",
+          "the Capitol allows hunting"
+        ],
+        "answer": 0,
+        "explanation": "Katniss uses a loose section of the fence that has existed for years."
+      },
+
+      {
+        "type": "choice",
+        "question": "What is the purpose of the fence around District 12?",
+        "options": [
+          "to divide rich and poor citizens",
+          "to keep predators out of the district",
+          "to stop people from entering the Capitol",
+          "to separate the mines from the town"
+        ],
+        "answer": 1,
+        "explanation": "The fence is meant to protect District 12 from dangerous animals living in the woods."
+      }
+    ]
   }
 }
 
