@@ -53,12 +53,12 @@ function lessonMenu() {
 
 function lessonKeyboard(lessonId) {
   return Markup.inlineKeyboard([
-    [Markup.button.callback("🎧 Audio", `audio:${lessonId}`)],
     [
       Markup.button.callback("📖 Text B2", `text:${lessonId}:B2`),
       Markup.button.callback("📖 Text C1", `text:${lessonId}:C1`),
       Markup.button.callback("📖 Text C2", `text:${lessonId}:C2`)
     ],
+    [Markup.button.callback("🎧 Audio", `audio:${lessonId}`)],
     [
       Markup.button.callback("🟦 B2 Quizlet", `quizlet:${lessonId}:B2`),
       Markup.button.callback("🟪 C1 Quizlet", `quizlet:${lessonId}:C1`),
