@@ -315,14 +315,13 @@
     "levels": {
       "B2": {
         "quizlet": [
-          ["be oneself", "быть самим собой", "be myself"],
+          ["be myself", "быть самим собой", "be myself"],
           ["bring on a smile", "вызывать улыбку", "brings on a smile"],
           ["follow someone around", "ходить за кем-то", "following me around"],
           ["look for handouts", "выпрашивать еду / подачки", "looking for handouts"],
           ["scare off game", "спугнуть добычу", "scared off game"],
           ["pull out", "вытаскивать", "pull out the arrow"],
           ["roll one's eyes", "закатывать глаза", "roll my eyes"],
-          ["pull something out", "доставать что-то", "pull it out"],
           ["brighten at something", "оживляться при виде чего-то", "brightens at the treat"],
           ["be scared out of one's wits", "быть до смерти напуганным", "scared out of your wits"]
         ]
