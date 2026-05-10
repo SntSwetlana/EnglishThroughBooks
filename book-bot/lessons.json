@@ -307,6 +307,129 @@
         "explanation": "Open criticism of the Capitol could lead to serious consequences."
       }
    ]
+  },
+    "hunger_games_01_scene01_part4": {
+    "title": "The Hunger Games — Chapter 1 • Page 4",
+    "level": "B2/C1/C2",
+    "text": "In the woods waits the only person with whom I can be myself. Gale. I can feel the muscles in my face relaxing, my pace quickening as I climb the hills to our place, a rock ledge overlooking a valley. A thicket of berry bushes protects it from unwanted eyes. The sight of him waiting there brings on a smile. Gale says I never smile except in the woods.\n\n“Hey, Catnip,” says Gale. My real name is Katniss, but when I first told him, I had barely whispered it. So he thought I’d said Catnip. Then when this crazy lynx started following me around the woods looking for handouts, it became his official nickname for me. I finally had to kill the lynx because he scared off game. I almost regretted it because he wasn’t bad company. But I got a decent price for his pelt.\n\n“Look what I shot,” Gale holds up a loaf of bread with an arrow stuck in it, and I laugh. It’s real bakery bread, not the flat, dense loaves we make from our grain rations. I take it in my hands, pull out the arrow, and hold the puncture in the crust to my nose, inhaling the fragrance that makes my mouth flood with saliva. Fine bread like this is for special occasions.\n\n“Mm, still warm,” I say. He must have been at the bakery at the crack of dawn to trade for it. “What did it cost you?”\n\n“Just a squirrel. Think the old man was feeling sentimental this morning,” says Gale. “Even wished me luck.”\n\n“Well, we all feel a little closer today, don’t we?” I say, not even bothering to roll my eyes. “Prim left us a cheese.” I pull it out.\n\nHis expression brightens at the treat. “Thank you, Prim. We’ll have a real feast.” Suddenly he falls into a Capitol accent as he mimics Effie Trinket, the maniacally upbeat woman who arrives once a year to read out the names at the leaping. “I almost forgot! Happy Hunger Games!” He plucks a few blackberries from the bushes around us. “And may the odds —” He tosses a berry in a high arc toward me.\n\nI catch it in my mouth and break the delicate skin with my teeth. The sweet tartness explodes across my tongue. “— be ever in your favor!” I finish with equal verve. We have to joke about it because the alternative is to be scared out of your wits. Besides, the Capitol accent is so affected, almost anything sounds funny in it.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["be oneself", "быть самим собой", "be myself"],
+          ["bring on a smile", "вызывать улыбку", "brings on a smile"],
+          ["follow someone around", "ходить за кем-то", "following me around"],
+          ["look for handouts", "выпрашивать еду / подачки", "looking for handouts"],
+          ["scare off game", "спугнуть добычу", "scared off game"],
+          ["pull out", "вытаскивать", "pull out the arrow"],
+          ["roll one's eyes", "закатывать глаза", "roll my eyes"],
+          ["pull something out", "доставать что-то", "pull it out"],
+          ["brighten at something", "оживляться при виде чего-то", "brightens at the treat"],
+          ["be scared out of one's wits", "быть до смерти напуганным", "scared out of your wits"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["a rock ledge overlooking a valley", "скальный выступ с видом на долину", "a rock ledge overlooking a valley"],
+          ["a thicket of berry bushes", "заросли ягодных кустов", "A thicket of berry bushes"],
+          ["a decent price for his pelt", "хорошая цена за его шкуру", "a decent price for his pelt"],
+          ["the fragrance that makes my mouth flood with saliva", "аромат, от которого рот наполняется слюной", "makes my mouth flood with saliva"],
+          ["at the crack of dawn", "ни свет ни заря", "at the crack of dawn"],
+          ["maniacally upbeat", "маниакально бодрый", "maniacally upbeat"],
+          ["with equal verve", "с таким же энтузиазмом", "with equal verve"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["the only person with whom I can be myself", "единственный человек, рядом с которым я могу быть собой", "the only person with whom I can be myself"],
+          ["my pace quickening", "мой шаг ускоряется", "my pace quickening"],
+          ["from unwanted eyes", "от посторонних глаз", "from unwanted eyes"],
+          ["the sweet tartness explodes across my tongue", "кисло-сладкий вкус взрывается на языке", "explodes across my tongue"],
+          ["the Capitol accent is so affected", "капитолийский акцент настолько наигранный", "the Capitol accent is so affected"],
+          ["almost anything sounds funny in it", "в нём почти всё звучит смешно", "almost anything sounds funny in it"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss feel different around Gale?",
+        "options": [
+          "she can relax and be herself",
+          "he reminds her of her father",
+          "he protects her from Peacekeepers",
+          "he gives her expensive food"
+        ],
+        "answer": 0,
+        "explanation": "Katniss says Gale is the only person with whom she can truly be herself."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why did Katniss kill the lynx?",
+        "options": [
+          "it attacked Prim",
+          "it scared off game",
+          "it stole their food",
+          "it followed Gale"
+        ],
+        "answer": 1,
+        "explanation": "The lynx frightened away animals that Katniss hunted."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “at the crack of dawn” mean?",
+        "options": [
+          "late at night",
+          "during sunset",
+          "very early in the morning",
+          "in the middle of the day"
+        ],
+        "answer": 2,
+        "explanation": "The phrase means extremely early in the morning."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why do Katniss and Gale joke about the Hunger Games?",
+        "options": [
+          "they enjoy mocking people",
+          "they are not afraid",
+          "they want to entertain Prim",
+          "humor helps them deal with fear"
+        ],
+        "answer": 3,
+        "explanation": "Katniss says the alternative would be to be “scared out of your wits.”"
+      },
+
+      {
+        "type": "choice",
+        "question": "What does Gale imitate with the Capitol accent?",
+        "options": [
+          "a Peacekeeper",
+          "Effie Trinket",
+          "Katniss’s mother",
+          "the mayor"
+        ],
+        "answer": 1,
+        "explanation": "Gale mimics Effie Trinket and her exaggerated Capitol manner."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “the Capitol accent is so affected” suggest?",
+        "options": [
+          "the accent sounds natural",
+          "the accent is difficult to understand",
+          "the accent sounds artificial and exaggerated",
+          "the accent belongs to District 12"
+        ],
+        "answer": 2,
+        "explanation": "“Affected” means artificial, unnatural, or overly theatrical."
+      }
+    ]
   }
 }
-
