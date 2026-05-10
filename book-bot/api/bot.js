@@ -139,6 +139,25 @@ bot.action(/^text:([^:]+):(B2|C1|C2)$/, async (ctx) => {
   );
 });
 
+bot.action(/^audio:([^:]+)$/, async (ctx) => {
+  await ctx.answerCbQuery();
+
+  const lessonId = ctx.match[1];
+  const lesson = getLesson(lessonId);
+
+  if (!lesson || !lesson.audio?.url) {
+    return ctx.reply("Audio not found.");
+  }
+
+  await ctx.reply(
+    `🎧 <a href="${lesson.audio.url}">${lesson.audio.title}</a>`,
+    {
+      parse_mode: "HTML",
+      disable_web_page_preview: false
+    }
+  );
+});
+
 bot.action(/^quizlet:([^:]+):(B2|C1|C2)$/, async (ctx) => {
   await ctx.answerCbQuery();
 
