@@ -324,6 +324,10 @@
     "hunger_games_01_scene01_part4": {
     "title": "The Hunger Games — Chapter 1 • Page 4",
     "level": "B2/C1/C2",
+    "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/22",
+        "title": "🎧 Listen to audio"
+      },
     "text": "In the woods waits the only person with whom I can be myself. Gale. I can feel the muscles in my face relaxing, my pace quickening as I climb the hills to our place, a rock ledge overlooking a valley. A thicket of berry bushes protects it from unwanted eyes. The sight of him waiting there brings on a smile. Gale says I never smile except in the woods.\n\n“Hey, Catnip,” says Gale. My real name is Katniss, but when I first told him, I had barely whispered it. So he thought I’d said Catnip. Then when this crazy lynx started following me around the woods looking for handouts, it became his official nickname for me. I finally had to kill the lynx because he scared off game. I almost regretted it because he wasn’t bad company. But I got a decent price for his pelt.\n\n“Look what I shot,” Gale holds up a loaf of bread with an arrow stuck in it, and I laugh. It’s real bakery bread, not the flat, dense loaves we make from our grain rations. I take it in my hands, pull out the arrow, and hold the puncture in the crust to my nose, inhaling the fragrance that makes my mouth flood with saliva. Fine bread like this is for special occasions.\n\n“Mm, still warm,” I say. He must have been at the bakery at the crack of dawn to trade for it. “What did it cost you?”\n\n“Just a squirrel. Think the old man was feeling sentimental this morning,” says Gale. “Even wished me luck.”\n\n“Well, we all feel a little closer today, don’t we?” I say, not even bothering to roll my eyes. “Prim left us a cheese.” I pull it out.\n\nHis expression brightens at the treat. “Thank you, Prim. We’ll have a real feast.” Suddenly he falls into a Capitol accent as he mimics Effie Trinket, the maniacally upbeat woman who arrives once a year to read out the names at the leaping. “I almost forgot! Happy Hunger Games!” He plucks a few blackberries from the bushes around us. “And may the odds —” He tosses a berry in a high arc toward me.\n\nI catch it in my mouth and break the delicate skin with my teeth. The sweet tartness explodes across my tongue. “— be ever in your favor!” I finish with equal verve. We have to joke about it because the alternative is to be scared out of your wits. Besides, the Capitol accent is so affected, almost anything sounds funny in it.",
     "levels": {
       "B2": {
@@ -441,6 +445,174 @@
         ],
         "answer": 2,
         "explanation": "“Affected” means artificial, unnatural, or overly theatrical."
+      }
+    ]
+  },
+    "hunger_games_01_scene01_part5": {
+      "title": "The Hunger Games — Chapter 1 • Page 5",
+      "level": "B2/C1/C2",
+      "text": "I watch as Gale pulls out his knife and slices the bread. He could be my brother. Straight black hair, olive skin, we even have the same gray eyes. But we’re not related, at least not closely. Most of the families who work the mines resemble one another this way. That’s why my mother and Prim, with their light hair and blue eyes, always look out of place. They are. My mother’s parents were part of the small merchant class that caters to officials, Peacekeepers, and the occasional Seam customer. They ran an apothecary shop in the nicer part of District 12. Since almost no one can afford doctors, apothecaries are our healers. My father got to know my mother because on his hunts he would sometimes collect medicinal herbs and sell them to her shop to be brewed into remedies. She must have really loved him to leave her home for the Seam. I try to remember that when all I can see is the woman who sat by, blank and unreachable, while her children turned to skin and bones. I try to forgive her for my father’s sake. But to be honest, I’m not the forgiving type.\n\nGale spreads the bread slices with the soft goat cheese, carefully placing a basil leaf on each while I strip the bushes of their berries. We settle back in a nook in the rocks. From this place, we are invisible but have a clear view of the valley, which is teeming with summer life, greens to gather, roots to dig, fish iridescent in the sunlight. The day is glorious, with a blue sky and soft breeze. The food’s wonderful, with the cheese seeping into the warm bread and the berries bursting in our mouths. Everything would be perfect if this really was a holiday, if all the day off meant was roaming the mountains with Gale, hunting for tonight’s supper. But instead we have to be standing in the square at two o’clock waiting for the names to be called out.\n\n“We could do it, you know,” Gale says quietly.\n\n“What?” I ask.\n\n“Leave the district. Run off. Live in the woods. You and I, we could make it,” says Gale.\n\nI don’t know how to respond. The idea is so preposterous.\n\n“If we didn’t have so many kids,” he adds quickly.\n\nThey’re not our kids, of course. But they might as well be. Gale’s two little brothers and a sister. Prim. And you may as well throw in our mothers, too, because how would they live without us? Who would fill those mouths that are always asking for more? With both of us hunting daily, there are still nights when game has to be swapped for lard or shoelaces or wool, still nights when we go to bed with our stomachs growling.",
+
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["pull out", "доставать", "pulls out his knife"],
+            ["look out of place", "выглядеть неуместно", "look out of place"],
+            ["turn to skin and bones", "исхудать до костей", "turned to skin and bones"],
+            ["settle back", "устраиваться поудобнее", "settle back in a nook"],
+            ["run off", "сбежать", "Run off"],
+            ["throw in", "добавить / включить", "throw in our mothers"],
+            ["swap something for something", "обменивать что-то на что-то", "swapped for lard"],
+            ["go to bed", "идти спать", "go to bed"],
+            ["growl", "урчать", "stomachs growling"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["small merchant class", "небольшой торговый класс", "small merchant class"],
+            ["collect medicinal herbs", "собирать лечебные травы", "collect medicinal herbs"],
+            ["brewed into remedies", "превращённые в лекарства", "brewed into remedies"],
+            ["blank and unreachable", "отрешённая и недосягаемая", "blank and unreachable"],
+            ["not the forgiving type", "не из тех, кто легко прощает", "not the forgiving type"],
+            ["teeming with summer life", "кишащий летней жизнью", "teeming with summer life"],
+            ["fish iridescent in the sunlight", "рыба, переливающаяся на солнце", "fish iridescent in the sunlight"],
+            ["the idea is so preposterous", "идея настолько нелепа", "idea is so preposterous"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["he could be my brother", "он мог бы быть моим братом", "He could be my brother"],
+            ["all I can see is the woman who sat by", "всё, что я вижу — женщину, которая бездействовала", "all I can see is the woman who sat by"],
+            ["for my father’s sake", "ради памяти отца", "for my father’s sake"],
+            ["the cheese seeping into the warm bread", "сыр, пропитывающий тёплый хлеб", "cheese seeping into the warm bread"],
+            ["berries bursting in our mouths", "ягоды лопаются во рту", "berries bursting in our mouths"],
+            ["they might as well be", "они практически и есть", "might as well be"],
+            ["mouths that are always asking for more", "рты, которые всегда просят ещё", "mouths that are always asking for more"]
+          ]
+        }
+      },
+
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why do Katniss’s mother and Prim look different from most Seam families?",
+          "options": [
+            "they belong to the merchant class",
+            "they recently arrived from the Capitol",
+            "they are related to Peacekeepers",
+            "they work outside District 12"
+          ],
+          "answer": 0,
+          "explanation": "Katniss explains that her mother came from the merchant class rather than the Seam."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “turned to skin and bones” suggest?",
+          "options": [
+            "becoming physically stronger",
+            "recovering from illness",
+            "working in the mines",
+            "severe starvation and weakness"
+          ],
+          "answer": 3,
+          "explanation": "The phrase describes extreme hunger and physical deterioration."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does Katniss struggle to forgive her mother for?",
+          "options": [
+            "leaving the Seam",
+            "refusing to help Gale",
+            "emotionally shutting down after her father died",
+            "selling medicinal herbs"
+          ],
+          "answer": 2,
+          "explanation": "Katniss remembers her mother becoming emotionally absent after her father's death."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “teeming with summer life” emphasize?",
+          "options": [
+            "the valley is dangerous",
+            "the woods are full of life and food",
+            "the Capitol controls nature",
+            "the area is overcrowded"
+          ],
+          "answer": 1,
+          "explanation": "The phrase highlights abundance, beauty, and survival resources."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Gale suggest running away?",
+          "options": [
+            "he believes they could survive in the woods",
+            "he wants to join another district",
+            "he wants to escape the reaping immediately",
+            "he hates hunting"
+          ],
+          "answer": 0,
+          "explanation": "Gale believes he and Katniss are skilled enough to survive outside District 12."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why can’t Katniss seriously consider leaving?",
+          "options": [
+            "she is afraid of the woods",
+            "she wants to become rich",
+            "she feels responsible for her family",
+            "she does not trust Gale"
+          ],
+          "answer": 2,
+          "explanation": "Katniss feels deeply responsible for Prim, her mother, and their survival."
+        }
+      ]
+    },
+    "hunger_games_01_scene01_part6": {
+    "title": "The Hunger Games — Chapter 1 • Page 6",
+    "level": "B2/C1/C2",
+    "text": "",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["", "", ""],
+          ["", "", ""]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["", "", ""],
+          ["", "", ""]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["", "", ""],
+          ["", "", ""]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
       }
     ]
   }
