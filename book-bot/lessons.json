@@ -470,7 +470,6 @@
             ["growl", "урчать", "stomachs growling"]
           ]
         },
-
         "C1": {
           "quizlet": [
             ["small merchant class", "небольшой торговый класс", "small merchant class"],
@@ -483,7 +482,6 @@
             ["the idea is so preposterous", "идея настолько нелепа", "idea is so preposterous"]
           ]
         },
-
         "C2": {
           "quizlet": [
             ["he could be my brother", "он мог бы быть моим братом", "He could be my brother"],
@@ -701,8 +699,8 @@
               "explanation": "The peaceful day in nature contrasts with the looming horror of the reaping."
             }
           ]
-        },
-        "hunger_games_01_scene01_part7": {
+      },
+    "hunger_games_01_scene01_part7": {
         "title": "The Hunger Games — Chapter 1 • Page 7",
         "level": "B2/C1/C2",
         "text": "On the way home, we swing by the Hob, the black market that operates in an abandoned warehouse that once held coal. When they came up with a more efficient system that transported the coal directly from the mines to the trains, the Hob gradually took over the space. Most businesses are closed by this time on reaping day, but the black market’s still fairly busy. We easily trade six of the fish for good bread, the other two for salt. Greasy Sae, the bony old woman who sells bowls of hot soup from a large kettle, takes half the greens off our hands in exchange for a couple of chunks of paraffin. We might do a tad better elsewhere, but we make an effort to keep on good terms with Greasy Sae. She’s the only one who can consistently be counted on to buy wild dog. We don’t hunt them on purpose, but if you’re attacked and you take out a dog or two, well, meat is meat. “Once it’s in the soup, I’ll call it beef,” Greasy Sae says with a wink. No one in the Seam would turn up their nose at a good leg of wild dog, but the Peacekeepers who come to the Hob can afford to be a little choosier.\n\nWhen we finish our business at the market, we go to the back door of the mayor’s house to sell half the strawberries, knowing he has a particular fondness for them and can afford our price. The mayor’s daughter, Madge, opens the door. She’s in my year at school. Being the mayor’s daughter, you’d expect her to be a snob, but she’s all right. She just keeps to herself. Like me. Since neither of us really has a group of friends, we seem to end up together a lot at school. Eating lunch, sitting next to each other at assemblies, partnering for sports activities. We rarely talk, which suits us both just fine.\n\nToday her drab school outfit has been replaced by an expensive white dress, and her blonde hair is done up with a pink ribbon. Reaping clothes.\n\n“Pretty dress,” says Gale.\n\nMadge shoots him a look, trying to see if it’s a genuine compliment or if he’s just being ironic. It is a pretty dress, but she would never be wearing it ordinarily. She presses her lips together and then smiles. “Well, if I end up going to the Capitol, I want to look nice, don’t I?”\n\nNow it’s Gale’s turn to be confused. Does she mean it? Or is she messing with him? I’m guessing the second.\n\n“You won’t be going to the Capitol,” says Gale coolly. His eyes land on a small, circular pin that adorns her dress. Real gold. Beautifully crafted. It could keep a family in bread for months. “What can you have? Five entries? I had six when I was just twelve years old.”\n\n“That’s not her fault,” I say.\n\n“No, it’s no one’s fault. Just the way it is,” says Gale. Madge’s face has become closed off. She puts the money for the berries in my hand. “Good luck, Katniss.”\n\n“You, too,” I say, and the door closes.",
@@ -711,48 +709,48 @@
           "title": "🎧 Listen to audio"
         },
         "levels": {
-        "B2": {
-          "quizlet": [
-            ["swing by a place", "заскочить куда-то по пути", "swing by the Hob"],
-            ["take over a space", "занять / захватить пространство", "the Hob gradually took over the space"],
-            ["take something off someone's hands", "избавить кого-то от чего-то / забрать", "takes half the greens off our hands"],
-            ["keep on good terms with someone", "поддерживать хорошие отношения", "keep on good terms with Greasy Sae"],
-            ["be counted on", "на кого-то можно рассчитывать", "can consistently be counted on"],
-            ["take out something", "прикончить / убрать", "you take out a dog or two"],
-            ["turn up one's nose at something", "воротить нос от чего-то", "turn up their nose at wild dog"],
-            ["keep to oneself", "держаться особняком", "she just keeps to herself"],
-            ["end up together", "в итоге оказываться вместе", "we seem to end up together"],
-            ["be done up", "быть уложенным / оформленным", "her blonde hair is done up"]
-          ]
-        },
-        "C1": {
-          "quizlet": [
-            ["abandoned warehouse", "заброшенный склад", "an abandoned warehouse"],
-            ["a tad better", "немного лучше", "do a tad better elsewhere"],
-            ["a particular fondness for something", "особая любовь к чему-то", "a particular fondness for strawberries"],
-            ["a genuine compliment", "искренний комплимент", "a genuine compliment"],
-            ["mess with someone", "подшучивать / играть с кем-то", "is she messing with him"],
-            ["beautifully crafted", "искусно сделанный", "beautifully crafted"],
-            ["closed off expression", "закрытое выражение лица", "Madge’s face has become closed off"],
-            ["drab school outfit", "скучная / тусклая школьная одежда", "her drab school outfit"],
-            ["reaping clothes", "одежда для жатвы", "Reaping clothes"],
-            ["fairly busy", "довольно оживлённый", "the black market’s still fairly busy"]
-          ]
-        },
-        "C2": {
-          "quizlet": [
-              ["once held coal", "когда-то хранил уголь", "once held coal"],
-              ["meat is meat", "мясо есть мясо", "meat is meat"],
-              ["a little choosier", "чуть более привередливые", "a little choosier"],
-              ["which suits us both just fine", "что нас обоих вполне устраивает", "which suits us both just fine"],
-              ["shoot someone a look", "бросить взгляд", "Madge shoots him a look"],
-              ["press one's lips together", "поджать губы", "She presses her lips together"],
-              ["his eyes land on something", "его взгляд останавливается на", "His eyes land on a pin"],
-              ["keep a family in bread", "обеспечивать семью хлебом", "keep a family in bread for months"],
-              ["it's no one's fault", "это ничья вина", "it’s no one’s fault"],
-              ["just the way it is", "так уж устроено", "Just the way it is"]
+          "B2": {
+            "quizlet": [
+              ["swing by a place", "заскочить куда-то по пути", "swing by the Hob"],
+              ["take over a space", "занять / захватить пространство", "the Hob gradually took over the space"],
+              ["take something off someone's hands", "избавить кого-то от чего-то / забрать", "takes half the greens off our hands"],
+              ["keep on good terms with someone", "поддерживать хорошие отношения", "keep on good terms with Greasy Sae"],
+              ["be counted on", "на кого-то можно рассчитывать", "can consistently be counted on"],
+              ["take out something", "прикончить / убрать", "you take out a dog or two"],
+              ["turn up one's nose at something", "воротить нос от чего-то", "turn up their nose at wild dog"],
+              ["keep to oneself", "держаться особняком", "she just keeps to herself"],
+              ["end up together", "в итоге оказываться вместе", "we seem to end up together"],
+              ["be done up", "быть уложенным / оформленным", "her blonde hair is done up"]
             ]
-          }
+          },
+          "C1": {
+            "quizlet": [
+              ["abandoned warehouse", "заброшенный склад", "an abandoned warehouse"],
+              ["a tad better", "немного лучше", "do a tad better elsewhere"],
+              ["a particular fondness for something", "особая любовь к чему-то", "a particular fondness for strawberries"],
+              ["a genuine compliment", "искренний комплимент", "a genuine compliment"],
+              ["mess with someone", "подшучивать / играть с кем-то", "is she messing with him"],
+              ["beautifully crafted", "искусно сделанный", "beautifully crafted"],
+              ["closed off expression", "закрытое выражение лица", "Madge’s face has become closed off"],
+              ["drab school outfit", "скучная / тусклая школьная одежда", "her drab school outfit"],
+              ["reaping clothes", "одежда для жатвы", "Reaping clothes"],
+              ["fairly busy", "довольно оживлённый", "the black market’s still fairly busy"]
+            ]
+          },
+          "C2": {
+            "quizlet": [
+                ["once held coal", "когда-то хранил уголь", "once held coal"],
+                ["meat is meat", "мясо есть мясо", "meat is meat"],
+                ["a little choosier", "чуть более привередливые", "a little choosier"],
+                ["which suits us both just fine", "что нас обоих вполне устраивает", "which suits us both just fine"],
+                ["shoot someone a look", "бросить взгляд", "Madge shoots him a look"],
+                ["press one's lips together", "поджать губы", "She presses her lips together"],
+                ["his eyes land on something", "его взгляд останавливается на", "His eyes land on a pin"],
+                ["keep a family in bread", "обеспечивать семью хлебом", "keep a family in bread for months"],
+                ["it's no one's fault", "это ничья вина", "it’s no one’s fault"],
+                ["just the way it is", "так уж устроено", "Just the way it is"]
+              ]
+            }
         },
         "questions": [
           {
@@ -829,133 +827,6 @@
             "explanation": "Madge is trying to determine whether Gale is being sincere or ironic."
           }
         ]
-      },
-    "hunger_games_01_scene01_part8": {
-    "title": "The Hunger Games — Chapter 1 • Page 8",
-    "level": "B2/C1/C2",
-    "text": "We walk toward the Seam in silence. I don’t like that Gale took a dig at Madge, but he’s right, of course. The reaping system is unfair, with the poor getting the worst of it. You become eligible for the reaping the day you turn twelve. That year, your name is entered once. At thirteen, twice. And so on and so on until you reach the age of eighteen, the final year of eligibility, when your name goes into the pool seven times. That’s true for every citizen in all twelve districts in the entire country of Panem.\n\nBut here’s the catch. Say you are poor and starving as we were. You can opt to add your name more times in exchange for tesserae. Each tessera is worth a meager year’s supply of grain and oil for one person. You may do this for each of your family members as well. So, at the age of twelve, I had my name entered four times. Once, because I had to, and three times for tesserae for grain and oil for myself, Prim, and my mother. In fact, every year I have needed to do this. And the entries are cumulative. So now, at the age of sixteen, my name will be in the reaping twenty times. Gale, who is eighteen and has been either helping or single-handedly feeding a family of five for seven years, will have his name in forty-two times.\n\nYou can see why someone like Madge, who has never been at risk of needing a tessera, can set him off. The chance of her name being drawn is very slim compared to those of us who live in the Seam. Not impossible, but slim. And even though the rules were set up by the Capitol, not the districts, certainly not Madge’s family, it’s hard not to resent those who don’t have to sign up for tesserae.\n\nGale knows his anger at Madge is misdirected. On other days, deep in the woods, I’ve listened to him rant about how the tesserae are just another tool to cause misery in our district. A way to plant hatred between the starving workers of the Seam and those who can generally count on supper and thereby ensure we will never trust one another. “It’s to the Capitol’s advantage to have us divided among ourselves,” he might say if there were no ears to hear but mine. If it wasn’t reaping day. If a girl with a gold pin and no tesserae had not made what I’m sure she thought was a harmless comment.\n\nAs we walk, I glance over at Gale’s face, still smoldering underneath his stony expression. His rages seem pointless to me, although I never say so. It’s not that I don’t agree with him. I do. But what good is yelling about the Capitol in the middle of the woods? It doesn’t change anything. It doesn’t make things fair. It doesn’t fill our stomachs. In fact, it scares off the nearby game. I let him yell though. Better he does it in the woods than in the district.",
-    "levels": {
-      "B2": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      },
-
-      "C1": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      },
-
-      "C2": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
+    
       }
-    },
-
-    "questions": [
-      {
-        "type": "choice",
-        "question": "",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    ]
-  },
-    "hunger_games_01_scene01_part9": {
-    "title": "The Hunger Games — Chapter 1 • Page 9",
-    "level": "B2/C1/C2",
-    "text": "",
-    "levels": {
-      "B2": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      },
-
-      "C1": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      },
-
-      "C2": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      }
-    },
-
-    "questions": [
-      {
-        "type": "choice",
-        "question": "",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    ]
-  },
-      "hunger_games_01_scene01_part10": {
-    "title": "The Hunger Games — Chapter 1 • Page 10",
-    "level": "B2/C1/C2",
-    "text": "",
-    "levels": {
-      "B2": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      },
-
-      "C1": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      },
-
-      "C2": {
-        "quizlet": [
-          ["", "", ""],
-          ["", "", ""]
-        ]
-      }
-    },
-
-    "questions": [
-      {
-        "type": "choice",
-        "question": "",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
-      }
-    ]
-  }
-
-
-}
+    }
