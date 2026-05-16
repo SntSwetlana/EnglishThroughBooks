@@ -828,5 +828,565 @@
           }
         ]
     
+      },
+      "hunger_games_01_scene01_part8": {
+      "title": "The Hunger Games — Chapter 1 • Page 8",
+      "level": "B2/C1/C2",
+      "text": "We walk toward the Seam in silence. I don’t like that Gale took a dig at Madge, but he’s right, of course. The reaping system is unfair, with the poor getting the worst of it. You become eligible for the reaping the day you turn twelve. That year, your name is entered once. At thirteen, twice. And so on and so on until you reach the age of eighteen, the final year of eligibility, when your name goes into the pool seven times. That’s true for every citizen in all twelve districts in the entire country of Panem.\n\nBut here’s the catch. Say you are poor and starving as we were. You can opt to add your name more times in exchange for tesserae. Each tessera is worth a meager year’s supply of grain and oil for one person. You may do this for each of your family members as well. So, at the age of twelve, I had my name entered four times. Once, because I had to, and three times for tesserae for grain and oil for myself, Prim, and my mother. In fact, every year I have needed to do this. And the entries are cumulative. So now, at the age of sixteen, my name will be in the reaping twenty times. Gale, who is eighteen and has been either helping or single-handedly feeding a family of five for seven years, will have his name in forty-two times.\n\nYou can see why someone like Madge, who has never been at risk of needing a tessera, can set him off. The chance of her name being drawn is very slim compared to those of us who live in the Seam. Not impossible, but slim. And even though the rules were set up by the Capitol, not the districts, certainly not Madge’s family, it’s hard not to resent those who don’t have to sign up for tesserae.\n\nGale knows his anger at Madge is misdirected. On other days, deep in the woods, I’ve listened to him rant about how the tesserae are just another tool to cause misery in our district. A way to plant hatred between the starving workers of the Seam and those who can generally count on supper and thereby ensure we will never trust one another. “It’s to the Capitol’s advantage to have us divided among ourselves,” he might say if there were no ears to hear but mine. If it wasn’t reaping day. If a girl with a gold pin and no tesserae had not made what I’m sure she thought was a harmless comment.\n\nAs we walk, I glance over at Gale’s face, still smoldering underneath his stony expression. His rages seem pointless to me, although I never say so. It’s not that I don’t agree with him. I do. But what good is yelling about the Capitol in the middle of the woods? It doesn’t change anything. It doesn’t make things fair. It doesn’t fill our stomachs. In fact, it scares off the nearby game. I let him yell though. Better he does it in the woods than in the district.",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["take a dig at someone", "съязвить / уколоть кого-то", "Gale took a dig at Madge"],
+            ["sign up for something", "записываться на что-то", "sign up for tesserae"],
+            ["set someone off", "вывести кого-то из себя", "can set him off"],
+            ["count on something", "рассчитывать на что-то", "count on supper"],
+            ["fill our stomachs", "наполнять желудки / кормить", "It doesn’t fill our stomachs"],
+            ["scare off game", "спугнуть добычу", "it scares off the nearby game"],
+            ["agree with someone", "соглашаться с кем-то", "I don’t agree with him"],
+            ["be at risk of something", "подвергаться риску", "at risk of needing a tessera"],
+            ["add your name", "добавлять своё имя", "add your name more times"],
+            ["yell about something", "кричать о чём-то", "yelling about the Capitol"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["the reaping system is unfair", "система жатвы несправедлива", "the reaping system is unfair"],
+            ["the poor getting the worst of it", "бедным достаётся хуже всего", "the poor getting the worst of it"],
+            ["a meager year’s supply", "скудный годовой запас", "a meager year’s supply of grain and oil"],
+            ["entries are cumulative", "записи накапливаются", "the entries are cumulative"],
+            ["single-handedly feeding a family", "в одиночку кормить семью", "single-handedly feeding a family of five"],
+            ["misdirected anger", "неправильно направленный гнев", "his anger at Madge is misdirected"],
+            ["cause misery", "причинять страдания", "cause misery in our district"],
+            ["plant hatred", "сеять ненависть", "plant hatred between workers"],
+            ["to someone’s advantage", "кому-то выгодно", "to the Capitol’s advantage"],
+            ["harmless comment", "безобидный комментарий", "a harmless comment"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["here’s the catch", "вот в чём подвох", "here’s the catch"],
+            ["the chance of her name being drawn", "шанс, что вытянут её имя", "the chance of her name being drawn"],
+            ["hard not to resent", "трудно не resent / не испытывать горечь", "hard not to resent those people"],
+            ["if there were no ears to hear but mine", "если бы никто, кроме меня, не слышал", "if there were no ears to hear but mine"],
+            ["still smoldering underneath", "всё ещё тлеющий внутри", "still smoldering underneath his expression"],
+            ["stony expression", "каменное выражение лица", "his stony expression"],
+            ["his rages seem pointless", "его вспышки гнева кажутся бессмысленными", "his rages seem pointless"],
+            ["what good is yelling", "какой смысл кричать", "what good is yelling about the Capitol"],
+            ["those of us who live in the Seam", "те из нас, кто живёт в Seam", "those of us who live in the Seam"],
+            ["divided among ourselves", "разделённые между собой", "have us divided among ourselves"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Katniss consider the reaping system unfair?",
+          "options": [
+              "wealthier people can avoid tesserae and have fewer entries",
+              "only boys are chosen",
+              "people from the Capitol participate too",
+              "the mayor controls the drawing"
+            ],
+          "answer": 0,
+          "explanation": "Poor families must take tesserae, which increases the number of times their names enter the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What are tesserae?",
+          "options": [
+              "special Capitol coins",
+              "extra food received in exchange for additional reaping entries",
+              "punishments for illegal hunting",
+              "tickets to the Hunger Games"
+            ],
+          "answer": 1,
+          "explanation": "Tesserae provide grain and oil, but increase the risk of being chosen."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “entries are cumulative” mean?",
+          "options": [
+              "entries disappear every year",
+              "entries only count once",
+              "entries continue adding up over time",
+              "siblings share the same entries"
+            ],
+          "answer": 2,
+          "explanation": "Every additional entry remains in future years, increasing the overall risk."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Madge unintentionally upset Gale?",
+          "options": [
+              "she insults Katniss",
+              "she represents a safer, wealthier class",
+              "she reports hunters to the Capitol",
+              "she refuses tesserae"
+            ],
+          "answer": 1,
+          "explanation": "Madge never needed tesserae, so her chances in the reaping are much lower."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does Gale believe the tesserae system is designed to do?",
+          "options": [
+              "help poor families survive equally",
+              "encourage friendship between districts",
+              "divide poor people and create resentment",
+              "reward skilled hunters"
+            ],
+          "answer": 2,
+          "explanation": "Gale believes the Capitol uses tesserae to keep people divided and distrustful."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Katniss let Gale express his anger in the woods?",
+          "options": [
+              "she agrees with everything he says",
+              "she enjoys listening to arguments",
+              "she wants him to rebel publicly",
+              "it is safer than speaking openly in the district"
+            ],
+          "answer": 3,
+          "explanation": "Katniss knows speaking openly against the Capitol inside the district is dangerous."
+        }
+      ]
+    },
+    "hunger_games_01_scene01_part9": {
+      "title": "The Hunger Games — Chapter 1 • Page 9",
+      "level": "B2/C1/C2",
+      "text": "Gale and I divide our spoils, leaving two fish, a couple of loaves of good bread, greens, a quart of strawberries, salt, paraffin, and a bit of money for each.\n\n“See you in the square,” I say.\n\n“Wear something pretty,” he says flatly.\n\nAt home, I find my mother and sister are ready to go. My mother wears a fine dress from her apothecary days. Prim is in my first reaping outfit, a skirt and ruffled blouse. It’s a bit big on her, but my mother has made it stay with pins. Even so, she’s having trouble keeping the blouse tucked in at the back.\n\nA tub of warm water waits for me. I scrub off the dirt and sweat from the woods and even wash my hair. To my surprise, my mother has laid out one of her own lovely dresses for me. A soft blue thing with matching shoes.\n\n“Are you sure?” I ask. I’m trying to get past rejecting offers of help from her. For a while, I was so angry, I wouldn’t allow her to do anything for me. And this is something special. Her clothes from her past are very precious to her.\n\n“Of course. Let’s put your hair up, too,” she says. I let her towel-dry it and braid it up on my head. I can hardly recognize myself in the cracked mirror that leans against the wall.\n\n“You look beautiful,” says Prim in a hushed voice.\n\n“And nothing like myself,” I say. I hug her, because I know these next few hours will be terrible for her. Her first reaping. She’s about as safe as you can get, since she’s only entered once. I wouldn’t let her take out any tesserae. But she’s worried about me. That the unthinkable might happen.\n\nI protect Prim in every way I can, but I’m powerless against the reaping. The anguish I always feel when she’s in pain wells up in my chest and threatens to register on my face. I notice her blouse has pulled out of her skirt in the back again and force myself to stay calm. “Tuck your tail in, little duck,” I say, smoothing the blouse back in place.\n\nPrim giggles and gives me a small “Quack.”\n\n“Quack yourself,” I say with a light laugh. The kind only Prim can draw out of me. “Come on, let’s eat,” I say and plant a quick kiss on the top of her head.\n\nThe fish and greens are already cooking in a stew, but that will be for supper. We decide to save the strawberries and bakery bread for this evening’s meal, to make it special we say. Instead we drink milk from Prim’s goat, Lady, and eat the rough bread made from the tessera grain, although no one has much appetite anyway.\n\nAt one o’clock, we head for the square. Attendance is mandatory unless you are on death’s door. This evening, officials will come around and check to see if this is the case. If not, you’ll be imprisoned.",
+      "levels": {
+        "B2": {
+        "quizlet": [
+            ["lay out clothes", "разложить одежду", "my mother has laid out one of her dresses"],
+            ["put one's hair up", "собрать волосы наверх", "Let’s put your hair up"],
+            ["get past something", "преодолеть что-то", "I’m trying to get past rejecting offers"],
+            ["wash off something", "смывать что-то", "I scrub off the dirt and sweat"],
+            ["tuck something in", "заправлять одежду", "keeping the blouse tucked in"],
+            ["pull out of something", "вылезать / выбиваться", "her blouse has pulled out"],
+            ["head for somewhere", "направляться куда-то", "we head for the square"],
+            ["come around", "приходить / обходить", "officials will come around"],
+            ["save something for later", "оставлять что-то на потом", "save the strawberries for evening"],
+            ["be worried about someone", "переживать за кого-то", "she’s worried about me"]
+          ]
+        },
+
+        "C1": {
+        "quizlet": [
+            ["ruffled blouse", "блузка с оборками", "a ruffled blouse"],
+            ["a cracked mirror", "треснувшее зеркало", "the cracked mirror"],
+            ["in a hushed voice", "тихим голосом", "says Prim in a hushed voice"],
+            ["the unthinkable might happen", "может случиться немыслимое", "the unthinkable might happen"],
+            ["powerless against something", "бессильный перед чем-то", "I’m powerless against the reaping"],
+            ["anguish wells up", "мучительная боль подступает", "anguish wells up in my chest"],
+            ["register on one’s face", "отразиться на лице", "register on my face"],
+            ["rough bread made from tessera grain", "грубый хлеб из tessera grain", "rough bread made from tessera grain"],
+            ["attendance is mandatory", "явка обязательна", "Attendance is mandatory"],
+            ["on death’s door", "при смерти", "unless you are on death’s door"]
+          ]
+        },
+
+        "C2": {
+        "quizlet": [
+            ["wear something pretty", "надень что-нибудь красивое", "Wear something pretty"],
+            ["nothing like myself", "совсем не похожая на себя", "nothing like myself"],
+            ["draw a laugh out of someone", "вызвать у кого-то смех", "only Prim can draw out of me"],
+            ["plant a quick kiss", "быстро поцеловать", "plant a quick kiss on her head"],
+            ["make it special", "сделать это особенным", "to make it special"],
+            ["have much appetite", "иметь аппетит", "no one has much appetite"],
+            ["force oneself to stay calm", "заставлять себя сохранять спокойствие", "force myself to stay calm"],
+            ["smooth something back in place", "поправить что-то обратно", "smoothing the blouse back in place"],
+            ["the next few hours will be terrible", "следующие несколько часов будут ужасными", "the next few hours will be terrible"],
+            ["protect someone in every way possible", "защищать всеми возможными способами", "I protect Prim in every way I can"]
+          ]
+        }
+      },
+
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why is Katniss surprised by the dress her mother prepared for her?",
+          "options": [
+            "it came from the Capitol",
+            "it was bought especially for the reaping",
+            "it belonged to her mother’s past and is very precious",
+            "it belonged to Prim"
+          ],
+          "answer": 2,
+          "explanation": "Katniss knows her mother values those clothes deeply because they come from her earlier life."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Katniss say she looks “nothing like myself”?",
+          "options": [
+            "the elegant appearance feels unfamiliar to her",
+            "she dislikes the dress",
+            "she is physically ill",
+            "the mirror is broken"
+          ],
+          "answer": 0,
+          "explanation": "Katniss is unaccustomed to looking polished and elegant."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why is Prim worried during the reaping?",
+          "options": [
+              "she worries something terrible may happen to Katniss",
+              "she thinks she will definitely be chosen",
+              "she dislikes crowds",
+              "she lost her tesserae"
+            ],
+          "answer": 0,
+          "explanation": "Katniss explains that Prim fears “the unthinkable” might happen."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “powerless against the reaping” suggest?",
+          "options": [
+              "Katniss supports the Capitol",
+              "Katniss cannot protect Prim from the system",
+              "Katniss wants to leave District 12",
+              "Katniss does not understand the rules"
+            ],
+          "answer": 1,
+          "explanation": "No matter how protective Katniss is, she cannot control the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “anguish wells up in my chest” describe?",
+          "options": [
+              "physical illness",
+              "anger toward Gale",
+              "fear of the woods",
+              "deep emotional pain rising inside her"
+            ],
+          "answer": 3,
+          "explanation": "The phrase describes strong emotional suffering and anxiety."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why do the family save the strawberries and bakery bread for later?",
+          "options": [
+              "they are planning to sell them",
+              "they want to make the evening feel special",
+              "Prim dislikes strawberries",
+              "they already ate too much"
+            ],
+          "answer": 1,
+          "explanation": "They want to create at least a small sense of celebration despite the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What happens if someone skips the reaping without a serious reason?",
+          "options": [
+              "they are imprisoned",
+              "they lose tesserae",
+              "they are fined",
+              "they are banned from the market"
+            ],
+          "answer": 0,
+          "explanation": "Attendance is mandatory unless someone is extremely ill."
+        }
+      ]
+    },
+    "hunger_games_01_scene01_part10": {
+      "title": "The Hunger Games — Chapter 1 • Page 10",
+      "level": "B2/C1/C2",
+      "text": "It’s too bad, really, that they hold the reaping in the square — one of the few places in District 12 that can be pleasant. The square’s surrounded by shops, and on public market days, especially if there’s good weather, it has a holiday feel to it. But today, despite the bright banners hanging on the buildings, there’s an air of grimness. The camera crews, perched like buzzards on rooftops, only add to the effect.\n\nPeople file in silently and sign in. The reaping is a good opportunity for the Capitol to keep tabs on the population as well. Twelve- through eighteen-year-olds are herded into roped areas marked off by ages, the oldest in the front, the young ones, like Prim, toward the back. Family members line up around the perimeter, holding tightly to one another’s hands. But there are others, too, who have no one they love at stake, or who no longer care, who slip among the crowd, taking bets on the two kids whose names will be drawn. Odds are given on their ages, whether they’re Seam or merchant, if they will break down and weep. Most refuse dealing with the racketeers but carefully, carefully. These same people tend to be informers, and who hasn’t broken the law? I could be shot on a daily basis for hunting, but the appetites of those in charge protect me. Not everyone can claim the same.\n\nAnyway, Gale and I agree that if we have to choose between dying of hunger and a bullet in the head, the bullet would be much quicker.\n\nThe space gets tighter, more claustrophobic as people arrive. The square’s quite large, but not enough to hold District 12’s population of about eight thousand. Latecomers are directed to the adjacent streets, where they can watch the event on screens as it’s televised live by the state.\n\nI find myself standing in a clump of sixteens from the Seam. We all exchange terse nods then focus our attention on the temporary stage that is set up before the Justice Building. It holds three chairs, a podium, and two large glass balls, one for the boys and one for the girls. I stare at the paper slips in the girls’ ball. Twenty of them have Katniss Everdeen written on them in careful handwriting.\n\nTwo of the three chairs fill with Madge’s father, Mayor Undersee, who’s a tall, balding man, and Effie Trinket, District 12’s escort, fresh from the Capitol with her scary white grin, pinkish hair, and spring green suit. They murmur to each other and then look with concern at the empty seat.\n\nJust as the town clock strikes two, the mayor steps up to the podium and begins to read. It’s the same story every year. He tells of the history of Panem, the country that rose up out of the ashes of a place that was once called North America. He lists the disasters, the droughts, the storms, the fires, the encroaching seas that swallowed up so much of the land, the brutal war for what little sustenance remained. The result was Panem, a shining Capitol ringed by thirteen districts, which brought peace and prosperity to its citizens. Then came the Dark Days, the uprising of the districts against the Capitol. Twelve were defeated, the thirteenth obliterated. The Treaty of Treason gave us the new laws to guarantee peace and, as our yearly reminder that the Dark Days must never be repeated, it gave us the Hunger Games.",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["keep tabs on someone", "следить за кем-то", "keep tabs on the population"],
+            ["line up", "выстраиваться в линию", "Family members line up around the perimeter"],
+            ["break down and weep", "разрыдаться", "break down and weep"],
+            ["deal with someone", "иметь дело с кем-то", "refuse dealing with the racketeers"],
+            ["agree on something", "соглашаться насчёт чего-то", "Gale and I agree"],
+            ["focus on something", "сосредоточиться на чём-то", "focus our attention on the stage"],
+            ["step up to something", "подходить к чему-то", "the mayor steps up to the podium"],
+            ["rise up", "восставать", "the country that rose up"],
+            ["swallow up", "поглощать", "seas that swallowed up the land"],
+            ["hold something in", "удерживать внутри", "holding tightly to one another’s hands"]
+          ]
+        },
+        "C1": {
+          "quizlet": [
+            ["an air of grimness", "атмосфера мрачности", "there’s an air of grimness"],
+            ["perched like buzzards", "сидящие как стервятники", "camera crews perched like buzzards"],
+            ["herded into roped areas", "согнанные в ограждённые зоны", "herded into roped areas"],
+            ["at stake", "под угрозой / на кону", "no one they love at stake"],
+            ["the bullet would be much quicker", "пуля была бы гораздо быстрее", "the bullet would be much quicker"],
+            ["exchange terse nods", "обменяться сдержанными кивками", "exchange terse nods"],
+            ["fresh from the Capitol", "только что из Капитолия", "fresh from the Capitol"],
+            ["encroaching seas", "наступающие моря", "the encroaching seas"],
+            ["brutal war for sustenance", "жестокая война за пропитание", "brutal war for what little sustenance remained"],
+            ["the uprising of the districts", "восстание дистриктов", "the uprising of the districts"]
+          ]
+        },
+        "C2": {
+          "quizlet": [
+            ["holiday feel to it", "ощущение праздника", "it has a holiday feel to it"],
+            ["slip among the crowd", "проскальзывать среди толпы", "slip among the crowd"],
+            ["Odds are given on", "ставки делаются на", "Odds are given on their ages"],
+            ["these same people tend to be informers", "эти люди обычно оказываются доносчиками", "these same people tend to be informers"],
+            ["not everyone can claim the same", "не каждый может сказать то же самое", "Not everyone can claim the same"],
+            ["the space gets tighter", "пространство становится теснее", "The space gets tighter"],
+            ["televised live by the state", "транслируется государством в прямом эфире", "televised live by the state"],
+            ["written on them in careful handwriting", "написанные аккуратным почерком", "written on them in careful handwriting"],
+            ["ringed by thirteen districts", "окружённый тринадцатью дистриктами", "ringed by thirteen districts"],
+            ["the Treaty of Treason", "Договор о предательстве", "The Treaty of Treason"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does the square feel disturbing despite the decorations?",
+          "options": [
+            "people are celebrating loudly",
+            "the camera crews and the reaping create a grim atmosphere",
+            "there is bad weather",
+            "the Capitol soldiers attack the crowd"
+          ],
+          "answer": 1,
+          "explanation": "The bright banners contrast with the fear and tension surrounding the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does the Capitol use the reaping for besides choosing tributes?",
+          "options": [
+            "selling food",
+            "rewarding hunters",
+            "keeping track of the population",
+            "training Peacekeepers"
+          ],
+          "answer": 2,
+          "explanation": "Katniss explains that the reaping helps the Capitol monitor people."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why are some people taking bets during the reaping?",
+          "options": [
+            "they no longer care or have no loved ones at risk",
+            "they work for the mayor",
+            "they are Capitol citizens",
+            "they want to help the tributes"
+          ],
+          "answer": 0,
+          "explanation": "The text describes people who gamble on the tributes because they feel detached."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does Katniss mean when she says the bullet would be quicker?",
+          "options": [
+            "she prefers fighting",
+            "she believes starvation is slower and more painful",
+            "she wants to become a Peacekeeper",
+            "she is joking with Gale"
+          ],
+          "answer": 1,
+          "explanation": "Katniss compares death from hunger to a faster death by execution."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Katniss focus on the girls’ glass ball?",
+          "options": [
+            "she hopes Prim’s name is inside",
+            "she notices her own name appears many times",
+            "she wants to impress Effie Trinket",
+            "she enjoys the ceremony"
+          ],
+          "answer": 1,
+          "explanation": "Katniss realizes there are twenty slips with her name on them."
+        },
+
+        {
+          "type": "choice",
+          "question": "What is the purpose of the mayor’s speech?",
+          "options": [
+            "to entertain the audience",
+            "to remind people why the Hunger Games exist",
+            "to introduce Effie Trinket",
+            "to explain hunting laws"
+          ],
+          "answer": 1,
+          "explanation": "The speech retells Panem’s history and justifies the Hunger Games as punishment after the rebellion."
+        }    
+      ]
+    },
+    "hunger_games_01_scene01_part11": {
+    "title": "The Hunger Games — Chapter 1 • Page 11",
+    "level": "B2/C1/C2",
+    "text": "The rules of the Hunger Games are simple. In punishment for the uprising, each of the twelve districts must provide one girl and one boy, called tributes, to participate. The twenty-four tributes will be imprisoned in a vast outdoor arena that could hold anything from a burning desert to a frozen wasteland. Over a period of several weeks, the competitors must fight to the death. The last tribute standing wins.\n\nTaking the kids from our districts, forcing them to kill one another while we watch — this is the Capitol’s way of reminding us how totally we are at their mercy. How little chance we would stand of surviving another rebellion.\n\nWhatever words they use, the real message is clear. “Look how we take your children and sacrifice them and there’s nothing you can do. If you lift a finger, we will destroy every last one of you. Just as we did in District Thirteen.”\n\nTo make it humiliating as well as torturous, the Capitol requires us to treat the Hunger Games as a festivity, a sporting event pitting every district against the others. The last tribute alive receives a life of ease back home, and their district will be showered with prizes, largely consisting of food. All year, the Capitol will show the winning district gifts of grain and oil and even delicacies like sugar while the rest of us battle starvation.\n\n“It is both a time for repentance and a time for thanks,” intones the mayor.\n\nThen he reads the list of past District 12 victors. In seventy-four years, we have had exactly two. Only one is still alive. Haymitch Abernathy, a paunchy, middle-aged man, who at this moment appears hollering something unintelligible, staggers onto the stage, and falls into the third chair. He’s drunk. Very. The crowd responds with its token applause, but he’s confused and tries to give Effie Trinket a big hug, which she barely manages to fend off.\n\nThe mayor looks distressed. Since all of this is being televised, right now District 12 is the laughingstock of Panem, and he knows it. He quickly tries to pull the attention back to the reaping by introducing Effie Trinket.\n\nBright and bubbly as ever, Effie Trinket trots to the podium and gives her signature, “Happy Hunger Games! And may the odds be ever in your favor!” Her pink hair must be a wig because her curls have shifted slightly off-center since her encounter with Haymitch. She goes on a bit about what an honor it is to be here, although everyone knows she’s just aching to get bumped up to a better district where they have proper victors, not drunks who molest you in front of the entire nation.\n\nThrough the crowd, I spot Gale looking back at me with a ghost of a smile. As reapings go, this one at least has a slight entertainment factor. But suddenly I am thinking of Gale and his forty-two names in that big glass ball and how the odds are not in his favor. Not compared to a lot of the boys. And maybe he’s thinking the same thing about me because his face darkens and he turns away. “But there are still thousands of slips,” I wish I could whisper to him.\n\nIt’s time for the drawing. Effie Trinket says as she always does, “Ladies first!” and crosses to the glass ball with the girls’ names. She reaches in, digs her hand deep into the ball, and pulls out a slip of paper. The crowd draws in a collective breath and then you can hear a pin drop, and I’m feeling nauseous and so desperately hoping that it’s not me, that it’s not me, that it’s not me.\n\nEffie Trinket crosses back to the podium, smoothes the slip of paper, and reads out the name in a clear voice. And it’s not me.\n\nIt’s Primrose Everdeen.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["fight to the death", "сражаться насмерть", "fight to the death"],
+          ["stand a chance", "иметь шанс", "stand of surviving another rebellion"],
+          ["lift a finger", "пальцем пошевелить", "If you lift a finger"],
+          ["shower someone with something", "осыпать кого-то чем-то", "will be showered with prizes"],
+          ["fend someone off", "отбиваться от кого-то", "barely manages to fend off"],
+          ["pull attention back to something", "вернуть внимание к чему-то", "pull the attention back to the reaping"],
+          ["bump someone up", "повысить / перевести выше", "get bumped up to a better district"],
+          ["look back at someone", "оглядываться на кого-то", "Gale looking back at me"],
+          ["turn away", "отвернуться", "he turns away"],
+          ["draw in a breath", "резко вдохнуть", "The crowd draws in a collective breath"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["at their mercy", "в их власти / на их милости", "totally we are at their mercy"],
+          ["the real message is clear", "истинный смысл очевиден", "the real message is clear"],
+          ["a sporting event pitting districts against one another", "спортивное событие, сталкивающее дистрикты друг с другом", "a sporting event pitting every district against the others"],
+          ["a life of ease", "беззаботная жизнь", "receives a life of ease"],
+          ["battle starvation", "бороться с голодом", "while the rest of us battle starvation"],
+          ["the laughingstock of Panem", "посмешище Панема", "the laughingstock of Panem"],
+          ["bright and bubbly as ever", "яркая и жизнерадостная как всегда", "Bright and bubbly as ever"],
+          ["a ghost of a smile", "тень улыбки", "with a ghost of a smile"],
+          ["the odds are not in his favor", "шансы не в его пользу", "the odds are not in his favor"],
+          ["you could hear a pin drop", "стояла абсолютная тишина", "you can hear a pin drop"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["a burning desert or a frozen wasteland", "пылающая пустыня или ледяная пустошь", "a burning desert to a frozen wasteland"],
+          ["humiliating as well as torturous", "унизительное и мучительное одновременно", "humiliating as well as torturous"],
+          ["intones the mayor", "монотонно произносит мэр", "intones the mayor"],
+          ["hollering something unintelligible", "выкрикивая что-то невнятное", "hollering something unintelligible"],
+          ["staggers onto the stage", "шатается на сцену", "staggers onto the stage"],
+          ["her curls have shifted slightly off-center", "её локоны слегка съехали набок", "her curls have shifted slightly off-center"],
+          ["aching to get bumped up", "отчаянно желающая повышения", "she’s just aching to get bumped up"],
+          ["the entire nation", "вся страна", "in front of the entire nation"],
+          ["feeling nauseous", "испытывая тошноту", "I’m feeling nauseous"],
+          ["smoothes the slip of paper", "разглаживает бумажку", "smoothes the slip of paper"]
+        ]
       }
-    }
+    },
+   "questions": [
+      {
+        "type": "choice",
+        "question": "Why were the Hunger Games created according to the Capitol?",
+          "options": [
+            "to entertain wealthy citizens",
+            "to celebrate the districts",
+            "to punish the districts for the uprising",
+            "to train future soldiers"
+          ],
+        "answer": 2,
+        "explanation": "The Games are presented as punishment for the rebellion against the Capitol."
+      },
+
+      {
+        "type": "choice",
+        "question": "What message does the Capitol send through the Hunger Games?",
+          "options": [
+            "the districts are equal",
+            "children are honored heroes",
+            "the Capitol has complete power over the districts",
+            "rebellion is encouraged"
+          ],
+        "answer": 2,
+        "explanation": "Katniss explains that the Games remind the districts they are powerless."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why does the Capitol treat the Hunger Games like a celebration?",
+          "options": [
+            "to make the violence more humiliating",
+            "to comfort the tributes",
+            "to honor District 13",
+            "to help poor families"
+          ],
+        "answer": 0,
+        "explanation": "The Capitol forces people to celebrate something cruel and traumatic."
+      },
+
+      {
+        "type": "choice",
+        "question": "What impression does Haymitch make when he appears on stage?",
+          "options": [
+            "disciplined and respected",
+            "drunk and embarrassing",
+            "strict and dangerous",
+            "confident and elegant"
+          ],
+        "answer": 1,
+        "explanation": "Haymitch staggers onto the stage drunk and behaves awkwardly."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why is Mayor Undersee distressed?",
+          "options": [
+            "the Capitol canceled the Games",
+            "Haymitch embarrasses District 12 on live television",
+            "Effie Trinket refuses to continue",
+            "the crowd becomes violent"
+          ],
+        "answer": 1,
+        "explanation": "District 12 appears ridiculous in front of the entire nation."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does Katniss realize when she looks at Gale?",
+        "options": [
+          "he plans to volunteer",
+          "his chances of being chosen are very high",
+          "he wants to leave the district immediately",
+          "he is angry with her"
+        ],
+        "answer": 1,
+        "explanation": "Katniss suddenly thinks about Gale’s forty-two entries in the reaping."
+      },
+
+      {
+        "type": "choice",
+        "question": "What atmosphere is created before Effie announces the name?",
+        "options": [
+          "joyful excitement",
+          "complete panic",
+          "tense silence and fear",
+          "anger toward the Capitol"
+        ],
+        "answer": 2,
+        "explanation": "The crowd becomes completely silent as everyone waits for the name."
+      },
+
+      {
+        "type": "choice",
+        "question": "How does Katniss initially react when the name is called?",
+        "options": [
+          "she feels relieved it is not her",
+          "she laughs nervously",
+          "she does not hear the name",
+          "she immediately volunteers"
+        ],
+        "answer": 0,
+        "explanation": "For a brief moment, Katniss realizes the chosen tribute is not her."
+      }
+    ]
+  }
+
+
+}
