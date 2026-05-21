@@ -1386,7 +1386,636 @@
         "explanation": "For a brief moment, Katniss realizes the chosen tribute is not her."
       }
     ]
-  }
+  },
+  "hunger_games_02_scene01_part01": {
+    "title": "The Hunger Games — Chapter 2 • Page 1",
+    "level": "B2/C1/C2",
+    "text": "One time, when I was in a blind in a tree, waiting motionless for game to wander by, I dozed off and fell ten feet to the ground, landing on my back. It was as if the impact had knocked every wisp of air from my lungs, and I lay there struggling to inhale, to exhale, to do anything.\n\nThat’s how I feel now, trying to remember how to breathe, unable to speak, totally stunned as the name bounces around the inside of my skull. Someone is gripping my arm, a boy from the Seam, and I think maybe I started to fall and he caught me.\n\nThere must have been some mistake. This can’t be happening. Prim was one slip of paper in thousands! Her chances of being chosen so remote that I’d not even bothered to worry about her. Hadn’t I done everything? Taken the tesserae, refused to let her do the same? One slip. One slip in thousands. The odds had been entirely in her favor. But it hadn’t mattered.\n\nSomewhere far away, I can hear the crowd murmuring unhappily as they always do when a twelve-year-old gets chosen because no one thinks this is fair. And then I see her, the blood drained from her face, hands clenched in fists at her sides, walking with stiff, small steps up toward the stage, passing me, and I see the back of her blouse has become untucked and hangs out over her skirt. It’s this detail, the untucked blouse forming a ducktail, that brings me back to myself.\n\n“Prim!” The strangled cry comes out of my throat, and my muscles begin to move again. “Prim!” I don’t need to shove through the crowd. The other kids make way immediately allowing me a straight path to the stage. I reach her just as she is about to mount the steps. With one sweep of my arm, I push her behind me.\n\n“I volunteer!” I gasp. “I volunteer as tribute!”\n\nThere’s some confusion on the stage. District 12 hasn’t had a volunteer in decades and the protocol has become rusty. The rule is that once a tribute’s name has been pulled from the ball, another eligible boy, if a boy’s name has been read, or girl, if a girl’s name has been read, can step forward to take his or her place. In some districts, in which winning the reaping is such a great honor, people are eager to risk their lives, the volunteering is complicated. But in District 12, where the word tribute is pretty much synonymous with the word corpse, volunteers are all but extinct.\n\n“Lovely!” says Effie Trinket. “But I believe there’s a small matter of introducing the reaping winner and then asking for volunteers, and if one does come forth then we, um…” she trails off, unsure herself.\n\n“What does it matter?” says the mayor. He’s looking at me with a pained expression on his face. He doesn’t know me really, but there’s a faint recognition there. I am the girl who brings the strawberries. The girl his daughter might have spoken of on occasion. The girl who five years ago stood huddled with her mother and sister, as he presented her, the oldest child, with a medal of valor. A medal for her father, vaporized in the mines. Does he remember that? “What does it matter?” he repeats gruffly. “Let her come forward.”\n\nPrim is screaming hysterically behind me. She’s wrapped her skinny arms around me like a vice. “No, Katniss! No! You can’t go!”\n\n“Prim, let go,” I say harshly, because this is upsetting me and I don’t want to cry. When they televise the replay of the reapings tonight, everyone will make note of my tears, and I’ll be marked as an easy target. A weakling. I will give no one that satisfaction. “Let go!”",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["doze off", "задремать", "to fall asleep unintentionally"],
+          ["fall to the ground", "упасть на землю", "to fall onto the ground"],
+          ["unable to speak", "не в состоянии говорить", "unable to say anything"],
+          ["make way", "уступить дорогу", "to move aside for someone"],
+          ["reach the stage", "добраться до сцены", "to arrive at the stage"],
+          ["push someone behind", "оттолкнуть назад", "to move someone behind you"],
+          ["step forward", "выйти вперёд", "to volunteer or move ahead"],
+          ["take someone’s place", "занять чьё-то место", "to replace someone"],
+          ["there must have been some mistake", "должно быть, произошла ошибка", "used when something seems impossible"],
+          ["let go", "отпусти", "stop holding someone"],
+          ["make note of", "обратить внимание на", "to notice carefully"],
+          ["an easy target", "лёгкая цель", "someone vulnerable to attack"]
+        ]
+      },
 
+      "C1": {
+        "quizlet": [
+          ["knock the air out of someone’s lungs", "выбить воздух из лёгких", "to leave someone unable to breathe after impact"],
+          ["totally stunned", "полностью ошеломлённый", "completely shocked"],
+          ["grip someone’s arm", "схватить кого-то за руку", "to hold tightly"],
+          ["chances were remote", "шансы были ничтожны", "very unlikely"],
+          ["blood drained from her face", "кровь отхлынула от лица", "she became pale from shock"],
+          ["hands clenched in fists", "руки сжаты в кулаки", "hands closed tightly from tension"],
+          ["stiff, small steps", "скованные маленькие шаги", "awkward tense movement"],
+          ["a strangled cry", "сдавленный крик", "a broken choked cry"],
+          ["the protocol has become rusty", "процедура стала забываться", "people no longer remember the rules well"],
+          ["synonymous with", "синонимично чему-то", "having nearly the same meaning"],
+          ["a pained expression", "страдальческое выражение лица", "a face showing emotional pain"],
+          ["faint recognition", "смутное узнавание", "slight familiarity"],
+          ["upsetting me", "расстраивает меня", "making me emotionally distressed"],
+          ["marked as a weakling", "считаться слабаком", "to be seen as weak"],
+          ["trail off", "замолкать", "to stop speaking gradually"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["every wisp of air", "каждый клочок воздуха", "every tiny amount of air"],
+          ["the name bounces around inside my skull", "имя стучит у меня в голове", "thoughts repeat uncontrollably"],
+          ["one slip of paper in thousands", "один листок среди тысяч", "an extremely tiny chance"],
+          ["the odds had been entirely in her favor", "шансы были полностью на её стороне", "everything statistically favored her"],
+          ["it hadn’t mattered", "это не имело значения", "the expected outcome failed anyway"],
+          ["brings me back to myself", "приводит меня в чувство", "makes someone regain awareness"],
+          ["with one sweep of my arm", "одним движением руки", "with one fast movement"],
+          ["all but extinct", "почти вымерший", "nearly disappeared completely"],
+          ["come forth", "выйти вперёд", "to appear or volunteer formally"],
+          ["wrapped her arms around me like a vice", "обвила меня руками как тисками", "held extremely tightly"],
+          ["I will give no one that satisfaction", "я никому не доставлю такого удовольствия", "I refuse to show weakness"],
+          ["vaporized in the mines", "испарился в шахтах", "destroyed completely in an explosion"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss shocked when Prim’s name is chosen?",
+        "options": [
+          "Prim had very low chances of being selected",
+          "Prim had already volunteered before",
+          "Katniss expected Gale to be chosen",
+          "The reaping had been cancelled"
+        ],
+        "answer": 0,
+        "explanation": "Katniss believed Prim’s chances were extremely small because her name was entered only once."
+      },
+      {
+        "type": "choice",
+        "question": "What detail brings Katniss back to reality?",
+        "options": [
+          "Prim crying loudly",
+          "The mayor shouting",
+          "Prim’s untucked blouse",
+          "The crowd applauding"
+        ],
+        "answer": 2,
+        "explanation": "Katniss notices Prim’s blouse hanging out awkwardly, and this detail shocks her back into action."
+      },
+      {
+        "type": "choice",
+        "question": "Why does nobody applaud after Katniss volunteers?",
+        "options": [
+          "They are angry with Katniss",
+          "They silently disagree with the Games",
+          "They are confused by the rules",
+          "They are afraid of Effie Trinket"
+        ],
+        "answer": 1,
+        "explanation": "The silence is presented as a form of protest and dissent."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss try not to cry?",
+        "options": [
+          "She does not love Prim",
+          "She thinks tears will make her look weak",
+          "She wants to impress Effie",
+          "She is too shocked to feel emotions"
+        ],
+        "answer": 1,
+        "explanation": "Katniss believes showing emotion will make her appear vulnerable and weak."
+      },
+      {
+        "type": "choice",
+        "question": "What does the phrase 'tribute is synonymous with corpse' suggest?",
+        "options": [
+          "Winning the Games is common",
+          "Tributes are respected heroes",
+          "Most tributes are expected to die",
+          "District 12 enjoys the Games"
+        ],
+        "answer": 2,
+        "explanation": "The phrase emphasizes how deadly the Hunger Games are for District 12 tributes."
+      }
+    ]
+    },
+    "hunger_games_02_scene01_part02": {
+    "title": "The Hunger Games — Chapter 2 • Page 2",
+    "level": "B2/C1/C2",
+    "text": "I can feel someone pulling her from my back. I turn and see Gale has lifted Prim off the ground and she’s thrashing in his arms. “Up you go, Catnip,” he says, in a voice he’s fighting to keep steady, and then he carries Prim off toward my mother. I steel myself and climb the steps.\n\n“Well, bravo!” gushes Effie Trinket. “That’s the spirit of the Games!” She’s pleased to finally have a district with a little action going on in it. “What’s your name?”\n\nI swallow hard. “Katniss Everdeen,” I say.\n\n“I bet my buttons that was your sister. Don’t want her to steal all the glory, do we? Come on, everybody! Let’s give a big round of applause to our newest tribute!” trills Effie Trinket.\n\nTo the everlasting credit of the people of District 12, not one person claps. Not even the ones holding betting slips, the ones who are usually beyond caring. Possibly because they know me from the Hob, or knew my father, or have encountered Prim, who no one can help loving. So instead of acknowledging applause, I stand there unmoving while they take part in the boldest form of dissent they can manage. Silence. Which says we do not agree. We do not condone. All of this is wrong.\n\nThen something unexpected happens. At least, I don’t expect it because I don’t think of District 12 as a place that cares about me. But a shift has occurred since I stepped up to take Prim’s place, and now it seems I have become someone precious. At first one, then another, then almost every member of the crowd touches the three middle fingers of their left hand to their lips and holds it out to me. It is an old and rarely used gesture of our district, occasionally seen at funerals. It means thanks, it means admiration, it means good-bye to someone you love.\n\nNow I am truly in danger of crying, but fortunately Haymitch chooses this time to come staggering across the stage to congratulate me. “Look at her. Look at this one!” he hollers, throwing an arm around my shoulders. He’s surprisingly strong for such a wreck. “I like her!” His breath reeks of liquor and it’s been a long time since he’s bathed. “Lots of… “ He can’t think of the word for a while. “Spunk!” he says triumphantly. “More than you!” he releases me and starts for the front of the stage. “More than you!” he shouts, pointing directly into a camera.\n\nIs he addressing the audience or is he so drunk he might actually be taunting the Capitol? I’ll never know because just as he’s opening his mouth to continue, Haymitch plummets off the stage and knocks himself unconscious.\n\nHe’s disgusting, but I’m grateful. With every camera gleefully trained on him, I have just enough time to release the small, choked sound in my throat and compose myself. I put my hands behind my back and stare into the distance.\n\nI can see the hills I climbed this morning with Gale. For a moment, I yearn for something… the idea of us leaving the district… making our way in the woods… but I know I was right about not running off. Because who else would have volunteered for Prim?\n\nHaymitch is whisked away on a stretcher, and Effie Trinket is trying to get the ball rolling again. “What an exciting day!” she warbles as she attempts to straighten her wig, which has listed severely to the right. “But more excitement to come! It’s time to choose our boy tribute!” Clearly hoping to contain her tenuous hair situation, she plants one hand on her head as she crosses to the ball that contains the boys’ names and grabs the first slip she encounters. She zips back to the podium, and I don’t even have time to wish for Gale’s safety when she’s reading the name. “Peeta Mellark.”\n\nPeeta Mellark!\n\nOh, no, I think. Not him. Because I recognize this name, although I have never spoken directly to its owner. Peeta Mellark.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["swallow hard", "с трудом сглотнуть", "to swallow because of nervousness"],
+          ["a round of applause", "бурные аплодисменты", "clapping to show approval"],
+          ["beyond caring", "уже всё равно", "no longer emotionally concerned"],
+          ["stare into the distance", "смотреть вдаль", "to look far away thoughtfully"],
+          ["climb the steps", "подниматься по ступеням", "to walk up stairs"],
+          ["straighten a wig", "поправлять парик", "to adjust a wig"],
+          ["wish for someone’s safety", "желать кому-то безопасности", "to hope someone stays safe"],
+          ["recognize a name", "узнать имя", "to know or remember a name"],
+          ["carry someone off", "унести кого-то", "to take someone away"],
+          ["hold betting slips", "держать ставки", "to have betting papers"],
+          ["not one person claps", "никто не хлопает", "complete silence instead of applause"],
+          ["What’s your name?", "Как тебя зовут?", "asking someone to identify themselves"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["thrashing in someone’s arms", "биться в чьих-то руках", "moving violently while being held"],
+          ["fight to keep one’s voice steady", "пытаться удержать голос ровным", "to struggle not to sound emotional"],
+          ["steel oneself", "собраться с духом", "to prepare mentally for difficulty"],
+          ["gush", "восторженно тараторить", "to speak with excessive enthusiasm"],
+          ["take part in dissent", "участвовать в протесте", "to join an act of disagreement"],
+          ["a shift has occurred", "произошёл сдвиг", "a change has taken place"],
+          ["become someone precious", "стать кем-то дорогим", "to become highly valued"],
+          ["stagger across the stage", "шатаясь идти по сцене", "to walk unsteadily"],
+          ["reeks of liquor", "сильно пахнет алкоголем", "smells strongly of alcohol"],
+          ["compose oneself", "взять себя в руки", "to regain emotional control"],
+          ["yearn for something", "страстно желать чего-то", "to deeply long for something"],
+          ["get the ball rolling", "сдвинуть дело с мёртвой точки", "to restart an activity"],
+          ["point directly into a camera", "указывать прямо в камеру", "to gesture toward the camera"],
+          ["address the audience", "обращаться к аудитории", "to speak to viewers or listeners"],
+          ["spoken directly to its owner", "говорить напрямую с владельцем", "to personally talk to someone"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["to the everlasting credit of", "к вечной чести", "deserving permanent praise"],
+          ["the boldest form of dissent", "самая смелая форма протеста", "the strongest silent protest possible"],
+          ["we do not condone", "мы не одобряем", "we refuse to approve morally"],
+          ["a rarely used gesture", "редко используемый жест", "an uncommon symbolic sign"],
+          ["good-bye to someone you love", "прощание с тем, кого любишь", "a final farewell"],
+          ["truly in danger of crying", "действительно на грани слёз", "close to breaking emotionally"],
+          ["surprisingly strong for such a wreck", "удивительно сильный для такой развалины", "strong despite looking ruined"],
+          ["gleefully trained on him", "радостно направлены на него", "cameras eagerly focused on him"],
+          ["release a small, choked sound", "издать тихий сдавленный звук", "to let out a restrained emotional sound"],
+          ["making our way in the woods", "пробиваться через леса", "surviving independently in nature"],
+          ["whisked away on a stretcher", "быстро унесён на носилках", "taken away urgently"],
+          ["contain her tenuous hair situation", "удержать катастрофу с причёской под контролем", "trying to manage an embarrassing appearance problem"],
+          ["listed severely to the right", "сильно съехал вправо", "leaned heavily to one side"],
+          ["taunting the Capitol", "насмехаться над Капитолием", "provoking or mocking authority"],
+          ["plummets off the stage", "рухнуть со сцены", "to fall suddenly and heavily"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does nobody clap for Katniss?",
+        "options": [
+          "They are bored by the ceremony",
+          "They silently disagree with the Games",
+          "They dislike Katniss personally",
+          "Effie told them not to clap"
+        ],
+        "answer": 1,
+        "explanation": "The silence becomes a symbolic act of protest against the Hunger Games."
+      },
+      {
+        "type": "choice",
+        "question": "What does the three-finger gesture symbolize?",
+        "options": [
+          "Victory and celebration",
+          "Fear of the Capitol",
+          "Thanks, admiration, and farewell",
+          "Support for the Games"
+        ],
+        "answer": 2,
+        "explanation": "The gesture is an old District 12 sign meaning gratitude, respect, and goodbye."
+      },
+      {
+        "type": "choice",
+        "question": "How is Haymitch described?",
+        "options": [
+          "Elegant and serious",
+          "Quiet and disciplined",
+          "Drunk and chaotic",
+          "Cold and emotionless"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch appears drunk, smells of liquor, and eventually falls off the stage."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss grateful to Haymitch after he falls?",
+        "options": [
+          "He protects Prim",
+          "He distracts the cameras from her emotions",
+          "He volunteers for Peeta",
+          "He argues with Effie"
+        ],
+        "answer": 1,
+        "explanation": "His dramatic fall gives Katniss time to regain emotional control."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss upset when Peeta Mellark’s name is chosen?",
+        "options": [
+          "She owes him something from the past",
+          "He is Gale’s brother",
+          "He once insulted her family",
+          "He is known for cheating"
+        ],
+        "answer": 0,
+        "explanation": "Katniss recognizes Peeta and has an emotional connection to him from earlier in her life."
+      }
+    ]
+  },
+    "hunger_games_02_scene01_part03": {
+    "title": "The Hunger Games — Chapter 2 • Page 3",
+    "level": "B2/C1/C2",
+    "text": "Peeta Mellark!\n\nOh, no, I think. Not him. Because I recognize this name, although I have never spoken directly to its owner. Peeta Mellark.\n\nNo, the odds are not in my favor today. I watch him as he makes his way toward the stage. Medium height, stocky build, ashy blond hair that falls in waves over his forehead. The shock of the moment is registering on his face, you can see his struggle to remain emotionless, but his blue eyes show the alarm I’ve seen so often in prey. Yet he climbs steadily onto the stage and takes his place.\n\nEffie Trinket asks for volunteers, but no one steps forward. He has two older brothers, I know, I’ve seen them in the bakery, but one is probably too old now to volunteer and the other won’t. This is standard. Family devotion only goes so far for most people on reaping day. What I did was the radical thing.\n\nThe mayor begins to read the long, dull Treaty of Treason as he does every year at this point — it’s required — but I’m not listening to a word.\n\nWhy him? I think. Then I try to convince myself it doesn’t matter. Peeta Mellark and I are not friends. Not even neighbors. We don’t speak. Our only real interaction happened years ago. He’s probably forgotten it. But I haven’t and I know I never will…\n\nIt was during the worst time. My father had been killed in the mine accident three months earlier in the bitterest January anyone could remember. The numbness of his loss had passed, and the pain would hit me out of nowhere, doubling me over, racking my body with sobs. Where are you? I would cry out in my mind. Where have you gone? Of course, there was never any answer.\n\nThe district had given us a small amount of money as compensation for his death, enough to cover one month of grieving at which time my mother would be expected to get a job. Only she didn’t. She didn’t do anything but sit propped up in a chair or, more often, huddled under the blankets on her bed, eyes fixed on some point in the distance. Once in a while, she’d stir, get up as if moved by some urgent purpose, only to then collapse back into stillness. No amount of pleading from Prim seemed to affect her.\n\nI was terrified. I suppose now that my mother was locked in some dark world of sadness, but at the time, all I knew was that I had lost not only a father, but a mother as well. At eleven years old, with Prim just seven, I took over as head of the family. There was no choice. I bought our food at the market and cooked it as best I could and tried to keep Prim and myself looking presentable. Because if it had become known that my mother could no longer care for us, the district would have taken us away from her and placed us in the community home. I’d grown up seeing those home kids at school. The sadness, the marks of angry hands on their faces, the hopelessness that curled their shoulders forward. I could never let that happen to Prim. Sweet, tiny Prim who cried when I cried before she even knew the reason, who brushed and plaited my mother’s hair before we left for school, who still polished my father’s shaving mirror each night because he’d hated the layer of coal dust that settled on everything in the Seam. The community home would crush her like a bug. So I kept our predicament a secret.\n\nBut the money ran out and we were slowly starving to death. There’s no other way to put it. I kept telling myself if I could only hold out until May, just May 8th, I would turn twelve and be able to sign up for the tesserae and get that precious grain and oil to feed us. Only there were still several weeks to go. We could well be dead by then.\n\nStarvation’s not an uncommon fate in District 12. Who hasn’t seen the victims? Older people who can’t work. Children from a family with too many to feed. Those injured in the mines. Straggling through the streets. And one day, you come upon them sitting motionless against a wall or lying in the Meadow, you hear the wails from a house, and the Peacekeepers are called in to retrieve the body. Starvation is never the cause of death officially. It’s always the flu, or exposure, or pneumonia. But that fools no one.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["there were no takers", "никто не заинтересовался", "nobody wanted to buy or accept something"],
+          ["soaked through", "промок насквозь", "completely wet"],
+          ["boiled water", "кипячёная вода", "water heated until boiling"],
+          ["drop a bundle", "уронить свёрток", "to accidentally let something fall"],
+          ["pick something up", "поднять что-то", "to lift something from the ground"],
+          ["go home empty-handed", "вернуться ни с чем", "to return without success"],
+          ["stumbling along", "брести / спотыкаться", "walking weakly or unsteadily"],
+          ["a muddy lane", "грязная тропинка", "a narrow muddy road"],
+          ["move on", "проваливай / иди дальше", "to leave and continue elsewhere"],
+          ["back away", "отступить назад", "to move away carefully"],
+          ["make one’s way", "пробираться", "to move toward somewhere"],
+          ["slid down", "сполз вниз", "to move downward along a surface"],
+          ["drive someone away", "прогнать кого-то", "to force someone to leave"],
+          ["tear off chunks", "отрывать куски", "to pull pieces away"],
+          ["throw something in someone’s direction", "бросить в чью-то сторону", "to toss toward someone"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["relentless icy sheets", "непрерывные ледяные потоки дождя", "heavy freezing rain falling continuously"],
+          ["threadbare old clothes", "изношенная старая одежда", "clothes worn thin from use"],
+          ["venture into", "осмелиться войти", "to go somewhere risky"],
+          ["rough, gritty place", "грубое мрачное место", "harsh unpleasant environment"],
+          ["chilled to the bone", "промерзший до костей", "extremely cold"],
+          ["keel over", "рухнуть / потерять сознание", "to collapse suddenly"],
+          ["hollow cheeks and cracked lips", "впалые щёки и потрескавшиеся губы", "signs of starvation or illness"],
+          ["coal had run out", "уголь закончился", "there was no coal left"],
+          ["hunched defeated in the muck", "сгорбившийся в грязи", "curled up hopelessly in mud"],
+          ["it crossed my mind", "мне пришло в голову", "a thought briefly occurred"],
+          ["mesmerized by the heat", "заворожённый теплом", "unable to stop focusing on warmth"],
+          ["forcing me back to life", "возвращая меня к реальности", "making someone aware again"],
+          ["pawing through her trash", "рыться в её мусоре", "searching roughly through garbage"],
+          ["the realization had sunk in", "осознание наконец дошло", "fully understood emotionally"],
+          ["checking that the coast was clear", "убеждаясь, что путь свободен", "making sure nobody is watching"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["chilled to the bone", "промерзший до костей", "feeling cold in an extreme physical way"],
+          ["dead eyes", "мёртвый взгляд", "emotionless hopeless eyes"],
+          ["my hands empty of any hope", "руки пусты от всякой надежды", "having nothing left emotionally or physically"],
+          ["essentially in their backyards", "по сути у них на заднем дворе", "effectively inside their private area"],
+          ["punishable by death", "карается смертью", "deserving execution under the law"],
+          ["desperate enough to eat", "достаточно отчаявшийся, чтобы съесть", "so desperate that anything becomes acceptable"],
+          ["spotlessly, heartlessly bare", "безупречно и безжалостно пустой", "completely empty in a cruel way"],
+          ["running its icy fingers down my back", "дождь провёл ледяными пальцами по спине", "personification of cold rain"],
+          ["I had no defense", "мне нечего было ответить", "unable to protect or justify oneself"],
+          ["my knees buckled", "колени подкосились", "legs gave way from weakness"],
+          ["too sick and weak and tired", "слишком больная, слабая и уставшая", "physically and emotionally exhausted"],
+          ["let me die right here in the rain", "пусть я умру прямо здесь под дождём", "expression of hopeless despair"],
+          ["the crusts were scorched black", "корки были обуглены дочерна", "burned completely black"],
+          ["a red weal stood out", "выделялся красный рубец", "a visible injury mark"],
+          ["closing the kitchen door tightly behind him", "плотно закрывая за собой дверь кухни", "leaving quickly and secretly"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why was Katniss in the market that day?",
+        "options": [
+          "She wanted to buy medicine",
+          "She was trying to trade old clothes for food",
+          "She was searching for Gale",
+          "She was selling bread"
+        ],
+        "answer": 1,
+        "explanation": "Katniss hoped someone would trade food for Prim’s old clothes."
+      },
+      {
+        "type": "choice",
+        "question": "Why didn’t Katniss want to go home?",
+        "options": [
+          "She was afraid of the Peacekeepers",
+          "She had lost her way",
+          "She had nothing to bring back to her starving family",
+          "Her mother had locked the door"
+        ],
+        "answer": 2,
+        "explanation": "She could not face her mother and Prim empty-handed while they were starving."
+      },
+      {
+        "type": "choice",
+        "question": "What almost caused Katniss to search the trash bins?",
+        "options": [
+          "Curiosity",
+          "Extreme hunger and desperation",
+          "A challenge from Gale",
+          "Instructions from her mother"
+        ],
+        "answer": 1,
+        "explanation": "Katniss was starving and desperate enough to consider searching for scraps."
+      },
+      {
+        "type": "choice",
+        "question": "Why was the bread burned?",
+        "options": [
+          "The bakery oven broke",
+          "Peeta intentionally burned it",
+          "Peeta accidentally let it burn and was punished",
+          "The bread was meant for pigs"
+        ],
+        "answer": 2,
+        "explanation": "The text suggests Peeta let the bread burn and was hit by his mother because of it."
+      },
+      {
+        "type": "choice",
+        "question": "What does Peeta secretly do for Katniss?",
+        "options": [
+          "He gives her money",
+          "He warns her about the Peacekeepers",
+          "He throws her two loaves of bread",
+          "He invites her into the bakery"
+        ],
+        "answer": 2,
+        "explanation": "Peeta secretly tosses bread toward Katniss so she and her family can eat."
+      }
+    ]
+  },
+    "hunger_games_02_scene01_part04": {
+    "title": "The Hunger Games — Chapter 2 • Page 4",
+    "level": "B2/C1/C2",
+    "text": "On the afternoon of my encounter with Peeta Mellark, the rain was falling in relentless icy sheets. I had been in town, trying to trade some threadbare old baby clothes of Prim’s in the public market, but there were no takers. Although I had been to the Hob on several occasions with my father, I was too frightened to venture into that rough, gritty place alone. The rain had soaked through my father’s hunting jacket, leaving me chilled to the bone. For three days, we’d had nothing but boiled water with some old dried mint leaves I’d found in the back of a cupboard. By the time the market closed, I was shaking so hard I dropped my bundle of baby clothes in a mud puddle. I didn’t pick it up for fear I would keel over and be unable to regain my feet. Besides, no one wanted those clothes.\n\nI couldn’t go home. Because at home was my mother with her dead eyes and my little sister, with her hollow cheeks and cracked lips. I couldn’t walk into that room with the smoky fire from the damp branches I had scavenged at the edge of the woods after the coal had run out, my bands empty of any hope.\n\nI found myself stumbling along a muddy lane behind the shops that serve the wealthiest townspeople. The merchants live above their businesses, so I was essentially in their backyards. I remember the outlines of garden beds not yet planted for the spring, a goat or two in a pen, one sodden dog tied to a post, hunched defeated in the muck.\n\nAll forms of stealing are forbidden in District 12. Punishable by death. But it crossed my mind that there might be something in the trash bins, and those were fair game. Perhaps a bone at the butcher’s or rotted vegetables at the grocer’s, something no one but my family was desperate enough to eat. Unfortunately, the bins had just been emptied.\n\nWhen I passed the baker’s, the smell of fresh bread was so overwhelming I felt dizzy. The ovens were in the back, and a golden glow spilled out the open kitchen door. I stood mesmerized by the heat and the luscious scent until the rain interfered, running its icy fingers down my back, forcing me back to life. I lifted the lid to the baker’s trash bin and found it spotlessly, heartlessly bare.\n\nSuddenly a voice was screaming at me and I looked up to see the baker’s wife, telling me to move on and did I want her to call the Peacekeepers and how sick she was of having those brats from the Seam pawing through her trash. The words were ugly and I had no defense. As I carefully replaced the lid and backed away, I noticed him, a boy with blond hair peering out from behind his mother’s back. I’d seen him at school. He was in my year, but I didn’t know his name. He stuck with the town kids, so how would I? His mother went back into the bakery, grumbling, but he must have been watching me as I made my way behind the pen that held their pig and leaned against the far side of an old apple tree. The realization that I’d have nothing to take home had finally sunk in. My knees buckled and I slid down the tree trunk to its roots. It was too much. I was too sick and weak and tired, oh, so tired. Let them call the Peacekeepers and take us to the community home, I thought. Or better yet, let me die right here in the rain.\n\nThere was a clatter in the bakery and I heard the woman screaming again and the sound of a blow, and I vaguely wondered what was going on. Feet sloshed toward me through the mud and I thought, It’s her. She’s coming to drive me away with a stick. But it wasn’t her. It was the boy. In his arms, he carried two large loaves of bread that must have fallen into the fire because the crusts were scorched black.\n\nHis mother was yelling, “Feed it to the pig, you stupid creature! Why not? No one decent will buy burned bread!”\n\nHe began to tear off chunks from the burned parts and toss them into the trough, and the front bakery bell rung and the mother disappeared to help a customer.\n\nThe boy never even glanced my way, but I was watching him. Because of the bread, because of the red weal that stood out on his cheekbone. What had she hit him with?\n\nMy parents never hit us. I couldn’t even imagine it. The boy took one look back to the bakery as if checking that the coast was clear, then, his attention back on the pig, he threw a loaf of bread in my direction. The second quickly followed, and he sloshed back to the bakery, closing the kitchen door tightly behind him.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["there were no takers", "никто не заинтересовался", "nobody wanted to buy or take something"],
+          ["soaked through", "промок насквозь", "completely wet"],
+          ["drop a bundle", "уронить свёрток", "to accidentally let something fall"],
+          ["pick it up", "поднять это", "to lift something from the ground"],
+          ["stumbling along", "брести / спотыкаться", "walking weakly or unsteadily"],
+          ["move on", "иди дальше", "to leave and continue"],
+          ["back away", "отступить назад", "to move away carefully"],
+          ["make my way", "пробираться", "to move toward somewhere"],
+          ["slid down", "сполз вниз", "to move downward along a surface"],
+          ["tear off chunks", "отрывать куски", "to pull pieces away"],
+          ["toss into the trough", "бросать в корыто", "to throw food into an animal container"],
+          ["throw a loaf in my direction", "бросить буханку в мою сторону", "to toss bread toward someone"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["relentless icy sheets", "непрерывный ледяной ливень", "heavy freezing rain falling continuously"],
+          ["threadbare old clothes", "изношенная старая одежда", "clothes worn thin from use"],
+          ["venture into", "осмелиться войти", "to go somewhere risky"],
+          ["rough, gritty place", "грубое мрачное место", "harsh unpleasant environment"],
+          ["chilled to the bone", "промерзший до костей", "extremely cold"],
+          ["keel over", "рухнуть без сил", "to collapse suddenly"],
+          ["hollow cheeks and cracked lips", "впалые щёки и потрескавшиеся губы", "signs of hunger or illness"],
+          ["it crossed my mind", "мне пришло в голову", "a thought briefly occurred"],
+          ["mesmerized by the heat", "заворожённый теплом", "unable to stop focusing on warmth"],
+          ["forcing me back to life", "возвращая меня к реальности", "making someone aware again"],
+          ["pawing through her trash", "рыться в её мусоре", "searching roughly through garbage"],
+          ["the realization had sunk in", "осознание дошло", "fully understood emotionally"],
+          ["checking that the coast was clear", "убеждаясь, что никто не видит", "making sure nobody is watching"],
+          ["a red weal stood out", "выделялся красный рубец", "a visible injury mark"],
+          ["grumbling", "ворча", "complaining quietly"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["dead eyes", "мёртвый взгляд", "hopeless emotionless eyes"],
+          ["my hands empty of any hope", "руки пусты от всякой надежды", "having nothing left emotionally"],
+          ["essentially in their backyards", "по сути на их заднем дворе", "effectively inside private territory"],
+          ["punishable by death", "карается смертью", "deserving execution under the law"],
+          ["desperate enough to eat", "достаточно отчаявшийся, чтобы съесть", "so desperate that anything becomes acceptable"],
+          ["spotlessly, heartlessly bare", "безупречно и безжалостно пустой", "completely empty in a cruel way"],
+          ["running its icy fingers down my back", "ледяные пальцы дождя пробежали по спине", "personification of freezing rain"],
+          ["I had no defense", "мне нечего было ответить", "unable to defend or justify oneself"],
+          ["my knees buckled", "колени подкосились", "legs gave way from weakness"],
+          ["too sick and weak and tired", "слишком больная, слабая и уставшая", "physically and emotionally exhausted"],
+          ["let me die right here in the rain", "пусть я умру прямо здесь под дождём", "expression of hopeless despair"],
+          ["the crusts were scorched black", "корки были обуглены дочерна", "burned completely black"],
+          ["the coast was clear", "путь был свободен", "nobody was watching or interfering"],
+          ["sloshed back to the bakery", "пошлёпал обратно в пекарню", "walked heavily through mud or water"],
+          ["closing the kitchen door tightly behind him", "плотно закрывая за собой кухонную дверь", "leaving secretly and carefully"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why was Katniss trying to trade Prim’s old clothes?",
+        "options": [
+          "She wanted new clothes",
+          "She hoped to get food for her family",
+          "She wanted money for school",
+          "She was helping the merchants"
+        ],
+        "answer": 1,
+        "explanation": "Katniss and her family were starving, so she tried to exchange the clothes for food."
+      },
+      {
+        "type": "choice",
+        "question": "Why didn’t Katniss pick up the clothes after dropping them?",
+        "options": [
+          "She was angry",
+          "She wanted to leave them there",
+          "She was too weak and afraid she would collapse",
+          "The clothes were ruined"
+        ],
+        "answer": 2,
+        "explanation": "Katniss was exhausted, starving, and feared she might not be able to stand up again."
+      },
+      {
+        "type": "choice",
+        "question": "What made Katniss feel dizzy near the bakery?",
+        "options": [
+          "The heat from the ovens",
+          "The smell of fresh bread",
+          "The shouting from inside",
+          "The rain and cold"
+        ],
+        "answer": 1,
+        "explanation": "The smell of bread overwhelmed her because she had been starving."
+      },
+      {
+        "type": "choice",
+        "question": "Why did Peeta throw the bread toward Katniss?",
+        "options": [
+          "He wanted to feed the pig",
+          "He secretly wanted to help her",
+          "He was angry with his mother",
+          "He did it by accident"
+        ],
+        "answer": 1,
+        "explanation": "Peeta intentionally gave Katniss the bread because he saw she was starving."
+      },
+      {
+        "type": "choice",
+        "question": "What does the red weal on Peeta’s cheek suggest?",
+        "options": [
+          "He fell in the mud",
+          "He burned himself",
+          "His mother hit him",
+          "He was attacked at school"
+        ],
+        "answer": 2,
+        "explanation": "The text strongly implies that Peeta’s mother struck him after the bread burned."
+      }
+    ]
+  },
+    "hunger_games_02_scene01_part05": {
+    "title": "The Hunger Games — Chapter 2 • Page 5",
+    "level": "B2/C1/C2",
+    "text": "I stared at the loaves in disbelief. They were fine, perfect really, except for the burned areas. Did he mean for me to have them? He must have. Because there they were at my feet. Before anyone could witness what had happened I shoved the loaves up under my shirt, wrapped the hunting jacket tightly about me, and walked swiftly away. The heat of the bread burned into my skin, but I clutched it tighter, clinging to life.\n\nBy the time I reached home, the loaves had cooled somewhat, but the insides were still warm. When I dropped them on the table, Prim’s hands reached to tear off a chunk, but I made her sit, forced my mother to join us at the table, and poured warm tea. I scraped off the black stuff and sliced the bread. We ate an entire loaf, slice by slice. It was good hearty bread, filled with raisins and nuts.\n\nI put my clothes to dry at the fire, crawled into bed, and fell into a dreamless sleep. It didn’t occur to me until the next morning that the boy might have burned the bread on purpose. Might have dropped the loaves into the flames, knowing it meant being punished, and then delivered them to me. But I dismissed this. It must have been an accident. Why would he have done it? He didn’t even know me. Still, just throwing me the bread was an enormous kindness that would have surely resulted in a beating if discovered. I couldn’t explain his actions.\n\nWe ate slices of bread for breakfast and headed to school. It was as if spring had come overnight. Warm sweet air. Fluffy clouds. At school, I passed the boy in the hall, his cheek had swelled up and his eye had blackened. He was with his friends and didn’t acknowledge me in any way. But as I collected Prim and started for home that afternoon, I found him staring at me from across the school yard. Our eyes met for only a second, then he turned his head away. I dropped my gaze, embarrassed, and that’s when I saw it. The first dandelion of the year. A bell went off in my head. I thought of the hours spent in the woods with my father and I knew how we were going to survive.\n\nTo this day, I can never shake the connection between this boy, Peeta Mellark, and the bread that gave me hope, and the dandelion that reminded me that I was not doomed. And more than once, I have turned in the school hallway and caught his eyes trained on me, only to quickly flit away. I feel like I owe him something, and I hate owing people. Maybe if I had thanked him at some point, I’d be feeling less conflicted now. I thought about it a couple of times, but the opportunity never seemed to present itself. And now it never will. Because we’re going to be thrown into an arena to fight to the death. Exactly how am I supposed to work in a thank-you in there? Somehow it just won’t seem sincere if I’m trying to slit his throat.\n\nThe mayor finishes the dreary Treaty of Treason and motions for Peeta and me to shake hands. His are as solid and warm as those loaves of bread. Peeta looks me right in the eye and gives my hand what I think is meant to be a reassuring squeeze. Maybe it’s just a nervous spasm.\n\nWe turn back to face the crowd as the anthem of Panem plays.\n\nOh, well, I think. There will be twenty-four of us. Odds are someone else will kill him before I do.\n\nOf course, the odds have not been very dependable of late.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["stare in disbelief", "смотреть в недоумении", "to look at something with shock"],
+          ["walk swiftly away", "быстро уйти", "to leave quickly"],
+          ["tear off a chunk", "оторвать кусок", "to pull away a piece of something"],
+          ["slice the bread", "нарезать хлеб", "to cut bread into slices"],
+          ["fall into a dreamless sleep", "провалиться в сон без сновидений", "to sleep deeply without dreams"],
+          ["head to school", "отправиться в школу", "to go toward school"],
+          ["turn one’s head away", "отвернуть голову", "to look away"],
+          ["drop one’s gaze", "опустить взгляд", "to look downward"],
+          ["shake hands", "пожать руки", "to greet formally with hands"],
+          ["face the crowd", "повернуться к толпе", "to stand facing people"],
+          ["someone else will kill him before I do", "кто-то другой убьёт его раньше меня", "expecting another person to act first"],
+          ["the odds are not dependable", "на шансы нельзя полагаться", "luck and probability cannot be trusted"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["clutch something tighter", "сжать что-то крепче", "to hold very tightly"],
+          ["clinging to life", "цепляясь за жизнь", "trying desperately to survive"],
+          ["scrape off the burned parts", "соскрести подгоревшие части", "to remove burned areas"],
+          ["it didn’t occur to me", "мне не пришло в голову", "I did not realize or think about it"],
+          ["dismiss an idea", "отвергнуть мысль", "to reject an explanation"],
+          ["an enormous kindness", "огромная доброта", "a very significant act of help"],
+          ["his cheek had swelled up", "его щека распухла", "became enlarged after injury"],
+          ["didn’t acknowledge me", "не подал вида, что знает меня", "ignored someone intentionally"],
+          ["our eyes met", "наши взгляды встретились", "two people looked at each other"],
+          ["a bell went off in my head", "меня осенило", "sudden realization"],
+          ["I knew how we were going to survive", "я поняла, как мы выживем", "understanding a survival plan"],
+          ["caught his eyes trained on me", "поймала его взгляд на себе", "noticed someone staring"],
+          ["feel conflicted", "испытывать внутренний конфликт", "to have mixed emotions"],
+          ["work in a thank-you", "втиснуть благодарность", "find a way to say thank you naturally"],
+          ["a reassuring squeeze", "ободряющее пожатие", "a comforting pressure of the hand"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["burned into my skin", "словно прожигало кожу", "felt intensely and memorably"],
+          ["before anyone could witness what had happened", "прежде чем кто-либо успел это увидеть", "before anyone noticed"],
+          ["delivered them to me", "принёс их мне", "secretly provided something"],
+          ["would have resulted in a beating", "закончилось бы избиением", "would have caused physical punishment"],
+          ["I couldn’t explain his actions", "я не могла объяснить его поступок", "unable to understand someone’s motives"],
+          ["it was as if spring had come overnight", "будто весна пришла за одну ночь", "sudden emotional transformation"],
+          ["the first dandelion of the year", "первый одуванчик года", "symbol of hope and renewal"],
+          ["I can never shake the connection", "я не могу избавиться от этой связи", "unable to forget an association"],
+          ["not doomed", "не обречена", "not destined to fail or die"],
+          ["his eyes trained on me", "его взгляд был прикован ко мне", "watching someone intently"],
+          ["the opportunity never presented itself", "возможность так и не представилась", "the right moment never came"],
+          ["it won’t seem sincere", "это не будет выглядеть искренне", "it will not feel genuine"],
+          ["slit his throat", "перерезать ему горло", "kill someone violently with a blade"],
+          ["the dreary Treaty of Treason", "унылый Договор об Измене", "boring formal political text"],
+          ["a nervous spasm", "нервный спазм", "an involuntary movement caused by stress"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss hide the bread under her shirt?",
+        "options": [
+          "She wants to keep it warm",
+          "She is afraid someone will see it",
+          "She plans to sell it later",
+          "She wants to surprise Prim"
+        ],
+        "answer": 1,
+        "explanation": "Katniss hides the bread quickly so nobody notices Peeta secretly gave it to her."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss think Peeta may have burned the bread on purpose?",
+        "options": [
+          "He enjoyed destroying food",
+          "He wanted to feed the pigs",
+          "He wanted an excuse to give it to her",
+          "His mother ordered him to"
+        ],
+        "answer": 2,
+        "explanation": "Katniss later realizes Peeta may have intentionally burned the bread so he could secretly help her."
+      },
+      {
+        "type": "choice",
+        "question": "What does the dandelion symbolize for Katniss?",
+        "options": [
+          "Her friendship with Gale",
+          "Hope and survival",
+          "Her hatred of the Capitol",
+          "Her childhood memories"
+        ],
+        "answer": 1,
+        "explanation": "The dandelion reminds Katniss of edible plants and survival skills she learned from her father."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss feel conflicted about Peeta?",
+        "options": [
+          "She dislikes him personally",
+          "She owes him gratitude but may have to kill him",
+          "He betrayed her family",
+          "She thinks he is lying to her"
+        ],
+        "answer": 1,
+        "explanation": "Peeta once saved her family from starvation, yet now they may become enemies in the Games."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss mean by saying the odds are 'not dependable'?",
+        "options": [
+          "The Capitol changes the rules constantly",
+          "Statistics and luck have failed her recently",
+          "Peeta is very dangerous",
+          "District 12 always loses"
+        ],
+        "answer": 1,
+        "explanation": "Prim’s selection proved that even unlikely events can still happen."
+      }
+    ]
+  }
 
 }
