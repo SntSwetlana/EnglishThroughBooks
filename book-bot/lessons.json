@@ -574,13 +574,172 @@
           "explanation": "Katniss feels deeply responsible for Prim, her mother, and their survival."
         }
       ]
+  },
+      "hunger_games_01_scene01_part06": {
+      "title": "The Hunger Games — Chapter 1 • Page 6",
+      "level": "B2/C1/C2",
+      "text": "I watch as Gale pulls out his knife and slices the bread. He could be my brother. Straight black hair, olive skin, we even have the same gray eyes. But we’re not related, at least not closely. Most of the families who work the mines resemble one another this way.\n\nThat’s why my mother and Prim, with their light hair and blue eyes, always look out of place. They are. My mother’s parents were part of the small merchant class that caters to officials, Peacekeepers, and the occasional Seam customer. They ran an apothecary shop in the nicer part of District 12. Since almost no one can afford doctors, apothecaries are our healers. My father got to know my mother because on his hunts he would sometimes collect medicinal herbs and sell them to her shop to be brewed into remedies. She must have really loved him to leave her home for the Seam. I try to remember that when all I can see is the woman who sat by, blank and unreachable, while her children turned to skin and bones. I try to forgive her for my father’s sake. But to be honest, I’m not the forgiving type.\n\nGale spreads the bread slices with the soft goat cheese, carefully placing a basil leaf on each while I strip the bushes of their berries. We settle back in a nook in the rocks. From this place, we are invisible but have a clear view of the valley, which is teeming with summer life, greens to gather, roots to dig, fish iridescent in the sunlight. The day is glorious, with a blue sky and soft breeze. The food’s wonderful, with the cheese seeping into the warm bread and the berries bursting in our mouths. Everything would be perfect if this really was a holiday, if all the day off meant was roaming the mountains with Gale, hunting for tonight’s supper. But instead we have to be standing in the square at two o’clock waiting for the names to be called out.\n\n“We could do it, you know,” Gale says quietly.\n\n“What?” I ask.\n\n“Leave the district. Run off. Live in the woods. You and I, we could make it,” says Gale.\n\nI don’t know how to respond. The idea is so preposterous.\n\n“If we didn’t have so many kids,” he adds quickly.\n\nThey’re not our kids, of course. But they might as well be. Gale’s two little brothers and a sister. Prim. And you may as well throw in our mothers, too, because how would they live without us? Who would fill those mouths that are always asking for more? With both of us hunting daily, there are still nights when game has to be swapped for lard or shoelaces or wool, still nights when we go to bed with our stomachs growling.\n\n",
+        "audio": {
+          "url": "https://t.me/LearnByTheHungerGames/30",
+          "title": "Listen to audio"
+        },
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["pull out", "вытаскивать", "pulls out his knife"],
+            ["look out of place", "выглядеть неуместно", "look out of place"],
+            ["turn to skin and bones", "превратиться в кожу да кости", "turned to skin and bones"],
+            ["settle back", "устроиться поудобнее", "We settle back"],
+            ["call out", "выкрикивать / объявлять", "called out"],
+            ["run off", "сбежать", "Run off"],
+            ["make it", "справиться / выжить", "we could make it"],
+            ["throw in", "добавить", "throw in our mothers"],
+            ["go to bed", "идти спать", "go to bed"],
+            ["swap for", "обменивать на", "has to be swapped for"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["merchant class", "торговый класс", "small merchant class"],
+            ["medicinal herbs", "лечебные травы", "collect medicinal herbs"],
+            ["brewed into remedies", "превращённые в лекарства", "brewed into remedies"],
+            ["blank and unreachable", "отрешённая и недоступная", "blank and unreachable"],
+            ["not the forgiving type", "не из тех, кто легко прощает", "not the forgiving type"],
+            ["teeming with summer life", "кишащий летней жизнью", "teeming with summer life"],
+            ["fish iridescent in the sunlight", "рыба, переливающаяся на солнце", "fish iridescent in the sunlight"],
+            ["the day is glorious", "день великолепен", "The day is glorious"],
+            ["the idea is so preposterous", "идея кажется абсурдной", "The idea is so preposterous"],
+            ["mouths that are always asking for more", "рты, которые постоянно нужно кормить", "mouths that are always asking for more"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["olive skin", "оливковая кожа", "olive skin"],
+            ["resemble one another", "быть похожими друг на друга", "resemble one another"],
+            ["for my father's sake", "ради моего отца", "for my father’s sake"],
+            ["cheese seeping into the warm bread", "сыр, просачивающийся в тёплый хлеб", "cheese seeping into the warm bread"],
+            ["berries bursting in our mouths", "ягоды лопаются во рту", "berries bursting in our mouths"],
+            ["hunting for tonight's supper", "охотясь на сегодняшний ужин", "hunting for tonight’s supper"],
+            ["they might as well be", "они вполне могли бы быть", "might as well be"],
+            ["stomachs growling", "урчание в животе от голода", "stomachs growling"]
+          ]
+        }
+      },
+
+      "questions": [
+        {
+          "type":"choice",
+          "question":"Why does Katniss think Prim and her mother look different from most people in the Seam?",
+          "options":[
+            "They wear Capitol clothes",
+            "They have light hair and blue eyes",
+            "They are from another district",
+            "They are richer than everyone else"
+          ],
+          "answer":1,
+          "explanation":"Most Seam families have dark hair, olive skin, and gray eyes."
+        },
+
+        {
+          "type":"choice",
+          "question":"What did Katniss's father sell to her mother's family?",
+          "options":[
+            "coal",
+            "fish",
+            "medicinal herbs",
+            "bread"
+          ],
+          "answer":2,
+          "explanation":"He collected medicinal herbs and sold them to the apothecary."
+        },
+
+        {
+          "type":"choice",
+          "question":"What does 'turned to skin and bones' mean?",
+          "options":[
+            "Became stronger",
+            "Became extremely thin from hunger",
+            "Became sick",
+            "Became older"
+          ],
+          "answer":1,
+          "explanation":"The phrase describes severe starvation."
+        },
+
+        {
+          "type":"choice",
+          "question":"Why does Katniss struggle to forgive her mother?",
+          "options":[
+            "She abandoned the family",
+            "She became emotionally distant after her father's death",
+            "She worked for the Capitol",
+            "She sold family possessions"
+          ],
+          "answer":1,
+          "explanation":"Katniss remembers her mother becoming blank and unreachable."
+        },
+
+        {
+          "type":"choice",
+          "question":"Why does Gale suggest leaving District 12?",
+          "options":[
+            "He wants to join the Capitol",
+            "He believes they could survive in the woods",
+            "He wants adventure",
+            "He hates hunting"
+          ],
+          "answer":1,
+          "explanation":"Gale thinks they could live independently in nature."
+        },
+
+        {
+          "type":"choice",
+          "question":"Why does Katniss reject the idea of leaving?",
+          "options":[
+            "She fears the woods",
+            "She wants to stay in school",
+            "She cannot leave Prim and their families",
+            "She dislikes Gale"
+          ],
+          "answer":2,
+          "explanation":"Katniss feels responsible for the people she loves."
+        },
+
+        {
+          "type":"choice",
+          "question":"What does Katniss become jealous about?",
+          "options":[
+            "Gale's money",
+            "Gale's hunting skills",
+            "The attention girls give Gale",
+            "Gale's family"
+          ],
+          "answer":2,
+          "explanation":"She notices girls whispering about Gale."
+        },
+
+        {
+          "type":"choice",
+          "question":"Why do people celebrate after the reaping?",
+          "options":[
+            "Because of a holiday",
+            "Because their children survived another year",
+            "Because they receive food",
+            "Because school ends"
+          ],
+          "answer":1,
+          "explanation":"Families feel relief if their children were not chosen."
+        }
+      ]
     },
-    "hunger_games_01_scene01_part6": {
-        "title": "The Hunger Games — Chapter 1 • Page 6",
+    "hunger_games_01_scene01_part7": {
+        "title": "The Hunger Games — Chapter 1 • Page 7",
         "level": "B2/C1/C2",
         "text": "“I never want to have kids,” I say.\n\n“I might. If I didn’t live here,” says Gale.\n\n“But you do,” I say, irritated.\n\n“Forget it,” he snaps back.\n\nThe conversation feels all wrong. Leave? How could I leave Prim, who is the only person in the world I’m certain I love? And Gale is devoted to his family. We can’t leave, so why bother talking about it? And even if we did… even if we did… where did this stuff about having kids come from? There’s never been anything romantic between Gale and me. When we met, I was a skinny twelve-year-old, and although he was only two years older, he already looked like a man. It took a long time for us to even become friends, to stop haggling over every trade and begin helping each other out.\n\nBesides, if he wants kids, Gale won’t have any trouble finding a wife. He’s good-looking, he’s strong enough to handle the work in the mines, and he can hunt. You can tell by the way the girls whisper about him when he walks by in school that they want him. It makes me jealous but not for the reason people would think. Good hunting partners are hard to find.\n\n“What do you want to do?” I ask. We can hunt, fish, or gather.\n\n“Let’s fish at the lake. We can leave our poles and gather in the woods. Get something nice for tonight,” he says.\n\nTonight. After the reaping, everyone is supposed to celebrate. And a lot of people do, out of relief that their children have been spared for another year. But at least two families will pull their shutters, lock their doors, and try to figure out how they will survive the painful weeks to come.\n\nWe make out well. The predators ignore us on a day when easier, tastier prey abounds. By late morning, we have a dozen fish, a bag of greens and, best of all, a gallon of strawberries. I found the patch a few years ago, but Gale had the idea to string mesh nets around it to keep out the animals.",
         "audio": {
-          "url": "https://t.me/LearnByTheHungerGames/24",
+          "url": "https://t.me/LearnByTheHungerGames/31",
           "title": "🎧 Listen to audio"
         },
         "levels": {
@@ -700,12 +859,12 @@
             }
           ]
       },
-    "hunger_games_01_scene01_part7": {
-        "title": "The Hunger Games — Chapter 1 • Page 7",
+    "hunger_games_01_scene01_part8": {
+        "title": "The Hunger Games — Chapter 1 • Page 8",
         "level": "B2/C1/C2",
         "text": "On the way home, we swing by the Hob, the black market that operates in an abandoned warehouse that once held coal. When they came up with a more efficient system that transported the coal directly from the mines to the trains, the Hob gradually took over the space. Most businesses are closed by this time on reaping day, but the black market’s still fairly busy. We easily trade six of the fish for good bread, the other two for salt. Greasy Sae, the bony old woman who sells bowls of hot soup from a large kettle, takes half the greens off our hands in exchange for a couple of chunks of paraffin. We might do a tad better elsewhere, but we make an effort to keep on good terms with Greasy Sae. She’s the only one who can consistently be counted on to buy wild dog. We don’t hunt them on purpose, but if you’re attacked and you take out a dog or two, well, meat is meat. “Once it’s in the soup, I’ll call it beef,” Greasy Sae says with a wink. No one in the Seam would turn up their nose at a good leg of wild dog, but the Peacekeepers who come to the Hob can afford to be a little choosier.\n\nWhen we finish our business at the market, we go to the back door of the mayor’s house to sell half the strawberries, knowing he has a particular fondness for them and can afford our price. The mayor’s daughter, Madge, opens the door. She’s in my year at school. Being the mayor’s daughter, you’d expect her to be a snob, but she’s all right. She just keeps to herself. Like me. Since neither of us really has a group of friends, we seem to end up together a lot at school. Eating lunch, sitting next to each other at assemblies, partnering for sports activities. We rarely talk, which suits us both just fine.\n\nToday her drab school outfit has been replaced by an expensive white dress, and her blonde hair is done up with a pink ribbon. Reaping clothes.\n\n“Pretty dress,” says Gale.\n\nMadge shoots him a look, trying to see if it’s a genuine compliment or if he’s just being ironic. It is a pretty dress, but she would never be wearing it ordinarily. She presses her lips together and then smiles. “Well, if I end up going to the Capitol, I want to look nice, don’t I?”\n\nNow it’s Gale’s turn to be confused. Does she mean it? Or is she messing with him? I’m guessing the second.\n\n“You won’t be going to the Capitol,” says Gale coolly. His eyes land on a small, circular pin that adorns her dress. Real gold. Beautifully crafted. It could keep a family in bread for months. “What can you have? Five entries? I had six when I was just twelve years old.”\n\n“That’s not her fault,” I say.\n\n“No, it’s no one’s fault. Just the way it is,” says Gale. Madge’s face has become closed off. She puts the money for the berries in my hand. “Good luck, Katniss.”\n\n“You, too,” I say, and the door closes.",
         "audio": {
-          "url": "https://t.me/LearnByTheHungerGames/25",
+          "url": "https://t.me/LearnByTheHungerGames/32",
           "title": "🎧 Listen to audio"
         },
         "levels": {
@@ -829,10 +988,14 @@
         ]
     
       },
-      "hunger_games_01_scene01_part8": {
-      "title": "The Hunger Games — Chapter 1 • Page 8",
+      "hunger_games_01_scene01_part9": {
+      "title": "The Hunger Games — Chapter 1 • Page 9",
       "level": "B2/C1/C2",
       "text": "We walk toward the Seam in silence. I don’t like that Gale took a dig at Madge, but he’s right, of course. The reaping system is unfair, with the poor getting the worst of it. You become eligible for the reaping the day you turn twelve. That year, your name is entered once. At thirteen, twice. And so on and so on until you reach the age of eighteen, the final year of eligibility, when your name goes into the pool seven times. That’s true for every citizen in all twelve districts in the entire country of Panem.\n\nBut here’s the catch. Say you are poor and starving as we were. You can opt to add your name more times in exchange for tesserae. Each tessera is worth a meager year’s supply of grain and oil for one person. You may do this for each of your family members as well. So, at the age of twelve, I had my name entered four times. Once, because I had to, and three times for tesserae for grain and oil for myself, Prim, and my mother. In fact, every year I have needed to do this. And the entries are cumulative. So now, at the age of sixteen, my name will be in the reaping twenty times. Gale, who is eighteen and has been either helping or single-handedly feeding a family of five for seven years, will have his name in forty-two times.\n\nYou can see why someone like Madge, who has never been at risk of needing a tessera, can set him off. The chance of her name being drawn is very slim compared to those of us who live in the Seam. Not impossible, but slim. And even though the rules were set up by the Capitol, not the districts, certainly not Madge’s family, it’s hard not to resent those who don’t have to sign up for tesserae.\n\nGale knows his anger at Madge is misdirected. On other days, deep in the woods, I’ve listened to him rant about how the tesserae are just another tool to cause misery in our district. A way to plant hatred between the starving workers of the Seam and those who can generally count on supper and thereby ensure we will never trust one another. “It’s to the Capitol’s advantage to have us divided among ourselves,” he might say if there were no ears to hear but mine. If it wasn’t reaping day. If a girl with a gold pin and no tesserae had not made what I’m sure she thought was a harmless comment.\n\nAs we walk, I glance over at Gale’s face, still smoldering underneath his stony expression. His rages seem pointless to me, although I never say so. It’s not that I don’t agree with him. I do. But what good is yelling about the Capitol in the middle of the woods? It doesn’t change anything. It doesn’t make things fair. It doesn’t fill our stomachs. In fact, it scares off the nearby game. I let him yell though. Better he does it in the woods than in the district.",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/33",
+        "title": "🎧 Listen to audio"
+      },
       "levels": {
         "B2": {
           "quizlet": [
@@ -959,10 +1122,14 @@
         }
       ]
     },
-    "hunger_games_01_scene01_part9": {
-      "title": "The Hunger Games — Chapter 1 • Page 9",
+    "hunger_games_01_scene01_part10": {
+      "title": "The Hunger Games — Chapter 1 • Page 10",
       "level": "B2/C1/C2",
       "text": "Gale and I divide our spoils, leaving two fish, a couple of loaves of good bread, greens, a quart of strawberries, salt, paraffin, and a bit of money for each.\n\n“See you in the square,” I say.\n\n“Wear something pretty,” he says flatly.\n\nAt home, I find my mother and sister are ready to go. My mother wears a fine dress from her apothecary days. Prim is in my first reaping outfit, a skirt and ruffled blouse. It’s a bit big on her, but my mother has made it stay with pins. Even so, she’s having trouble keeping the blouse tucked in at the back.\n\nA tub of warm water waits for me. I scrub off the dirt and sweat from the woods and even wash my hair. To my surprise, my mother has laid out one of her own lovely dresses for me. A soft blue thing with matching shoes.\n\n“Are you sure?” I ask. I’m trying to get past rejecting offers of help from her. For a while, I was so angry, I wouldn’t allow her to do anything for me. And this is something special. Her clothes from her past are very precious to her.\n\n“Of course. Let’s put your hair up, too,” she says. I let her towel-dry it and braid it up on my head. I can hardly recognize myself in the cracked mirror that leans against the wall.\n\n“You look beautiful,” says Prim in a hushed voice.\n\n“And nothing like myself,” I say. I hug her, because I know these next few hours will be terrible for her. Her first reaping. She’s about as safe as you can get, since she’s only entered once. I wouldn’t let her take out any tesserae. But she’s worried about me. That the unthinkable might happen.\n\nI protect Prim in every way I can, but I’m powerless against the reaping. The anguish I always feel when she’s in pain wells up in my chest and threatens to register on my face. I notice her blouse has pulled out of her skirt in the back again and force myself to stay calm. “Tuck your tail in, little duck,” I say, smoothing the blouse back in place.\n\nPrim giggles and gives me a small “Quack.”\n\n“Quack yourself,” I say with a light laugh. The kind only Prim can draw out of me. “Come on, let’s eat,” I say and plant a quick kiss on the top of her head.\n\nThe fish and greens are already cooking in a stew, but that will be for supper. We decide to save the strawberries and bakery bread for this evening’s meal, to make it special we say. Instead we drink milk from Prim’s goat, Lady, and eat the rough bread made from the tessera grain, although no one has much appetite anyway.\n\nAt one o’clock, we head for the square. Attendance is mandatory unless you are on death’s door. This evening, officials will come around and check to see if this is the case. If not, you’ll be imprisoned.",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/34",
+        "title": "🎧 Listen to audio"
+      },
       "levels": {
         "B2": {
         "quizlet": [
@@ -1103,10 +1270,14 @@
         }
       ]
     },
-    "hunger_games_01_scene01_part10": {
-      "title": "The Hunger Games — Chapter 1 • Page 10",
+    "hunger_games_01_scene01_part11": {
+      "title": "The Hunger Games — Chapter 1 • Page 11",
       "level": "B2/C1/C2",
       "text": "It’s too bad, really, that they hold the reaping in the square — one of the few places in District 12 that can be pleasant. The square’s surrounded by shops, and on public market days, especially if there’s good weather, it has a holiday feel to it. But today, despite the bright banners hanging on the buildings, there’s an air of grimness. The camera crews, perched like buzzards on rooftops, only add to the effect.\n\nPeople file in silently and sign in. The reaping is a good opportunity for the Capitol to keep tabs on the population as well. Twelve- through eighteen-year-olds are herded into roped areas marked off by ages, the oldest in the front, the young ones, like Prim, toward the back. Family members line up around the perimeter, holding tightly to one another’s hands. But there are others, too, who have no one they love at stake, or who no longer care, who slip among the crowd, taking bets on the two kids whose names will be drawn. Odds are given on their ages, whether they’re Seam or merchant, if they will break down and weep. Most refuse dealing with the racketeers but carefully, carefully. These same people tend to be informers, and who hasn’t broken the law? I could be shot on a daily basis for hunting, but the appetites of those in charge protect me. Not everyone can claim the same.\n\nAnyway, Gale and I agree that if we have to choose between dying of hunger and a bullet in the head, the bullet would be much quicker.\n\nThe space gets tighter, more claustrophobic as people arrive. The square’s quite large, but not enough to hold District 12’s population of about eight thousand. Latecomers are directed to the adjacent streets, where they can watch the event on screens as it’s televised live by the state.\n\nI find myself standing in a clump of sixteens from the Seam. We all exchange terse nods then focus our attention on the temporary stage that is set up before the Justice Building. It holds three chairs, a podium, and two large glass balls, one for the boys and one for the girls. I stare at the paper slips in the girls’ ball. Twenty of them have Katniss Everdeen written on them in careful handwriting.\n\nTwo of the three chairs fill with Madge’s father, Mayor Undersee, who’s a tall, balding man, and Effie Trinket, District 12’s escort, fresh from the Capitol with her scary white grin, pinkish hair, and spring green suit. They murmur to each other and then look with concern at the empty seat.\n\nJust as the town clock strikes two, the mayor steps up to the podium and begins to read. It’s the same story every year. He tells of the history of Panem, the country that rose up out of the ashes of a place that was once called North America. He lists the disasters, the droughts, the storms, the fires, the encroaching seas that swallowed up so much of the land, the brutal war for what little sustenance remained. The result was Panem, a shining Capitol ringed by thirteen districts, which brought peace and prosperity to its citizens. Then came the Dark Days, the uprising of the districts against the Capitol. Twelve were defeated, the thirteenth obliterated. The Treaty of Treason gave us the new laws to guarantee peace and, as our yearly reminder that the Dark Days must never be repeated, it gave us the Hunger Games.",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/35",
+        "title": "🎧 Listen to audio"
+      },
       "levels": {
         "B2": {
           "quizlet": [
@@ -1231,10 +1402,14 @@
         }    
       ]
     },
-    "hunger_games_01_scene01_part11": {
-    "title": "The Hunger Games — Chapter 1 • Page 11",
+    "hunger_games_01_scene01_part12": {
+    "title": "The Hunger Games — Chapter 1 • Page 12",
     "level": "B2/C1/C2",
-    "text": "The rules of the Hunger Games are simple. In punishment for the uprising, each of the twelve districts must provide one girl and one boy, called tributes, to participate. The twenty-four tributes will be imprisoned in a vast outdoor arena that could hold anything from a burning desert to a frozen wasteland. Over a period of several weeks, the competitors must fight to the death. The last tribute standing wins.\n\nTaking the kids from our districts, forcing them to kill one another while we watch — this is the Capitol’s way of reminding us how totally we are at their mercy. How little chance we would stand of surviving another rebellion.\n\nWhatever words they use, the real message is clear. “Look how we take your children and sacrifice them and there’s nothing you can do. If you lift a finger, we will destroy every last one of you. Just as we did in District Thirteen.”\n\nTo make it humiliating as well as torturous, the Capitol requires us to treat the Hunger Games as a festivity, a sporting event pitting every district against the others. The last tribute alive receives a life of ease back home, and their district will be showered with prizes, largely consisting of food. All year, the Capitol will show the winning district gifts of grain and oil and even delicacies like sugar while the rest of us battle starvation.\n\n“It is both a time for repentance and a time for thanks,” intones the mayor.\n\nThen he reads the list of past District 12 victors. In seventy-four years, we have had exactly two. Only one is still alive. Haymitch Abernathy, a paunchy, middle-aged man, who at this moment appears hollering something unintelligible, staggers onto the stage, and falls into the third chair. He’s drunk. Very. The crowd responds with its token applause, but he’s confused and tries to give Effie Trinket a big hug, which she barely manages to fend off.\n\nThe mayor looks distressed. Since all of this is being televised, right now District 12 is the laughingstock of Panem, and he knows it. He quickly tries to pull the attention back to the reaping by introducing Effie Trinket.\n\nBright and bubbly as ever, Effie Trinket trots to the podium and gives her signature, “Happy Hunger Games! And may the odds be ever in your favor!” Her pink hair must be a wig because her curls have shifted slightly off-center since her encounter with Haymitch. She goes on a bit about what an honor it is to be here, although everyone knows she’s just aching to get bumped up to a better district where they have proper victors, not drunks who molest you in front of the entire nation.\n\nThrough the crowd, I spot Gale looking back at me with a ghost of a smile. As reapings go, this one at least has a slight entertainment factor. But suddenly I am thinking of Gale and his forty-two names in that big glass ball and how the odds are not in his favor. Not compared to a lot of the boys. And maybe he’s thinking the same thing about me because his face darkens and he turns away. “But there are still thousands of slips,” I wish I could whisper to him.\n\nIt’s time for the drawing. Effie Trinket says as she always does, “Ladies first!” and crosses to the glass ball with the girls’ names. She reaches in, digs her hand deep into the ball, and pulls out a slip of paper. The crowd draws in a collective breath and then you can hear a pin drop, and I’m feeling nauseous and so desperately hoping that it’s not me, that it’s not me, that it’s not me.\n\nEffie Trinket crosses back to the podium, smoothes the slip of paper, and reads out the name in a clear voice. And it’s not me.\n\nIt’s Primrose Everdeen.",
+    "text": "",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/36",
+        "title": "🎧 Listen to audio"
+      },
     "levels": {
       "B2": {
         "quizlet": [
@@ -1404,7 +1579,7 @@
           ["take someone’s place", "занять чьё-то место", "to replace someone"],
           ["there must have been some mistake", "должно быть, произошла ошибка", "used when something seems impossible"],
           ["let go", "отпусти", "stop holding someone"],
-          ["make note of", "обратить внимание на", "to notice carefully"],
+          ["make note of", "обратить внимание на", "to notice carefully"], 
           ["an easy target", "лёгкая цель", "someone vulnerable to attack"]
         ]
       },
