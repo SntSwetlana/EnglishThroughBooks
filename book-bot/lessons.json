@@ -1595,55 +1595,53 @@
     "levels": {
       "B2": {
         "quizlet": [
-          ["doze off", "задремать", "to fall asleep unintentionally"],
-          ["fall to the ground", "упасть на землю", "to fall onto the ground"],
-          ["unable to speak", "не в состоянии говорить", "unable to say anything"],
-          ["make way", "уступить дорогу", "to move aside for someone"],
-          ["reach the stage", "добраться до сцены", "to arrive at the stage"],
-          ["push someone behind", "оттолкнуть назад", "to move someone behind you"],
-          ["step forward", "выйти вперёд", "to volunteer or move ahead"],
-          ["take someone’s place", "занять чьё-то место", "to replace someone"],
-          ["there must have been some mistake", "должно быть, произошла ошибка", "used when something seems impossible"],
-          ["let go", "отпусти", "stop holding someone"],
-          ["make note of", "обратить внимание на", "to notice carefully"], 
-          ["an easy target", "лёгкая цель", "someone vulnerable to attack"]
+          ["doze off", "задремать", "I dozed off"],
+          ["fall to the ground", "упасть на землю", "fell ten feet to the ground"],
+          ["unable to speak", "не в состоянии говорить", "unable to speak"],
+          ["make way", "уступить дорогу", "make way immediately"],
+          ["reach the stage", "добраться до сцены", "I reach her just as she is about to mount the steps"],
+          ["push someone behind", "оттолкнуть назад", "I push her behind me"],
+          ["step forward", "выйти вперёд", "can step forward"],
+          ["take someone’s place", "занять чьё-то место", "take his or her place"],
+          ["there must have been some mistake", "должно быть, произошла ошибка", "There must have been some mistake"],
+          ["let go", "отпусти", "Prim, let go"],
+          ["make note of", "обратить внимание на", "everyone will make note of my tears"],
+          ["an easy target", "лёгкая цель", "an easy target"]
         ]
       },
-
       "C1": {
         "quizlet": [
-          ["knock the air out of someone’s lungs", "выбить воздух из лёгких", "to leave someone unable to breathe after impact"],
-          ["totally stunned", "полностью ошеломлённый", "completely shocked"],
-          ["grip someone’s arm", "схватить кого-то за руку", "to hold tightly"],
-          ["chances were remote", "шансы были ничтожны", "very unlikely"],
-          ["blood drained from her face", "кровь отхлынула от лица", "she became pale from shock"],
-          ["hands clenched in fists", "руки сжаты в кулаки", "hands closed tightly from tension"],
-          ["stiff, small steps", "скованные маленькие шаги", "awkward tense movement"],
-          ["a strangled cry", "сдавленный крик", "a broken choked cry"],
-          ["the protocol has become rusty", "процедура стала забываться", "people no longer remember the rules well"],
-          ["synonymous with", "синонимично чему-то", "having nearly the same meaning"],
-          ["a pained expression", "страдальческое выражение лица", "a face showing emotional pain"],
-          ["faint recognition", "смутное узнавание", "slight familiarity"],
-          ["upsetting me", "расстраивает меня", "making me emotionally distressed"],
-          ["marked as a weakling", "считаться слабаком", "to be seen as weak"],
-          ["trail off", "замолкать", "to stop speaking gradually"]
+          ["knock the air out of someone’s lungs", "выбить воздух из лёгких", "knocked every wisp of air from my lungs"],
+          ["totally stunned", "полностью ошеломлённый", "totally stunned"],
+          ["grip someone’s arm", "схватить кого-то за руку", "Someone is gripping my arm"],
+          ["chances were remote", "шансы были ничтожны", "Her chances of being chosen so remote"],
+          ["blood drained from her face", "кровь отхлынула от лица", "the blood drained from her face"],
+          ["hands clenched in fists", "руки сжаты в кулаки", "hands clenched in fists"],
+          ["stiff, small steps", "скованные маленькие шаги", "walking with stiff, small steps"],
+          ["a strangled cry", "сдавленный крик", "The strangled cry"],
+          ["the protocol has become rusty", "процедура стала забываться", "the protocol has become rusty"],
+          ["synonymous with", "синонимично чему-то", "synonymous with the word corpse"],
+          ["a pained expression", "страдальческое выражение лица", "a pained expression on his face"],
+          ["faint recognition", "смутное узнавание", "a faint recognition there"],
+          ["upsetting me", "расстраивает меня", "this is upsetting me"],
+          ["marked as a weakling", "считаться слабаком", "marked as an easy target. A weakling"],
+          ["trail off", "замолкать", "she trails off"]
         ]
       },
-
       "C2": {
         "quizlet": [
-          ["every wisp of air", "каждый клочок воздуха", "every tiny amount of air"],
-          ["the name bounces around inside my skull", "имя стучит у меня в голове", "thoughts repeat uncontrollably"],
-          ["one slip of paper in thousands", "один листок среди тысяч", "an extremely tiny chance"],
-          ["the odds had been entirely in her favor", "шансы были полностью на её стороне", "everything statistically favored her"],
-          ["it hadn’t mattered", "это не имело значения", "the expected outcome failed anyway"],
-          ["brings me back to myself", "приводит меня в чувство", "makes someone regain awareness"],
-          ["with one sweep of my arm", "одним движением руки", "with one fast movement"],
-          ["all but extinct", "почти вымерший", "nearly disappeared completely"],
-          ["come forth", "выйти вперёд", "to appear or volunteer formally"],
-          ["wrapped her arms around me like a vice", "обвила меня руками как тисками", "held extremely tightly"],
-          ["I will give no one that satisfaction", "я никому не доставлю такого удовольствия", "I refuse to show weakness"],
-          ["vaporized in the mines", "испарился в шахтах", "destroyed completely in an explosion"]
+          ["every wisp of air", "каждый клочок воздуха", "every wisp of air from my lungs"],
+          ["the name bounces around inside my skull", "имя стучит у меня в голове", "the name bounces around the inside of my skull"],
+          ["one slip of paper in thousands", "один листок среди тысяч", "One slip. One slip in thousands"],
+          ["the odds had been entirely in her favor", "шансы были полностью на её стороне", "The odds had been entirely in her favor"],
+          ["it hadn’t mattered", "это не имело значения", "But it hadn’t mattered"],
+          ["brings me back to myself", "приводит меня в чувство", "brings me back to myself"],
+          ["with one sweep of my arm", "одним движением руки", "With one sweep of my arm"],
+          ["all but extinct", "почти вымерший", "volunteers are all but extinct"],
+          ["come forth", "выйти вперёд", "if one does come forth"],
+          ["wrapped her arms around me like a vice", "обвила меня руками как тисками", "wrapped her skinny arms around me like a vice"],
+          ["I will give no one that satisfaction", "я никому не доставлю такого удовольствия", "I will give no one that satisfaction"],
+          ["vaporized in the mines", "испарился в шахтах", "vaporized in the mines"]
         ]
       }
     },
@@ -1718,62 +1716,62 @@
     "level": "B2/C1/C2",
     "text": "I can feel someone pulling her from my back. I turn and see Gale has lifted Prim off the ground and she’s thrashing in his arms. “Up you go, Catnip,” he says, in a voice he’s fighting to keep steady, and then he carries Prim off toward my mother. I steel myself and climb the steps.\n\n“Well, bravo!” gushes Effie Trinket. “That’s the spirit of the Games!” She’s pleased to finally have a district with a little action going on in it. “What’s your name?”\n\nI swallow hard. “Katniss Everdeen,” I say.\n\n“I bet my buttons that was your sister. Don’t want her to steal all the glory, do we? Come on, everybody! Let’s give a big round of applause to our newest tribute!” trills Effie Trinket.\n\nTo the everlasting credit of the people of District 12, not one person claps. Not even the ones holding betting slips, the ones who are usually beyond caring. Possibly because they know me from the Hob, or knew my father, or have encountered Prim, who no one can help loving. So instead of acknowledging applause, I stand there unmoving while they take part in the boldest form of dissent they can manage. Silence. Which says we do not agree. We do not condone. All of this is wrong.\n\nThen something unexpected happens. At least, I don’t expect it because I don’t think of District 12 as a place that cares about me. But a shift has occurred since I stepped up to take Prim’s place, and now it seems I have become someone precious. At first one, then another, then almost every member of the crowd touches the three middle fingers of their left hand to their lips and holds it out to me. It is an old and rarely used gesture of our district, occasionally seen at funerals. It means thanks, it means admiration, it means good-bye to someone you love.\n\nNow I am truly in danger of crying, but fortunately Haymitch chooses this time to come staggering across the stage to congratulate me. “Look at her. Look at this one!” he hollers, throwing an arm around my shoulders. He’s surprisingly strong for such a wreck. “I like her!” His breath reeks of liquor and it’s been a long time since he’s bathed. “Lots of… “ He can’t think of the word for a while. “Spunk!” he says triumphantly. “More than you!” he releases me and starts for the front of the stage. “More than you!” he shouts, pointing directly into a camera.\n\nIs he addressing the audience or is he so drunk he might actually be taunting the Capitol? I’ll never know because just as he’s opening his mouth to continue, Haymitch plummets off the stage and knocks himself unconscious.\n\nHe’s disgusting, but I’m grateful. With every camera gleefully trained on him, I have just enough time to release the small, choked sound in my throat and compose myself. I put my hands behind my back and stare into the distance.\n\nI can see the hills I climbed this morning with Gale. For a moment, I yearn for something… the idea of us leaving the district… making our way in the woods… but I know I was right about not running off. Because who else would have volunteered for Prim?\n\nHaymitch is whisked away on a stretcher, and Effie Trinket is trying to get the ball rolling again. “What an exciting day!” she warbles as she attempts to straighten her wig, which has listed severely to the right. “But more excitement to come! It’s time to choose our boy tribute!” Clearly hoping to contain her tenuous hair situation, she plants one hand on her head as she crosses to the ball that contains the boys’ names and grabs the first slip she encounters. She zips back to the podium, and I don’t even have time to wish for Gale’s safety when she’s reading the name. “Peeta Mellark.”\n\nPeeta Mellark!\n\nOh, no, I think. Not him. Because I recognize this name, although I have never spoken directly to its owner. Peeta Mellark.",
     "levels": {
-      "B2": {
-        "quizlet": [
-          ["swallow hard", "с трудом сглотнуть", "to swallow because of nervousness"],
-          ["a round of applause", "бурные аплодисменты", "clapping to show approval"],
-          ["beyond caring", "уже всё равно", "no longer emotionally concerned"],
-          ["stare into the distance", "смотреть вдаль", "to look far away thoughtfully"],
-          ["climb the steps", "подниматься по ступеням", "to walk up stairs"],
-          ["straighten a wig", "поправлять парик", "to adjust a wig"],
-          ["wish for someone’s safety", "желать кому-то безопасности", "to hope someone stays safe"],
-          ["recognize a name", "узнать имя", "to know or remember a name"],
-          ["carry someone off", "унести кого-то", "to take someone away"],
-          ["hold betting slips", "держать ставки", "to have betting papers"],
-          ["not one person claps", "никто не хлопает", "complete silence instead of applause"],
-          ["What’s your name?", "Как тебя зовут?", "asking someone to identify themselves"]
-        ]
-      },
+"B2": {
+  "quizlet": [
+    ["swallow hard", "с трудом сглотнуть", "I swallow hard"],
+    ["a round of applause", "бурные аплодисменты", "a big round of applause"],
+    ["beyond caring", "уже всё равно", "beyond caring"],
+    ["stare into the distance", "смотреть вдаль", "stare into the distance"],
+    ["climb the steps", "подниматься по ступеням", "climb the steps"],
+    ["straighten a wig", "поправлять парик", "straighten her wig"],
+    ["wish for someone’s safety", "желать кому-то безопасности", "wish for Gale's safety"],
+    ["recognize a name", "узнать имя", "I recognize this name"],
+    ["carry someone off", "унести кого-то", "carries Prim off"],
+    ["hold betting slips", "держать ставки", "holding betting slips"],
+    ["not one person claps", "никто не хлопает", "not one person claps"],
+    ["What's your name?", "Как тебя зовут?", "What's your name"]
+  ]
+},
 
-      "C1": {
-        "quizlet": [
-          ["thrashing in someone’s arms", "биться в чьих-то руках", "moving violently while being held"],
-          ["fight to keep one’s voice steady", "пытаться удержать голос ровным", "to struggle not to sound emotional"],
-          ["steel oneself", "собраться с духом", "to prepare mentally for difficulty"],
-          ["gush", "восторженно тараторить", "to speak with excessive enthusiasm"],
-          ["take part in dissent", "участвовать в протесте", "to join an act of disagreement"],
-          ["a shift has occurred", "произошёл сдвиг", "a change has taken place"],
-          ["become someone precious", "стать кем-то дорогим", "to become highly valued"],
-          ["stagger across the stage", "шатаясь идти по сцене", "to walk unsteadily"],
-          ["reeks of liquor", "сильно пахнет алкоголем", "smells strongly of alcohol"],
-          ["compose oneself", "взять себя в руки", "to regain emotional control"],
-          ["yearn for something", "страстно желать чего-то", "to deeply long for something"],
-          ["get the ball rolling", "сдвинуть дело с мёртвой точки", "to restart an activity"],
-          ["point directly into a camera", "указывать прямо в камеру", "to gesture toward the camera"],
-          ["address the audience", "обращаться к аудитории", "to speak to viewers or listeners"],
-          ["spoken directly to its owner", "говорить напрямую с владельцем", "to personally talk to someone"]
-        ]
-      },
+ "C1": {
+  "quizlet": [
+    ["thrashing in someone's arms", "биться в чьих-то руках", "thrashing in his arms"],
+    ["fight to keep one's voice steady", "пытаться удержать голос ровным", "fighting to keep steady"],
+    ["steel oneself", "собраться с духом", "I steel myself"],
+    ["gush", "восторженно тараторить", "gushes Effie Trinket"],
+    ["take part in dissent", "участвовать в протесте", "take part in the boldest form of dissent"],
+    ["a shift has occurred", "произошёл сдвиг", "a shift has occurred"],
+    ["become someone precious", "стать кем-то дорогим", "become someone precious"],
+    ["stagger across the stage", "шатаясь идти по сцене", "come staggering across the stage"],
+    ["reeks of liquor", "сильно пахнет алкоголем", "breath reeks of liquor"],
+    ["compose oneself", "взять себя в руки", "compose myself"],
+    ["yearn for something", "страстно желать чего-то", "I yearn for something"],
+    ["get the ball rolling", "сдвинуть дело с мёртвой точки", "get the ball rolling again"],
+    ["point directly into a camera", "указывать прямо в камеру", "pointing directly into a camera"],
+    ["address the audience", "обращаться к аудитории", "addressing the audience"],
+    ["spoken directly to its owner", "говорить напрямую с владельцем", "spoken directly to its owner"]
+  ]
+},
 
-      "C2": {
-        "quizlet": [
-          ["to the everlasting credit of", "к вечной чести", "deserving permanent praise"],
-          ["the boldest form of dissent", "самая смелая форма протеста", "the strongest silent protest possible"],
-          ["we do not condone", "мы не одобряем", "we refuse to approve morally"],
-          ["a rarely used gesture", "редко используемый жест", "an uncommon symbolic sign"],
-          ["good-bye to someone you love", "прощание с тем, кого любишь", "a final farewell"],
-          ["truly in danger of crying", "действительно на грани слёз", "close to breaking emotionally"],
-          ["surprisingly strong for such a wreck", "удивительно сильный для такой развалины", "strong despite looking ruined"],
-          ["gleefully trained on him", "радостно направлены на него", "cameras eagerly focused on him"],
-          ["release a small, choked sound", "издать тихий сдавленный звук", "to let out a restrained emotional sound"],
-          ["making our way in the woods", "пробиваться через леса", "surviving independently in nature"],
-          ["whisked away on a stretcher", "быстро унесён на носилках", "taken away urgently"],
-          ["contain her tenuous hair situation", "удержать катастрофу с причёской под контролем", "trying to manage an embarrassing appearance problem"],
-          ["listed severely to the right", "сильно съехал вправо", "leaned heavily to one side"],
-          ["taunting the Capitol", "насмехаться над Капитолием", "provoking or mocking authority"],
-          ["plummets off the stage", "рухнуть со сцены", "to fall suddenly and heavily"]
-        ]
-      }
+"C2": {
+  "quizlet": [
+    ["to the everlasting credit of", "к вечной чести", "To the everlasting credit of"],
+    ["the boldest form of dissent", "самая смелая форма протеста", "the boldest form of dissent"],
+    ["we do not condone", "мы не одобряем", "We do not condone"],
+    ["a rarely used gesture", "редко используемый жест", "rarely used gesture"],
+    ["good-bye to someone you love", "прощание с тем, кого любишь", "good-bye to someone you love"],
+    ["truly in danger of crying", "действительно на грани слёз", "truly in danger of crying"],
+    ["surprisingly strong for such a wreck", "удивительно сильный для такой развалины", "strong for such a wreck"],
+    ["gleefully trained on him", "радостно направлены на него", "gleefully trained on him"],
+    ["release a small, choked sound", "издать тихий сдавленный звук", "small, choked sound"],
+    ["making our way in the woods", "пробиваться через леса", "making our way in the woods"],
+    ["whisked away on a stretcher", "быстро унесён на носилках", "whisked away on a stretcher"],
+    ["contain her tenuous hair situation", "удержать катастрофу с причёской под контролем", "contain her tenuous hair situation"],
+    ["listed severely to the right", "сильно съехал вправо", "listed severely to the right"],
+    ["taunting the Capitol", "насмехаться над Капитолием", "taunting the Capitol"],
+    ["plummets off the stage", "рухнуть со сцены", "plummets off the stage"]
+  ]
+}
     },
 
     "questions": [
@@ -1844,7 +1842,7 @@
       "part": "Page 3",
       "title": "Chapter 2 Page 3",
     "level": "B2/C1/C2",
-    "text": "Peeta Mellark!\n\nOh, no, I think. Not him. Because I recognize this name, although I have never spoken directly to its owner. Peeta Mellark.\n\nNo, the odds are not in my favor today. I watch him as he makes his way toward the stage. Medium height, stocky build, ashy blond hair that falls in waves over his forehead. The shock of the moment is registering on his face, you can see his struggle to remain emotionless, but his blue eyes show the alarm I’ve seen so often in prey. Yet he climbs steadily onto the stage and takes his place.\n\nEffie Trinket asks for volunteers, but no one steps forward. He has two older brothers, I know, I’ve seen them in the bakery, but one is probably too old now to volunteer and the other won’t. This is standard. Family devotion only goes so far for most people on reaping day. What I did was the radical thing.\n\nThe mayor begins to read the long, dull Treaty of Treason as he does every year at this point — it’s required — but I’m not listening to a word.\n\nWhy him? I think. Then I try to convince myself it doesn’t matter. Peeta Mellark and I are not friends. Not even neighbors. We don’t speak. Our only real interaction happened years ago. He’s probably forgotten it. But I haven’t and I know I never will…\n\nIt was during the worst time. My father had been killed in the mine accident three months earlier in the bitterest January anyone could remember. The numbness of his loss had passed, and the pain would hit me out of nowhere, doubling me over, racking my body with sobs. Where are you? I would cry out in my mind. Where have you gone? Of course, there was never any answer.\n\nThe district had given us a small amount of money as compensation for his death, enough to cover one month of grieving at which time my mother would be expected to get a job. Only she didn’t. She didn’t do anything but sit propped up in a chair or, more often, huddled under the blankets on her bed, eyes fixed on some point in the distance. Once in a while, she’d stir, get up as if moved by some urgent purpose, only to then collapse back into stillness. No amount of pleading from Prim seemed to affect her.\n\nI was terrified. I suppose now that my mother was locked in some dark world of sadness, but at the time, all I knew was that I had lost not only a father, but a mother as well. At eleven years old, with Prim just seven, I took over as head of the family. There was no choice. I bought our food at the market and cooked it as best I could and tried to keep Prim and myself looking presentable. Because if it had become known that my mother could no longer care for us, the district would have taken us away from her and placed us in the community home. I’d grown up seeing those home kids at school. The sadness, the marks of angry hands on their faces, the hopelessness that curled their shoulders forward. I could never let that happen to Prim. Sweet, tiny Prim who cried when I cried before she even knew the reason, who brushed and plaited my mother’s hair before we left for school, who still polished my father’s shaving mirror each night because he’d hated the layer of coal dust that settled on everything in the Seam. The community home would crush her like a bug. So I kept our predicament a secret.\n\nBut the money ran out and we were slowly starving to death. There’s no other way to put it. I kept telling myself if I could only hold out until May, just May 8th, I would turn twelve and be able to sign up for the tesserae and get that precious grain and oil to feed us. Only there were still several weeks to go. We could well be dead by then.\n\nStarvation’s not an uncommon fate in District 12. Who hasn’t seen the victims? Older people who can’t work. Children from a family with too many to feed. Those injured in the mines. Straggling through the streets. And one day, you come upon them sitting motionless against a wall or lying in the Meadow, you hear the wails from a house, and the Peacekeepers are called in to retrieve the body. Starvation is never the cause of death officially. It’s always the flu, or exposure, or pneumonia. But that fools no one.",
+    "text": "No, the odds are not in my favor today. I watch him as he makes his way toward the stage. Medium height, stocky build, ashy blond hair that falls in waves over his forehead. The shock of the moment is registering on his face, you can see his struggle to remain emotionless, but his blue eyes show the alarm I’ve seen so often in prey. Yet he climbs steadily onto the stage and takes his place.\n\nEffie Trinket asks for volunteers, but no one steps forward. He has two older brothers, I know, I’ve seen them in the bakery, but one is probably too old now to volunteer and the other won’t. This is standard. Family devotion only goes so far for most people on reaping day. What I did was the radical thing.\n\nThe mayor begins to read the long, dull Treaty of Treason as he does every year at this point — it’s required — but I’m not listening to a word.\n\nWhy him? I think. Then I try to convince myself it doesn’t matter. Peeta Mellark and I are not friends. Not even neighbors. We don’t speak. Our only real interaction happened years ago. He’s probably forgotten it. But I haven’t and I know I never will…\n\nIt was during the worst time. My father had been killed in the mine accident three months earlier in the bitterest January anyone could remember. The numbness of his loss had passed, and the pain would hit me out of nowhere, doubling me over, racking my body with sobs. Where are you? I would cry out in my mind. Where have you gone? Of course, there was never any answer.\n\nThe district had given us a small amount of money as compensation for his death, enough to cover one month of grieving at which time my mother would be expected to get a job. Only she didn’t. She didn’t do anything but sit propped up in a chair or, more often, huddled under the blankets on her bed, eyes fixed on some point in the distance. Once in a while, she’d stir, get up as if moved by some urgent purpose, only to then collapse back into stillness. No amount of pleading from Prim seemed to affect her.\n\nI was terrified. I suppose now that my mother was locked in some dark world of sadness, but at the time, all I knew was that I had lost not only a father, but a mother as well. At eleven years old, with Prim just seven, I took over as head of the family. There was no choice. I bought our food at the market and cooked it as best I could and tried to keep Prim and myself looking presentable. Because if it had become known that my mother could no longer care for us, the district would have taken us away from her and placed us in the community home. I’d grown up seeing those home kids at school. The sadness, the marks of angry hands on their faces, the hopelessness that curled their shoulders forward. I could never let that happen to Prim. Sweet, tiny Prim who cried when I cried before she even knew the reason, who brushed and plaited my mother’s hair before we left for school, who still polished my father’s shaving mirror each night because he’d hated the layer of coal dust that settled on everything in the Seam. The community home would crush her like a bug. So I kept our predicament a secret.\n\nBut the money ran out and we were slowly starving to death. There’s no other way to put it. I kept telling myself if I could only hold out until May, just May 8th, I would turn twelve and be able to sign up for the tesserae and get that precious grain and oil to feed us. Only there were still several weeks to go. We could well be dead by then.\n\nStarvation’s not an uncommon fate in District 12. Who hasn’t seen the victims? Older people who can’t work. Children from a family with too many to feed. Those injured in the mines. Straggling through the streets. And one day, you come upon them sitting motionless against a wall or lying in the Meadow, you hear the wails from a house, and the Peacekeepers are called in to retrieve the body. Starvation is never the cause of death officially. It’s always the flu, or exposure, or pneumonia. But that fools no one.",
     "levels": {
       "B2": {
         "quizlet": [
@@ -1979,62 +1977,61 @@
     "levels": {
       "B2": {
         "quizlet": [
-          ["there were no takers", "никто не заинтересовался", "nobody wanted to buy or take something"],
-          ["soaked through", "промок насквозь", "completely wet"],
-          ["drop a bundle", "уронить свёрток", "to accidentally let something fall"],
-          ["pick it up", "поднять это", "to lift something from the ground"],
-          ["stumbling along", "брести / спотыкаться", "walking weakly or unsteadily"],
-          ["move on", "иди дальше", "to leave and continue"],
-          ["back away", "отступить назад", "to move away carefully"],
-          ["make my way", "пробираться", "to move toward somewhere"],
-          ["slid down", "сполз вниз", "to move downward along a surface"],
-          ["tear off chunks", "отрывать куски", "to pull pieces away"],
-          ["toss into the trough", "бросать в корыто", "to throw food into an animal container"],
-          ["throw a loaf in my direction", "бросить буханку в мою сторону", "to toss bread toward someone"]
+          ["there be no takers", "никто не заинтересовался", "there were no takers"],
+          ["be soaked through", "промокнуть насквозь", "soaked through"],
+          ["drop a bundle", "уронить свёрток", "dropped my bundle"],
+          ["pick something up", "поднять что-либо", "pick it up"],
+          ["stumble along", "брести / спотыкаться", "stumbling along"],
+          ["move on", "иди дальше", "move on"],
+          ["back away", "отступить назад", "backed away"],
+          ["make one's way", "пробираться", "made my way"],
+          ["slide down", "сползать вниз", "slid down"],
+          ["tear off chunks", "отрывать куски", "tear off chunks"],
+          ["toss something into the trough", "бросать в корыто", "toss them into the trough"],
+          ["throw a loaf in someone's direction", "бросить буханку в чью-то сторону", "threw a loaf of bread in my direction"]
         ]
       },
 
       "C1": {
         "quizlet": [
-          ["relentless icy sheets", "непрерывный ледяной ливень", "heavy freezing rain falling continuously"],
-          ["threadbare old clothes", "изношенная старая одежда", "clothes worn thin from use"],
-          ["venture into", "осмелиться войти", "to go somewhere risky"],
-          ["rough, gritty place", "грубое мрачное место", "harsh unpleasant environment"],
-          ["chilled to the bone", "промерзший до костей", "extremely cold"],
-          ["keel over", "рухнуть без сил", "to collapse suddenly"],
-          ["hollow cheeks and cracked lips", "впалые щёки и потрескавшиеся губы", "signs of hunger or illness"],
-          ["it crossed my mind", "мне пришло в голову", "a thought briefly occurred"],
-          ["mesmerized by the heat", "заворожённый теплом", "unable to stop focusing on warmth"],
-          ["forcing me back to life", "возвращая меня к реальности", "making someone aware again"],
-          ["pawing through her trash", "рыться в её мусоре", "searching roughly through garbage"],
-          ["the realization had sunk in", "осознание дошло", "fully understood emotionally"],
-          ["checking that the coast was clear", "убеждаясь, что никто не видит", "making sure nobody is watching"],
-          ["a red weal stood out", "выделялся красный рубец", "a visible injury mark"],
-          ["grumbling", "ворча", "complaining quietly"]
+          ["relentless icy sheets", "непрерывный ледяной ливень", "relentless icy sheets"],
+          ["threadbare old clothes", "изношенная старая одежда", "threadbare old baby clothes"],
+          ["venture into", "осмелиться войти", "venture into"],
+          ["rough, gritty place", "грубое мрачное место", "rough, gritty place"],
+          ["be chilled to the bone", "промерзнуть до костей", "chilled to the bone"],
+          ["keel over", "рухнуть без сил", "keel over"],
+          ["hollow cheeks and cracked lips", "впалые щёки и потрескавшиеся губы", "hollow cheeks and cracked lips"],
+          ["cross someone's mind", "прийти в голову", "it crossed my mind"],
+          ["be mesmerized by", "быть заворожённым", "mesmerized by the heat"],
+          ["force someone back to life", "вернуть кого-то к реальности", "forcing me back to life"],
+          ["paw through someone's trash", "рыться в чьём-то мусоре", "pawing through her trash"],
+          ["sink in", "доходить до сознания", "had finally sunk in"],
+          ["check that the coast is clear", "убедиться, что путь свободен", "checking that the coast was clear"],
+          ["a red weal stand out", "выделяться (о рубце)", "red weal that stood out"],
+          ["grumble", "ворчать", "grumbling"]
         ]
       },
 
       "C2": {
         "quizlet": [
-          ["dead eyes", "мёртвый взгляд", "hopeless emotionless eyes"],
-          ["my hands empty of any hope", "руки пусты от всякой надежды", "having nothing left emotionally"],
-          ["essentially in their backyards", "по сути на их заднем дворе", "effectively inside private territory"],
-          ["punishable by death", "карается смертью", "deserving execution under the law"],
-          ["desperate enough to eat", "достаточно отчаявшийся, чтобы съесть", "so desperate that anything becomes acceptable"],
-          ["spotlessly, heartlessly bare", "безупречно и безжалостно пустой", "completely empty in a cruel way"],
-          ["running its icy fingers down my back", "ледяные пальцы дождя пробежали по спине", "personification of freezing rain"],
-          ["I had no defense", "мне нечего было ответить", "unable to defend or justify oneself"],
-          ["my knees buckled", "колени подкосились", "legs gave way from weakness"],
-          ["too sick and weak and tired", "слишком больная, слабая и уставшая", "physically and emotionally exhausted"],
-          ["let me die right here in the rain", "пусть я умру прямо здесь под дождём", "expression of hopeless despair"],
-          ["the crusts were scorched black", "корки были обуглены дочерна", "burned completely black"],
-          ["the coast was clear", "путь был свободен", "nobody was watching or interfering"],
-          ["sloshed back to the bakery", "пошлёпал обратно в пекарню", "walked heavily through mud or water"],
-          ["closing the kitchen door tightly behind him", "плотно закрывая за собой кухонную дверь", "leaving secretly and carefully"]
+          ["dead eyes", "мёртвый взгляд", "dead eyes"],
+          ["be empty of hope", "быть лишённым надежды", "my bands empty of any hope"],
+          ["essentially in their backyards", "по сути на их заднем дворе", "essentially in their backyards"],
+          ["be punishable by death", "кара́ться смертью", "Punishable by death"],
+          ["desperate enough to eat", "достаточно отчаявшийся, чтобы съесть", "desperate enough to eat"],
+          ["spotlessly, heartlessly bare", "безупречно и безжалостно пустой", "spotlessly, heartlessly bare"],
+          ["run one's icy fingers down someone's back", "провести ледяными пальцами по спине", "running its icy fingers down my back"],
+          ["have no defense", "не иметь оправдания", "I had no defense"],
+          ["one's knees buckle", "колени подкашиваются", "My knees buckled"],
+          ["too sick and weak and tired", "слишком больной, слабый и уставший", "too sick and weak and tired"],
+          ["let me die right here in the rain", "пусть я умру прямо здесь под дождём", "let me die right here in the rain"],
+          ["the crusts be scorched black", "корки обуглены дочерна", "crusts were scorched black"],
+          ["the coast be clear", "путь свободен", "the coast was clear"],
+          ["slosh back to", "шлёпать обратно по грязи", "sloshed back to the bakery"],
+          ["close the kitchen door tightly behind oneself", "плотно закрыть за собой дверь", "closing the kitchen door tightly behind him"]
         ]
       }
     },
-
     "questions": [
       {
         "type": "choice",
@@ -2107,58 +2104,62 @@
     "levels": {
       "B2": {
         "quizlet": [
-          ["stare in disbelief", "смотреть в недоумении", "to look at something with shock"],
-          ["walk swiftly away", "быстро уйти", "to leave quickly"],
-          ["tear off a chunk", "оторвать кусок", "to pull away a piece of something"],
-          ["slice the bread", "нарезать хлеб", "to cut bread into slices"],
-          ["fall into a dreamless sleep", "провалиться в сон без сновидений", "to sleep deeply without dreams"],
-          ["head to school", "отправиться в школу", "to go toward school"],
-          ["turn one’s head away", "отвернуть голову", "to look away"],
-          ["drop one’s gaze", "опустить взгляд", "to look downward"],
-          ["shake hands", "пожать руки", "to greet formally with hands"],
-          ["face the crowd", "повернуться к толпе", "to stand facing people"],
-          ["someone else will kill him before I do", "кто-то другой убьёт его раньше меня", "expecting another person to act first"],
-          ["the odds are not dependable", "на шансы нельзя полагаться", "luck and probability cannot be trusted"]
+          ["stare in disbelief", "смотреть в недоумении", "stared at the loaves in disbelief"],
+          ["walk swiftly away", "быстро уйти", "walked swiftly away"],
+          ["tear off a chunk", "оторвать кусок", "tear off a chunk"],
+          ["slice the bread", "нарезать хлеб", "sliced the bread"],
+          ["fall into a dreamless sleep", "провалиться в сон без сновидений", "fell into a dreamless sleep"],
+          ["head to school", "отправиться в школу", "headed to school"],
+          ["turn one's head away", "отвернуть голову", "turned his head away"],
+          ["drop one's gaze", "опустить взгляд", "dropped my gaze"],
+          ["shake hands", "пожать руки", "shake hands"],
+          ["face the crowd", "повернуться к толпе", "face the crowd"],
+          ["kill someone before someone else does", "убить кого-то раньше другого", "kill him before I do"],
+          ["the odds be dependable", "на шансы можно положиться", "the odds have not been very dependable"]
         ]
       },
 
       "C1": {
         "quizlet": [
-          ["clutch something tighter", "сжать что-то крепче", "to hold very tightly"],
-          ["clinging to life", "цепляясь за жизнь", "trying desperately to survive"],
-          ["scrape off the burned parts", "соскрести подгоревшие части", "to remove burned areas"],
-          ["it didn’t occur to me", "мне не пришло в голову", "I did not realize or think about it"],
-          ["dismiss an idea", "отвергнуть мысль", "to reject an explanation"],
-          ["an enormous kindness", "огромная доброта", "a very significant act of help"],
-          ["his cheek had swelled up", "его щека распухла", "became enlarged after injury"],
-          ["didn’t acknowledge me", "не подал вида, что знает меня", "ignored someone intentionally"],
-          ["our eyes met", "наши взгляды встретились", "two people looked at each other"],
-          ["a bell went off in my head", "меня осенило", "sudden realization"],
-          ["I knew how we were going to survive", "я поняла, как мы выживем", "understanding a survival plan"],
-          ["caught his eyes trained on me", "поймала его взгляд на себе", "noticed someone staring"],
-          ["feel conflicted", "испытывать внутренний конфликт", "to have mixed emotions"],
-          ["work in a thank-you", "втиснуть благодарность", "find a way to say thank you naturally"],
-          ["a reassuring squeeze", "ободряющее пожатие", "a comforting pressure of the hand"]
+          ["clutch something tighter", "сжать что-то крепче", "clutched it tighter"],
+          ["cling to life", "цепляться за жизнь", "clinging to life"],
+          ["scrape off the burned parts", "соскрести подгоревшие части", "scraped off the black stuff"],
+          ["it occur to someone", "прийти кому-то в голову", "It didn't occur to me"],
+          ["dismiss an idea", "отвергнуть мысль", "I dismissed this"],
+          ["an enormous kindness", "огромная доброта", "an enormous kindness"],
+          ["swell up", "опухнуть", "had swelled up"],
+          ["acknowledge someone", "признать присутствие кого-то", "didn't acknowledge me"],
+          ["one's eyes meet", "встретиться взглядами", "Our eyes met"],
+          ["a bell go off in one's head", "меня осенило", "A bell went off in my head"],
+          ["survive", "выжить", "how we were going to survive"],
+          ["catch someone's eyes on", "поймать чей-то взгляд", "caught his eyes trained on me"],
+          ["feel conflicted", "испытывать внутренний конфликт", "feeling less conflicted"],
+          ["work in a thank-you", "втиснуть благодарность", "work in a thank-you"],
+          ["a reassuring squeeze", "ободряющее пожатие", "a reassuring squeeze"]
         ]
       },
 
-      "C2": {
+            "C2": {
         "quizlet": [
-          ["burned into my skin", "словно прожигало кожу", "felt intensely and memorably"],
-          ["before anyone could witness what had happened", "прежде чем кто-либо успел это увидеть", "before anyone noticed"],
-          ["delivered them to me", "принёс их мне", "secretly provided something"],
-          ["would have resulted in a beating", "закончилось бы избиением", "would have caused physical punishment"],
-          ["I couldn’t explain his actions", "я не могла объяснить его поступок", "unable to understand someone’s motives"],
-          ["it was as if spring had come overnight", "будто весна пришла за одну ночь", "sudden emotional transformation"],
-          ["the first dandelion of the year", "первый одуванчик года", "symbol of hope and renewal"],
-          ["I can never shake the connection", "я не могу избавиться от этой связи", "unable to forget an association"],
-          ["not doomed", "не обречена", "not destined to fail or die"],
-          ["his eyes trained on me", "его взгляд был прикован ко мне", "watching someone intently"],
-          ["the opportunity never presented itself", "возможность так и не представилась", "the right moment never came"],
-          ["it won’t seem sincere", "это не будет выглядеть искренне", "it will not feel genuine"],
-          ["slit his throat", "перерезать ему горло", "kill someone violently with a blade"],
-          ["the dreary Treaty of Treason", "унылый Договор об Измене", "boring formal political text"],
-          ["a nervous spasm", "нервный спазм", "an involuntary movement caused by stress"]
+          ["burn into someone's skin", "словно прожигать кожу", "burned into my skin"],
+          ["witness what happened", "стать свидетелем произошедшего", "witness what had happened"],
+          ["deliver something to someone", "доставить что-то кому-то", "delivered them to me"],
+          ["result in a beating", "закончиться избиением", "resulted in a beating"],
+          ["explain someone's actions", "объяснить чьи-то поступки", "couldn't explain his actions"],
+          ["as if spring had come overnight", "будто весна пришла за одну ночь", "spring had come overnight"],
+          ["the first dandelion of the year", "первый одуванчик года", "first dandelion of the year"],
+          ["shake the connection", "избавиться от связи/ассоциации", "never shake the connection"],
+          ["be doomed", "быть обречённым", "not doomed"],
+          ["one's eyes be trained on someone", "пристально смотреть на кого-то", "eyes trained on me"],
+          ["the opportunity present itself", "возможность представиться", "opportunity never seemed to present itself"],
+          ["seem sincere", "казаться искренним", "won't seem sincere"],
+          ["slit someone's throat", "перерезать кому-то горло", "slit his throat"],
+          ["the dreary Treaty of Treason", "унылый Договор об Измене", "dreary Treaty of Treason"],
+          ["a nervous spasm", "нервный спазм", "nervous spasm"],
+          ["a bell go off in one's head", "меня осенило", "A bell went off in my head"],
+          ["cling to life", "цепляться за жизнь", "clinging to life"],
+          ["shake the connection", "избавиться от ассоциации", "never shake the connection"],
+          ["the opportunity present itself", "представиться (о возможности)", "present itself"]
         ]
       }
     },
