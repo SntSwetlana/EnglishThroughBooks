@@ -1,0 +1,123 @@
+{
+    "chapter": "The Hunger Games — Chapter 4",
+    "part": "Page 5",
+    "title": "Chapter 4 Page 5",
+    "level": "B2/C1/C2",
+    "text": "Peeta rises from the floor and scoops up a handful of ice from under the fruit tureen. He starts to raise it to the red mark on his jaw.\n\n“No,” says Haymitch, stopping him. “Let the bruise show. The audience will think you’ve mixed it up with another tribute before you’ve even made it to the arena.”'\n\n“That’s against the rules,” says Peeta.\n\n“Only if they catch you. That bruise will say you fought, you weren’t caught, even better,” says Haymitch. He turns to me. “Can you hit anything with that knife besides a table?”\n\nThe bow and arrow is my weapon. But I’ve spent a fair amount of time throwing knives as well. Sometimes, if I’ve wounded an animal with an arrow, it’s better to get a knife into it, too, before I approach it. I realize that if I want Haymitch’s attention, this is my moment to make an impression. I yank the knife out of the table, get a grip on the blade, and then throw it into the wall across the room. I was actually just hoping to get a good solid stick, but it lodges in the seam between two panels, making me look a lot better than I am.\n\n“Stand over here. Both of you,” says Haymitch, nodding to the middle of the room. We obey and he circles us, prodding us like animals at times, checking our muscles, examining our faces. “Well, you’re not entirely hopeless. Seem fit. And once the stylists get hold of you, you’ll be attractive enough.”\n\nPeeta and I don’t question this. The Hunger Games aren’t a beauty contest, but the best-looking tributes always seem to pull more sponsors.\n\n“All right, I’ll make a deal with you. You don’t interfere with my drinking, and I’ll stay sober enough to help you,” says Haymitch. “But you have to do exactly what I say.”\n\nIt’s not much of a deal but still a giant step forward from ten minutes ago when we had no guide at all.\n\n“Fine,” says Peeta.\n\n“So help us,” I say. “When we get to the arena, what’s the best strategy at the Cornucopia for someone —”\n\n“One thing at a time. In a few minutes, we’ll be pulling into the station. You’ll be put in the hands of your stylists. You’re not going to like what they do to you. But no matter what it is, don’t resist,” says Haymitch.\n\n“But —” I begin.\n\n“No buts. Don’t resist,” says Haymitch. He takes the bottle of spirits from the table and leaves the car. As the door swings shut behind him, the car goes dark. There are still a few lights inside, but outside it’s as if night has fallen again. I realize we must be in the tunnel that runs up through the mountains into the Capitol. The mountains form a natural barrier between the Capitol and the eastern districts. It is almost impossible to enter from the east except through the tunnels. This geographical advantage was a major factor in the districts losing the war that led to my being a tribute today. Since the rebels had to scale the mountains, they were easy targets for the Capitol’s air forces.\n\nPeeta Mellark and I stand in silence as the train speeds along. The tunnel goes on and on and I think of the tons of rock separating me from the sky, and my chest tightens. I hate being encased in stone this way. It reminds me of the mines and my father, trapped, unable to reach sunlight, buried forever in the darkness.\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["scoop up", "зачерпнуть", "scoops up a handful of ice"],
+          ["make it to", "добраться до", "made it to the arena"],
+          ["get a grip on", "ухватиться за", "get a grip on the blade"],
+          ["make an impression", "произвести впечатление", "make an impression"],
+          ["stand over here", "встаньте сюда", "Stand over here"],
+          ["get hold of", "взяться за кого-либо", "get hold of you"],
+          ["pull into", "прибыть на", "pulling into the station"],
+          ["put someone in the hands of", "передать в чьи-либо руки", "put in the hands of your stylists"],
+          ["one thing at a time", "всему своё время", "One thing at a time"],
+          ["leave the car", "выйти из вагона", "leaves the car"],
+          ["go dark", "погрузиться во тьму", "the car goes dark"],
+          ["stand in silence", "стоять молча", "stand in silence"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["mix it up with someone", "сцепиться с кем-либо", "mixed it up with another tribute"],
+          ["be against the rules", "быть против правил", "against the rules"],
+          ["wound an animal", "ранить животное", "wounded an animal"],
+          ["lodge in", "застрять в", "lodges in the seam"],
+          ["prod someone", "тыкать кого-либо", "prodding us"],
+          ["entirely hopeless", "совершенно безнадёжный", "not entirely hopeless"],
+          ["pull more sponsors", "привлекать больше спонсоров", "pull more sponsors"],
+          ["stay sober", "оставаться трезвым", "stay sober enough"],
+          ["a giant step forward", "огромный шаг вперёд", "a giant step forward"],
+          ["resist", "сопротивляться", "don't resist"],
+          ["a natural barrier", "естественная преграда", "natural barrier"],
+          ["scale the mountains", "взбираться в горы", "scale the mountains"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["let the bruise show", "не скрывать синяк", "Let the bruise show"],
+          ["you weren't caught", "тебя не поймали", "you weren't caught"],
+          ["a good solid stick", "хорошее уверенное попадание", "good solid stick"],
+          ["the seam between two panels", "стык между двумя панелями", "seam between two panels"],
+          ["circle someone like an animal", "обходить кого-то как животное на осмотре", "circles us"],
+          ["attractive enough", "достаточно привлекательный", "attractive enough"],
+          ["interfere with someone's drinking", "мешать чьему-либо пьянству", "interfere with my drinking"],
+          ["from ten minutes ago", "по сравнению с тем, что было десять минут назад", "from ten minutes ago"],
+          ["a major factor", "ключевой фактор", "major factor"],
+          ["easy targets", "лёгкие цели", "easy targets for the Capitol"],
+          ["tons of rock separating me from the sky", "тонны камня между мной и небом", "tons of rock separating me from the sky"],
+          ["be encased in stone", "быть заключённым в камень", "encased in stone"],
+          ["my chest tightens", "у меня сжимается грудь", "my chest tightens"],
+          ["buried forever in the darkness", "навсегда погребённый во тьме", "buried forever in the darkness"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Haymitch tell Peeta not to hide the bruise?",
+        "options": [
+          "It will heal faster",
+          "It will make him look experienced and tough",
+          "Sponsors like injuries",
+          "The Capitol requires it"
+        ],
+        "answer": 1,
+        "explanation": "Haymitch believes the bruise creates the impression that Peeta is already a fighter."
+      },
+      {
+        "type": "choice",
+        "question": "How does Katniss try to impress Haymitch?",
+        "options": [
+          "By showing her archery skills",
+          "By challenging him verbally",
+          "By throwing a knife accurately",
+          "By refusing to obey him"
+        ],
+        "answer": 2,
+        "explanation": "Katniss throws a knife into the wall and unexpectedly makes an impressive shot."
+      },
+      {
+        "type": "choice",
+        "question": "What agreement does Haymitch propose?",
+        "options": [
+          "Katniss and Peeta should train alone",
+          "They should find sponsors themselves",
+          "They should leave him alone to drink and follow his advice",
+          "They should pretend to be friends"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch promises to help if they stop interfering with his drinking and obey him."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Haymitch warn them not to resist their stylists?",
+        "options": [
+          "Stylists control sponsor money",
+          "Resistance would only make things harder",
+          "The stylists are dangerous",
+          "They can be punished immediately"
+        ],
+        "answer": 1,
+        "explanation": "Haymitch knows the makeover process is unavoidable, so resistance would accomplish nothing."
+      },
+      {
+        "type": "choice",
+        "question": "Why does the tunnel make Katniss uncomfortable?",
+        "options": [
+          "She is afraid of trains",
+          "She dislikes the Capitol",
+          "It reminds her of the mines and her father's death",
+          "She feels motion sickness"
+        ],
+        "answer": 2,
+        "explanation": "Being surrounded by rock reminds Katniss of the mines where her father died and triggers painful memories."
+      }
+    ]
+}

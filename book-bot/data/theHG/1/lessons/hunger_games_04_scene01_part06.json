@@ -1,0 +1,123 @@
+{
+    "chapter": "The Hunger Games — Chapter 4",
+    "part": "Page 6",
+    "title": "Chapter 4 Page 6",
+    "level": "B2/C1/C2",
+    "text": "The train finally begins to slow and suddenly bright light floods the compartment. We can’t help it. Both Peeta and I run to the window to see what we’ve only seen on television, the Capitol, the ruling city of Panem. The cameras haven’t lied about its grandeur. If anything, they have not quite captured the magnificence of the glistening buildings in a rainbow of hues that tower into the air, the shiny cars that roll down the wide paved streets, the oddly dressed people with bizarre hair and painted faces who have never missed a meal. All the colors seem artificial, the pinks too deep, the greens too bright, the yellows painful to the eyes, like the flat round disks of hard candy we can never afford to buy at the tiny sweet shop in District 12.\n\nThe people begin to point at us eagerly as they recognize a tribute train rolling into the city. I step away from the window, sickened by their excitement, knowing they can’t wait to watch us die. But Peeta holds his ground, actually waving and smiling at the gawking crowd. He only stops when the train pulls into the station, blocking us from their view.\n\nHe sees me staring at him and shrugs. “Who knows?” he says. “One of them may be rich.”\n\nI have misjudged him. I think of his actions since the reaping began. The friendly squeeze of my hand. His father showing up with the cookies and promising to feed Prim… did Peeta put him up to that? His tears at the station. Volunteering to wash Haymitch but then challenging him this morning when apparently the nice-guy approach had failed. And now the waving at the window, already trying to win the crowd.\n\nAll of the pieces are still fitting together, but I sense he has a plan forming. He hasn’t accepted his death. He is already fighting hard to stay alive. Which also means that kind Peeta Mellark, the boy who gave me the bread, is fighting hard to kill me.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["slow down", "замедляться", "begins to slow"],
+          ["run to the window", "подбежать к окну", "run to the window"],
+          ["point at", "указывать на", "point at us"],
+          ["step away from", "отойти от", "step away from the window"],
+          ["hold one's ground", "стоять на своём", "holds his ground"],
+          ["wave and smile", "махать и улыбаться", "waving and smiling"],
+          ["pull into a station", "прибыть на станцию", "pulls into the station"],
+          ["show up", "появиться", "showing up with the cookies"],
+          ["put someone up to something", "подговорить кого-либо сделать что-либо", "put him up to that"],
+          ["fit together", "складываться в единую картину", "fitting together"],
+          ["form a plan", "формировать план", "plan forming"],
+          ["stay alive", "остаться в живых", "stay alive"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["bright light floods a compartment", "яркий свет заполняет вагон", "bright light floods the compartment"],
+          ["capture the magnificence", "передать великолепие", "captured the magnificence"],
+          ["glisten", "сверкать", "glistening buildings"],
+          ["tower into the air", "возвышаться в воздух", "tower into the air"],
+          ["wide paved streets", "широкие мощёные улицы", "wide paved streets"],
+          ["oddly dressed", "странно одетый", "oddly dressed people"],
+          ["bizarre hair", "причудливая причёска", "bizarre hair"],
+          ["miss a meal", "пропустить приём пищи", "never missed a meal"],
+          ["artificial", "искусственный", "colors seem artificial"],
+          ["sicken someone", "вызывать отвращение", "sickened by their excitement"],
+          ["gawking crowd", "глазеющая толпа", "gawking crowd"],
+          ["misjudge someone", "неверно оценить кого-либо", "I have misjudged him"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["the ruling city", "правящий город", "the ruling city of Panem"],
+          ["a rainbow of hues", "радуга оттенков", "rainbow of hues"],
+          ["painful to the eyes", "режущий глаза", "painful to the eyes"],
+          ["flat round disks of hard candy", "плоские круглые леденцы", "flat round disks of hard candy"],
+          ["eagerly", "с нескрываемым нетерпением", "point at us eagerly"],
+          ["they can't wait to watch us die", "им не терпится увидеть нашу смерть", "can't wait to watch us die"],
+          ["one of them may be rich", "кто-то из них может оказаться богатым", "One of them may be rich"],
+          ["the friendly squeeze of my hand", "дружеское пожатие моей руки", "friendly squeeze of my hand"],
+          ["the nice-guy approach", "тактика хорошего парня", "nice-guy approach"],
+          ["win the crowd", "завоевать публику", "trying to win the crowd"],
+          ["sense something", "чувствовать что-либо", "I sense he has a plan"],
+          ["accept one's death", "смириться со своей смертью", "hasn't accepted his death"],
+          ["fight hard", "отчаянно бороться", "fighting hard"],
+          ["the boy who gave me the bread", "мальчик, который дал мне хлеб", "the boy who gave me the bread"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What is Katniss's first impression of the Capitol?",
+        "options": [
+          "It looks old and damaged",
+          "It is even more magnificent than on television",
+          "It is smaller than she expected",
+          "It resembles District 12"
+        ],
+        "answer": 1,
+        "explanation": "Katniss is amazed by the Capitol's size, colors, wealth, and grandeur."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss step away from the train window?",
+        "options": [
+          "She feels dizzy",
+          "She dislikes the sunlight",
+          "She is disturbed by the crowd's excitement about the Games",
+          "Effie tells her to move"
+        ],
+        "answer": 2,
+        "explanation": "Katniss realizes the crowd is excited because they want to watch the tributes fight and die."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Peeta continue smiling and waving?",
+        "options": [
+          "He enjoys being famous",
+          "He is trying to attract future sponsors",
+          "He knows people in the crowd",
+          "He wants to annoy Katniss"
+        ],
+        "answer": 1,
+        "explanation": "Peeta understands that public support and wealthy sponsors can help tributes survive."
+      },
+      {
+        "type": "choice",
+        "question": "What realization does Katniss have about Peeta?",
+        "options": [
+          "He has already given up",
+          "He is weaker than she thought",
+          "He is strategically trying to survive",
+          "He secretly hates District 12"
+        ],
+        "answer": 2,
+        "explanation": "Katniss realizes that Peeta has been carefully building support and planning for survival."
+      },
+      {
+        "type": "choice",
+        "question": "Why is this realization troubling for Katniss?",
+        "options": [
+          "Because she owes him money",
+          "Because Peeta may become a powerful competitor she will eventually face",
+          "Because he is working with Haymitch",
+          "Because sponsors dislike her"
+        ],
+        "answer": 1,
+        "explanation": "Katniss understands that the kind boy who once helped her is also fighting to win, which means he may ultimately have to kill her."
+      }
+    ]
+}
