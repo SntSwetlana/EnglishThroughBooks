@@ -2226,5 +2226,720 @@
         "explanation": "Prim’s selection proved that even unlikely events can still happen."
       }
     ]
-  }
+  },
+    "hunger_games_03_scene01_part01": {
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 1",
+      "title": "Chapter 3 Page 1",
+    "level": "B2/C1/C2",
+    "text": "The moment the anthem ends, we are taken into custody. I don’t mean we’re handcuffed or anything, but a group of Peacekeepers marches us through the front door of the Justice Building. Maybe tributes have tried to escape in the past. I’ve never seen that happen though.\n\nOnce inside, I’m conducted to a room and left alone. It’s the richest place I’ve ever been in, with thick, deep carpets and a velvet couch and chairs. I know velvet because my mother has a dress with a collar made of the stuff. When I sit on the couch, I can’t help running my fingers over the fabric repeatedly. It helps to calm me as I try to prepare for the next hour. The time allotted for the tributes to say goodbye to their loved ones. I cannot afford to get upset, to leave this room with puffy eyes and a red nose. Crying is not an option. There will be more cameras at the train station.\n\nMy sister and my mother come first. I reach out to Prim and she climbs on my lap, her arms around my neck, head on my shoulder, just like she did when she was a toddler. My mother sits beside me and wraps her arms around us. For a few minutes, we say nothing. Then I start telling them all the things they must remember to do, now that I will not be there to do them for them.\n\nPrim is not to take any tesserae. They can get by, if they’re careful, on selling Prim’s goat milk and cheese and the small apothecary business my mother now runs for the people in the Seam. Gale will get her the herbs she doesn’t grow herself, but she must be very careful to describe them because he’s not as familiar with them as I am. He’ll also bring them game — he and I made a pact about this a year or so ago — and will probably not ask for compensation, but they should thank him with some kind of trade, like milk or medicine.\n\nI don’t bother suggesting Prim learn to hunt. I tried to teach her a couple of times and it was disastrous. The woods terrified her, and whenever I shot something, she’d get teary and talk about how we might be able to heal it if we got it home soon enough. But she makes out well with her goat, so I concentrate on that.\n\nWhen I am done with instructions about fuel, and trading, and staying in school, I turn to my mother and grip her arm, hard. “Listen to me. Are you listening to me?” She nods, alarmed by my intensity. She must know what’s coming. “You can’t leave again,” I say.\n\nMy mother’s eyes find the floor. “I know. I won’t. I couldn’t help what—”\n\n“Well, you have to help it this time. You can’t clock out and leave Prim on her own. There’s no me now to keep you both alive. It doesn’t matter what happens. Whatever you see on the screen. You have to promise me you’ll fight through it!” My voice has risen to a shout. In it is all the anger, all the fear I felt at her abandonment.\n\nShe pulls her arm from my grasp, moved to anger herself now. “I was ill. I could have treated myself if I’d had the medicine I have now.”\n\nThat part about her being ill might be true. I’ve seen her bring back people suffering from immobilizing sadness since. Perhaps it is a sickness, but it’s one we can’t afford.\n\n“Then take it. And take care of her!” I say.\n\n“I’ll be all right, Katniss,” says Prim, clasping my face in her hands. “But you have to take care, too. You’re so fast and brave. Maybe you can win.”\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["be taken into custody", "быть взятым под стражу", "taken into custody"],
+          ["run one's fingers over", "проводить пальцами по", "running my fingers over"],
+          ["reach out to someone", "потянуться к кому-то", "reach out to Prim"],
+          ["get by", "сводить концы с концами", "can get by"],
+          ["make a pact", "заключить соглашение", "made a pact"],
+          ["ask for compensation", "просить вознаграждение", "ask for compensation"],
+          ["make out well", "хорошо справляться", "makes out well"],
+          ["turn to someone", "обратиться к кому-то", "turn to my mother"],
+          ["grip someone's arm", "схватить кого-то за руку", "grip her arm"],
+          ["take care of someone", "заботиться о ком-то", "take care of her"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["allotted time", "отведённое время", "The time allotted"],
+          ["crying is not an option", "слёзы не вариант", "Crying is not an option"],
+          ["apothecary business", "аптекарское дело", "apothecary business"],
+          ["describe something carefully", "тщательно описывать что-либо", "describe them carefully"],
+          ["be familiar with", "быть хорошо знакомым с", "familiar with them"],
+          ["disastrous", "катастрофический", "it was disastrous"],
+          ["get teary", "прослезиться", "she'd get teary"],
+          ["alarm someone", "встревожить кого-то", "alarmed by my intensity"],
+          ["clock out", "отключиться, уйти от реальности", "clock out"],
+          ["fight through something", "преодолеть что-либо", "fight through it"],
+          ["pull one's arm from someone's grasp", "вырвать руку из чьей-то хватки", "pulls her arm from my grasp"],
+          ["moved to anger", "разозлиться", "moved to anger"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["leave with puffy eyes", "уйти с опухшими от слёз глазами", "leave this room with puffy eyes"],
+          ["the richest place I've ever been in", "самое роскошное место, где я была", "the richest place I've ever been in"],
+          ["whatever you see on the screen", "что бы ты ни увидела на экране", "Whatever you see on the screen"],
+          ["all the anger and fear", "весь гнев и страх", "all the anger, all the fear"],
+          ["her abandonment", "её оставление семьи", "her abandonment"],
+          ["immobilizing sadness", "парализующая печаль", "immobilizing sadness"],
+          ["it's one we can't afford", "мы не можем себе этого позволить", "one we can't afford"],
+          ["clasp someone's face in one's hands", "обхватить лицо руками", "clasping my face in her hands"],
+          ["you have to take care, too", "тебе тоже нужно беречь себя", "you have to take care, too"],
+          ["fast and brave", "быстрая и храбрая", "fast and brave"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss try not to cry before leaving the room?",
+        "options": [
+          "She doesn't want Prim to see her cry",
+          "She wants to appear strong on camera",
+          "She is angry with her mother",
+          "She is not sad"
+        ],
+        "answer": 1,
+        "explanation": "Katniss believes showing tears would make her look weak in front of the audience and future opponents."
+      },
+      {
+        "type": "choice",
+        "question": "What agreement did Katniss and Gale make?",
+        "options": [
+          "To escape District 12 together",
+          "To share hunting equipment",
+          "To help each other's families if needed",
+          "To enter the Games together"
+        ],
+        "answer": 2,
+        "explanation": "Katniss explains that Gale promised to help provide food for her family."
+      },
+      {
+        "type": "choice",
+        "question": "Why doesn't Katniss encourage Prim to learn hunting?",
+        "options": [
+          "Prim is too young",
+          "Prim is afraid of the woods and hates seeing animals hurt",
+          "Their mother forbids it",
+          "Gale refuses to teach her"
+        ],
+        "answer": 1,
+        "explanation": "Prim is frightened by the woods and becomes upset when animals are injured."
+      },
+      {
+        "type": "choice",
+        "question": "What is Katniss most afraid her mother will do again?",
+        "options": [
+          "Leave District 12",
+          "Sell the goat",
+          "Fall into depression and stop caring for Prim",
+          "Argue with Gale"
+        ],
+        "answer": 2,
+        "explanation": "Katniss fears her mother will emotionally withdraw as she did after her father's death."
+      },
+      {
+        "type": "choice",
+        "question": "What does Prim say that comforts Katniss?",
+        "options": [
+          "Gale will protect everyone",
+          "The Games will be cancelled",
+          "Katniss is fast and brave and might win",
+          "They will leave District 12"
+        ],
+        "answer": 2,
+        "explanation": "Prim expresses faith in Katniss's abilities and courage."
+      }
+    ]
+  },
+    "hunger_games_03_scene01_part02": {
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 2",
+      "title": "Chapter 3 Page 2",
+    "level": "B2/C1/C2",
+    "text": "I can’t win. Prim must know that in her heart. The competition will be far beyond my abilities. Kids from wealthier districts, where winning is a huge honor, who’ve been trained their whole lives for this. Boys who are two to three times my size. Girls who know twenty different ways to kill you with a knife. Oh, there’ll be people like me, too. People to weed out before the real fun begins.\n\n“Maybe,” I say, because I can hardly tell my mother to carry on if I’ve already given up myself. Besides, it isn’t in my nature to go down without a fight, even when things seem insurmountable. “Then we’d be rich as Haymitch.”\n\n“I don’t care if we’re rich. I just want you to come home. You will try, won’t you? Really, really try?” asks Prim.\n\n“Really, really try. I swear it,” I say. And I know, because of Prim, I’ll have to.\n\nAnd then the Peacekeeper is at the door, signaling our time is up, and we’re all hugging one another so hard it hurts and all I’m saying is “I love you. I love you both.” And they’re saying it back and then the Peacekeeper orders them out and the door closes. I bury my head in one of the velvet pillows as if this can block the whole thing out.\n\nSomeone else enters the room, and when I look up, I’m surprised to see it’s the baker, Peeta Mellark’s father. I can’t believe he’s come to visit me. After all, I’ll be trying to kill his son soon. But we do know each other a bit, and he knows Prim even better. When she sells her goat cheeses at the Hob, she puts two of them aside for him and he gives her a generous amount of bread in return. We always wait to trade with him when his witch of a wife isn’t around because he’s so much nicer. I feel certain he would never have hit his son the way she did over the burned bread. But why has he come to see me?\n\nThe baker sits awkwardly on the edge of one of the plush chairs. He’s a big, broad-shouldered man with burn scars from years at the ovens. He must have just said goodbye to his son.\n\nHe pulls a white paper package from his jacket pocket and holds it out to me. I open it and find cookies. These are a luxury we can never afford.\n\n“Thank you,” I say. The baker’s not a very talkative man in the best of times, and today he has no words at all. “I had some of your bread this morning. My friend Gale gave you a squirrel for it.” He nods, as if remembering the squirrel. “Not your best trade,” I say. He shrugs as if it couldn’t possibly matter.\n\nThen I can’t think of anything else, so we sit in silence until a Peacemaker summons him. He rises and coughs to clear his throat. “I’ll keep an eye on the little girl. Make sure she’s eating.”\n\nI feel some of the pressure in my chest lighten at his words. People deal with me, but they are genuinely fond of Prim. Maybe there will be enough fondness to keep her alive.\n\nMy next guest is also unexpected. Madge walks straight to me. She is not weepy or evasive, instead there’s an urgency about her tone that surprises me. “They let you wear one thing from your district in the arena. One thing to remind you of home. Will you wear this?” She holds out the circular gold pin that was on her dress earlier. I hadn’t paid much attention to it before, but now I see it’s a small bird in flight.\n\n“Your pin?” I say. Wearing a token from my district is about the last thing on my mind.\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["go down without a fight", "не сдаваться без борьбы", "go down without a fight"],
+          ["carry on", "продолжать жить дальше", "carry on"],
+          ["give up", "сдаваться", "given up"],
+          ["time be up", "время истекло", "our time is up"],
+          ["block something out", "отгородиться от чего-либо", "block the whole thing out"],
+          ["keep an eye on someone", "присматривать за кем-то", "keep an eye on the little girl"],
+          ["hold out", "протягивать", "holds it out to me"],
+          ["think of something", "придумать что-либо", "can't think of anything else"],
+          ["clear one's throat", "прочистить горло", "clear his throat"],
+          ["remind someone of home", "напоминать кому-то о доме", "remind you of home"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["be far beyond someone's abilities", "быть далеко за пределами чьих-либо возможностей", "far beyond my abilities"],
+          ["weed out", "отсеивать", "People to weed out"],
+          ["insurmountable", "непреодолимый", "insurmountable"],
+          ["signal that time is up", "дать знак, что время вышло", "signaling our time is up"],
+          ["bury one's head", "уткнуться лицом", "I bury my head"],
+          ["put something aside", "откладывать что-либо", "puts two of them aside"],
+          ["a generous amount", "щедрое количество", "a generous amount of bread"],
+          ["sit awkwardly", "сидеть неловко", "sits awkwardly"],
+          ["broad-shouldered", "широкоплечий", "broad-shouldered man"],
+          ["summon someone", "вызвать кого-либо", "summons him"],
+          ["lighten the pressure", "облегчить тяжесть", "pressure in my chest lighten"],
+          ["be genuinely fond of", "искренне любить кого-либо", "genuinely fond of Prim"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["the real fun begins", "начинается настоящее веселье (иронично)", "the real fun begins"],
+          ["I swear it", "клянусь", "I swear it"],
+          ["hug one another so hard it hurts", "обнимать друг друга так крепко, что больно", "hugging one another so hard it hurts"],
+          ["the witch of a wife", "настоящая ведьма-жена", "witch of a wife"],
+          ["it couldn't possibly matter", "это никак не могло иметь значения", "couldn't possibly matter"],
+          ["sit in silence", "сидеть в тишине", "sit in silence"],
+          ["some of the pressure in my chest lighten", "тяжесть в груди немного ослабла", "pressure in my chest lighten"],
+          ["enough fondness to keep her alive", "достаточно любви, чтобы она выжила", "enough fondness to keep her alive"],
+          ["not weepy or evasive", "не плаксивая и не уклончивая", "not weepy or evasive"],
+          ["an urgency about her tone", "срочность в её голосе", "urgency about her tone"],
+          ["a bird in flight", "птица в полёте", "bird in flight"],
+          ["wear a token from one's district", "носить символ своего дистрикта", "Wearing a token from my district"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss promise Prim she will try to win?",
+        "options": [
+          "Because she wants to become rich",
+          "Because Prim asks her to keep fighting",
+          "Because Haymitch ordered her to",
+          "Because she enjoys the Games"
+        ],
+        "answer": 1,
+        "explanation": "Katniss knows she must keep trying because Prim believes in her and needs hope."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss surprised to see Peeta's father?",
+        "options": [
+          "She has never met him before",
+          "He is a Peacekeeper",
+          "She expects to fight and possibly kill his son",
+          "He dislikes her family"
+        ],
+        "answer": 2,
+        "explanation": "Katniss is surprised because despite the coming Games, Peeta's father visits her kindly."
+      },
+      {
+        "type": "choice",
+        "question": "What gift does the baker bring Katniss?",
+        "options": [
+          "Bread",
+          "Medicine",
+          "Cookies",
+          "A pin"
+        ],
+        "answer": 2,
+        "explanation": "He gives her a package of cookies, which are a rare luxury."
+      },
+      {
+        "type": "choice",
+        "question": "What comfort does the baker offer Katniss?",
+        "options": [
+          "He will help her escape",
+          "He will send her food",
+          "He will watch over Prim",
+          "He will speak to the Capitol"
+        ],
+        "answer": 2,
+        "explanation": "He promises to keep an eye on Prim and make sure she is eating."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Madge give Katniss the pin?",
+        "options": [
+          "To sell it later",
+          "To remind her of District 12 and home",
+          "To identify her in the arena",
+          "Because it is required by the Capitol"
+        ],
+        "answer": 1,
+        "explanation": "Tributes may wear one token from home, and Madge wants Katniss to have a reminder of District 12."
+      }
+    ]
+  },
+    "hunger_games_03_scene01_part03": {
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 3",
+      "title": "Chapter 3 Page 3",
+      "level": "B2/C1/C2",
+      "text": "“Here, I’ll put it on your dress, all right?” Madge doesn’t wait for an answer, she just leans in and fixes the bird to my dress. “Promise you’ll wear it into the arena, Katniss?” she asks. “Promise?”\n\n“Yes,” I say. Cookies. A pin. I’m getting all kinds of gifts today. Madge gives me one more. A kiss on the cheek. Then she’s gone and I’m left thinking that maybe Madge really has been my friend all along.\n\nFinally, Gale is here and maybe there is nothing romantic between us, but when he opens his arms I don’t hesitate to go into them. His body is familiar to me — the way it moves, the smell of wood smoke, even the sound of his heart beating I know from quiet moments on a hunt — but this is the first time I really feel it, lean and hard-muscled against my own.\n\n“Listen,” he says. “Getting a knife should be pretty easy, but you’ve got to get your hands on a bow. That’s your best chance.”\n\n“They don’t always have bows,” I say, thinking of the year there were only horrible spiked maces that the tributes had to bludgeon one another to death with.\n\n“Then make one,” says Gale. “Even a weak bow is better than no bow at all.”\n\nI have tried copying my father’s bows with poor results. It’s not that easy. Even he had to scrap his own work sometimes.\n\n“I don’t even know if there’ll be wood,” I say. Another year, they tossed everybody into a landscape of nothing but boulders and sand and scruffy bushes. I particularly hated that year. Many contestants were bitten by venomous snakes or went insane from thirst.\n\n“There’s almost always some wood,” Gale says. “Since that year half of them died of cold. Not much entertainment in that.”\n\nIt’s true. We spent one Hunger Games watching the players freeze to death at night. You could hardly see them because they were just huddled in balls and had no wood for fires or torches or anything. It was considered very anti-climactic in the Capitol, all those quiet, bloodless deaths. Since then, there’s usually been wood to make fires.\n\n“Yes, there’s usually some,” I say.\n\n“Katniss, it’s just hunting. You’re the best hunter I know,” says Gale.\n\n“It’s not just hunting. They’re armed. They think,” I say.\n\n“So do you. And you’ve had more practice. Real practice,” he says. “You know how to kill.”\n\n“Not people,” I say.\n\n“How different can it be, really?” says Gale grimly.\n\nThe awful thing is that if I can forget they’re people, it will be no different at all.\n\nThe Peacekeepers are back too soon and Gale asks for more time, but they’re taking him away and I start to panic. “Don’t let them starve!” I cry out, clinging to his hand.\n\n",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["put something on", "надеть / прикрепить что-либо", "put it on your dress"],
+            ["lean in", "наклониться ближе", "leans in"],
+            ["hesitate to do something", "колебаться сделать что-либо", "don't hesitate"],
+            ["get one's hands on", "раздобыть", "get your hands on a bow"],
+            ["make a bow", "сделать лук", "make one"],
+            ["scrap one's work", "выбрасывать неудачную работу", "scrap his own work"],
+            ["go insane", "сойти с ума", "went insane"],
+            ["freeze to death", "замёрзнуть насмерть", "freeze to death"],
+            ["ask for more time", "просить больше времени", "asks for more time"],
+            ["cry out", "вскрикнуть", "I cry out"],
+            ["cling to", "цепляться за", "clinging to his hand"],
+            ["take someone away", "уводить кого-то", "taking him away"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["all along", "всё это время", "all along"],
+            ["hard-muscled", "мускулистый", "hard-muscled"],
+            ["best chance", "лучший шанс", "best chance"],
+            ["spiked mace", "шипастая булава", "spiked maces"],
+            ["bludgeon someone to death", "забить кого-то до смерти", "bludgeon one another to death"],
+            ["with poor results", "с плохими результатами", "with poor results"],
+            ["a landscape of boulders and sand", "ландшафт из валунов и песка", "boulders and sand"],
+            ["venomous snakes", "ядовитые змеи", "venomous snakes"],
+            ["die of cold", "умереть от холода", "died of cold"],
+            ["huddle in balls", "сворачиваться клубком", "huddled in balls"],
+            ["anti-climactic", "антикульминационный", "anti-climactic"],
+            ["armed", "вооружённый", "They're armed"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["there is nothing romantic between us", "между нами нет ничего романтического", "nothing romantic between us"],
+            ["the sound of his heart beating", "звук биения его сердца", "heart beating"],
+            ["the awful thing is", "ужасно то, что", "The awful thing is"],
+            ["if I can forget they're people", "если я смогу забыть, что они люди", "forget they're people"],
+            ["it will be no different at all", "это ничем не будет отличаться", "no different at all"],
+            ["real practice", "настоящая практика", "Real practice"],
+            ["how different can it be, really?", "насколько это вообще отличается?", "How different can it be"],
+            ["Gale says grimly", "мрачно говорит Гейл", "says Gale grimly"],
+            ["quiet, bloodless deaths", "тихие бескровные смерти", "quiet, bloodless deaths"],
+            ["not much entertainment in that", "в этом мало развлечения", "Not much entertainment in that"],
+            ["it was considered very anti-climactic", "это считалось крайне разочаровывающим", "considered very anti-climactic"],
+            ["I start to panic", "я начинаю паниковать", "I start to panic"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Gale think Katniss should get a bow?",
+          "options": [
+            "It is required by the Capitol",
+            "It is her greatest strength as a hunter",
+            "Peeta recommends it",
+            "The arena always contains bows"
+          ],
+          "answer": 1,
+          "explanation": "Gale believes Katniss's skill with a bow gives her the best chance of survival."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Katniss doubt Gale's advice?",
+          "options": [
+            "She dislikes bows",
+            "She has never used one",
+            "The arena may not contain wood or bows",
+            "She prefers knives"
+          ],
+          "answer": 2,
+          "explanation": "Katniss remembers arenas where there was almost no wood and no opportunity to make a bow."
+        },
+        {
+          "type": "choice",
+          "question": "What happened in the Hunger Games set in a rocky desert landscape?",
+          "options": [
+            "Many tributes drowned",
+            "Many tributes were bitten by snakes or died of thirst",
+            "A fire destroyed the arena",
+            "Nobody died"
+          ],
+          "answer": 1,
+          "explanation": "Katniss recalls contestants suffering from venomous snakes and extreme thirst."
+        },
+        {
+          "type": "choice",
+          "question": "What does Gale mean when he says, 'You know how to kill'?",
+          "options": [
+            "Katniss has experience hunting animals",
+            "Katniss has killed people before",
+            "Katniss enjoys violence",
+            "Katniss was trained by the Capitol"
+          ],
+          "answer": 0,
+          "explanation": "Gale refers to her hunting experience and survival skills."
+        },
+        {
+          "type": "choice",
+          "question": "What is Katniss's final request to Gale?",
+          "options": [
+            "Win the Games for her",
+            "Take care of Prim",
+            "Don't let her family starve",
+            "Destroy the Capitol"
+          ],
+          "answer": 2,
+          "explanation": "As Gale is taken away, Katniss desperately asks him not to let her family starve."
+        }
+      ]
+    },
+    "hunger_games_03_scene01_part04": {
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 4",
+      "title": "Chapter 3 Page 4",
+      "level": "B2/C1/C2",
+      "text": "“I won’t! You know I won’t! Katniss, remember I —” he says, and they yank us apart and slam the door and I’ll never know what it was he wanted me to remember.\n\nIt’s a short ride from the Justice Building to the train station. I’ve never been in a car before. Rarely even ridden in wagons. In the Seam, we travel on foot.\n\nI’ve been right not to cry. The station is swarming with reporters with their insectlike cameras trained directly on my face. But I’ve had a lot of practice at wiping my face clean of emotions and I do this now. I catch a glimpse of myself on the television screen on the wall that’s airing my arrival live and feel gratified that I appear almost bored.\n\nPeeta Mellark, on the other hand, has obviously been crying and interestingly enough does not seem to be trying to cover it up. I immediately wonder if this will be his strategy in the Games. To appear weak and frightened, to reassure the other tributes that he is no competition at all, and then come out fighting. This worked very well for a girl, Johanna Mason, from District 7 a few years back. She seemed like such a sniveling, cowardly fool that no one bothered about her until there were only a handful of contestants left. It turned out she could kill viciously. Pretty clever, the way she played it. But this seems an odd strategy for Peeta Mellark because he’s a baker’s son. All those years of having enough to eat and hauling bread trays around have made him broad-shouldered and strong. It will take an awful lot of weeping to convince anyone to overlook him.\n\nWe have to stand for a few minutes in the doorway of the train while the cameras gobble up our images, then we’re allowed inside and the doors close mercifully behind us. The train begins to move at once.\n\nThe speed initially takes my breath away. Of course, I’ve never been on a train, as travel between the districts is forbidden except for officially sanctioned duties. For us, that’s mainly transporting coal. But this is no ordinary coal train. It’s one of the high-speed Capitol models that average 250 miles per hour. Our journey to the Capitol will take less than a day.\n\nIn school, they tell us the Capitol was built in a place once called the Rockies. District 12 was in a region known is Appalachia. Even hundreds of years ago, they mined coal here. Which is why our miners have to dig so deep.\n\nSomehow it all comes back to coal at school. Besides basic reading and math most of our instruction is coal-related. Except for the weekly lecture on the history of Panem. It’s mostly a lot of blather about what we owe the Capitol. I know there must be more than they’re telling us, an actual account of what happened during the rebellion. But I don’t spend much time thinking about it. Whatever the truth is, I don’t see how it will help me get food on the table.\n\nThe tribute train is fancier than even the room in the Justice Building. We are each given our own chambers that have a bedroom, a dressing area, and a private bathroom with hot and cold running water. We don’t have hot water at home, unless we boil it.\n\n",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["yank someone apart", "грубо разнять кого-то", "yank us apart"],
+            ["slam the door", "захлопнуть дверь", "slam the door"],
+            ["travel on foot", "передвигаться пешком", "travel on foot"],
+            ["wipe one's face clean of emotion", "стереть эмоции с лица", "wiping my face clean of emotions"],
+            ["catch a glimpse of", "мельком увидеть", "catch a glimpse of myself"],
+            ["cover something up", "скрывать что-либо", "cover it up"],
+            ["stand in the doorway", "стоять в дверях", "stand for a few minutes in the doorway"],
+            ["take someone's breath away", "захватывать дух", "takes my breath away"],
+            ["come back to", "снова сводиться к чему-либо", "comes back to coal"],
+            ["get food on the table", "обеспечить семью едой", "get food on the table"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["swarm with", "кишеть кем-либо", "swarming with reporters"],
+            ["train a camera on", "направить камеру на кого-либо", "cameras trained directly on my face"],
+            ["feel gratified", "испытывать удовлетворение", "feel gratified"],
+            ["appear weak and frightened", "казаться слабым и испуганным", "appear weak and frightened"],
+            ["come out fighting", "дать отпор", "come out fighting"],
+            ["a handful of contestants", "горстка участников", "a handful of contestants"],
+            ["kill viciously", "убивать жестоко", "kill viciously"],
+            ["broad-shouldered and strong", "широкоплечий и сильный", "broad-shouldered and strong"],
+            ["gobble up images", "жадно поглощать изображения", "cameras gobble up our images"],
+            ["officially sanctioned duties", "официально разрешённые обязанности", "officially sanctioned duties"],
+            ["average 250 miles per hour", "развивать в среднем 250 миль в час", "average 250 miles per hour"],
+            ["coal-related", "связанный с углём", "coal-related"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["insectlike cameras", "камеры, похожие на насекомых", "insectlike cameras"],
+            ["air live", "транслировать в прямом эфире", "airing my arrival live"],
+            ["this will be his strategy", "это будет его стратегия", "this will be his strategy"],
+            ["reassure the other tributes", "успокоить других трибутов", "reassure the other tributes"],
+            ["a sniveling, cowardly fool", "жалкий трусливый дурак", "sniveling, cowardly fool"],
+            ["overlook someone", "недооценивать кого-либо", "overlook him"],
+            ["mercifully behind us", "к счастью позади нас", "close mercifully behind us"],
+            ["a lot of blather", "куча пустой болтовни", "a lot of blather"],
+            ["what we owe the Capitol", "чем мы обязаны Капитолию", "what we owe the Capitol"],
+            ["an actual account of", "реальное описание чего-либо", "an actual account of what happened"],
+            ["the truth is", "какова бы ни была правда", "Whatever the truth is"],
+            ["running water", "водопроводная вода", "running water"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Katniss try not to show any emotion at the train station?",
+          "options": [
+            "She is not sad",
+            "She wants to appear strong in front of the cameras",
+            "She dislikes reporters",
+            "She is angry with Peeta"
+          ],
+          "answer": 1,
+          "explanation": "Katniss has learned to hide her emotions and wants to appear calm and strong."
+        },
+        {
+          "type": "choice",
+          "question": "What does Katniss suspect about Peeta's tears?",
+          "options": [
+            "They are fake and part of a strategy",
+            "He is physically injured",
+            "He is laughing",
+            "He cannot stop crying because of illness"
+          ],
+          "answer": 0,
+          "explanation": "Katniss wonders whether Peeta is pretending to be weak so others underestimate him."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Katniss mention Johanna Mason?",
+          "options": [
+            "She was Peeta's friend",
+            "She won by pretending to be harmless",
+            "She came from District 12",
+            "She taught Katniss to hunt"
+          ],
+          "answer": 1,
+          "explanation": "Johanna survived because other tributes underestimated her."
+        },
+        {
+          "type": "choice",
+          "question": "What surprises Katniss most about the train?",
+          "options": [
+            "Its color",
+            "Its food",
+            "Its speed and luxury",
+            "Its size"
+          ],
+          "answer": 2,
+          "explanation": "Katniss has never ridden a train before and is amazed by its speed and comfort."
+        },
+        {
+          "type": "choice",
+          "question": "Why is Katniss uninterested in the official history lessons?",
+          "options": [
+            "She already knows everything",
+            "She thinks they are lies and irrelevant to survival",
+            "She dislikes her teacher",
+            "She prefers mathematics"
+          ],
+          "answer": 1,
+          "explanation": "Katniss focuses on survival and food rather than political history."
+        }
+      ]
+    },
+    "hunger_games_03_scene01_part05": {
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 5",
+      "title": "Chapter 3 Page 5",
+      "level": "B2/C1/C2",
+      "text": "There are drawers filled with fine clothes, and Effie Trinket tells me to do anything I want, wear anything I want, everything is at my disposal. Just be ready for supper in an hour. I peel off my mother’s blue dress and take a hot shower. I’ve never had a shower before. It’s like being in a summer rain, only warmer. I dress in a dark green shirt and pants.\n\nAt the last minute, I remember Madge’s little gold pin. For the first time, I get a good look at it. It’s as if someone fashioned a small golden bird and then attached a ring around it. The bird is connected to the ring only by its wing tips. I suddenly recognize it. A mocking jay.\n\nThey’re funny birds and something of a slap in the face to the Capitol. During the rebellion, the Capitol bred a series of genetically altered animals as weapons. The common term for them was muttations, or sometimes mutts for short. One was a special bird called a jabber jay that had the ability to memorize and repeat whole human conversations. They were homing birds, exclusively male, that were released into regions where the Capitol’s enemies were known to be hiding. After the birds gathered words, they’d fly back to centers to be recorded. It took people awhile to realize what was going on in the districts, how private conversations were being transmitted. Then, of course, the rebels fed the Capitol endless lies, and the joke was on it. So the centers were shut down and the birds were abandoned to die off in the wild.\n\nOnly they didn’t die off. Instead, the jabber jays mated with female mockingbirds creating a whole new species that could replicate both bird whistles and human melodies. They had lost the ability to enunciate words but could still mimic a range of human vocal sounds, from a child’s high-pitched warble to a man’s deep tones. And they could re-create songs. Not just a few notes, but whole songs with multiple verses, if you had the patience to sing them and if they liked your voice.\n\nMy father was particularly fond of mockingjays. When we went hunting, he would whistle or sing complicated songs to them and, after a polite pause, they’d always sing back. Not everyone is treated with such respect. But whenever my father sang, all the birds in the area would fall silent and listen. His voice was that beautiful, high and clear and so filled with life it made you want to laugh and cry at the same time. I could never bring myself to continue the practice after he was gone. Still, there’s something comforting about the little bird. It’s like having a piece of my father with me, protecting me. I fasten the pin onto my shirt, and with the dark green fabric as a background, I can almost imagine the mockingjay flying through the trees.\n\nEffie Trinket comes to collect me for supper. I follow her through the narrow, rocking corridor into a dining room with polished paneled walls. There’s a table where all the dishes are highly breakable. Peeta Mellark sits waiting for us, the chair next to him empty.\n\n“Where’s Haymitch?” asks Effie Trinket brightly.\n\n“Last time I saw him, he said he was going to take a nap,” says Peeta.\n\n“Well, it’s been an exhausting day,” says Effie Trinket. I think she’s relieved by Haymitch’s absence, and who can blame her?\n\nThe supper comes in courses. A thick carrot soup, green salad, lamb chops and mashed potatoes, cheese and fruit, a chocolate cake. Throughout the meal, Effie Trinket keeps reminding us to save space because there’s more to come. But I’m stuffing myself because I’ve never had food like this, so good and so much, and because probably the best thing I can do between now and the Games is put on a few pounds.\n\n“At least, you two have decent manners,” says Effie as we’re finishing the main course. “The pair last year ate everything with their hands like a couple of savages. It completely upset my digestion.”\n\n",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["be at someone's disposal", "быть в чьём-то распоряжении", "at my disposal"],
+            ["peel off", "снимать (одежду)", "peel off my mother's blue dress"],
+            ["get a good look at", "хорошо рассмотреть", "get a good look at it"],
+            ["recognize something", "узнать что-либо", "I suddenly recognize it"],
+            ["die off", "вымирать", "didn't die off"],
+            ["fall silent", "замолкнуть", "fall silent"],
+            ["bring oneself to do something", "заставить себя сделать что-либо", "bring myself to continue"],
+            ["follow someone", "следовать за кем-то", "I follow her"],
+            ["save space", "оставить место (для еды)", "save space"],
+            ["stuff oneself", "наедаться до отвала", "I'm stuffing myself"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["fashion something", "изготовить что-либо", "someone fashioned a small golden bird"],
+            ["a slap in the face", "пощёчина, оскорбление", "a slap in the face to the Capitol"],
+            ["genetically altered", "генетически изменённый", "genetically altered animals"],
+            ["be known to be hiding", "как известно, скрываться", "known to be hiding"],
+            ["feed someone lies", "скармливать ложь", "fed the Capitol endless lies"],
+            ["the joke was on someone", "кто-то оказался одураченным", "the joke was on it"],
+            ["replicate", "воспроизводить", "could replicate"],
+            ["mimic", "имитировать", "could still mimic"],
+            ["be particularly fond of", "особенно любить", "particularly fond of mockingjays"],
+            ["a polite pause", "вежливая пауза", "after a polite pause"],
+            ["filled with life", "полный жизни", "filled with life"],
+            ["bring comfort", "приносить утешение", "something comforting"],
+            ["fasten onto", "прикрепить к", "fasten the pin onto my shirt"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["homing bird", "почтовая птица", "They were homing birds"],
+            ["private conversations being transmitted", "передача частных разговоров", "private conversations were being transmitted"],
+            ["abandon to die off", "оставить вымирать", "abandoned to die off"],
+            ["enunciate words", "чётко произносить слова", "enunciate words"],
+            ["a range of vocal sounds", "диапазон голосовых звуков", "a range of human vocal sounds"],
+            ["high-pitched warble", "высокая трель", "high-pitched warble"],
+            ["re-create songs", "воспроизводить песни", "re-create songs"],
+            ["treated with respect", "пользоваться уважением", "treated with such respect"],
+            ["laugh and cry at the same time", "смеяться и плакать одновременно", "laugh and cry at the same time"],
+            ["a piece of my father", "частичка моего отца", "a piece of my father with me"],
+            ["highly breakable", "очень хрупкий", "highly breakable"],
+            ["put on a few pounds", "набрать несколько фунтов веса", "put on a few pounds"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why are mockingjays considered a 'slap in the face' to the Capitol?",
+          "options": [
+            "They attack Peacekeepers",
+            "They survived a failed Capitol experiment",
+            "They can speak human language",
+            "They live only in District 12"
+          ],
+          "answer": 1,
+          "explanation": "Mockingjays exist because the Capitol's jabberjay project failed, making them a symbol of Capitol mistakes."
+        },
+        {
+          "type": "choice",
+          "question": "What special ability do mockingjays have?",
+          "options": [
+            "They can predict danger",
+            "They can imitate songs and sounds",
+            "They can deliver messages",
+            "They can hunt snakes"
+          ],
+          "answer": 1,
+          "explanation": "Mockingjays can mimic bird calls, human sounds, and even entire songs."
+        },
+        {
+          "type": "choice",
+          "question": "Why is the mockingjay pin important to Katniss?",
+          "options": [
+            "It is very expensive",
+            "It belonged to her mother",
+            "It reminds her of her father",
+            "It proves she is from District 12"
+          ],
+          "answer": 2,
+          "explanation": "Mockingjays remind Katniss of hunting with her father and his beautiful singing voice."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Katniss eat so much during supper?",
+          "options": [
+            "She wants to impress Effie",
+            "She has never seen food before",
+            "She hopes to gain weight before the Games",
+            "She dislikes Capitol food"
+          ],
+          "answer": 2,
+          "explanation": "Katniss believes putting on some weight may help her survive the Hunger Games."
+        },
+        {
+          "type": "choice",
+          "question": "What does Effie Trinket praise Katniss and Peeta for?",
+          "options": [
+            "Their bravery",
+            "Their manners",
+            "Their intelligence",
+            "Their appearance"
+          ],
+          "answer": 1,
+          "explanation": "Effie compliments them for having good table manners compared to the previous tributes."
+        }
+      ]
+    },
+    "hunger_games_03_scene01_part06": {
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 6",
+      "title": "Chapter 3 Page 6",
+      "level": "B2/C1/C2",
+      "text": "The pair last year were two kids from the Seam who’d never, not one day of their lives, had enough to eat. And when they did have food, table manners were surely the last thing on their minds. Peeta’s a baker’s son. My mother taught Prim and I to eat properly, so yes, I can handle a fork and knife. But I hate Effie Trinket’s comment so much I make a point of eating the rest of my meal with my fingers. Then I wipe my hands on the tablecloth. This makes her purse her lips tightly together.\n\nNow that the meal’s over, I’m fighting to keep the food down. I can see Peeta’s looking a little green, too. Neither of our stomachs is used to such rich fare. But if I can hold down Greasy Sae’s concoction of mice meat, pig entrails, and tree bark — a winter specialty — I’m determined to hang on to this.\n\nWe go to another compartment to watch the recap of the reapings across Panem. They try to stagger them throughout the day so a person could conceivably watch the whole thing live, but only people in the Capitol could really do that, since none of them have to attend reapings themselves.\n\nOne by one, we see the other reapings, the names called, (the volunteers stepping forward or, more often, not. We examine the faces of the kids who will be our competition. A few stand out in my mind. A monstrous boy who lunges forward to volunteer from District 2. A fox-faced girl with sleek red hair from District 5. A boy with a crippled foot from District 10. And most hauntingly, a twelve-year-old girl from District 11. She has dark brown skin and eyes, but other than that, she’s very like Prim in size and demeanor. Only when she mounts the stage and they ask for volunteers, all you can hear is the wind whistling through the decrepit buildings around her. There’s no one willing to take her place.\n\nLast of all, they show District 12. Prim being called, me running forward to volunteer. You can’t miss the desperation in my voice as I shove Prim behind me, as if I’m afraid no one will hear and they’ll take Prim away. But, of course, they do hear. I see Gale pulling her off me and watch myself mount the stage. The commentators are not sure what to say about the crowd’s refusal to applaud. The silent salute. One says that District 12 has always been a bit backward but that local customs can be charming. As if on cue, Haymitch falls off the stage, and they groan comically. Peeta’s name is drawn, and he quietly takes his place. We shake hands. They cut to the anthem again, and the program ends.\n\nEffie Trinket is disgruntled about the state her wig was in. “Your mentor has a lot to learn about presentation. A lot about televised behavior.”\n\nPeeta unexpectedly laughs. “He was drunk,” says Peeta. “He’s drunk every year.”\n\n“Every day,” I add. I can’t help smirking a little. Effie Trinket makes it sound like Haymitch just has somewhat rough manners that could be corrected with a few tips from her.\n\n“Yes,” hisses Effie Trinket. “How odd you two find it amusing. You know your mentor is your lifeline to the world in these Games. The one who advises you, lines up your sponsors, and dictates the presentation of any gifts. Haymitch can well be the difference between your life and your death!”\n\nJust then, Haymitch staggers into the compartment. “I miss supper?” he says in a slurred voice. Then he vomits all over the expensive carpet and falls in the mess.\n\n“So laugh away!” says Effie Trinket. She hops in her pointy shoes around the pool of vomit and flees the room.",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["make a point of doing something", "демонстративно сделать что-либо", "make a point of eating"],
+            ["wipe one's hands on", "вытереть руки о", "wipe my hands on the tablecloth"],
+            ["keep something down", "удержать пищу в желудке", "keep the food down"],
+            ["hold something down", "не дать вырвать", "hold down Greasy Sae's concoction"],
+            ["hang on to", "удержать, сохранить", "hang on to this"],
+            ["step forward", "выйти вперёд", "stepping forward"],
+            ["take someone's place", "занять чьё-то место", "take her place"],
+            ["shake hands", "пожать руки", "We shake hands"],
+            ["fall off", "упасть с", "falls off the stage"],
+            ["laugh away", "продолжать смеяться", "laugh away"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["purse one's lips", "поджать губы", "purse her lips tightly together"],
+            ["rich fare", "обильная жирная пища", "such rich fare"],
+            ["a winter specialty", "зимний деликатес", "a winter specialty"],
+            ["stagger something throughout", "распределить по времени", "stagger them throughout the day"],
+            ["conceivably", "теоретически", "could conceivably watch"],
+            ["stand out in one's mind", "особенно запомниться", "stand out in my mind"],
+            ["fox-faced", "с лисьим лицом", "fox-faced girl"],
+            ["dark brown skin", "тёмно-коричневая кожа", "dark brown skin"],
+            ["mount the stage", "подняться на сцену", "mounts the stage"],
+            ["decrepit buildings", "обветшалые здания", "decrepit buildings"],
+            ["draw someone's name", "вытянуть чьё-то имя", "Peeta's name is drawn"],
+            ["disgruntled about", "быть недовольным чем-либо", "disgruntled about the state"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["none of them have to attend", "никому из них не приходится присутствовать", "none of them have to attend reapings"],
+            ["a monstrous boy", "огромный устрашающий парень", "A monstrous boy"],
+            ["most hauntingly", "самым тревожным образом", "most hauntingly"],
+            ["very like Prim in size and demeanor", "очень похожая на Прим по внешности и манере поведения", "very like Prim in size and demeanor"],
+            ["the wind whistling through", "ветер свистит сквозь", "wind whistling through"],
+            ["you can't miss the desperation", "невозможно не заметить отчаяние", "can't miss the desperation"],
+            ["the crowd's refusal to applaud", "отказ толпы аплодировать", "refusal to applaud"],
+            ["local customs can be charming", "местные обычаи могут быть очаровательны", "local customs can be charming"],
+            ["your mentor is your lifeline", "наставник — ваша спасательная нить", "mentor is your lifeline"],
+            ["line up sponsors", "находить спонсоров", "lines up your sponsors"],
+            ["slurred voice", "невнятная речь", "slurred voice"],
+            ["fall in the mess", "упасть в собственную рвоту", "falls in the mess"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Katniss deliberately eat with her fingers?",
+          "options": [
+            "She has forgotten how to use cutlery",
+            "She wants to annoy Effie Trinket",
+            "The food is too hot",
+            "Peeta tells her to"
+          ],
+          "answer": 1,
+          "explanation": "Katniss is offended by Effie's criticism of last year's tributes and intentionally behaves rudely."
+        },
+        {
+          "type": "choice",
+          "question": "Why do Katniss and Peeta feel sick after dinner?",
+          "options": [
+            "The food is poisoned",
+            "They ate too quickly",
+            "They are not used to rich Capitol food",
+            "They are nervous about the train"
+          ],
+          "answer": 2,
+          "explanation": "Their usual diet is much poorer, so the luxurious food overwhelms their stomachs."
+        },
+        {
+          "type": "choice",
+          "question": "Why is the girl from District 11 especially memorable to Katniss?",
+          "options": [
+            "She volunteers eagerly",
+            "She resembles Prim",
+            "She is the strongest tribute",
+            "She comes from a wealthy district"
+          ],
+          "answer": 1,
+          "explanation": "The twelve-year-old girl reminds Katniss of Prim in both size and demeanor."
+        },
+        {
+          "type": "choice",
+          "question": "How do the Capitol commentators explain District 12's silent salute?",
+          "options": [
+            "As an act of rebellion",
+            "As a technical problem",
+            "As a charming local custom",
+            "As respect for Haymitch"
+          ],
+          "answer": 2,
+          "explanation": "They avoid acknowledging its true meaning and describe it as a harmless local tradition."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Effie say Haymitch is important?",
+          "options": [
+            "He controls the Games",
+            "He can help secure sponsors and advice",
+            "He works for the Capitol",
+            "He chooses the winner"
+          ],
+          "answer": 1,
+          "explanation": "As mentor, Haymitch provides guidance, sponsors, and gifts that can determine survival."
+        }
+      ]    
+    }
 }
