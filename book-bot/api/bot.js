@@ -4,7 +4,7 @@ const path = require("path");
 
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
-const LESSONS_DIR = path.join(process.cwd(), "data", "theHG", "1", "lessons");
+const LESSONS_DIR = path.join(__dirname, "..", "data", "theHG", "1", "lessons");
 const INDEX_PATH = path.join(LESSONS_DIR, "index.json");
 
 const LEVELS = ["B2", "C1", "C2"];
