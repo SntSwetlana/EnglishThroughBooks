@@ -1,0 +1,120 @@
+{
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 5",
+      "title": "Chapter 3 Page 5",
+      "level": "B2/C1/C2",
+      "text": "There are drawers filled with fine clothes, and Effie Trinket tells me to do anything I want, wear anything I want, everything is at my disposal. Just be ready for supper in an hour. I peel off my mother’s blue dress and take a hot shower. I’ve never had a shower before. It’s like being in a summer rain, only warmer. I dress in a dark green shirt and pants.\n\nAt the last minute, I remember Madge’s little gold pin. For the first time, I get a good look at it. It’s as if someone fashioned a small golden bird and then attached a ring around it. The bird is connected to the ring only by its wing tips. I suddenly recognize it. A mocking jay.\n\nThey’re funny birds and something of a slap in the face to the Capitol. During the rebellion, the Capitol bred a series of genetically altered animals as weapons. The common term for them was muttations, or sometimes mutts for short. One was a special bird called a jabber jay that had the ability to memorize and repeat whole human conversations. They were homing birds, exclusively male, that were released into regions where the Capitol’s enemies were known to be hiding. After the birds gathered words, they’d fly back to centers to be recorded. It took people awhile to realize what was going on in the districts, how private conversations were being transmitted. Then, of course, the rebels fed the Capitol endless lies, and the joke was on it. So the centers were shut down and the birds were abandoned to die off in the wild.\n\nOnly they didn’t die off. Instead, the jabber jays mated with female mockingbirds creating a whole new species that could replicate both bird whistles and human melodies. They had lost the ability to enunciate words but could still mimic a range of human vocal sounds, from a child’s high-pitched warble to a man’s deep tones. And they could re-create songs. Not just a few notes, but whole songs with multiple verses, if you had the patience to sing them and if they liked your voice.\n\nMy father was particularly fond of mockingjays. When we went hunting, he would whistle or sing complicated songs to them and, after a polite pause, they’d always sing back. Not everyone is treated with such respect. But whenever my father sang, all the birds in the area would fall silent and listen. His voice was that beautiful, high and clear and so filled with life it made you want to laugh and cry at the same time. I could never bring myself to continue the practice after he was gone. Still, there’s something comforting about the little bird. It’s like having a piece of my father with me, protecting me. I fasten the pin onto my shirt, and with the dark green fabric as a background, I can almost imagine the mockingjay flying through the trees.\n\nEffie Trinket comes to collect me for supper. I follow her through the narrow, rocking corridor into a dining room with polished paneled walls. There’s a table where all the dishes are highly breakable. Peeta Mellark sits waiting for us, the chair next to him empty.\n\n“Where’s Haymitch?” asks Effie Trinket brightly.\n\n“Last time I saw him, he said he was going to take a nap,” says Peeta.\n\n“Well, it’s been an exhausting day,” says Effie Trinket. I think she’s relieved by Haymitch’s absence, and who can blame her?\n\nThe supper comes in courses. A thick carrot soup, green salad, lamb chops and mashed potatoes, cheese and fruit, a chocolate cake. Throughout the meal, Effie Trinket keeps reminding us to save space because there’s more to come. But I’m stuffing myself because I’ve never had food like this, so good and so much, and because probably the best thing I can do between now and the Games is put on a few pounds.\n\n“At least, you two have decent manners,” says Effie as we’re finishing the main course. “The pair last year ate everything with their hands like a couple of savages. It completely upset my digestion.”\n\n",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["be at someone's disposal", "быть в чьём-то распоряжении", "at my disposal"],
+            ["peel off", "снимать (одежду)", "peel off my mother's blue dress"],
+            ["get a good look at", "хорошо рассмотреть", "get a good look at it"],
+            ["recognize something", "узнать что-либо", "I suddenly recognize it"],
+            ["die off", "вымирать", "didn't die off"],
+            ["fall silent", "замолкнуть", "fall silent"],
+            ["bring oneself to do something", "заставить себя сделать что-либо", "bring myself to continue"],
+            ["follow someone", "следовать за кем-то", "I follow her"],
+            ["save space", "оставить место (для еды)", "save space"],
+            ["stuff oneself", "наедаться до отвала", "I'm stuffing myself"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["fashion something", "изготовить что-либо", "someone fashioned a small golden bird"],
+            ["a slap in the face", "пощёчина, оскорбление", "a slap in the face to the Capitol"],
+            ["genetically altered", "генетически изменённый", "genetically altered animals"],
+            ["be known to be hiding", "как известно, скрываться", "known to be hiding"],
+            ["feed someone lies", "скармливать ложь", "fed the Capitol endless lies"],
+            ["the joke was on someone", "кто-то оказался одураченным", "the joke was on it"],
+            ["replicate", "воспроизводить", "could replicate"],
+            ["mimic", "имитировать", "could still mimic"],
+            ["be particularly fond of", "особенно любить", "particularly fond of mockingjays"],
+            ["a polite pause", "вежливая пауза", "after a polite pause"],
+            ["filled with life", "полный жизни", "filled with life"],
+            ["bring comfort", "приносить утешение", "something comforting"],
+            ["fasten onto", "прикрепить к", "fasten the pin onto my shirt"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["homing bird", "почтовая птица", "They were homing birds"],
+            ["private conversations being transmitted", "передача частных разговоров", "private conversations were being transmitted"],
+            ["abandon to die off", "оставить вымирать", "abandoned to die off"],
+            ["enunciate words", "чётко произносить слова", "enunciate words"],
+            ["a range of vocal sounds", "диапазон голосовых звуков", "a range of human vocal sounds"],
+            ["high-pitched warble", "высокая трель", "high-pitched warble"],
+            ["re-create songs", "воспроизводить песни", "re-create songs"],
+            ["treated with respect", "пользоваться уважением", "treated with such respect"],
+            ["laugh and cry at the same time", "смеяться и плакать одновременно", "laugh and cry at the same time"],
+            ["a piece of my father", "частичка моего отца", "a piece of my father with me"],
+            ["highly breakable", "очень хрупкий", "highly breakable"],
+            ["put on a few pounds", "набрать несколько фунтов веса", "put on a few pounds"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why are mockingjays considered a 'slap in the face' to the Capitol?",
+          "options": [
+            "They attack Peacekeepers",
+            "They survived a failed Capitol experiment",
+            "They can speak human language",
+            "They live only in District 12"
+          ],
+          "answer": 1,
+          "explanation": "Mockingjays exist because the Capitol's jabberjay project failed, making them a symbol of Capitol mistakes."
+        },
+        {
+          "type": "choice",
+          "question": "What special ability do mockingjays have?",
+          "options": [
+            "They can predict danger",
+            "They can imitate songs and sounds",
+            "They can deliver messages",
+            "They can hunt snakes"
+          ],
+          "answer": 1,
+          "explanation": "Mockingjays can mimic bird calls, human sounds, and even entire songs."
+        },
+        {
+          "type": "choice",
+          "question": "Why is the mockingjay pin important to Katniss?",
+          "options": [
+            "It is very expensive",
+            "It belonged to her mother",
+            "It reminds her of her father",
+            "It proves she is from District 12"
+          ],
+          "answer": 2,
+          "explanation": "Mockingjays remind Katniss of hunting with her father and his beautiful singing voice."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Katniss eat so much during supper?",
+          "options": [
+            "She wants to impress Effie",
+            "She has never seen food before",
+            "She hopes to gain weight before the Games",
+            "She dislikes Capitol food"
+          ],
+          "answer": 2,
+          "explanation": "Katniss believes putting on some weight may help her survive the Hunger Games."
+        },
+        {
+          "type": "choice",
+          "question": "What does Effie Trinket praise Katniss and Peeta for?",
+          "options": [
+            "Their bravery",
+            "Their manners",
+            "Their intelligence",
+            "Their appearance"
+          ],
+          "answer": 1,
+          "explanation": "Effie compliments them for having good table manners compared to the previous tributes."
+        }
+      ]
+    }

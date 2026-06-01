@@ -1,0 +1,83 @@
+{
+    "chapter": "The Hunger Games — Chapter 1",
+    "part": "Page 1",
+    "title": "Chapter 1 Page 1",
+    "level": "B2/C1/C2",
+    "text": "When I wake up, the other side of the bed is cold. My fingers stretch out, seeking Prim’s warmth but finding only the rough canvas cover of the mattress. She must have had bad dreams and climbed in with our mother. Of course, she did. This is the day of the reaping.\n\nI prop myself up on one elbow. There’s enough light in the bedroom to see them. My little sister, Prim, curled up on her side, cocooned in my mother’s body, their cheeks pressed together. In sleep, my mother looks younger, still worn but not so beaten-down. Prim’s face is as fresh as a raindrop, as lovely as the primrose for which she was named. My mother was very beautiful once, too. Or so they tell me.\n\nSitting at Prim’s knees, guarding her, is the world’s ugliest cat. Mashed-in nose, half of one ear missing, eyes the color of rotting squash. Prim named him Buttercup, insisting that his muddy yellow coat matched the bright flower. He hates me. Or at least distrusts me. Even though it was years ago, I think he still remembers how I tried to drown him in a bucket when Prim brought him home. Scrawny kitten, belly swollen with worms, crawling with fleas. The last thing I needed was another mouth to feed. But Prim begged so hard, cried even, I had to let him stay. It turned out okay. My mother got rid of the vermin and he’s a born mouser. Even catches the occasional rat. Sometimes, when I clean a kill, I feed Buttercup the entrails. He has stopped hissing at me",
+    "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/11",
+        "title": "🎧 Listen to audio"
+      },
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["climb in with someone", "забираться к кому-то в кровать", "climbed in with our mother"],
+          ["prop oneself up", "приподняться, опираясь", "prop myself up"],
+          ["curl up", "сворачиваться клубком", "curled up on her side"],
+          ["bring someone home", "принести / привести домой", "brought him home"],
+          ["get rid of something", "избавиться от чего-то", "got rid of the vermin"],
+          ["feed someone something", "кормить кого-то чем-то", "feed Buttercup the entrails"],
+          ["stop hissing at someone", "перестать шипеть на кого-то", "stopped hissing at me"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["rough canvas cover of the mattress", "грубый холщовый чехол матраса", "rough canvas cover of the mattress"],
+          ["cocooned in my mother’s body", "укутанная телом матери", "cocooned in my mother’s body"],
+          ["still worn but not so beaten-down", "всё ещё измождённая, но не сломленная", "still worn but not so beaten-down"],
+          ["as fresh as a raindrop", "свежая, как капля дождя", "as fresh as a raindrop"],
+          ["eyes the color of rotting squash", "глаза цвета гниющей тыквы", "eyes the color of rotting squash"],
+          ["he’s a born mouser", "он прирождённый ловец мышей", "he’s a born mouser"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["seeking Prim’s warmth", "ища тепло Прим", "seeking Prim’s warmth"],
+          ["their cheeks pressed together", "их щёки прижаты друг к другу", "their cheeks pressed together"],
+          ["mashed-in nose", "вдавленный нос", "Mashed-in nose"],
+          ["muddy yellow coat matched the bright flower", "грязно-жёлтая шерсть сочеталась с ярким цветком", "his muddy yellow coat matched the bright flower"],
+          ["the last thing I needed", "меньше всего мне было нужно", "The last thing I needed"],
+          ["this is the closest we will ever come to love", "это самое близкое к любви, что у нас когда-либо будет", "This is the closest we will ever come to love"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What does “rough canvas cover” suggest?",
+        "options": ["comfort and luxury", "poverty and rough living conditions", "danger", "magic"],
+        "answer": 1,
+        "explanation": "It suggests a poor, uncomfortable, practical environment."
+      },
+      {
+        "type": "choice",
+        "question": "What does “cocooned in my mother’s body” suggest?",
+        "options": ["fear and punishment", "protection and closeness", "speed and movement", "anger"],
+        "answer": 1,
+        "explanation": "“Cocooned” creates an image of being wrapped, protected, and safe."
+      },
+      {
+        "type": "choice",
+        "question": "Which phrase shows innocence and freshness?",
+        "options": ["swollen knuckles", "as fresh as a raindrop", "rotting squash", "crawling with fleas"],
+        "answer": 1,
+        "explanation": "“As fresh as a raindrop” is a soft image of innocence and purity."
+      },
+      {
+        "type": "choice",
+        "question": "What does “another mouth to feed” mean?",
+        "options": ["another person or animal to provide food for", "someone who talks too much", "a dangerous animal", "a family celebration"],
+        "answer": 0,
+        "explanation": "It means another dependent who needs food and resources."
+      },
+      {
+        "type": "choice",
+        "question": "What does “silent as a stone” emphasize?",
+        "options": ["complete silence", "heavy rain", "fear of animals", "a loud sound"],
+        "answer": 0,
+        "explanation": "The simile emphasizes that there is no sound at all."
+      }
+    ]
+  }

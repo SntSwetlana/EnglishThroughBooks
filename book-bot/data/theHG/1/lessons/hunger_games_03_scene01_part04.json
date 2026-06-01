@@ -1,0 +1,119 @@
+{
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 4",
+      "title": "Chapter 3 Page 4",
+      "level": "B2/C1/C2",
+      "text": "“I won’t! You know I won’t! Katniss, remember I —” he says, and they yank us apart and slam the door and I’ll never know what it was he wanted me to remember.\n\nIt’s a short ride from the Justice Building to the train station. I’ve never been in a car before. Rarely even ridden in wagons. In the Seam, we travel on foot.\n\nI’ve been right not to cry. The station is swarming with reporters with their insectlike cameras trained directly on my face. But I’ve had a lot of practice at wiping my face clean of emotions and I do this now. I catch a glimpse of myself on the television screen on the wall that’s airing my arrival live and feel gratified that I appear almost bored.\n\nPeeta Mellark, on the other hand, has obviously been crying and interestingly enough does not seem to be trying to cover it up. I immediately wonder if this will be his strategy in the Games. To appear weak and frightened, to reassure the other tributes that he is no competition at all, and then come out fighting. This worked very well for a girl, Johanna Mason, from District 7 a few years back. She seemed like such a sniveling, cowardly fool that no one bothered about her until there were only a handful of contestants left. It turned out she could kill viciously. Pretty clever, the way she played it. But this seems an odd strategy for Peeta Mellark because he’s a baker’s son. All those years of having enough to eat and hauling bread trays around have made him broad-shouldered and strong. It will take an awful lot of weeping to convince anyone to overlook him.\n\nWe have to stand for a few minutes in the doorway of the train while the cameras gobble up our images, then we’re allowed inside and the doors close mercifully behind us. The train begins to move at once.\n\nThe speed initially takes my breath away. Of course, I’ve never been on a train, as travel between the districts is forbidden except for officially sanctioned duties. For us, that’s mainly transporting coal. But this is no ordinary coal train. It’s one of the high-speed Capitol models that average 250 miles per hour. Our journey to the Capitol will take less than a day.\n\nIn school, they tell us the Capitol was built in a place once called the Rockies. District 12 was in a region known is Appalachia. Even hundreds of years ago, they mined coal here. Which is why our miners have to dig so deep.\n\nSomehow it all comes back to coal at school. Besides basic reading and math most of our instruction is coal-related. Except for the weekly lecture on the history of Panem. It’s mostly a lot of blather about what we owe the Capitol. I know there must be more than they’re telling us, an actual account of what happened during the rebellion. But I don’t spend much time thinking about it. Whatever the truth is, I don’t see how it will help me get food on the table.\n\nThe tribute train is fancier than even the room in the Justice Building. We are each given our own chambers that have a bedroom, a dressing area, and a private bathroom with hot and cold running water. We don’t have hot water at home, unless we boil it.\n\n",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["yank someone apart", "грубо разнять кого-то", "yank us apart"],
+            ["slam the door", "захлопнуть дверь", "slam the door"],
+            ["travel on foot", "передвигаться пешком", "travel on foot"],
+            ["wipe one's face clean of emotion", "стереть эмоции с лица", "wiping my face clean of emotions"],
+            ["catch a glimpse of", "мельком увидеть", "catch a glimpse of myself"],
+            ["cover something up", "скрывать что-либо", "cover it up"],
+            ["stand in the doorway", "стоять в дверях", "stand for a few minutes in the doorway"],
+            ["take someone's breath away", "захватывать дух", "takes my breath away"],
+            ["come back to", "снова сводиться к чему-либо", "comes back to coal"],
+            ["get food on the table", "обеспечить семью едой", "get food on the table"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["swarm with", "кишеть кем-либо", "swarming with reporters"],
+            ["train a camera on", "направить камеру на кого-либо", "cameras trained directly on my face"],
+            ["feel gratified", "испытывать удовлетворение", "feel gratified"],
+            ["appear weak and frightened", "казаться слабым и испуганным", "appear weak and frightened"],
+            ["come out fighting", "дать отпор", "come out fighting"],
+            ["a handful of contestants", "горстка участников", "a handful of contestants"],
+            ["kill viciously", "убивать жестоко", "kill viciously"],
+            ["broad-shouldered and strong", "широкоплечий и сильный", "broad-shouldered and strong"],
+            ["gobble up images", "жадно поглощать изображения", "cameras gobble up our images"],
+            ["officially sanctioned duties", "официально разрешённые обязанности", "officially sanctioned duties"],
+            ["average 250 miles per hour", "развивать в среднем 250 миль в час", "average 250 miles per hour"],
+            ["coal-related", "связанный с углём", "coal-related"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["insectlike cameras", "камеры, похожие на насекомых", "insectlike cameras"],
+            ["air live", "транслировать в прямом эфире", "airing my arrival live"],
+            ["this will be his strategy", "это будет его стратегия", "this will be his strategy"],
+            ["reassure the other tributes", "успокоить других трибутов", "reassure the other tributes"],
+            ["a sniveling, cowardly fool", "жалкий трусливый дурак", "sniveling, cowardly fool"],
+            ["overlook someone", "недооценивать кого-либо", "overlook him"],
+            ["mercifully behind us", "к счастью позади нас", "close mercifully behind us"],
+            ["a lot of blather", "куча пустой болтовни", "a lot of blather"],
+            ["what we owe the Capitol", "чем мы обязаны Капитолию", "what we owe the Capitol"],
+            ["an actual account of", "реальное описание чего-либо", "an actual account of what happened"],
+            ["the truth is", "какова бы ни была правда", "Whatever the truth is"],
+            ["running water", "водопроводная вода", "running water"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Katniss try not to show any emotion at the train station?",
+          "options": [
+            "She is not sad",
+            "She wants to appear strong in front of the cameras",
+            "She dislikes reporters",
+            "She is angry with Peeta"
+          ],
+          "answer": 1,
+          "explanation": "Katniss has learned to hide her emotions and wants to appear calm and strong."
+        },
+        {
+          "type": "choice",
+          "question": "What does Katniss suspect about Peeta's tears?",
+          "options": [
+            "They are fake and part of a strategy",
+            "He is physically injured",
+            "He is laughing",
+            "He cannot stop crying because of illness"
+          ],
+          "answer": 0,
+          "explanation": "Katniss wonders whether Peeta is pretending to be weak so others underestimate him."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Katniss mention Johanna Mason?",
+          "options": [
+            "She was Peeta's friend",
+            "She won by pretending to be harmless",
+            "She came from District 12",
+            "She taught Katniss to hunt"
+          ],
+          "answer": 1,
+          "explanation": "Johanna survived because other tributes underestimated her."
+        },
+        {
+          "type": "choice",
+          "question": "What surprises Katniss most about the train?",
+          "options": [
+            "Its color",
+            "Its food",
+            "Its speed and luxury",
+            "Its size"
+          ],
+          "answer": 2,
+          "explanation": "Katniss has never ridden a train before and is amazed by its speed and comfort."
+        },
+        {
+          "type": "choice",
+          "question": "Why is Katniss uninterested in the official history lessons?",
+          "options": [
+            "She already knows everything",
+            "She thinks they are lies and irrelevant to survival",
+            "She dislikes her teacher",
+            "She prefers mathematics"
+          ],
+          "answer": 1,
+          "explanation": "Katniss focuses on survival and food rather than political history."
+        }
+      ]
+    }

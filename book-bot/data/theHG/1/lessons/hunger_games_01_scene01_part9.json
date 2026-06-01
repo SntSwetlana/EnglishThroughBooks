@@ -1,0 +1,136 @@
+{
+      "chapter": "The Hunger Games — Chapter 1",
+      "part": "Page 9",
+      "title": "Chapter 1 Page 9",
+      "level": "B2/C1/C2",
+      "text": "We walk toward the Seam in silence. I don’t like that Gale took a dig at Madge, but he’s right, of course. The reaping system is unfair, with the poor getting the worst of it. You become eligible for the reaping the day you turn twelve. That year, your name is entered once. At thirteen, twice. And so on and so on until you reach the age of eighteen, the final year of eligibility, when your name goes into the pool seven times. That’s true for every citizen in all twelve districts in the entire country of Panem.\n\nBut here’s the catch. Say you are poor and starving as we were. You can opt to add your name more times in exchange for tesserae. Each tessera is worth a meager year’s supply of grain and oil for one person. You may do this for each of your family members as well. So, at the age of twelve, I had my name entered four times. Once, because I had to, and three times for tesserae for grain and oil for myself, Prim, and my mother. In fact, every year I have needed to do this. And the entries are cumulative. So now, at the age of sixteen, my name will be in the reaping twenty times. Gale, who is eighteen and has been either helping or single-handedly feeding a family of five for seven years, will have his name in forty-two times.\n\nYou can see why someone like Madge, who has never been at risk of needing a tessera, can set him off. The chance of her name being drawn is very slim compared to those of us who live in the Seam. Not impossible, but slim. And even though the rules were set up by the Capitol, not the districts, certainly not Madge’s family, it’s hard not to resent those who don’t have to sign up for tesserae.\n\nGale knows his anger at Madge is misdirected. On other days, deep in the woods, I’ve listened to him rant about how the tesserae are just another tool to cause misery in our district. A way to plant hatred between the starving workers of the Seam and those who can generally count on supper and thereby ensure we will never trust one another. “It’s to the Capitol’s advantage to have us divided among ourselves,” he might say if there were no ears to hear but mine. If it wasn’t reaping day. If a girl with a gold pin and no tesserae had not made what I’m sure she thought was a harmless comment.\n\nAs we walk, I glance over at Gale’s face, still smoldering underneath his stony expression. His rages seem pointless to me, although I never say so. It’s not that I don’t agree with him. I do. But what good is yelling about the Capitol in the middle of the woods? It doesn’t change anything. It doesn’t make things fair. It doesn’t fill our stomachs. In fact, it scares off the nearby game. I let him yell though. Better he does it in the woods than in the district.",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/33",
+        "title": "🎧 Listen to audio"
+      },
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["take a dig at someone", "съязвить / уколоть кого-то", "Gale took a dig at Madge"],
+            ["sign up for something", "записываться на что-то", "sign up for tesserae"],
+            ["set someone off", "вывести кого-то из себя", "can set him off"],
+            ["count on something", "рассчитывать на что-то", "count on supper"],
+            ["fill our stomachs", "наполнять желудки / кормить", "It doesn’t fill our stomachs"],
+            ["scare off game", "спугнуть добычу", "it scares off the nearby game"],
+            ["agree with someone", "соглашаться с кем-то", "I don’t agree with him"],
+            ["be at risk of something", "подвергаться риску", "at risk of needing a tessera"],
+            ["add your name", "добавлять своё имя", "add your name more times"],
+            ["yell about something", "кричать о чём-то", "yelling about the Capitol"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["the reaping system is unfair", "система жатвы несправедлива", "the reaping system is unfair"],
+            ["the poor getting the worst of it", "бедным достаётся хуже всего", "the poor getting the worst of it"],
+            ["a meager year’s supply", "скудный годовой запас", "a meager year’s supply of grain and oil"],
+            ["entries are cumulative", "записи накапливаются", "the entries are cumulative"],
+            ["single-handedly feeding a family", "в одиночку кормить семью", "single-handedly feeding a family of five"],
+            ["misdirected anger", "неправильно направленный гнев", "his anger at Madge is misdirected"],
+            ["cause misery", "причинять страдания", "cause misery in our district"],
+            ["plant hatred", "сеять ненависть", "plant hatred between workers"],
+            ["to someone’s advantage", "кому-то выгодно", "to the Capitol’s advantage"],
+            ["harmless comment", "безобидный комментарий", "a harmless comment"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["here’s the catch", "вот в чём подвох", "here’s the catch"],
+            ["the chance of her name being drawn", "шанс, что вытянут её имя", "the chance of her name being drawn"],
+            ["hard not to resent", "трудно не resent / не испытывать горечь", "hard not to resent those people"],
+            ["if there were no ears to hear but mine", "если бы никто, кроме меня, не слышал", "if there were no ears to hear but mine"],
+            ["still smoldering underneath", "всё ещё тлеющий внутри", "still smoldering underneath his expression"],
+            ["stony expression", "каменное выражение лица", "his stony expression"],
+            ["his rages seem pointless", "его вспышки гнева кажутся бессмысленными", "his rages seem pointless"],
+            ["what good is yelling", "какой смысл кричать", "what good is yelling about the Capitol"],
+            ["those of us who live in the Seam", "те из нас, кто живёт в Seam", "those of us who live in the Seam"],
+            ["divided among ourselves", "разделённые между собой", "have us divided among ourselves"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Katniss consider the reaping system unfair?",
+          "options": [
+              "wealthier people can avoid tesserae and have fewer entries",
+              "only boys are chosen",
+              "people from the Capitol participate too",
+              "the mayor controls the drawing"
+            ],
+          "answer": 0,
+          "explanation": "Poor families must take tesserae, which increases the number of times their names enter the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What are tesserae?",
+          "options": [
+              "special Capitol coins",
+              "extra food received in exchange for additional reaping entries",
+              "punishments for illegal hunting",
+              "tickets to the Hunger Games"
+            ],
+          "answer": 1,
+          "explanation": "Tesserae provide grain and oil, but increase the risk of being chosen."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “entries are cumulative” mean?",
+          "options": [
+              "entries disappear every year",
+              "entries only count once",
+              "entries continue adding up over time",
+              "siblings share the same entries"
+            ],
+          "answer": 2,
+          "explanation": "Every additional entry remains in future years, increasing the overall risk."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Madge unintentionally upset Gale?",
+          "options": [
+              "she insults Katniss",
+              "she represents a safer, wealthier class",
+              "she reports hunters to the Capitol",
+              "she refuses tesserae"
+            ],
+          "answer": 1,
+          "explanation": "Madge never needed tesserae, so her chances in the reaping are much lower."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does Gale believe the tesserae system is designed to do?",
+          "options": [
+              "help poor families survive equally",
+              "encourage friendship between districts",
+              "divide poor people and create resentment",
+              "reward skilled hunters"
+            ],
+          "answer": 2,
+          "explanation": "Gale believes the Capitol uses tesserae to keep people divided and distrustful."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Katniss let Gale express his anger in the woods?",
+          "options": [
+              "she agrees with everything he says",
+              "she enjoys listening to arguments",
+              "she wants him to rebel publicly",
+              "it is safer than speaking openly in the district"
+            ],
+          "answer": 3,
+          "explanation": "Katniss knows speaking openly against the Capitol inside the district is dangerous."
+        }
+      ]
+    }

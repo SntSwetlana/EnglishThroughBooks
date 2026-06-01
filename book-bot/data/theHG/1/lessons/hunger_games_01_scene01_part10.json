@@ -1,0 +1,150 @@
+{
+      "chapter": "The Hunger Games — Chapter 1",
+      "part": "Page 10",
+      "title": "Chapter 1 Page 10",
+      "level": "B2/C1/C2",
+      "text": "Gale and I divide our spoils, leaving two fish, a couple of loaves of good bread, greens, a quart of strawberries, salt, paraffin, and a bit of money for each.\n\n“See you in the square,” I say.\n\n“Wear something pretty,” he says flatly.\n\nAt home, I find my mother and sister are ready to go. My mother wears a fine dress from her apothecary days. Prim is in my first reaping outfit, a skirt and ruffled blouse. It’s a bit big on her, but my mother has made it stay with pins. Even so, she’s having trouble keeping the blouse tucked in at the back.\n\nA tub of warm water waits for me. I scrub off the dirt and sweat from the woods and even wash my hair. To my surprise, my mother has laid out one of her own lovely dresses for me. A soft blue thing with matching shoes.\n\n“Are you sure?” I ask. I’m trying to get past rejecting offers of help from her. For a while, I was so angry, I wouldn’t allow her to do anything for me. And this is something special. Her clothes from her past are very precious to her.\n\n“Of course. Let’s put your hair up, too,” she says. I let her towel-dry it and braid it up on my head. I can hardly recognize myself in the cracked mirror that leans against the wall.\n\n“You look beautiful,” says Prim in a hushed voice.\n\n“And nothing like myself,” I say. I hug her, because I know these next few hours will be terrible for her. Her first reaping. She’s about as safe as you can get, since she’s only entered once. I wouldn’t let her take out any tesserae. But she’s worried about me. That the unthinkable might happen.\n\nI protect Prim in every way I can, but I’m powerless against the reaping. The anguish I always feel when she’s in pain wells up in my chest and threatens to register on my face. I notice her blouse has pulled out of her skirt in the back again and force myself to stay calm. “Tuck your tail in, little duck,” I say, smoothing the blouse back in place.\n\nPrim giggles and gives me a small “Quack.”\n\n“Quack yourself,” I say with a light laugh. The kind only Prim can draw out of me. “Come on, let’s eat,” I say and plant a quick kiss on the top of her head.\n\nThe fish and greens are already cooking in a stew, but that will be for supper. We decide to save the strawberries and bakery bread for this evening’s meal, to make it special we say. Instead we drink milk from Prim’s goat, Lady, and eat the rough bread made from the tessera grain, although no one has much appetite anyway.\n\nAt one o’clock, we head for the square. Attendance is mandatory unless you are on death’s door. This evening, officials will come around and check to see if this is the case. If not, you’ll be imprisoned.",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/34",
+        "title": "🎧 Listen to audio"
+      },
+      "levels": {
+        "B2": {
+        "quizlet": [
+            ["lay out clothes", "разложить одежду", "my mother has laid out one of her dresses"],
+            ["put one's hair up", "собрать волосы наверх", "Let’s put your hair up"],
+            ["get past something", "преодолеть что-то", "I’m trying to get past rejecting offers"],
+            ["wash off something", "смывать что-то", "I scrub off the dirt and sweat"],
+            ["tuck something in", "заправлять одежду", "keeping the blouse tucked in"],
+            ["pull out of something", "вылезать / выбиваться", "her blouse has pulled out"],
+            ["head for somewhere", "направляться куда-то", "we head for the square"],
+            ["come around", "приходить / обходить", "officials will come around"],
+            ["save something for later", "оставлять что-то на потом", "save the strawberries for evening"],
+            ["be worried about someone", "переживать за кого-то", "she’s worried about me"]
+          ]
+        },
+
+        "C1": {
+        "quizlet": [
+            ["ruffled blouse", "блузка с оборками", "a ruffled blouse"],
+            ["a cracked mirror", "треснувшее зеркало", "the cracked mirror"],
+            ["in a hushed voice", "тихим голосом", "says Prim in a hushed voice"],
+            ["the unthinkable might happen", "может случиться немыслимое", "the unthinkable might happen"],
+            ["powerless against something", "бессильный перед чем-то", "I’m powerless against the reaping"],
+            ["anguish wells up", "мучительная боль подступает", "anguish wells up in my chest"],
+            ["register on one’s face", "отразиться на лице", "register on my face"],
+            ["rough bread made from tessera grain", "грубый хлеб из tessera grain", "rough bread made from tessera grain"],
+            ["attendance is mandatory", "явка обязательна", "Attendance is mandatory"],
+            ["on death’s door", "при смерти", "unless you are on death’s door"]
+          ]
+        },
+
+        "C2": {
+        "quizlet": [
+            ["wear something pretty", "надень что-нибудь красивое", "Wear something pretty"],
+            ["nothing like myself", "совсем не похожая на себя", "nothing like myself"],
+            ["draw a laugh out of someone", "вызвать у кого-то смех", "only Prim can draw out of me"],
+            ["plant a quick kiss", "быстро поцеловать", "plant a quick kiss on her head"],
+            ["make it special", "сделать это особенным", "to make it special"],
+            ["have much appetite", "иметь аппетит", "no one has much appetite"],
+            ["force oneself to stay calm", "заставлять себя сохранять спокойствие", "force myself to stay calm"],
+            ["smooth something back in place", "поправить что-то обратно", "smoothing the blouse back in place"],
+            ["the next few hours will be terrible", "следующие несколько часов будут ужасными", "the next few hours will be terrible"],
+            ["protect someone in every way possible", "защищать всеми возможными способами", "I protect Prim in every way I can"]
+          ]
+        }
+      },
+
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why is Katniss surprised by the dress her mother prepared for her?",
+          "options": [
+            "it came from the Capitol",
+            "it was bought especially for the reaping",
+            "it belonged to her mother’s past and is very precious",
+            "it belonged to Prim"
+          ],
+          "answer": 2,
+          "explanation": "Katniss knows her mother values those clothes deeply because they come from her earlier life."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Katniss say she looks “nothing like myself”?",
+          "options": [
+            "the elegant appearance feels unfamiliar to her",
+            "she dislikes the dress",
+            "she is physically ill",
+            "the mirror is broken"
+          ],
+          "answer": 0,
+          "explanation": "Katniss is unaccustomed to looking polished and elegant."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why is Prim worried during the reaping?",
+          "options": [
+              "she worries something terrible may happen to Katniss",
+              "she thinks she will definitely be chosen",
+              "she dislikes crowds",
+              "she lost her tesserae"
+            ],
+          "answer": 0,
+          "explanation": "Katniss explains that Prim fears “the unthinkable” might happen."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “powerless against the reaping” suggest?",
+          "options": [
+              "Katniss supports the Capitol",
+              "Katniss cannot protect Prim from the system",
+              "Katniss wants to leave District 12",
+              "Katniss does not understand the rules"
+            ],
+          "answer": 1,
+          "explanation": "No matter how protective Katniss is, she cannot control the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does “anguish wells up in my chest” describe?",
+          "options": [
+              "physical illness",
+              "anger toward Gale",
+              "fear of the woods",
+              "deep emotional pain rising inside her"
+            ],
+          "answer": 3,
+          "explanation": "The phrase describes strong emotional suffering and anxiety."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why do the family save the strawberries and bakery bread for later?",
+          "options": [
+              "they are planning to sell them",
+              "they want to make the evening feel special",
+              "Prim dislikes strawberries",
+              "they already ate too much"
+            ],
+          "answer": 1,
+          "explanation": "They want to create at least a small sense of celebration despite the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What happens if someone skips the reaping without a serious reason?",
+          "options": [
+              "they are imprisoned",
+              "they lose tesserae",
+              "they are fined",
+              "they are banned from the market"
+            ],
+          "answer": 0,
+          "explanation": "Attendance is mandatory unless someone is extremely ill."
+        }
+      ]
+    }

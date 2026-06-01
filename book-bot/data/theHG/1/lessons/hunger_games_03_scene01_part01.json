@@ -1,0 +1,117 @@
+{
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 1",
+      "title": "Chapter 3 Page 1",
+    "level": "B2/C1/C2",
+    "text": "The moment the anthem ends, we are taken into custody. I don’t mean we’re handcuffed or anything, but a group of Peacekeepers marches us through the front door of the Justice Building. Maybe tributes have tried to escape in the past. I’ve never seen that happen though.\n\nOnce inside, I’m conducted to a room and left alone. It’s the richest place I’ve ever been in, with thick, deep carpets and a velvet couch and chairs. I know velvet because my mother has a dress with a collar made of the stuff. When I sit on the couch, I can’t help running my fingers over the fabric repeatedly. It helps to calm me as I try to prepare for the next hour. The time allotted for the tributes to say goodbye to their loved ones. I cannot afford to get upset, to leave this room with puffy eyes and a red nose. Crying is not an option. There will be more cameras at the train station.\n\nMy sister and my mother come first. I reach out to Prim and she climbs on my lap, her arms around my neck, head on my shoulder, just like she did when she was a toddler. My mother sits beside me and wraps her arms around us. For a few minutes, we say nothing. Then I start telling them all the things they must remember to do, now that I will not be there to do them for them.\n\nPrim is not to take any tesserae. They can get by, if they’re careful, on selling Prim’s goat milk and cheese and the small apothecary business my mother now runs for the people in the Seam. Gale will get her the herbs she doesn’t grow herself, but she must be very careful to describe them because he’s not as familiar with them as I am. He’ll also bring them game — he and I made a pact about this a year or so ago — and will probably not ask for compensation, but they should thank him with some kind of trade, like milk or medicine.\n\nI don’t bother suggesting Prim learn to hunt. I tried to teach her a couple of times and it was disastrous. The woods terrified her, and whenever I shot something, she’d get teary and talk about how we might be able to heal it if we got it home soon enough. But she makes out well with her goat, so I concentrate on that.\n\nWhen I am done with instructions about fuel, and trading, and staying in school, I turn to my mother and grip her arm, hard. “Listen to me. Are you listening to me?” She nods, alarmed by my intensity. She must know what’s coming. “You can’t leave again,” I say.\n\nMy mother’s eyes find the floor. “I know. I won’t. I couldn’t help what—”\n\n“Well, you have to help it this time. You can’t clock out and leave Prim on her own. There’s no me now to keep you both alive. It doesn’t matter what happens. Whatever you see on the screen. You have to promise me you’ll fight through it!” My voice has risen to a shout. In it is all the anger, all the fear I felt at her abandonment.\n\nShe pulls her arm from my grasp, moved to anger herself now. “I was ill. I could have treated myself if I’d had the medicine I have now.”\n\nThat part about her being ill might be true. I’ve seen her bring back people suffering from immobilizing sadness since. Perhaps it is a sickness, but it’s one we can’t afford.\n\n“Then take it. And take care of her!” I say.\n\n“I’ll be all right, Katniss,” says Prim, clasping my face in her hands. “But you have to take care, too. You’re so fast and brave. Maybe you can win.”\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["be taken into custody", "быть взятым под стражу", "taken into custody"],
+          ["run one's fingers over", "проводить пальцами по", "running my fingers over"],
+          ["reach out to someone", "потянуться к кому-то", "reach out to Prim"],
+          ["get by", "сводить концы с концами", "can get by"],
+          ["make a pact", "заключить соглашение", "made a pact"],
+          ["ask for compensation", "просить вознаграждение", "ask for compensation"],
+          ["make out well", "хорошо справляться", "makes out well"],
+          ["turn to someone", "обратиться к кому-то", "turn to my mother"],
+          ["grip someone's arm", "схватить кого-то за руку", "grip her arm"],
+          ["take care of someone", "заботиться о ком-то", "take care of her"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["allotted time", "отведённое время", "The time allotted"],
+          ["crying is not an option", "слёзы не вариант", "Crying is not an option"],
+          ["apothecary business", "аптекарское дело", "apothecary business"],
+          ["describe something carefully", "тщательно описывать что-либо", "describe them carefully"],
+          ["be familiar with", "быть хорошо знакомым с", "familiar with them"],
+          ["disastrous", "катастрофический", "it was disastrous"],
+          ["get teary", "прослезиться", "she'd get teary"],
+          ["alarm someone", "встревожить кого-то", "alarmed by my intensity"],
+          ["clock out", "отключиться, уйти от реальности", "clock out"],
+          ["fight through something", "преодолеть что-либо", "fight through it"],
+          ["pull one's arm from someone's grasp", "вырвать руку из чьей-то хватки", "pulls her arm from my grasp"],
+          ["moved to anger", "разозлиться", "moved to anger"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["leave with puffy eyes", "уйти с опухшими от слёз глазами", "leave this room with puffy eyes"],
+          ["the richest place I've ever been in", "самое роскошное место, где я была", "the richest place I've ever been in"],
+          ["whatever you see on the screen", "что бы ты ни увидела на экране", "Whatever you see on the screen"],
+          ["all the anger and fear", "весь гнев и страх", "all the anger, all the fear"],
+          ["her abandonment", "её оставление семьи", "her abandonment"],
+          ["immobilizing sadness", "парализующая печаль", "immobilizing sadness"],
+          ["it's one we can't afford", "мы не можем себе этого позволить", "one we can't afford"],
+          ["clasp someone's face in one's hands", "обхватить лицо руками", "clasping my face in her hands"],
+          ["you have to take care, too", "тебе тоже нужно беречь себя", "you have to take care, too"],
+          ["fast and brave", "быстрая и храбрая", "fast and brave"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss try not to cry before leaving the room?",
+        "options": [
+          "She doesn't want Prim to see her cry",
+          "She wants to appear strong on camera",
+          "She is angry with her mother",
+          "She is not sad"
+        ],
+        "answer": 1,
+        "explanation": "Katniss believes showing tears would make her look weak in front of the audience and future opponents."
+      },
+      {
+        "type": "choice",
+        "question": "What agreement did Katniss and Gale make?",
+        "options": [
+          "To escape District 12 together",
+          "To share hunting equipment",
+          "To help each other's families if needed",
+          "To enter the Games together"
+        ],
+        "answer": 2,
+        "explanation": "Katniss explains that Gale promised to help provide food for her family."
+      },
+      {
+        "type": "choice",
+        "question": "Why doesn't Katniss encourage Prim to learn hunting?",
+        "options": [
+          "Prim is too young",
+          "Prim is afraid of the woods and hates seeing animals hurt",
+          "Their mother forbids it",
+          "Gale refuses to teach her"
+        ],
+        "answer": 1,
+        "explanation": "Prim is frightened by the woods and becomes upset when animals are injured."
+      },
+      {
+        "type": "choice",
+        "question": "What is Katniss most afraid her mother will do again?",
+        "options": [
+          "Leave District 12",
+          "Sell the goat",
+          "Fall into depression and stop caring for Prim",
+          "Argue with Gale"
+        ],
+        "answer": 2,
+        "explanation": "Katniss fears her mother will emotionally withdraw as she did after her father's death."
+      },
+      {
+        "type": "choice",
+        "question": "What does Prim say that comforts Katniss?",
+        "options": [
+          "Gale will protect everyone",
+          "The Games will be cancelled",
+          "Katniss is fast and brave and might win",
+          "They will leave District 12"
+        ],
+        "answer": 2,
+        "explanation": "Prim expresses faith in Katniss's abilities and courage."
+      }
+    ]
+  }

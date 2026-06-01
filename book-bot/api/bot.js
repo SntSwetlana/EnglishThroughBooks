@@ -1,12 +1,25 @@
 const { Telegraf, Markup } = require("telegraf");
-const lessons = require("../lessons.json");
+const fs = require("fs/promises");
+const path = require("path");
 
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
+const LESSONS_DIR = path.join(process.cwd(), "data", "theHG", "1", "lessons");
+const INDEX_PATH = path.join(LESSONS_DIR, "index.json");
+
 const LEVELS = ["B2", "C1", "C2"];
 
-function getLesson(id) {
-  return lessons[id];
+async function readJson(filePath) {
+  const data = await fs.readFile(filePath, "utf8");
+  return JSON.parse(data);
+}
+
+async function getLessonsIndex() {
+  return readJson(INDEX_PATH);
+}
+
+async function getLesson(id) {
+  return readJson(path.join(LESSONS_DIR, `${id}.json`));
 }
 
 function escapeHtml(text = "") {
@@ -18,10 +31,6 @@ function escapeHtml(text = "") {
 
 function escapeRegExp(text = "") {
   return String(text).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
-function getChapterTitle(lesson) {
-  return lesson.chapter || lesson.title.split("•")[0].trim();
 }
 
 function getLevelQuizlet(lesson, level = "C1") {
@@ -48,24 +57,29 @@ function boldQuizletPhrases(text, quizlet) {
   return markedText;
 }
 
-function getChapters() {
+function getChapterTitle(lesson) {
+  return lesson.chapter || "Unknown chapter";
+}
+
+async function getChapters() {
+  const lessonsIndex = await getLessonsIndex();
   const chapters = {};
 
-  for (const [lessonId, lesson] of Object.entries(lessons)) {
-    const chapterTitle = getChapterTitle(lesson);
+  for (const [lessonId, lessonMeta] of Object.entries(lessonsIndex)) {
+    const chapterTitle = getChapterTitle(lessonMeta);
 
     if (!chapters[chapterTitle]) {
       chapters[chapterTitle] = [];
     }
 
-    chapters[chapterTitle].push([lessonId, lesson]);
+    chapters[chapterTitle].push([lessonId, lessonMeta]);
   }
 
   return chapters;
 }
 
-function chapterMenu() {
-  const chapters = getChapters();
+async function chapterMenu() {
+  const chapters = await getChapters();
 
   return Markup.inlineKeyboard(
     Object.keys(chapters).map((chapterTitle) => [
@@ -74,20 +88,19 @@ function chapterMenu() {
   );
 }
 
-function chapterPartsMenu(chapterTitle) {
-  const chapters = getChapters();
+async function chapterPartsMenu(chapterTitle) {
+  const chapters = await getChapters();
   const parts = chapters[chapterTitle] || [];
 
   return Markup.inlineKeyboard([
-    ...parts.map(([lessonId, lesson]) => [
-      Markup.button.callback(`📄 ${lesson.title}`, `lesson:${lessonId}`)
+    ...parts.map(([lessonId, lessonMeta]) => [
+      Markup.button.callback(`📄 ${lessonMeta.part}`, `lesson:${lessonId}`)
     ]),
     [Markup.button.callback("⬅️ Back to chapters", "chapters")]
   ]);
 }
 
-function lessonKeyboard(lessonId) {
-  const lesson = getLesson(lessonId);
+function lessonKeyboard(lessonId, lesson) {
   const chapterTitle = getChapterTitle(lesson);
 
   return Markup.inlineKeyboard([
@@ -116,31 +129,37 @@ function questionKeyboard(lessonId, qIndex, question) {
 }
 
 function lessonHeader(lesson) {
-  return `📖 <b>${escapeHtml(lesson.title)}</b>\nLevel: ${escapeHtml(
-    lesson.level || "B2/C1/C2"
-  )}`;
+  return (
+    `📖 <b>${escapeHtml(lesson.title)}</b>\n` +
+    `${escapeHtml(lesson.chapter)} • ${escapeHtml(lesson.part)}\n` +
+    `Level: ${escapeHtml(lesson.level || "B2/C1/C2")}`
+  );
 }
 
 bot.start(async (ctx) => {
   const payload = ctx.startPayload;
 
-  if (payload && getLesson(payload)) {
-    const lesson = getLesson(payload);
+  if (payload) {
+    try {
+      const lesson = await getLesson(payload);
 
-    return ctx.reply(lessonHeader(lesson), {
-      parse_mode: "HTML",
-      reply_markup: lessonKeyboard(payload).reply_markup
-    });
+      return ctx.reply(lessonHeader(lesson), {
+        parse_mode: "HTML",
+        reply_markup: lessonKeyboard(payload, lesson).reply_markup
+      });
+    } catch {
+      // если payload битый — просто показываем меню глав
+    }
   }
 
-  await ctx.reply("📚 Choose a chapter:", chapterMenu());
+  await ctx.reply("📚 Choose a chapter:", await chapterMenu());
 });
 
 bot.action("chapters", async (ctx) => {
   await ctx.answerCbQuery();
 
   await ctx.editMessageText("📚 Choose a chapter:", {
-    reply_markup: chapterMenu().reply_markup
+    reply_markup: (await chapterMenu()).reply_markup
   });
 });
 
@@ -151,7 +170,7 @@ bot.action(/^chapter:(.+)$/, async (ctx) => {
 
   await ctx.editMessageText(`📖 ${escapeHtml(chapterTitle)}\n\nChoose a part:`, {
     parse_mode: "HTML",
-    reply_markup: chapterPartsMenu(chapterTitle).reply_markup
+    reply_markup: (await chapterPartsMenu(chapterTitle)).reply_markup
   });
 });
 
@@ -159,16 +178,18 @@ bot.action(/^lesson:(.+)$/, async (ctx) => {
   await ctx.answerCbQuery();
 
   const lessonId = ctx.match[1];
-  const lesson = getLesson(lessonId);
 
-  if (!lesson) {
-    return ctx.editMessageText("Lesson not found.");
+  try {
+    const lesson = await getLesson(lessonId);
+
+    await ctx.editMessageText(lessonHeader(lesson), {
+      parse_mode: "HTML",
+      reply_markup: lessonKeyboard(lessonId, lesson).reply_markup
+    });
+  } catch (error) {
+    console.error(error);
+    await ctx.editMessageText("Lesson not found.");
   }
-
-  await ctx.editMessageText(lessonHeader(lesson), {
-    parse_mode: "HTML",
-    reply_markup: lessonKeyboard(lessonId).reply_markup
-  });
 });
 
 bot.action(/^text:([^:]+):(B2|C1|C2)$/, async (ctx) => {
@@ -176,38 +197,50 @@ bot.action(/^text:([^:]+):(B2|C1|C2)$/, async (ctx) => {
 
   const lessonId = ctx.match[1];
   const level = ctx.match[2];
-  const lesson = getLesson(lessonId);
 
-  if (!lesson) {
-    return ctx.editMessageText("Lesson not found.");
+  try {
+    const lesson = await getLesson(lessonId);
+    const quizlet = getLevelQuizlet(lesson, level);
+    const markedText = boldQuizletPhrases(lesson.text, quizlet);
+
+    await ctx.editMessageText(
+      `📖 <b>${escapeHtml(level)} text focus</b>\n\n${markedText}`,
+      {
+        parse_mode: "HTML",
+        reply_markup: lessonKeyboard(lessonId, lesson).reply_markup
+      }
+    );
+  } catch (error) {
+    console.error(error);
+    await ctx.editMessageText("Lesson not found.");
   }
-
-  const quizlet = getLevelQuizlet(lesson, level);
-  const markedText = boldQuizletPhrases(lesson.text, quizlet);
-
-  await ctx.editMessageText(
-    `📖 <b>${escapeHtml(level)} text focus</b>\n\n${markedText}`,
-    {
-      parse_mode: "HTML",
-      reply_markup: lessonKeyboard(lessonId).reply_markup
-    }
-  );
 });
 
 bot.action(/^audio:([^:]+)$/, async (ctx) => {
   await ctx.answerCbQuery();
 
   const lessonId = ctx.match[1];
-  const lesson = getLesson(lessonId);
 
-  if (!lesson || !lesson.audio?.url) {
-    return ctx.reply("Audio not found.");
+  try {
+    const lesson = await getLesson(lessonId);
+
+    if (!lesson.audio?.url) {
+      return ctx.reply("Audio not found.");
+    }
+
+    await ctx.reply(
+      `🎧 <a href="${escapeHtml(lesson.audio.url)}">${escapeHtml(
+        lesson.audio.title || "Listen to audio"
+      )}</a>`,
+      {
+        parse_mode: "HTML",
+        disable_web_page_preview: false
+      }
+    );
+  } catch (error) {
+    console.error(error);
+    await ctx.reply("Audio not found.");
   }
-
-  await ctx.reply(`🎧 <a href="${lesson.audio.url}">${lesson.audio.title}</a>`, {
-    parse_mode: "HTML",
-    disable_web_page_preview: false
-  });
 });
 
 bot.action(/^quizlet:([^:]+):(B2|C1|C2)$/, async (ctx) => {
@@ -215,34 +248,35 @@ bot.action(/^quizlet:([^:]+):(B2|C1|C2)$/, async (ctx) => {
 
   const lessonId = ctx.match[1];
   const level = ctx.match[2];
-  const lesson = getLesson(lessonId);
 
-  if (!lesson) {
-    return ctx.editMessageText("Lesson not found.");
-  }
+  try {
+    const lesson = await getLesson(lessonId);
+    const quizlet = getLevelQuizlet(lesson, level);
 
-  const quizlet = getLevelQuizlet(lesson, level);
+    if (!quizlet.length) {
+      return ctx.editMessageText(`🧩 No ${level} Quizlet yet.`, {
+        parse_mode: "HTML",
+        reply_markup: lessonKeyboard(lessonId, lesson).reply_markup
+      });
+    }
 
-  if (!quizlet.length) {
-    return ctx.editMessageText(`🧩 No ${level} Quizlet yet.`, {
+    const text =
+      `🧩 <b>${escapeHtml(level)} Quizlet</b>\n\n` +
+      quizlet
+        .map(
+          ([en, ru]) =>
+            `• <b>${escapeHtml(en.trim())}</b>\n  ${escapeHtml(ru.trim())}`
+        )
+        .join("\n\n");
+
+    await ctx.editMessageText(text, {
       parse_mode: "HTML",
-      reply_markup: lessonKeyboard(lessonId).reply_markup
+      reply_markup: lessonKeyboard(lessonId, lesson).reply_markup
     });
+  } catch (error) {
+    console.error(error);
+    await ctx.editMessageText("Lesson not found.");
   }
-
-  const text =
-    `🧩 <b>${escapeHtml(level)} Quizlet</b>\n\n` +
-    quizlet
-      .map(
-        ([en, ru]) =>
-          `• <b>${escapeHtml(en.trim())}</b>\n  ${escapeHtml(ru.trim())}`
-      )
-      .join("\n\n");
-
-  await ctx.editMessageText(text, {
-    parse_mode: "HTML",
-    reply_markup: lessonKeyboard(lessonId).reply_markup
-  });
 });
 
 bot.action(/^q:([^:]+):(\d+)$/, async (ctx) => {
@@ -250,31 +284,32 @@ bot.action(/^q:([^:]+):(\d+)$/, async (ctx) => {
 
   const lessonId = ctx.match[1];
   const qIndex = Number(ctx.match[2]);
-  const lesson = getLesson(lessonId);
 
-  if (!lesson) {
-    return ctx.editMessageText("Lesson not found.");
-  }
+  try {
+    const lesson = await getLesson(lessonId);
+    const questions = lesson.questions || [];
+    const question = questions[qIndex];
 
-  const questions = lesson.questions || [];
-  const question = questions[qIndex];
-
-  if (!question) {
-    return ctx.editMessageText("🏁 <b>Practice finished!</b>\n\nGreat work.", {
-      parse_mode: "HTML",
-      reply_markup: lessonKeyboard(lessonId).reply_markup
-    });
-  }
-
-  await ctx.editMessageText(
-    `✅ <b>Question ${qIndex + 1}/${questions.length}</b>\n\n${escapeHtml(
-      question.question
-    )}`,
-    {
-      parse_mode: "HTML",
-      reply_markup: questionKeyboard(lessonId, qIndex, question).reply_markup
+    if (!question) {
+      return ctx.editMessageText("🏁 <b>Practice finished!</b>\n\nGreat work.", {
+        parse_mode: "HTML",
+        reply_markup: lessonKeyboard(lessonId, lesson).reply_markup
+      });
     }
-  );
+
+    await ctx.editMessageText(
+      `✅ <b>Question ${qIndex + 1}/${questions.length}</b>\n\n${escapeHtml(
+        question.question
+      )}`,
+      {
+        parse_mode: "HTML",
+        reply_markup: questionKeyboard(lessonId, qIndex, question).reply_markup
+      }
+    );
+  } catch (error) {
+    console.error(error);
+    await ctx.editMessageText("Lesson not found.");
+  }
 });
 
 bot.action(/^a:([^:]+):(\d+):(\d+)$/, async (ctx) => {
@@ -284,33 +319,33 @@ bot.action(/^a:([^:]+):(\d+):(\d+)$/, async (ctx) => {
   const qIndex = Number(ctx.match[2]);
   const optionIndex = Number(ctx.match[3]);
 
-  const lesson = getLesson(lessonId);
+  try {
+    const lesson = await getLesson(lessonId);
+    const question = lesson.questions?.[qIndex];
 
-  if (!lesson) {
-    return ctx.editMessageText("Lesson not found.");
+    if (!question) {
+      return ctx.editMessageText("Question not found.");
+    }
+
+    const isCorrect = optionIndex === question.answer;
+
+    const resultText = isCorrect
+      ? `✅ <b>Correct!</b>\n\n💡 ${escapeHtml(question.explanation)}`
+      : `❌ <b>Not quite.</b>\n\nCorrect answer: <b>${escapeHtml(
+          question.options[question.answer]
+        )}</b>\n\n💡 ${escapeHtml(question.explanation)}`;
+
+    await ctx.editMessageText(resultText, {
+      parse_mode: "HTML",
+      reply_markup: Markup.inlineKeyboard([
+        [Markup.button.callback("➡️ Next", `q:${lessonId}:${qIndex + 1}`)],
+        [Markup.button.callback("⬅️ Lesson", `lesson:${lessonId}`)]
+      ]).reply_markup
+    });
+  } catch (error) {
+    console.error(error);
+    await ctx.editMessageText("Lesson not found.");
   }
-
-  const question = lesson.questions?.[qIndex];
-
-  if (!question) {
-    return ctx.editMessageText("Question not found.");
-  }
-
-  const isCorrect = optionIndex === question.answer;
-
-  const resultText = isCorrect
-    ? `✅ <b>Correct!</b>\n\n💡 ${escapeHtml(question.explanation)}`
-    : `❌ <b>Not quite.</b>\n\nCorrect answer: <b>${escapeHtml(
-        question.options[question.answer]
-      )}</b>\n\n💡 ${escapeHtml(question.explanation)}`;
-
-  await ctx.editMessageText(resultText, {
-    parse_mode: "HTML",
-    reply_markup: Markup.inlineKeyboard([
-      [Markup.button.callback("➡️ Next", `q:${lessonId}:${qIndex + 1}`)],
-      [Markup.button.callback("⬅️ Lesson", `lesson:${lessonId}`)]
-    ]).reply_markup
-  });
 });
 
 module.exports = async function handler(req, res) {

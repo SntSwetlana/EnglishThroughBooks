@@ -1,0 +1,119 @@
+{
+      "chapter": "The Hunger Games — Chapter 3",
+      "part": "Page 6",
+      "title": "Chapter 3 Page 6",
+      "level": "B2/C1/C2",
+      "text": "The pair last year were two kids from the Seam who’d never, not one day of their lives, had enough to eat. And when they did have food, table manners were surely the last thing on their minds. Peeta’s a baker’s son. My mother taught Prim and I to eat properly, so yes, I can handle a fork and knife. But I hate Effie Trinket’s comment so much I make a point of eating the rest of my meal with my fingers. Then I wipe my hands on the tablecloth. This makes her purse her lips tightly together.\n\nNow that the meal’s over, I’m fighting to keep the food down. I can see Peeta’s looking a little green, too. Neither of our stomachs is used to such rich fare. But if I can hold down Greasy Sae’s concoction of mice meat, pig entrails, and tree bark — a winter specialty — I’m determined to hang on to this.\n\nWe go to another compartment to watch the recap of the reapings across Panem. They try to stagger them throughout the day so a person could conceivably watch the whole thing live, but only people in the Capitol could really do that, since none of them have to attend reapings themselves.\n\nOne by one, we see the other reapings, the names called, (the volunteers stepping forward or, more often, not. We examine the faces of the kids who will be our competition. A few stand out in my mind. A monstrous boy who lunges forward to volunteer from District 2. A fox-faced girl with sleek red hair from District 5. A boy with a crippled foot from District 10. And most hauntingly, a twelve-year-old girl from District 11. She has dark brown skin and eyes, but other than that, she’s very like Prim in size and demeanor. Only when she mounts the stage and they ask for volunteers, all you can hear is the wind whistling through the decrepit buildings around her. There’s no one willing to take her place.\n\nLast of all, they show District 12. Prim being called, me running forward to volunteer. You can’t miss the desperation in my voice as I shove Prim behind me, as if I’m afraid no one will hear and they’ll take Prim away. But, of course, they do hear. I see Gale pulling her off me and watch myself mount the stage. The commentators are not sure what to say about the crowd’s refusal to applaud. The silent salute. One says that District 12 has always been a bit backward but that local customs can be charming. As if on cue, Haymitch falls off the stage, and they groan comically. Peeta’s name is drawn, and he quietly takes his place. We shake hands. They cut to the anthem again, and the program ends.\n\nEffie Trinket is disgruntled about the state her wig was in. “Your mentor has a lot to learn about presentation. A lot about televised behavior.”\n\nPeeta unexpectedly laughs. “He was drunk,” says Peeta. “He’s drunk every year.”\n\n“Every day,” I add. I can’t help smirking a little. Effie Trinket makes it sound like Haymitch just has somewhat rough manners that could be corrected with a few tips from her.\n\n“Yes,” hisses Effie Trinket. “How odd you two find it amusing. You know your mentor is your lifeline to the world in these Games. The one who advises you, lines up your sponsors, and dictates the presentation of any gifts. Haymitch can well be the difference between your life and your death!”\n\nJust then, Haymitch staggers into the compartment. “I miss supper?” he says in a slurred voice. Then he vomits all over the expensive carpet and falls in the mess.\n\n“So laugh away!” says Effie Trinket. She hops in her pointy shoes around the pool of vomit and flees the room.",
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["make a point of doing something", "демонстративно сделать что-либо", "make a point of eating"],
+            ["wipe one's hands on", "вытереть руки о", "wipe my hands on the tablecloth"],
+            ["keep something down", "удержать пищу в желудке", "keep the food down"],
+            ["hold something down", "не дать вырвать", "hold down Greasy Sae's concoction"],
+            ["hang on to", "удержать, сохранить", "hang on to this"],
+            ["step forward", "выйти вперёд", "stepping forward"],
+            ["take someone's place", "занять чьё-то место", "take her place"],
+            ["shake hands", "пожать руки", "We shake hands"],
+            ["fall off", "упасть с", "falls off the stage"],
+            ["laugh away", "продолжать смеяться", "laugh away"]
+          ]
+        },
+
+        "C1": {
+          "quizlet": [
+            ["purse one's lips", "поджать губы", "purse her lips tightly together"],
+            ["rich fare", "обильная жирная пища", "such rich fare"],
+            ["a winter specialty", "зимний деликатес", "a winter specialty"],
+            ["stagger something throughout", "распределить по времени", "stagger them throughout the day"],
+            ["conceivably", "теоретически", "could conceivably watch"],
+            ["stand out in one's mind", "особенно запомниться", "stand out in my mind"],
+            ["fox-faced", "с лисьим лицом", "fox-faced girl"],
+            ["dark brown skin", "тёмно-коричневая кожа", "dark brown skin"],
+            ["mount the stage", "подняться на сцену", "mounts the stage"],
+            ["decrepit buildings", "обветшалые здания", "decrepit buildings"],
+            ["draw someone's name", "вытянуть чьё-то имя", "Peeta's name is drawn"],
+            ["disgruntled about", "быть недовольным чем-либо", "disgruntled about the state"]
+          ]
+        },
+
+        "C2": {
+          "quizlet": [
+            ["none of them have to attend", "никому из них не приходится присутствовать", "none of them have to attend reapings"],
+            ["a monstrous boy", "огромный устрашающий парень", "A monstrous boy"],
+            ["most hauntingly", "самым тревожным образом", "most hauntingly"],
+            ["very like Prim in size and demeanor", "очень похожая на Прим по внешности и манере поведения", "very like Prim in size and demeanor"],
+            ["the wind whistling through", "ветер свистит сквозь", "wind whistling through"],
+            ["you can't miss the desperation", "невозможно не заметить отчаяние", "can't miss the desperation"],
+            ["the crowd's refusal to applaud", "отказ толпы аплодировать", "refusal to applaud"],
+            ["local customs can be charming", "местные обычаи могут быть очаровательны", "local customs can be charming"],
+            ["your mentor is your lifeline", "наставник — ваша спасательная нить", "mentor is your lifeline"],
+            ["line up sponsors", "находить спонсоров", "lines up your sponsors"],
+            ["slurred voice", "невнятная речь", "slurred voice"],
+            ["fall in the mess", "упасть в собственную рвоту", "falls in the mess"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does Katniss deliberately eat with her fingers?",
+          "options": [
+            "She has forgotten how to use cutlery",
+            "She wants to annoy Effie Trinket",
+            "The food is too hot",
+            "Peeta tells her to"
+          ],
+          "answer": 1,
+          "explanation": "Katniss is offended by Effie's criticism of last year's tributes and intentionally behaves rudely."
+        },
+        {
+          "type": "choice",
+          "question": "Why do Katniss and Peeta feel sick after dinner?",
+          "options": [
+            "The food is poisoned",
+            "They ate too quickly",
+            "They are not used to rich Capitol food",
+            "They are nervous about the train"
+          ],
+          "answer": 2,
+          "explanation": "Their usual diet is much poorer, so the luxurious food overwhelms their stomachs."
+        },
+        {
+          "type": "choice",
+          "question": "Why is the girl from District 11 especially memorable to Katniss?",
+          "options": [
+            "She volunteers eagerly",
+            "She resembles Prim",
+            "She is the strongest tribute",
+            "She comes from a wealthy district"
+          ],
+          "answer": 1,
+          "explanation": "The twelve-year-old girl reminds Katniss of Prim in both size and demeanor."
+        },
+        {
+          "type": "choice",
+          "question": "How do the Capitol commentators explain District 12's silent salute?",
+          "options": [
+            "As an act of rebellion",
+            "As a technical problem",
+            "As a charming local custom",
+            "As respect for Haymitch"
+          ],
+          "answer": 2,
+          "explanation": "They avoid acknowledging its true meaning and describe it as a harmless local tradition."
+        },
+        {
+          "type": "choice",
+          "question": "Why does Effie say Haymitch is important?",
+          "options": [
+            "He controls the Games",
+            "He can help secure sponsors and advice",
+            "He works for the Capitol",
+            "He chooses the winner"
+          ],
+          "answer": 1,
+          "explanation": "As mentor, Haymitch provides guidance, sponsors, and gifts that can determine survival."
+        }
+      ]    
+    }

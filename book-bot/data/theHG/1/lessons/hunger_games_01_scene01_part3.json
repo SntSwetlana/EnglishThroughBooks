@@ -1,0 +1,260 @@
+{
+    "chapter": "The Hunger Games — Chapter 1",
+    "part": "Page 3",
+    "title": "Chapter 1 Page 3",
+    "level": "B2/C1/C2",
+    "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/16",
+        "title": "🎧 Listen to audio"
+      },
+
+    "text": "As soon as I’m in the trees, I retrieve a bow and sheath of arrows from a hollow log. Electrified or not, the fence has been successful at keeping the flesh-eaters out of District 12. Inside the woods they roam freely, and there are added concerns like venomous snakes, rabid animals, and no real paths to follow. But there’s also food if you know how to find it. My father knew and he taught me some before he was blown to bits in a mine explosion. There was nothing even to bury. I was eleven then. Five years later, I still wake up screaming for him to run.\n\nEven though trespassing in the woods is illegal and poaching carries the severest of penalties, more people would risk it if they had weapons. But most are not bold enough to venture out with just a knife. My bow is a rarity, crafted by my father along with a few others that I keep well hidden in the woods, carefully wrapped in waterproof covers. My father could have made good money selling them, but if the officials found out he would have been publicly executed for inciting a rebellion. Most of the Peacekeepers turn a blind eye to the few of us who hunt because they’re as hungry for fresh meat as anybody is. In fact, they’re among our best customers. But the idea that someone might be arming the Seam would never have been allowed.\n\nIn the fall, a few brave souls sneak into the woods to harvest apples. But always in sight of the Meadow. Always close enough to run back to the safety of District 12 if trouble arises. “District Twelve. Where you can starve to death in safety,” I mutter. Then I glance quickly over my shoulder. Even here, even in the middle of nowhere, you worry someone might overhear you.\n\nWhen I was younger, I scared my mother to death, the things I would blurt out about District 12, about the people who rule our country, Panem, from the far-off city called the Capitol. Eventually I understood this would only lead us to more trouble. So I learned to hold my tongue and to turn my features into an indifferent mask so that no one could ever read my thoughts. Do my work quietly in school. Make only polite small talk in the public market. Discuss little more than trades in the Hob, which is the black market where I make most of my money. Even at home, where I am less pleasant, I avoid discussing tricky topics. Like the reaping, or food shortages, or the Hunger Games. Prim might begin to repeat my words and then where would we be?",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["venture out", "выбираться / отправляться куда-то", "venture out"],
+          ["turn a blind eye to something", "закрывать глаза на что-то", "turn a blind eye to"],
+          ["run back", "убегать обратно", "run back"],
+          ["starve to death", "умереть от голода", "starve to death"],
+          ["blurt out", "выпалить", "blurt out"],
+          ["hold one's tongue", "держать язык за зубами", "hold my tongue"],
+          ["keep something hidden", "держать что-то спрятанным", "keep well hidden"],
+          ["wrap something in", "заворачивать во что-то", "wrapped in"],
+          ["wake up screaming", "просыпаться с криком", "wake up screaming"],
+          ["carry penalties", "влечь наказание", "carries the severest of penalties"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["roam freely", "свободно бродить", "roam freely"],
+          ["be blown to bits", "разлететься на куски", "blown to bits"],
+          ["carry the severest of penalties", "строго караться", "carries the severest of penalties"],
+          ["incite a rebellion", "подстрекать к восстанию", "inciting a rebellion"],
+          ["if trouble arises", "если возникнут проблемы", "if trouble arises"],
+          ["turn my features into an indifferent mask", "превращать лицо в безразличную маску", "turn my features into an indifferent mask"],
+          ["discuss tricky topics", "обсуждать опасные темы", "discussing tricky topics"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["keeping the flesh-eaters out", "не подпуская хищников", "keeping the flesh-eaters out"],
+          ["there was nothing even to bury", "нечего было даже хоронить", "nothing even to bury"],
+          ["a rarity crafted by my father", "редкость, созданная моим отцом", "a rarity, crafted by my father"],
+          ["among our best customers", "среди наших лучших покупателей", "among our best customers"],
+          ["where you can starve to death in safety", "где можно умереть от голода в безопасности", "starve to death in safety"],
+          ["someone might overhear you", "кто-то может тебя подслушать", "someone might overhear you"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss hide bows in the woods?",
+        "options": [
+          "because weapons are illegal",
+          "because Gale dislikes bows",
+          "because the woods are dangerous",
+          "because her mother fears hunting"
+        ],
+        "answer": 0,
+        "explanation": "Weapons could lead to severe punishment if officials discovered them."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “roam freely” suggest about the predators?",
+        "options": [
+          "they are trapped",
+          "they move without restriction",
+          "they are protected by people",
+          "they stay near the fence"
+        ],
+        "answer": 1,
+        "explanation": "The predators move around the woods freely and unpredictably."
+      },
+
+      {
+        "type": "choice",
+        "question": "What happened to Katniss’s father?",
+        "options": [
+          "he disappeared",
+          "he joined the Capitol",
+          "he died in a hunting accident",
+          "he died in a mine explosion"
+        ],
+        "answer": 3,
+        "explanation": "Katniss says he was “blown to bits in a mine explosion.”"
+      },
+
+      {
+        "type": "choice",
+        "question": "Why do some Peacekeepers ignore illegal hunting?",
+        "options": [
+          "they are secretly rebels",
+          "they want fresh meat too",
+          "they are afraid of Katniss",
+          "they do not know about it"
+        ],
+        "answer": 1,
+        "explanation": "Katniss explains that the Peacekeepers are also hungry for fresh meat."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “hold my tongue” mean in the passage?",
+        "options": [
+          "remain silent",
+          "lie to people",
+          "speak politely",
+          "avoid school"
+        ],
+        "answer": 0,
+        "explanation": "Katniss learned to stay silent about dangerous political thoughts."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why does Katniss avoid discussing the Hunger Games openly?",
+        "options": [
+          "she finds them boring",
+          "she fears punishment",
+          "she respects the Capitol",
+          "she does not understand them"
+        ],
+        "answer": 1,
+        "explanation": "Open criticism of the Capitol could lead to serious consequences."
+      }
+   ]
+  },
+    "hunger_games_01_scene01_part4": {
+    "chapter": "The Hunger Games — Chapter 1",
+    "part": "Page 4",
+    "title": "Chapter 1 Page 4",
+    "level": "B2/C1/C2",
+    "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/22",
+        "title": "🎧 Listen to audio"
+      },
+    "text": "In the woods waits the only person with whom I can be myself. Gale. I can feel the muscles in my face relaxing, my pace quickening as I climb the hills to our place, a rock ledge overlooking a valley. A thicket of berry bushes protects it from unwanted eyes. The sight of him waiting there brings on a smile. Gale says I never smile except in the woods.\n\n“Hey, Catnip,” says Gale. My real name is Katniss, but when I first told him, I had barely whispered it. So he thought I’d said Catnip. Then when this crazy lynx started following me around the woods looking for handouts, it became his official nickname for me. I finally had to kill the lynx because he scared off game. I almost regretted it because he wasn’t bad company. But I got a decent price for his pelt.\n\n“Look what I shot,” Gale holds up a loaf of bread with an arrow stuck in it, and I laugh. It’s real bakery bread, not the flat, dense loaves we make from our grain rations. I take it in my hands, pull out the arrow, and hold the puncture in the crust to my nose, inhaling the fragrance that makes my mouth flood with saliva. Fine bread like this is for special occasions.\n\n“Mm, still warm,” I say. He must have been at the bakery at the crack of dawn to trade for it. “What did it cost you?”\n\n“Just a squirrel. Think the old man was feeling sentimental this morning,” says Gale. “Even wished me luck.”\n\n“Well, we all feel a little closer today, don’t we?” I say, not even bothering to roll my eyes. “Prim left us a cheese.” I pull it out.\n\nHis expression brightens at the treat. “Thank you, Prim. We’ll have a real feast.” Suddenly he falls into a Capitol accent as he mimics Effie Trinket, the maniacally upbeat woman who arrives once a year to read out the names at the leaping. “I almost forgot! Happy Hunger Games!” He plucks a few blackberries from the bushes around us. “And may the odds —” He tosses a berry in a high arc toward me.\n\nI catch it in my mouth and break the delicate skin with my teeth. The sweet tartness explodes across my tongue. “— be ever in your favor!” I finish with equal verve. We have to joke about it because the alternative is to be scared out of your wits. Besides, the Capitol accent is so affected, almost anything sounds funny in it.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["be myself", "быть самим собой", "be myself"],
+          ["bring on a smile", "вызывать улыбку", "brings on a smile"],
+          ["follow someone around", "ходить за кем-то", "following me around"],
+          ["look for handouts", "выпрашивать еду / подачки", "looking for handouts"],
+          ["scare off game", "спугнуть добычу", "scared off game"],
+          ["pull out", "вытаскивать", "pull out the arrow"],
+          ["roll one's eyes", "закатывать глаза", "roll my eyes"],
+          ["brighten at something", "оживляться при виде чего-то", "brightens at the treat"],
+          ["be scared out of one's wits", "быть до смерти напуганным", "scared out of your wits"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["a rock ledge overlooking a valley", "скальный выступ с видом на долину", "a rock ledge overlooking a valley"],
+          ["a thicket of berry bushes", "заросли ягодных кустов", "A thicket of berry bushes"],
+          ["a decent price for his pelt", "хорошая цена за его шкуру", "a decent price for his pelt"],
+          ["the fragrance that makes my mouth flood with saliva", "аромат, от которого рот наполняется слюной", "makes my mouth flood with saliva"],
+          ["at the crack of dawn", "ни свет ни заря", "at the crack of dawn"],
+          ["maniacally upbeat", "маниакально бодрый", "maniacally upbeat"],
+          ["with equal verve", "с таким же энтузиазмом", "with equal verve"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["the only person with whom I can be myself", "единственный человек, рядом с которым я могу быть собой", "the only person with whom I can be myself"],
+          ["my pace quickening", "мой шаг ускоряется", "my pace quickening"],
+          ["from unwanted eyes", "от посторонних глаз", "from unwanted eyes"],
+          ["the sweet tartness explodes across my tongue", "кисло-сладкий вкус взрывается на языке", "explodes across my tongue"],
+          ["the Capitol accent is so affected", "капитолийский акцент настолько наигранный", "the Capitol accent is so affected"],
+          ["almost anything sounds funny in it", "в нём почти всё звучит смешно", "almost anything sounds funny in it"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss feel different around Gale?",
+        "options": [
+          "she can relax and be herself",
+          "he reminds her of her father",
+          "he protects her from Peacekeepers",
+          "he gives her expensive food"
+        ],
+        "answer": 0,
+        "explanation": "Katniss says Gale is the only person with whom she can truly be herself."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why did Katniss kill the lynx?",
+        "options": [
+          "it attacked Prim",
+          "it scared off game",
+          "it stole their food",
+          "it followed Gale"
+        ],
+        "answer": 1,
+        "explanation": "The lynx frightened away animals that Katniss hunted."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “at the crack of dawn” mean?",
+        "options": [
+          "late at night",
+          "during sunset",
+          "very early in the morning",
+          "in the middle of the day"
+        ],
+        "answer": 2,
+        "explanation": "The phrase means extremely early in the morning."
+      },
+
+      {
+        "type": "choice",
+        "question": "Why do Katniss and Gale joke about the Hunger Games?",
+        "options": [
+          "they enjoy mocking people",
+          "they are not afraid",
+          "they want to entertain Prim",
+          "humor helps them deal with fear"
+        ],
+        "answer": 3,
+        "explanation": "Katniss says the alternative would be to be “scared out of your wits.”"
+      },
+
+      {
+        "type": "choice",
+        "question": "What does Gale imitate with the Capitol accent?",
+        "options": [
+          "a Peacekeeper",
+          "Effie Trinket",
+          "Katniss’s mother",
+          "the mayor"
+        ],
+        "answer": 1,
+        "explanation": "Gale mimics Effie Trinket and her exaggerated Capitol manner."
+      },
+
+      {
+        "type": "choice",
+        "question": "What does “the Capitol accent is so affected” suggest?",
+        "options": [
+          "the accent sounds natural",
+          "the accent is difficult to understand",
+          "the accent sounds artificial and exaggerated",
+          "the accent belongs to District 12"
+        ],
+        "answer": 2,
+        "explanation": "“Affected” means artificial, unnatural, or overly theatrical."
+      }
+    ]
+  }

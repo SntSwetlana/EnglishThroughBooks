@@ -1,0 +1,134 @@
+{
+      "chapter": "The Hunger Games — Chapter 1",
+      "part": "Page 11",
+      "title": "Chapter 1 Page 11",
+      "level": "B2/C1/C2",
+      "text": "It’s too bad, really, that they hold the reaping in the square — one of the few places in District 12 that can be pleasant. The square’s surrounded by shops, and on public market days, especially if there’s good weather, it has a holiday feel to it. But today, despite the bright banners hanging on the buildings, there’s an air of grimness. The camera crews, perched like buzzards on rooftops, only add to the effect.\n\nPeople file in silently and sign in. The reaping is a good opportunity for the Capitol to keep tabs on the population as well. Twelve- through eighteen-year-olds are herded into roped areas marked off by ages, the oldest in the front, the young ones, like Prim, toward the back. Family members line up around the perimeter, holding tightly to one another’s hands. But there are others, too, who have no one they love at stake, or who no longer care, who slip among the crowd, taking bets on the two kids whose names will be drawn. Odds are given on their ages, whether they’re Seam or merchant, if they will break down and weep. Most refuse dealing with the racketeers but carefully, carefully. These same people tend to be informers, and who hasn’t broken the law? I could be shot on a daily basis for hunting, but the appetites of those in charge protect me. Not everyone can claim the same.\n\nAnyway, Gale and I agree that if we have to choose between dying of hunger and a bullet in the head, the bullet would be much quicker.\n\nThe space gets tighter, more claustrophobic as people arrive. The square’s quite large, but not enough to hold District 12’s population of about eight thousand. Latecomers are directed to the adjacent streets, where they can watch the event on screens as it’s televised live by the state.\n\nI find myself standing in a clump of sixteens from the Seam. We all exchange terse nods then focus our attention on the temporary stage that is set up before the Justice Building. It holds three chairs, a podium, and two large glass balls, one for the boys and one for the girls. I stare at the paper slips in the girls’ ball. Twenty of them have Katniss Everdeen written on them in careful handwriting.\n\nTwo of the three chairs fill with Madge’s father, Mayor Undersee, who’s a tall, balding man, and Effie Trinket, District 12’s escort, fresh from the Capitol with her scary white grin, pinkish hair, and spring green suit. They murmur to each other and then look with concern at the empty seat.\n\nJust as the town clock strikes two, the mayor steps up to the podium and begins to read. It’s the same story every year. He tells of the history of Panem, the country that rose up out of the ashes of a place that was once called North America. He lists the disasters, the droughts, the storms, the fires, the encroaching seas that swallowed up so much of the land, the brutal war for what little sustenance remained. The result was Panem, a shining Capitol ringed by thirteen districts, which brought peace and prosperity to its citizens. Then came the Dark Days, the uprising of the districts against the Capitol. Twelve were defeated, the thirteenth obliterated. The Treaty of Treason gave us the new laws to guarantee peace and, as our yearly reminder that the Dark Days must never be repeated, it gave us the Hunger Games.",
+      "audio": {
+        "url": "https://t.me/LearnByTheHungerGames/35",
+        "title": "🎧 Listen to audio"
+      },
+      "levels": {
+        "B2": {
+          "quizlet": [
+            ["keep tabs on someone", "следить за кем-то", "keep tabs on the population"],
+            ["line up", "выстраиваться в линию", "Family members line up around the perimeter"],
+            ["break down and weep", "разрыдаться", "break down and weep"],
+            ["deal with someone", "иметь дело с кем-то", "refuse dealing with the racketeers"],
+            ["agree on something", "соглашаться насчёт чего-то", "Gale and I agree"],
+            ["focus on something", "сосредоточиться на чём-то", "focus our attention on the stage"],
+            ["step up to something", "подходить к чему-то", "the mayor steps up to the podium"],
+            ["rise up", "восставать", "the country that rose up"],
+            ["swallow up", "поглощать", "seas that swallowed up the land"],
+            ["hold something in", "удерживать внутри", "holding tightly to one another’s hands"]
+          ]
+        },
+        "C1": {
+          "quizlet": [
+            ["an air of grimness", "атмосфера мрачности", "there’s an air of grimness"],
+            ["perched like buzzards", "сидящие как стервятники", "camera crews perched like buzzards"],
+            ["herded into roped areas", "согнанные в ограждённые зоны", "herded into roped areas"],
+            ["at stake", "под угрозой / на кону", "no one they love at stake"],
+            ["the bullet would be much quicker", "пуля была бы гораздо быстрее", "the bullet would be much quicker"],
+            ["exchange terse nods", "обменяться сдержанными кивками", "exchange terse nods"],
+            ["fresh from the Capitol", "только что из Капитолия", "fresh from the Capitol"],
+            ["encroaching seas", "наступающие моря", "the encroaching seas"],
+            ["brutal war for sustenance", "жестокая война за пропитание", "brutal war for what little sustenance remained"],
+            ["the uprising of the districts", "восстание дистриктов", "the uprising of the districts"]
+          ]
+        },
+        "C2": {
+          "quizlet": [
+            ["holiday feel to it", "ощущение праздника", "it has a holiday feel to it"],
+            ["slip among the crowd", "проскальзывать среди толпы", "slip among the crowd"],
+            ["Odds are given on", "ставки делаются на", "Odds are given on their ages"],
+            ["these same people tend to be informers", "эти люди обычно оказываются доносчиками", "these same people tend to be informers"],
+            ["not everyone can claim the same", "не каждый может сказать то же самое", "Not everyone can claim the same"],
+            ["the space gets tighter", "пространство становится теснее", "The space gets tighter"],
+            ["televised live by the state", "транслируется государством в прямом эфире", "televised live by the state"],
+            ["written on them in careful handwriting", "написанные аккуратным почерком", "written on them in careful handwriting"],
+            ["ringed by thirteen districts", "окружённый тринадцатью дистриктами", "ringed by thirteen districts"],
+            ["the Treaty of Treason", "Договор о предательстве", "The Treaty of Treason"]
+          ]
+        }
+      },
+      "questions": [
+        {
+          "type": "choice",
+          "question": "Why does the square feel disturbing despite the decorations?",
+          "options": [
+            "people are celebrating loudly",
+            "the camera crews and the reaping create a grim atmosphere",
+            "there is bad weather",
+            "the Capitol soldiers attack the crowd"
+          ],
+          "answer": 1,
+          "explanation": "The bright banners contrast with the fear and tension surrounding the reaping."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does the Capitol use the reaping for besides choosing tributes?",
+          "options": [
+            "selling food",
+            "rewarding hunters",
+            "keeping track of the population",
+            "training Peacekeepers"
+          ],
+          "answer": 2,
+          "explanation": "Katniss explains that the reaping helps the Capitol monitor people."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why are some people taking bets during the reaping?",
+          "options": [
+            "they no longer care or have no loved ones at risk",
+            "they work for the mayor",
+            "they are Capitol citizens",
+            "they want to help the tributes"
+          ],
+          "answer": 0,
+          "explanation": "The text describes people who gamble on the tributes because they feel detached."
+        },
+
+        {
+          "type": "choice",
+          "question": "What does Katniss mean when she says the bullet would be quicker?",
+          "options": [
+            "she prefers fighting",
+            "she believes starvation is slower and more painful",
+            "she wants to become a Peacekeeper",
+            "she is joking with Gale"
+          ],
+          "answer": 1,
+          "explanation": "Katniss compares death from hunger to a faster death by execution."
+        },
+
+        {
+          "type": "choice",
+          "question": "Why does Katniss focus on the girls’ glass ball?",
+          "options": [
+            "she hopes Prim’s name is inside",
+            "she notices her own name appears many times",
+            "she wants to impress Effie Trinket",
+            "she enjoys the ceremony"
+          ],
+          "answer": 1,
+          "explanation": "Katniss realizes there are twenty slips with her name on them."
+        },
+
+        {
+          "type": "choice",
+          "question": "What is the purpose of the mayor’s speech?",
+          "options": [
+            "to entertain the audience",
+            "to remind people why the Hunger Games exist",
+            "to introduce Effie Trinket",
+            "to explain hunting laws"
+          ],
+          "answer": 1,
+          "explanation": "The speech retells Panem’s history and justifies the Hunger Games as punishment after the rebellion."
+        }    
+      ]
+    }

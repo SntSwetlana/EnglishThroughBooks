@@ -1,0 +1,127 @@
+{
+    "chapter": "The Hunger Games — Chapter 1",
+    "part": "Page 7",
+    "title": "Chapter 1 Page 7",
+        "level": "B2/C1/C2",
+        "text": "“I never want to have kids,” I say.\n\n“I might. If I didn’t live here,” says Gale.\n\n“But you do,” I say, irritated.\n\n“Forget it,” he snaps back.\n\nThe conversation feels all wrong. Leave? How could I leave Prim, who is the only person in the world I’m certain I love? And Gale is devoted to his family. We can’t leave, so why bother talking about it? And even if we did… even if we did… where did this stuff about having kids come from? There’s never been anything romantic between Gale and me. When we met, I was a skinny twelve-year-old, and although he was only two years older, he already looked like a man. It took a long time for us to even become friends, to stop haggling over every trade and begin helping each other out.\n\nBesides, if he wants kids, Gale won’t have any trouble finding a wife. He’s good-looking, he’s strong enough to handle the work in the mines, and he can hunt. You can tell by the way the girls whisper about him when he walks by in school that they want him. It makes me jealous but not for the reason people would think. Good hunting partners are hard to find.\n\n“What do you want to do?” I ask. We can hunt, fish, or gather.\n\n“Let’s fish at the lake. We can leave our poles and gather in the woods. Get something nice for tonight,” he says.\n\nTonight. After the reaping, everyone is supposed to celebrate. And a lot of people do, out of relief that their children have been spared for another year. But at least two families will pull their shutters, lock their doors, and try to figure out how they will survive the painful weeks to come.\n\nWe make out well. The predators ignore us on a day when easier, tastier prey abounds. By late morning, we have a dozen fish, a bag of greens and, best of all, a gallon of strawberries. I found the patch a few years ago, but Gale had the idea to string mesh nets around it to keep out the animals.",
+        "audio": {
+          "url": "https://t.me/LearnByTheHungerGames/31",
+          "title": "🎧 Listen to audio"
+        },
+        "levels": {
+            "B2": {
+              "quizlet": [
+                ["snap back", "резко огрызнуться", "snaps back"],
+                ["help each other out", "помогать друг другу", "helping each other out"],
+                ["walk by", "проходить мимо", "walks by"],
+                ["figure out", "понять / придумать решение", "figure out"],
+                ["keep out", "не подпускать / удерживать снаружи", "keep out the animals"],
+                ["pull shutters", "закрывать ставни", "pull their shutters"],
+                ["lock doors", "запирать двери", "lock their doors"],
+                ["make out well", "неплохо справиться / выгодно разжиться", "make out well"]
+              ]
+            },
+
+            "C1": {
+              "quizlet": [
+                ["devoted to his family", "преданный своей семье", "devoted to his family"],
+                ["haggling over every trade", "торговаться из-за каждой сделки", "haggling over every trade"],
+                ["good hunting partners are hard to find", "хороших партнёров для охоты трудно найти", "Good hunting partners are hard to find"],
+                ["out of relief", "из чувства облегчения", "out of relief"],
+                ["the painful weeks to come", "болезненные недели впереди", "the painful weeks to come"],
+                ["easier, tastier prey abounds", "вокруг полно более лёгкой и вкусной добычи", "easier, tastier prey abounds"]
+              ]
+            },
+
+            "C2": {
+              "quizlet": [
+                ["the conversation feels all wrong", "разговор ощущается совершенно неправильным", "The conversation feels all wrong"],
+                ["the only person in the world I’m certain I love", "единственный человек в мире, которого я точно люблю", "the only person in the world I’m certain I love"],
+                ["it makes me jealous but not for the reason people would think", "это вызывает ревность, но не по той причине, о которой подумали бы люди", "It makes me jealous but not for the reason people would think"],
+                ["everyone is supposed to celebrate", "все как будто обязаны праздновать", "everyone is supposed to celebrate"],
+                ["they might as well be", "они практически ими и являются", "they might as well be"],
+                ["how they will survive the painful weeks to come", "как они переживут предстоящие мучительные недели", "how they will survive the painful weeks to come"]
+              ]
+            }
+          },
+
+          "questions": [
+            {
+              "type": "choice",
+              "question": "Why does Katniss react negatively to Gale’s idea about children?",
+              "options": [
+                "she secretly dislikes Gale",
+                "she cannot imagine a future outside survival",
+                "she wants to move to the Capitol",
+                "she thinks Gale is joking"
+              ],
+              "answer": 1,
+              "explanation": "Katniss’s life is dominated by survival and responsibility, so the idea of children feels unrealistic and frightening."
+            },
+
+            {
+              "type": "choice",
+              "question": "What does “snaps back” suggest about Gale’s tone?",
+              "options": [
+                "calm and polite",
+                "confused and quiet",
+                "sharp and irritated",
+                "playful and friendly"
+              ],
+              "answer": 2,
+              "explanation": "“Snaps back” shows irritation and emotional tension."
+            },
+
+            {
+              "type": "choice",
+              "question": "Why does Katniss feel jealous when girls whisper about Gale?",
+              "options": [
+                "she fears losing a valuable hunting partner",
+                "she wants romantic attention",
+                "she dislikes the girls at school",
+                "she wants to leave District 12 with him"
+              ],
+              "answer": 0,
+              "explanation": "Katniss says her jealousy is practical rather than romantic."
+            },
+
+            {
+              "type": "choice",
+              "question": "What does “make out well” mean in this context?",
+              "options": [
+                "become famous",
+                "avoid punishment",
+                "manage to get good results",
+                "understand something clearly"
+              ],
+              "answer": 2,
+              "explanation": "Katniss and Gale have a successful hunting day and gather plenty of food."
+            },
+
+            {
+              "type": "choice",
+              "question": "Why do some families celebrate after the reaping?",
+              "options": [
+                "they enjoy Capitol traditions",
+                "their children survived another year",
+                "they won money",
+                "they receive extra food"
+              ],
+              "answer": 3,
+              "explanation": "Families feel relief when their children are not chosen."
+            },
+
+            {
+              "type": "choice",
+              "question": "What contrast is emphasized in this passage?",
+              "options": [
+                "temporary happiness vs constant fear",
+                "nature vs technology",
+                "friendship vs betrayal",
+                "wealth vs education"
+              ],
+              "answer": 0,
+              "explanation": "The peaceful day in nature contrasts with the looming horror of the reaping."
+            }
+          ]
+      }
