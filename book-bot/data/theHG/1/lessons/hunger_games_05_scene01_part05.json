@@ -1,0 +1,122 @@
+{
+    "chapter": "The Hunger Games — Chapter 5",
+    "part": "Page 5",
+    "title": "Chapter  Page 5",
+    "level": "B2/C1/C2",
+    "text": "District 2 gets into position to follow them. In no time at all, we are approaching the door and I can see that between the overcast sky and evening hour the light is turning gray. The tributes from District 11 are just rolling out when Cinna appears with a lighted torch. “Here we go then,” he says, and before we can react he sets our capes on fire. I gasp, waiting for the heat, but there is only a faint tickling sensation. Cinna climbs up before us and ignites our headdresses. He lets out a sign of relief. “It works.” Then he gently tucks a hand under my chin. “Remember, heads high. Smiles. They’re going to love you!”\n\nCinna jumps off the chariot and has one last idea. He shouts something up at us, but the music drowns him out. He shouts again and gestures.\n\n“What’s he saying?” I ask Peeta. For the first time, I look at him and realize that ablaze with the fake flames, he is dazzling. And I must be, too.\n\n“I think he said for us to hold hands,” says Peeta. He grabs my right hand in his left, and we look to Cinna for confirmation. He nods and gives a thumbs-up, and that’s the last thing I see before we enter the city.\n\nThe crowd’s initial alarm at our appearance quickly changes to cheers and shouts of “District Twelve!” Every head is turned our way, pulling the focus from the three chariots ahead of us. At first, I’m frozen, but then I catch sight of us on a large television screen and am floored by how breathtaking we look. In the deepening twilight, the firelight illuminates our faces. We seem to be leaving a trail of fire off the flowing capes. Cinna was right about the minimal makeup, we both look more attractive but utterly recognizable.\n\nRemember, heads high. Smiles. They’re going to love you! I hear Cinna’s voice in my head. I lift my chin a bit higher, put on my most winning smile, and wave with my free hand. I’m glad now I have Peeta to clutch for balance, he is so steady, solid as a rock. As I gain confidence, I actually blow a few kisses to the crowd. The people of the Capitol are going nuts, showering us with flowers, shouting our names, our first names, which they have bothered to find on the program.\n\nThe pounding music, the cheers, the admiration work their way into my blood, and I can’t suppress my excitement. Cinna has given me a great advantage. No one will forget me. Not my look, not my name. Katniss. The girl who was on fire.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["get into position", "занять позицию", "gets into position"],
+          ["roll out", "выезжать", "are just rolling out"],
+          ["set something on fire", "поджечь что-либо", "sets our capes on fire"],
+          ["hold hands", "держаться за руки", "hold hands"],
+          ["give a thumbs-up", "показать большой палец вверх", "gives a thumbs-up"],
+          ["catch sight of", "увидеть", "catch sight of us"],
+          ["put on a smile", "надеть улыбку", "put on my most winning smile"],
+          ["wave at", "махать кому-либо", "wave with my free hand"],
+          ["blow kisses", "посылать воздушные поцелуи", "blow a few kisses"],
+          ["shout someone's name", "выкрикивать чьё-либо имя", "shouting our names"],
+          ["go nuts", "сходить с ума от восторга", "are going nuts"],
+          ["find out", "узнать", "bothered to find"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["faint tickling sensation", "лёгкое щекочущее ощущение", "faint tickling sensation"],
+          ["let out a sigh of relief", "вздохнуть с облегчением", "lets out a sigh of relief"],
+          ["tuck a hand under someone's chin", "поднять подбородок рукой", "tucks a hand under my chin"],
+          ["drown out", "заглушать", "music drowns him out"],
+          ["ablaze with", "пылающий чем-либо", "ablaze with the fake flames"],
+          ["initial alarm", "первоначальная тревога", "initial alarm"],
+          ["pull the focus from", "перетянуть внимание с", "pulling the focus from"],
+          ["be floored by", "быть поражённым", "am floored by"],
+          ["deepening twilight", "сгущающиеся сумерки", "deepening twilight"],
+          ["leave a trail of", "оставлять след", "leaving a trail of fire"],
+          ["utterly recognizable", "полностью узнаваемый", "utterly recognizable"],
+          ["steady as a rock", "надёжный как скала", "solid as a rock"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["before we can react", "прежде чем мы успеваем отреагировать", "before we can react"],
+          ["ignite a headdress", "поджечь головной убор", "ignites our headdresses"],
+          ["confirmation", "подтверждение", "look to Cinna for confirmation"],
+          ["the crowd's alarm changes to cheers", "испуг толпы сменяется ликованием", "alarm ... changes to cheers"],
+          ["every head is turned our way", "все головы поворачиваются к нам", "Every head is turned our way"],
+          ["breathtaking", "захватывающий дух", "how breathtaking we look"],
+          ["illuminate", "освещать", "firelight illuminates our faces"],
+          ["winning smile", "обаятельная улыбка", "most winning smile"],
+          ["shower someone with flowers", "осыпать кого-либо цветами", "showering us with flowers"],
+          ["work their way into someone's blood", "проникать в кровь, захватывать", "work their way into my blood"],
+          ["suppress one's excitement", "сдерживать волнение", "can't suppress my excitement"],
+          ["a great advantage", "огромное преимущество", "given me a great advantage"],
+          ["the girl who was on fire", "девушка, которая была в огне", "The girl who was on fire"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What happens when Cinna lights Katniss and Peeta's costumes?",
+        "options": [
+          "The costumes burn apart",
+          "They feel intense heat",
+          "The synthetic flames work safely",
+          "The horses panic"
+        ],
+        "answer": 2,
+        "explanation": "The synthetic fire works exactly as planned and does not burn them."
+      },
+      {
+        "type": "choice",
+        "question": "Why do Katniss and Peeta hold hands?",
+        "options": [
+          "Haymitch told them to",
+          "Cinna signals them to do it",
+          "They are frightened of the horses",
+          "The crowd demands it"
+        ],
+        "answer": 1,
+        "explanation": "Cinna gestures for them to hold hands just before entering the city."
+      },
+      {
+        "type": "choice",
+        "question": "How does the crowd react when District 12 appears?",
+        "options": [
+          "They ignore them",
+          "They boo loudly",
+          "They are confused",
+          "They cheer enthusiastically"
+        ],
+        "answer": 3,
+        "explanation": "The crowd becomes excited and starts shouting 'District Twelve!'"
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss become more confident during the parade?",
+        "options": [
+          "She realizes the crowd loves their appearance",
+          "She sees Haymitch smiling",
+          "She wants to impress Peeta",
+          "She stops being afraid of the Games"
+        ],
+        "answer": 0,
+        "explanation": "Seeing the crowd's reaction and their appearance on the screen boosts her confidence."
+      },
+      {
+        "type": "choice",
+        "question": "What is Cinna's greatest achievement in this scene?",
+        "options": [
+          "He teaches Katniss how to wave",
+          "He makes District 12 the center of attention",
+          "He embarrasses District 1",
+          "He defeats the other stylists"
+        ],
+        "answer": 1,
+        "explanation": "Cinna's costume design makes Katniss and Peeta unforgettable and captures the crowd's attention."
+      }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "chapter": "The Hunger Games — Chapter 5",
+    "part": "Page 2",
+    "title": "Chapter 5 Page 2",
+    "level": "B2/C1/C2",
+    "text": "I look at the cold white walls and floor and resist the impulse to retrieve my robe. But this Cinna, my stylist, will surely make me remove it at once. Instead my hands go to my hairdo, the one area of my body my prep team had been told to leave alone. My fingers stroke the silky braids my mother so carefully arranged. My mother. I left her blue dress and shoes on the floor of my train car, never thinking about retrieving them, of trying to hold on to a piece of her, of home. Now I wish I had.\n\nThe door opens and a young man who must be Cinna enters. I’m taken aback by how normal he looks. Most of the stylists they interview on television are so dyed, stenciled, and surgically altered they’re grotesque. But Cinna’s close-cropped hair appears to be its natural shade of brown. He’s in a simple black shirt and pants. The only concession to self-alteration seems to be metallic gold eyeliner that has been applied with a light hand. It brings out the flecks of gold in his green eyes. And, despite my disgust with the Capitol and their hideous fashions, I can’t help thinking how attractive it looks.\n\n“Hello, Katniss. I’m Cinna, your stylist,” he says in a quiet voice somewhat lacking in the Capitol’s affectations.\n\n“Hello,” I venture cautiously.\n\n“Just give me a moment, all right?” he asks. He walks around my naked body, not touching me, but taking in every inch of it with his eyes. I resist the impulse to cross my arms over my chest. “Who did your hair?”\n\n“My mother,” I say.\n\n“It’s beautiful. Classic really. And in almost perfect balance with your profile. She has very clever fingers,” he says.\n\nI had expected someone flamboyant, someone older trying desperately to look young, someone who viewed me as a piece of meat to be prepared for a platter. Cinna has met none of these expectations.\n\n“You’re new, aren’t you? I don’t think I’ve seen you before,” I say. Most of the stylists are familiar, constants in the ever-changing pool of tributes. Some have been around my whole life.\n\n“Yes, this is my first year in the Games,” says Cinna.\n\n“So they gave you District Twelve,” I say. Newcomers generally end up with us, the least desirable district.\n\n“I asked for District Twelve,” he says without further explanation. “Why don’t you put on your robe and we’ll have a chat.”\n\nPulling on my robe, I follow him through a door into a sitting room. Two red couches face off over a low table. Three walls are blank, the fourth is entirely glass, providing a window to the city. I can see by the light that it must be around noon, although the sunny sky has turned overcast. Cinna invites me to sit on one of the couches and takes his place across from me. He presses a button on the side of the table. The top splits and from below rises a second tabletop that holds our lunch. Chicken and chunks of oranges cooked in a creamy sauce laid on a bed of pearly white grain, tiny green peas and onions, rolls shaped like flowers, and for dessert, a pudding the color of honey.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["resist the impulse", "подавить порыв", "resist the impulse"],
+          ["hold on to", "сохранить, удержать", "hold on to a piece of her"],
+          ["be taken aback", "быть удивлённым", "I'm taken aback"],
+          ["help doing something", "не мочь удержаться от чего-либо", "can't help thinking"],
+          ["give someone a moment", "дать кому-либо минуту", "give me a moment"],
+          ["cross one's arms", "скрестить руки", "cross my arms"],
+          ["put on a robe", "надеть халат", "put on your robe"],
+          ["follow someone", "следовать за кем-либо", "I follow him"],
+          ["take one's place", "занять своё место", "takes his place"],
+          ["sit on a couch", "сидеть на диване", "sit on one of the couches"],
+          ["press a button", "нажать кнопку", "presses a button"],
+          ["rise from below", "подниматься снизу", "rises a second tabletop"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["stroke silky braids", "проводить пальцами по шелковистым косам", "stroke the silky braids"],
+          ["close-cropped hair", "коротко подстриженные волосы", "close-cropped hair"],
+          ["natural shade", "естественный оттенок", "natural shade of brown"],
+          ["metallic gold eyeliner", "металлическая золотая подводка", "metallic gold eyeliner"],
+          ["bring out", "подчёркивать", "brings out the flecks"],
+          ["a quiet voice", "тихий голос", "quiet voice"],
+          ["venture cautiously", "осторожно ответить", "venture cautiously"],
+          ["take in every inch", "внимательно рассматривать", "taking in every inch of it"],
+          ["profile", "профиль лица", "balance with your profile"],
+          ["clever fingers", "умелые руки", "clever fingers"],
+          ["flamboyant", "экстравагантный", "someone flamboyant"],
+          ["ever-changing", "постоянно меняющийся", "ever-changing pool of tributes"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["stenciled and surgically altered", "раскрашенный и хирургически изменённый", "stenciled and surgically altered"],
+          ["grotesque", "гротескный, уродливый", "they're grotesque"],
+          ["a concession to self-alteration", "уступка модификации внешности", "concession to self-alteration"],
+          ["Capitol affectations", "манерность жителей Капитолия", "Capitol's affectations"],
+          ["view someone as a piece of meat", "воспринимать человека как товар", "viewed me as a piece of meat"],
+          ["meet none of these expectations", "не соответствовать ни одному из ожиданий", "met none of these expectations"],
+          ["constants in the ever-changing pool", "постоянные фигуры среди сменяющихся участников", "constants in the ever-changing pool"],
+          ["least desirable district", "наименее желанный дистрикт", "least desirable district"],
+          ["without further explanation", "без дальнейших объяснений", "without further explanation"],
+          ["face off over a table", "сидеть друг напротив друга", "face off over a low table"],
+          ["entirely glass", "полностью стеклянный", "entirely glass"],
+          ["overcast", "пасмурный", "sky has turned overcast"],
+          ["a bed of pearly white grain", "подушка из жемчужно-белой крупы", "bed of pearly white grain"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss surprised when she meets Cinna?",
+        "options": [
+          "He is much older than expected",
+          "He looks unusually normal compared to other Capitol stylists",
+          "He is from District 12",
+          "He refuses to speak to her"
+        ],
+        "answer": 1,
+        "explanation": "Most Capitol stylists are heavily modified, but Cinna looks natural and understated."
+      },
+      {
+        "type": "choice",
+        "question": "What compliment does Cinna give Katniss's mother?",
+        "options": [
+          "She is a talented healer",
+          "She chose a beautiful dress",
+          "She has clever fingers and did Katniss's hair beautifully",
+          "She looks young for her age"
+        ],
+        "answer": 2,
+        "explanation": "Cinna admires the hairstyle and praises Katniss's mother's skill."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss think she was assigned to Cinna?",
+        "options": [
+          "Because she is famous",
+          "Because Cinna requested District 12",
+          "Because Haymitch selected him",
+          "Because he lost a bet"
+        ],
+        "answer": 1,
+        "explanation": "Cinna reveals that he personally asked to work with District 12."
+      },
+      {
+        "type": "choice",
+        "question": "How does Cinna differ from Katniss's expectations?",
+        "options": [
+          "He is rude and arrogant",
+          "He is loud and theatrical",
+          "He is calm, respectful, and observant",
+          "He ignores her completely"
+        ],
+        "answer": 2,
+        "explanation": "Katniss expected someone superficial and flamboyant, but Cinna is thoughtful and respectful."
+      },
+      {
+        "type": "choice",
+        "question": "What impression does Cinna make on Katniss by the end of the scene?",
+        "options": [
+          "She distrusts him completely",
+          "She finds him different from other Capitol citizens",
+          "She thinks he is weak",
+          "She believes he dislikes District 12"
+        ],
+        "answer": 1,
+        "explanation": "Cinna stands out because he behaves naturally and treats Katniss with dignity."
+      }
+    ]
+}

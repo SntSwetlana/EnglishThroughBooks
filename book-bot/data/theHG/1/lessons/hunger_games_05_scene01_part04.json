@@ -1,0 +1,125 @@
+{
+    "chapter": "The Hunger Games — Chapter 5",
+    "part": "Page 4",
+    "title": "Chapter 5 Page 4",
+    "level": "B2/C1/C2",
+    "text": "A few hours later, I am dressed in what will either be the most sensational or the deadliest costume in the opening ceremonies. I’m in a simple black unitard that covers me from ankle to neck. Shiny leather boots lace up to my knees. But it’s the fluttering cape made of streams of orange, yellow, and red and the matching headpiece that define this costume. Cinna plans to light them on fire just before our chariot rolls into the streets.\n\n“It’s not real flame, of course, just a little synthetic fire Portia and I came up with. You’ll be perfectly safe,” he says. But I’m not convinced I won’t be perfectly barbecued by the time we reach the city’s center.\n\nMy face is relatively clear of makeup, just a bit of highlighting here and there. My hair has been brushed out and then braided down my back in my usual style. “I want the audience to recognize you when you’re in the arena,” says Cinna dreamily. “Katniss, the girl who was on fire.”\n\nIt crosses my mind that Cinna’s calm and normal demeanor masks a complete madman.\n\nDespite this morning’s revelation about Peeta’s character, I’m actually relieved when he shows up, dressed in an identical costume. He should know about fire, being a baker’s son and all. His stylist, Portia, and her team accompany him in, and everyone is absolutely giddy with excitement over what a splash we’ll make. Except Cinna. He just seems a bit weary as he accepts congratulations.\n\nWe’re whisked down to the bottom level of the Remake Center, which is essentially a gigantic stable. The opening ceremonies are about to start. Pairs of tributes are being loaded into chariots pulled by teams of four horses. Ours are coal black. The animals are so well trained, no one even needs to guide their reins. Cinna and Portia direct us into the chariot and carefully arrange our body positions, the drape of our capes, before moving off to consult with each other.\n\n“What do you think?” I whisper to Peeta. “About the fire?”\n\n“I’ll rip off your cape if you’ll rip off mine,” he says through gritted teeth.\n\n“Deal,” I say. Maybe, if we can get them off soon enough, we’ll avoid the worst burns. It’s bad though. They’ll throw us into the arena no matter what condition we’re in. “I know we promised Haymitch we’d do exactly what they said, but I don’t think he considered this angle.”\n\n“Where is Haymitch, anyway? Isn’t he supposed to protect us from this sort of thing?” says Peeta.\n\n“With all that alcohol in him, it’s probably not advisable to have him around an open flame,” I say.\n\nAnd suddenly we’re both laughing. I guess we’re both so nervous about the Games and more pressingly, petrified of being turned into human torches, we’re not acting sensibly.\n\nThe opening music begins. It’s easy to hear, blasted around the Capitol. Massive doors slide open revealing the crowd-lined streets. The ride lasts about twenty minutes and ends up at the City Circle, where they will welcome us, play the anthem, and escort us into the Training Center, which will be our home/prison until the Games begin.\n\nThe tributes from District 1 ride out in a chariot pulled by snow-white horses. They look so beautiful, spray-painted silver, in tasteful tunics glittering with jewels. District 1 makes luxury items for the Capitol. You can hear the roar of the crowd. They are always favorites.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["show up", "появиться", "when he shows up"],
+          ["make a splash", "произвести фурор", "what a splash we'll make"],
+          ["move off", "отойти", "before moving off"],
+          ["rip off", "сорвать", "I'll rip off your cape"],
+          ["avoid", "избежать", "avoid the worst burns"],
+          ["throw someone into", "бросить кого-либо", "throw us into the arena"],
+          ["laugh", "смеяться", "we're both laughing"],
+          ["slide open", "раздвигаться", "Massive doors slide open"],
+          ["ride out", "выезжать", "ride out in a chariot"],
+          ["hear the roar of", "слышать рёв", "hear the roar of the crowd"],
+          ["pull by", "быть запряжённым", "pulled by teams of four horses"],
+          ["line the streets", "стоять вдоль улиц", "crowd-lined streets"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["be dressed in", "быть одетым в", "dressed in an identical costume"],
+          ["synthetic fire", "искусственное пламя", "synthetic fire"],
+          ["be convinced", "быть убеждённым", "I'm not convinced"],
+          ["highlighting", "подсветка макияжем", "a bit of highlighting"],
+          ["calm demeanor", "спокойная манера поведения", "calm demeanor"],
+          ["giddy with excitement", "вне себя от восторга", "absolutely giddy with excitement"],
+          ["whisk someone down", "быстро проводить вниз", "We're whisked down"],
+          ["consult with", "совещаться с", "consult with each other"],
+          ["through gritted teeth", "сквозь стиснутые зубы", "through gritted teeth"],
+          ["not advisable", "неразумно", "probably not advisable"],
+          ["open flame", "открытый огонь", "around an open flame"],
+          ["blast around", "греметь по всему месту", "blasted around the Capitol"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["the deadliest costume", "самый опасный костюм", "the deadliest costume"],
+          ["fluttering cape", "развевающийся плащ", "fluttering cape"],
+          ["define a costume", "определять образ", "define this costume"],
+          ["perfectly barbecued", "идеально поджаренный", "perfectly barbecued"],
+          ["the girl who was on fire", "девушка, которая была в огне", "the girl who was on fire"],
+          ["cross one's mind", "прийти в голову", "It crosses my mind"],
+          ["mask a complete madman", "скрывать полного безумца", "masks a complete madman"],
+          ["a revelation about someone's character", "открытие о чьём-либо характере", "revelation about Peeta's character"],
+          ["a bit weary", "слегка уставший", "a bit weary"],
+          ["essentially a gigantic stable", "по сути гигантская конюшня", "essentially a gigantic stable"],
+          ["arrange body positions", "расставлять позы", "arrange our body positions"],
+          ["consider an angle", "учитывать аспект", "considered this angle"],
+          ["petrified of", "до смерти бояться", "petrified of being turned into human torches"],
+          ["human torch", "живой факел", "human torches"],
+          ["escort someone into", "сопровождать куда-либо", "escort us into the Training Center"],
+          ["tasteful tunic", "элегантная туника", "tasteful tunics glittering with jewels"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What makes Katniss nervous about her costume?",
+        "options": [
+          "It is too heavy",
+          "It might catch fire",
+          "It is uncomfortable",
+          "It is too expensive"
+        ],
+        "answer": 1,
+        "explanation": "Cinna plans to set parts of the costume on fire, which worries Katniss."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Cinna keep Katniss's appearance relatively natural?",
+        "options": [
+          "He dislikes makeup",
+          "There is no time",
+          "He wants the audience to recognize her later in the arena",
+          "Haymitch requested it"
+        ],
+        "answer": 2,
+        "explanation": "Cinna wants people to remember Katniss as 'the girl who was on fire.'"
+      },
+      {
+        "type": "choice",
+        "question": "Why do Katniss and Peeta joke about ripping off their capes?",
+        "options": [
+          "They dislike the costumes",
+          "They are afraid the fire effect is dangerous",
+          "They want to annoy Cinna",
+          "They want attention"
+        ],
+        "answer": 1,
+        "explanation": "Both fear they might literally catch fire during the ceremony."
+      },
+      {
+        "type": "choice",
+        "question": "Why are Katniss and Peeta laughing about Haymitch?",
+        "options": [
+          "He told a joke",
+          "He fell asleep",
+          "The idea of keeping a drunk Haymitch near fire seems ridiculous",
+          "He forgot their names"
+        ],
+        "answer": 2,
+        "explanation": "They imagine Haymitch around open flames while drunk and find it absurd."
+      },
+      {
+        "type": "choice",
+        "question": "Why are the District 1 tributes so popular?",
+        "options": [
+          "They won last year",
+          "They are younger than other tributes",
+          "Their district produces luxury goods and they fit the Capitol's ideals",
+          "They have the best mentors"
+        ],
+        "answer": 2,
+        "explanation": "District 1 produces luxury items for the Capitol and its tributes are often crowd favorites."
+      }
+    ]
+}

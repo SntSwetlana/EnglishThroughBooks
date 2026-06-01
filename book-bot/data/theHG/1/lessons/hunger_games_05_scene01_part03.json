@@ -1,0 +1,123 @@
+{
+    "chapter": "The Hunger Games — Chapter 5",
+    "part": "Page 3",
+    "title": "Chapter 5 Page 3",
+    "level": "B2/C1/C2",
+    "text": "I try to imagine assembling this meal myself back home. Chickens are too expensive, but I could make do with a wild turkey. I’d need to shoot a second turkey to trade for an orange. Goat’s milk would have to substitute for cream. We can grow peas in the garden. I’d have to get wild onions from the woods. I don’t recognize the grain, our own tessera ration cooks down to an unattractive brown mush. Fancy rolls would mean another trade with the baker, perhaps for two or three squirrels. As for the pudding, I can’t even guess what’s in it. Days of hunting and gathering for this one meal and even then it would be a poor substitution for the Capitol version.\n\nWhat must it be like, I wonder, to live in a world where food appears at the press of a button? How would I spend the hours I now commit to combing the woods for sustenance if it were so easy to come by? What do they do all day, these people in the Capitol, besides decorating their bodies and waiting around for a new shipment of tributes to roll in and die for their entertainment?\n\nI look up and find Cinna’s eyes trained on mine. “How despicable we must seem to you,” he says.\n\nHas he seen this in my face or somehow read my thoughts? He’s right, though. The whole rotten lot of them is despicable.\n\n“No matter,” says Cinna. “So, Katniss, about your costume for the opening ceremonies. My partner, Portia, is the stylist for your fellow tribute, Peeta. And our current thought is to dress you in complementary costumes,” says Cinna. “As you know, it’s customary to reflect the flavor of the district.”\n\nFor the opening ceremonies, you’re supposed to wear something that suggests your district’s principal industry. District 11, agriculture. District 4, fishing. District 3, factories. This means that coming from District 12, Peeta and I will be in some kind of coal miner’s getup. Since the baggy miner’s jumpsuits are not particularly becoming, our tributes usually end up in skimpy outfits and hats with headlamps. One year, our tributes were stark naked and covered in black powder to represent coal dust. It’s always dreadful and does nothing to win favor with the crowd. I prepare myself for the worst.\n\n“So, I’ll be in a coal miner outfit?” I ask, hoping it won’t be indecent.\n\n“Not exactly. You see, Portia and I think that coal miner thing’s very overdone. No one will remember you in that. And we both see it as our job to make the District Twelve tributes unforgettable,” says Cinna.\n\nI’ll be naked for sure, I think.\n\n“So rather than focus on the coal mining itself, we’re going to focus on the coal,” says Cinna. Naked and covered in black dust, I think. “And what do we do with coal? We burn it,” says Cinna.\n\n“You’re not afraid of fire, are you, Katniss?” He sees my expression and grins.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["make do with", "обойтись чем-либо", "make do with a wild turkey"],
+          ["substitute for", "заменять", "substitute for cream"],
+          ["cook down to", "развариваться до состояния", "cooks down to an unattractive brown mush"],
+          ["come by", "легко достаться", "easy to come by"],
+          ["look up", "поднять взгляд", "I look up"],
+          ["dress someone in", "одеть кого-либо во что-либо", "dress you in complementary costumes"],
+          ["focus on", "сосредоточиться на", "focus on the coal"],
+          ["prepare oneself for", "подготовиться к", "prepare myself for the worst"],
+          ["be afraid of", "бояться", "afraid of fire"],
+          ["grin", "ухмыльнуться", "grins"],
+          ["wait around", "бездельничать в ожидании", "waiting around"],
+          ["roll in", "прибывать", "tributes to roll in"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["at the press of a button", "по нажатию кнопки", "at the press of a button"],
+          ["commit hours to", "посвящать часы чему-либо", "commit to combing the woods"],
+          ["comb the woods", "прочёсывать лес", "combing the woods for sustenance"],
+          ["for sustenance", "для пропитания", "for sustenance"],
+          ["have one's eyes trained on", "не сводить глаз с", "eyes trained on mine"],
+          ["read someone's thoughts", "читать чьи-либо мысли", "read my thoughts"],
+          ["complementary costumes", "дополняющие друг друга костюмы", "complementary costumes"],
+          ["it is customary to", "принято", "it is customary to reflect"],
+          ["principal industry", "основная отрасль", "principal industry"],
+          ["baggy jumpsuit", "мешковатый комбинезон", "baggy miner's jumpsuits"],
+          ["not particularly becoming", "не особенно украшающий", "not particularly becoming"],
+          ["win favor with", "завоевать расположение", "win favor with the crowd"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["a poor substitution", "жалкое подобие, слабая замена", "a poor substitution"],
+          ["how despicable we must seem", "какими отвратительными мы должны казаться", "How despicable we must seem to you"],
+          ["the whole rotten lot of them", "вся эта прогнившая компания", "The whole rotten lot of them"],
+          ["reflect the flavor of a district", "отражать дух дистрикта", "reflect the flavor of the district"],
+          ["skimpy outfit", "откровенный наряд", "skimpy outfits"],
+          ["headlamp", "налобный фонарь", "hats with headlamps"],
+          ["stark naked", "совершенно голый", "stark naked"],
+          ["coal dust", "угольная пыль", "represent coal dust"],
+          ["overdone", "избитый, заезженный", "very overdone"],
+          ["unforgettable", "незабываемый", "make the tributes unforgettable"],
+          ["for sure", "точно, наверняка", "I'll be naked for sure"],
+          ["rather than", "вместо того чтобы", "rather than focus on"],
+          ["coal mining itself", "сама добыча угля", "coal mining itself"],
+          ["see one's expression", "заметить выражение лица", "He sees my expression"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss comparing the Capitol meal to food in District 12?",
+        "options": [
+          "She wants to cook it later",
+          "She is calculating how much effort it would take to obtain similar ingredients",
+          "She dislikes Capitol food",
+          "She is testing Cinna"
+        ],
+        "answer": 1,
+        "explanation": "Katniss instinctively evaluates food in terms of hunting, gathering, and trading required to obtain it."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss find disturbing about life in the Capitol?",
+        "options": [
+          "People work too much",
+          "People have no access to food",
+          "People seem disconnected from survival and enjoy the Games as entertainment",
+          "People spend all day hunting"
+        ],
+        "answer": 2,
+        "explanation": "She is horrified that Capitol citizens live comfortably while treating the Hunger Games as entertainment."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Cinna call himself and the Capitol citizens 'despicable'?",
+        "options": [
+          "Because they are poor stylists",
+          "Because they profit from and enjoy the suffering of the districts",
+          "Because they dislike District 12",
+          "Because they waste food"
+        ],
+        "answer": 1,
+        "explanation": "Cinna recognizes the moral problem of the Capitol benefiting from the Hunger Games."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss worried about her opening ceremony costume?",
+        "options": [
+          "She hates coal mining",
+          "Previous District 12 costumes were embarrassing and ineffective",
+          "She dislikes wearing black",
+          "She cannot walk in formal clothes"
+        ],
+        "answer": 1,
+        "explanation": "District 12 tributes have traditionally worn ridiculous coal-themed costumes that fail to attract attention."
+      },
+      {
+        "type": "choice",
+        "question": "What is Cinna's main goal for Katniss and Peeta?",
+        "options": [
+          "To make them look wealthy",
+          "To make them resemble coal miners",
+          "To make them unforgettable",
+          "To make them look frightening"
+        ],
+        "answer": 2,
+        "explanation": "Cinna explicitly says that he and Portia want the District 12 tributes to be unforgettable."
+      }
+    ]
+}

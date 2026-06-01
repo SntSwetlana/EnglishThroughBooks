@@ -1,0 +1,124 @@
+{
+    "chapter": "The Hunger Games — Chapter 5",
+    "part": "Page 1",
+    "title": "Chapter 5 Page 1",
+    "level": "B2/C1/C2",
+    "text": "R-i-i-i-p! I grit my teeth as Venia, a woman with aqua hair and gold tattoos above her eyebrows, yanks a strip of Fabric from my leg tearing out the hair beneath it. “Sorry!” she pipes in her silly Capitol accent. “You’re just so hairy!”\n\nWhy do these people speak in such a high pitch? Why do their jaws barely open when they talk? Why do the ends of their sentences go up as if they’re asking a question? Odd vowels, clipped words, and always a hiss on the letter s… no wonder it’s impossible not to mimic them.\n\nVenia makes what’s supposed to be a sympathetic face. “Good news, though. This is the last one. Ready?” I get a grip on the edges of the table I’m seated on and nod. The final swathe of my leg hair is uprooted in a painful jerk.\n\nI’ve been in the Remake Center for more than three hours and I still haven’t met my stylist. Apparently he has no interest in seeing me until Venia and the other members of my prep team have addressed some obvious problems. This has included scrubbing down my body with a gritty loam that has removed not only dirt but at least three layers of skin, turning my nails into uniform shapes, and primarily, ridding my body of hair. My legs, arms, torso, underarms, and parts of my eyebrows have been stripped of the Muff, leaving me like a plucked bird, ready for roasting. I don’t like it. My skin feels sore and tingling and intensely vulnerable. But I have kept my side of the bargain with Haymitch, and no objection has crossed my lips.\n\n“You’re doing very well,” says some guy named Flavius. He gives his orange corkscrew locks a shake and applies a fresh coat of purple lipstick to his mouth. “If there’s one thing we can’t stand, it’s a whiner. Grease her down!”\n\nVenia and Octavia, a plump woman whose entire body has been dyed a pale shade of pea green, rub me down with a lotion that first stings but then soothes my raw skin. Then they pull me from the table, removing the thin robe I’ve been allowed to wear off and on. I stand there, completely naked, as the three circle me, wielding tweezers to remove any last bits of hair. I know I should be embarrassed, but they’re so unlike people that I’m no more self-conscious than if a trio of oddly colored birds were pecking around my feet.\n\nThe three step back and admire their work. “Excellent! You almost look like a human being now!” says Flavius, and they all laugh.\n\nI force my lips up into a smile to show how grateful I am. “Thank you,” I say sweetly. “We don’t have much cause to look nice in District Twelve.”\n\nThis wins them over completely. “Of course, you don’t, you poor darling!” says Octavia clasping her hands together in distress for me.\n\n“But don’t worry,” says Venia. “By the time Cinna is through with you, you’re going to be absolutely gorgeous!”\n\n“We promise! You know, now that we’ve gotten rid of all the hair and filth, you’re not horrible at all!” says Flavius encouragingly. “Let’s call Cinna!”\n\nThey dart out of the room. It’s hard to hate my prep team. They’re such total idiots. And yet, in an odd way, I know they’re sincerely trying to help me.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["grit one's teeth", "стиснуть зубы", "grit my teeth"],
+          ["tear out", "вырывать", "tearing out the hair"],
+          ["get a grip on", "крепко схватиться за", "get a grip on the edges"],
+          ["keep one's side of a bargain", "сдержать свою часть сделки", "kept my side of the bargain"],
+          ["cross one's lips", "сорваться с губ", "no objection has crossed my lips"],
+          ["rub someone down", "натирать кого-либо", "rub me down"],
+          ["step back", "отступить назад", "step back and admire"],
+          ["win someone over", "расположить к себе", "wins them over"],
+          ["clasp one's hands together", "сложить руки", "clasping her hands together"],
+          ["be through with", "закончить с кем-либо", "Cinna is through with you"],
+          ["get rid of", "избавиться от", "gotten rid of all the hair"],
+          ["dart out of", "выскочить из", "dart out of the room"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["speak in a high pitch", "говорить высоким голосом", "speak in such a high pitch"],
+          ["clipped words", "обрубленные слова", "clipped words"],
+          ["a sympathetic face", "сочувствующее выражение лица", "sympathetic face"],
+          ["uproot", "вырывать с корнем", "uprooted in a painful jerk"],
+          ["scrub down", "оттирать", "scrubbing down my body"],
+          ["gritty loam", "зернистая грязевая масса", "gritty loam"],
+          ["uniform shapes", "одинаковая форма", "uniform shapes"],
+          ["leave someone like a plucked bird", "оставить кого-либо как ощипанную птицу", "like a plucked bird"],
+          ["sore and tingling", "болезненный и покалывающий", "sore and tingling"],
+          ["a whiner", "нытик", "a whiner"],
+          ["sting and soothe", "щипать и успокаивать", "stings but then soothes"],
+          ["wield tweezers", "орудовать пинцетом", "wielding tweezers"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["pipe in a silly accent", "пропищать смешным акцентом", "pipes in her silly Capitol accent"],
+          ["the ends of sentences go up", "интонация повышается в конце фраз", "ends of their sentences go up"],
+          ["mimic someone", "подражать кому-либо", "impossible not to mimic them"],
+          ["address obvious problems", "устранять очевидные недостатки", "addressed some obvious problems"],
+          ["ridding my body of hair", "избавление тела от волос", "ridding my body of hair"],
+          ["intensely vulnerable", "крайне уязвимый", "intensely vulnerable"],
+          ["orange corkscrew locks", "оранжевые локоны-штопоры", "orange corkscrew locks"],
+          ["raw skin", "раздражённая кожа", "raw skin"],
+          ["self-conscious", "стесняющийся себя", "self-conscious"],
+          ["peck around someone's feet", "клевать вокруг чьих-то ног", "pecking around my feet"],
+          ["you almost look like a human being", "ты почти похожа на человека", "look like a human being now"],
+          ["you poor darling", "бедняжка", "you poor darling"],
+          ["absolutely gorgeous", "невероятно красивая", "absolutely gorgeous"],
+          ["not horrible at all", "совсем не ужасная", "not horrible at all"],
+          ["in an odd way", "каким-то странным образом", "in an odd way"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss forced to endure painful treatments?",
+        "options": [
+          "She is being punished",
+          "The prep team is preparing her appearance for the Games",
+          "She is injured",
+          "Haymitch ordered it"
+        ],
+        "answer": 1,
+        "explanation": "The prep team removes hair, cleans her skin, and prepares her to appear attractive for the Capitol audience."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss remain silent throughout the makeover?",
+        "options": [
+          "She enjoys it",
+          "She is afraid of the prep team",
+          "She promised Haymitch she would not resist",
+          "She has lost her voice"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch specifically instructed her not to resist whatever the stylists did."
+      },
+      {
+        "type": "choice",
+        "question": "How does Katniss view the prep team?",
+        "options": [
+          "As cruel enemies",
+          "As intelligent professionals",
+          "As strange but mostly harmless people",
+          "As secret rebels"
+        ],
+        "answer": 2,
+        "explanation": "Katniss thinks they are foolish and superficial, but she also senses that they genuinely want to help her."
+      },
+      {
+        "type": "choice",
+        "question": "Why isn't Katniss embarrassed by standing naked in front of the prep team?",
+        "options": [
+          "She is used to it",
+          "She no longer cares about anything",
+          "They seem so unlike ordinary people that she doesn't feel self-conscious",
+          "They are not looking at her"
+        ],
+        "answer": 2,
+        "explanation": "Katniss compares them to brightly colored birds and feels detached from their judgment."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss ultimately conclude about her prep team?",
+        "options": [
+          "They secretly hate her",
+          "They are pretending to be kind",
+          "They only care about fashion",
+          "Despite being foolish, they sincerely want to help her"
+        ],
+        "answer": 3,
+        "explanation": "Katniss realizes that their intentions are genuine, even if they seem ridiculous and disconnected from reality."
+      }
+    ]
+}
