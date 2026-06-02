@@ -1,0 +1,124 @@
+{
+    "chapter": "The Hunger Games — Chapter 6",
+    "part": "Page 3",
+    "title": "Chapter 6 Page 3",
+    "level": "B2/C1/C2",
+    "text": "When I look back, the four adults are watching me like hawks.\n\n“Don’t be ridiculous, Katniss. How could you possibly know an Avox?” snaps Effie. “The very thought.”\n\n“What’s an Avox?” I ask stupidly.\n\n“Someone who committed a crime. They cut her tongue so she can’t speak,” says Haymitch. “She’s probably a traitor of some sort. Not likely you’d know her.”\n\n“And even if you did, you’re not to speak to one of them unless it’s to give an order,” says Effie. “Of course, you don’t really know her.”\n\nBut I do know her. And now that Haymitch has mentioned the word traitor I remember from where. The disapproval is so high I could never admit it. “No, I guess not, I just —” I stammer, and the wine is not helping.\n\nPeeta snaps his fingers. “Delly Cartwright. That’s who it is. I kept thinking she looked familiar as well. Then I realized she’s a dead ringer for Delly.”\n\nDelly Cartwright is a pasty-faced, lumpy girl with yellowish hair who looks about as much like our server as a beetle does a butterfly. She may also be the friendliest person on the planet — she smiles constantly at everybody in school, even me. I have never seen the girl with the red hair smile. But I jump on Peeta’s suggestion gratefully. “Of course, that’s who I was thinking of. It must be the hair,” I say.\n\n“Something about the eyes, too,” says Peeta.\n\nThe energy at the table relaxes. “Oh, well. If that’s all it is,” says Cinna. “And yes, the cake has spirits, but all the alcohol has burned off. I ordered it specially in honor of your fiery debut.”\n\nWe eat the cake and move into a sitting room to watch the replay of the opening ceremonies that’s being broadcast. A few of the other couples make a nice impression, but none of them can hold a candle to us. Even our own party lets out an “Ahh!” as they show us coming out of the Remake Center.\n\n“Whose idea was the hand holding?” asks Haymitch.\n\n“Cinna’s,” says Portia.\n\n“Just the perfect touch of rebellion,” says Haymitch. “Very nice.”\n\nRebellion? I have to think about that one a moment. But when I remember the other couples, standing stiffly apart, never touching or acknowledging each other, as if their fellow tribute did not exist, as if the Games had already begun, I know what Haymitch means. Presenting ourselves not as adversaries but as friends has distinguished us as much as the fiery costumes.\n\n“Tomorrow morning is the first training session. Meet me for breakfast and I’ll tell you exactly how I want you to play it,” says Haymitch to Peeta and I. “Now go get some sleep while the grown-ups talk.”\n\nPeeta and I walk together down the corridor to our rooms. When we get to my door, he leans against the frame, not blocking my entrance exactly but insisting I pay attention to him. “So, Delly Cartwright. Imagine finding her lookalike here.”\n\nHe’s asking for an explanation, and I’m tempted to give him one. We both know he covered for me. So here I am in his debt again. If I tell him the truth about the girl, somehow that might even things up. How can it hurt really? Even if he repeated the story, it couldn’t do me much harm. It was just something I witnessed. And he lied as much as I did about Delly Cartwright.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["snap at someone", "резко ответить кому-либо", "snaps Effie"],
+          ["give an order", "отдать приказ", "give an order"],
+          ["jump on a suggestion", "ухватиться за идею", "jump on Peeta's suggestion"],
+          ["think of", "вспомнить", "thinking of"],
+          ["move into", "перейти в", "move into a sitting room"],
+          ["watch a replay", "смотреть повтор", "watch the replay"],
+          ["go get some sleep", "пойти поспать", "go get some sleep"],
+          ["walk together", "идти вместе", "walk together down the corridor"],
+          ["pay attention to", "обратить внимание на", "pay attention to him"],
+          ["cover for someone", "прикрыть кого-либо", "covered for me"],
+          ["tell the truth", "сказать правду", "tell him the truth"],
+          ["be in someone's debt", "быть кому-либо обязанным", "in his debt again"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["watch like a hawk", "следить очень внимательно", "watching me like hawks"],
+          ["commit a crime", "совершить преступление", "committed a crime"],
+          ["a traitor of some sort", "какой-то предатель", "traitor of some sort"],
+          ["stammer", "заикаться от волнения", "I stammer"],
+          ["a dead ringer for", "точная копия", "dead ringer for Delly"],
+          ["gratefully", "с благодарностью", "gratefully"],
+          ["the energy relaxes", "напряжение спадает", "The energy at the table relaxes"],
+          ["in honor of", "в честь", "in honor of your fiery debut"],
+          ["make an impression", "произвести впечатление", "make a nice impression"],
+          ["hold a candle to", "сравниться с", "can't hold a candle to us"],
+          ["the perfect touch", "идеальный штрих", "perfect touch of rebellion"],
+          ["stand stiffly apart", "стоять скованно поодаль", "standing stiffly apart"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["the very thought", "сама мысль об этом", "The very thought"],
+          ["cut someone's tongue", "отрезать язык", "They cut her tongue"],
+          ["the disapproval is so high", "осуждение слишком велико", "The disapproval is so high"],
+          ["pasty-faced and lumpy", "бледный и неуклюжий на вид", "pasty-faced, lumpy girl"],
+          ["as much as a beetle does a butterfly", "настолько же похож, как жук на бабочку", "beetle does a butterfly"],
+          ["friendliest person on the planet", "самый дружелюбный человек на планете", "friendliest person on the planet"],
+          ["let out an ahh", "восхищённо ахнуть", "lets out an 'Ahh!'"],
+          ["touch of rebellion", "намёк на бунт", "touch of rebellion"],
+          ["present oneself as friends", "представлять себя друзьями", "Presenting ourselves ... as friends"],
+          ["acknowledge each other", "признавать существование друг друга", "acknowledging each other"],
+          ["distinguish someone", "выделять кого-либо", "has distinguished us"],
+          ["insist someone pay attention", "настаивать, чтобы кто-то слушал", "insisting I pay attention"],
+          ["tempted to", "испытывать соблазн", "I'm tempted to give him one"],
+          ["even things up", "сравнять счёт", "might even things up"],
+          ["witness something", "быть свидетелем чего-либо", "something I witnessed"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Effie react so strongly when Katniss recognizes the Avox girl?",
+        "options": [
+          "Because Avoxes are respected servants",
+          "Because tributes are not supposed to know or associate with Avoxes",
+          "Because she dislikes Katniss",
+          "Because the girl is famous"
+        ],
+        "answer": 1,
+        "explanation": "Effie considers it impossible and inappropriate that Katniss would know an Avox."
+      },
+      {
+        "type": "choice",
+        "question": "How does Peeta help Katniss during the conversation about the Avox girl?",
+        "options": [
+          "He changes the subject by mentioning Haymitch",
+          "He pretends the girl resembles Delly Cartwright",
+          "He tells the truth",
+          "He leaves the room"
+        ],
+        "answer": 1,
+        "explanation": "Peeta invents a harmless explanation to protect Katniss from suspicion."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Haymitch call the hand-holding a touch of rebellion?",
+        "options": [
+          "It violated the rules",
+          "It made District 12 appear united instead of treating each other as future enemies",
+          "It insulted President Snow",
+          "It distracted the horses"
+        ],
+        "answer": 1,
+        "explanation": "Most tributes act like rivals, but Katniss and Peeta appeared as friends and teammates."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss realize about the hand-holding after Haymitch's comment?",
+        "options": [
+          "It was a mistake",
+          "It made them look weak",
+          "It distinguished them from the other tributes",
+          "It annoyed the audience"
+        ],
+        "answer": 2,
+        "explanation": "The gesture helped make them memorable and different from the other pairs."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss considering telling Peeta the truth about the red-haired girl?",
+        "options": [
+          "She trusts him completely",
+          "She wants revenge",
+          "She feels indebted because he covered for her",
+          "Haymitch ordered her to"
+        ],
+        "answer": 2,
+        "explanation": "Katniss knows Peeta protected her with his lie and feels she owes him an explanation."
+      }
+    ]
+}

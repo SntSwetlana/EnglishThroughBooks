@@ -1,0 +1,125 @@
+{
+    "chapter": "The Hunger Games — Chapter 6",
+    "part": "Page 2",
+    "title": "Chapter 6 Page 2",
+    "level": "B2/C1/C2",
+    "text": "I program the closet for an outfit to my taste. The windows zoom in and out on parts of the city at my command. You need only whisper a type of food from a gigantic menu into a mouthpiece and it appears, hot and steamy, before you in less than a minute. I walk around the room eating goose liver and puffy bread until there’s a knock on the door. Effie’s calling me to dinner.\n\nGood. I’m starving.\n\nPeeta, Cinna, and Portia are standing out on a balcony that overlooks the Capitol when we enter the dining room. I’m glad to see the stylists, particularly after I hear that Haymitch will be joining us. A meal presided over by just Effie and Haymitch is bound to be a disaster. Besides, dinner isn’t really about food, it’s about planning out our strategies, and Cinna and Portia have already proven how valuable they are.\n\nA silent young man dressed in a white tunic offers us all stemmed glasses of wine. I think about turning it down, but I’ve never had wine, except the homemade stuff my mother uses for coughs, and when will I get a chance to try it again? I take a sip of the tart, dry liquid and secretly think it could be improved by a few spoonfuls of honey.\n\nHaymitch shows up just as dinner is being served. It looks as if he’s had his own stylist because he’s clean and groomed and about as sober as I’ve ever seen him. He doesn’t refuse the offer of wine, but when he starts in on his soup, I realize it’s the first time I’ve ever seen him eat. Maybe he really will pull himself together long enough to help us.\n\nCinna and Portia seem to have a civilizing effect on Haymitch and Effie. At least they’re addressing each other decently. And they both have nothing but praise for our stylists’ opening act. While they make small talk, I concentrate on the meal. Mushroom soup, bitter greens with tomatoes the size of peas, rare roast beef sliced as thin as paper, noodles in a green sauce, cheese that melts on your tongue served with sweet blue grapes. The servers, all young people dressed in white tunics like the one who gave us wine, move wordlessly to and from the table, keeping the platters and glasses full.\n\nAbout halfway through my glass of wine, my head starts feeling foggy, so I change to water instead. I don’t like the feeling and hope it wears off soon. How Haymitch can stand walking around like this full-time is a mystery.\n\nI try to focus on the talk, which has turned to our interview costumes, when a girl sets a gorgeous-looking cake on the table and deftly lights it. It blazes up and then the flames flicker around the edges awhile until it finally goes out. I have a moment of doubt. “What makes it burn? Is it alcohol?” I say, looking up at the girl. “That’s the last thing I wa — oh! I know you!”\n\nI can’t place a name or time to the girl’s face. But I’m certain of it. The dark red hair, the striking features, the porcelain white skin. But even as I utter the words, I feel my insides contracting with anxiety and guilt at the sight of her, and while I can’t pull it up, I know some bad memory is associated with her. The expression of terror that crosses her face only adds to my confusion and unease. She shakes her head in denial quickly and hurries away from the table.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["program a closet", "настроить гардероб", "program the closet"],
+          ["zoom in", "приближать изображение", "zoom in"],
+          ["zoom out", "отдалять изображение", "zoom out"],
+          ["overlook", "выходить видом на", "overlooks the Capitol"],
+          ["turn down", "отказаться от", "turning it down"],
+          ["take a sip", "сделать глоток", "take a sip"],
+          ["show up", "появиться", "Haymitch shows up"],
+          ["pull oneself together", "взять себя в руки", "pull himself together"],
+          ["make small talk", "вести светскую беседу", "make small talk"],
+          ["focus on", "сосредоточиться на", "focus on the talk"],
+          ["look up", "поднять взгляд", "looking up at the girl"],
+          ["hurry away", "поспешно уйти", "hurries away from the table"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["at one's command", "по команде", "at my command"],
+          ["hot and steamy", "горячий и дымящийся", "hot and steamy"],
+          ["preside over", "возглавлять", "meal presided over"],
+          ["be bound to", "обязательно", "is bound to be a disaster"],
+          ["prove valuable", "оказаться полезным", "proven how valuable they are"],
+          ["stemmed glass", "бокал на ножке", "stemmed glasses"],
+          ["tart and dry", "терпкий и сухой", "tart, dry liquid"],
+          ["clean and groomed", "чистый и ухоженный", "clean and groomed"],
+          ["have a civilizing effect on", "оказывать облагораживающее влияние", "civilizing effect on Haymitch"],
+          ["move wordlessly", "двигаться молча", "move wordlessly"],
+          ["foggy-headed", "с затуманенной головой", "head starts feeling foggy"],
+          ["wear off", "проходить", "hope it wears off soon"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["gigantic menu", "огромное меню", "gigantic menu"],
+          ["a meal is about planning", "обед служит для планирования", "dinner isn't really about food"],
+          ["talk someone up", "расхваливать кого-либо", "talking us up all day"],
+          ["as sober as I've ever seen him", "настолько трезвый, каким я его когда-либо видел", "as sober as I've ever seen him"],
+          ["nothing but praise", "ничего кроме похвалы", "nothing but praise"],
+          ["rare roast beef", "ростбиф слабой прожарки", "rare roast beef"],
+          ["deftly", "ловко", "deftly lights it"],
+          ["blaze up", "вспыхивать", "It blazes up"],
+          ["utter the words", "произнести слова", "I utter the words"],
+          ["insides contract with anxiety", "всё внутри сжимается от тревоги", "insides contracting with anxiety"],
+          ["striking features", "яркие черты лица", "striking features"],
+          ["porcelain-white skin", "фарфорово-белая кожа", "porcelain white skin"],
+          ["be associated with", "быть связанным с", "memory is associated with her"],
+          ["expression of terror", "выражение ужаса", "expression of terror"],
+          ["shake one's head in denial", "отрицательно покачать головой", "shakes her head in denial"],
+          ["confusion and unease", "замешательство и тревога", "confusion and unease"]
+        ]
+      }
+    }, 
+    "questions": [
+    {
+      "type": "choice",
+      "question": "What amazes Katniss most about her room in the Training Center?",
+      "options": [
+        "The large bed",
+        "The advanced technology that instantly provides what she wants",
+        "The expensive decorations",
+        "The balcony view"
+      ],
+      "answer": 1,
+      "explanation": "Katniss is fascinated by automated conveniences such as instant food and adjustable windows."
+    },
+    {
+      "type": "choice",
+      "question": "Why is Katniss pleased that Cinna and Portia are present at dinner?",
+      "options": [
+        "They brought gifts",
+        "They help keep Effie and Haymitch civilized and focused",
+        "They are famous",
+        "They dislike Haymitch"
+      ],
+      "answer": 1,
+      "explanation": "Katniss believes they make the dinner more productive and less chaotic."
+    },
+    {
+      "type": "choice",
+      "question": "Why does Katniss stop drinking wine?",
+      "options": [
+        "She dislikes the taste",
+        "Effie tells her to stop",
+        "It makes her feel foggy and uncomfortable",
+        "There is no more wine"
+      ],
+      "answer": 2,
+      "explanation": "The wine affects her concentration and she switches to water."
+    },
+    {
+      "type": "choice",
+      "question": "What happens when Katniss recognizes the serving girl?",
+      "options": [
+        "The girl smiles warmly",
+        "The girl starts crying",
+        "The girl reacts with visible fear and quickly leaves",
+        "The girl begins talking to Katniss"
+      ],
+      "answer": 2,
+      "explanation": "The girl becomes terrified when Katniss recognizes her and hurries away."
+    },
+    {
+      "type": "choice",
+      "question": "What emotion does the sight of the girl awaken in Katniss?",
+      "options": [
+        "Joy and relief",
+        "Anxiety and guilt connected to a forgotten memory",
+        "Anger and jealousy",
+        "Excitement and curiosity"
+      ],
+      "answer": 1,
+      "explanation": "Katniss cannot remember the event yet, but she immediately feels anxiety, guilt, and unease."
+    }
+  ]
+}

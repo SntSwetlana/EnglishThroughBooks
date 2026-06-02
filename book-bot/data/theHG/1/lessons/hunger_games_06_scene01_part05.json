@@ -1,0 +1,124 @@
+{
+    "chapter": "The Hunger Games — Chapter 6",
+    "part": "Page 5",
+    "title": "Chapter 6 Page 5",
+    "level": "B2/C1/C2",
+    "text": "I pretend to examine a blossom. “We were hunting in the woods one day. Hidden, waiting for game,” I whisper.\n\n“You and your father?” he whispers back.\n\n“No, my friend Gale. Suddenly all the birds stopped singing at once. Except one. As if it were giving a warning call. And then we saw her. I’m sure it was the same girl. A boy was with her. Their clothes were tattered. They had dark circles under their eyes from no sleep. They were running as if their lives depended on it,” I say.\n\nFor a moment I’m silent, as I remember how the sight of this strange pair, clearly not from District 12, fleeing through the woods immobilized us. Later, we wondered if we could have helped them escape. Perhaps we might have. Concealed them. If we’d moved quickly. Gale and I were taken by surprise, yes, but we’re both hunters. We know how animals look at bay. We knew the pair was in trouble as soon as we saw them. But we only watched.\n\n“The hovercraft appeared out of nowhere,” I continue to Peeta. “I mean, one moment the sky was empty and the next it was there. It didn’t make a sound, but they saw it. A net dropped down on the girl and carried her up, fast, so fast like the elevator. They shot some sort of spear through the boy. It was attached to a cable and they hauled him up as well. But I’m certain he was dead. We heard the girl scream once. The boy’s name, I think. Then it was gone, the hovercraft vanished into thin air. And the birds began to sing again, as if nothing had happened.”\n\n“Did they see you?” Peeta asked.\n\n“I don’t know. We were under a shelf of rock,” I reply.\n\nBut I do know. There was a moment, after the birdcall, but before the hovercraft, where the girl had seen us. She’d locked eyes with me and called out for help. But neither Gale or I had responded.\n\n“You’re shivering,” says Peeta.\n\nThe wind and the story have blown all the warmth from my body. The girl’s scream. Had it been her last?\n\nPeeta takes off his jacket and wraps it around my shoulders. I start to take a step back, but then I let him, deciding for a moment to accept both his jacket and his kindness. A friend would do that, right?\n\n“They were from here?” he asks, and he secures a button at my neck.\n\nI nod. They’d had that Capitol look about them. The boy and the girl.\n\n“Where do you suppose they were going?” he asks.\n\n“I don’t know that,” I say. District 12 is pretty much the end of the line. Beyond us, there’s only wilderness. If you don’t count the ruins of District 13 that still smolder from the toxic bombs. They show it on television occasionally, just to remind us. “Or why they would leave here.” Haymitch had called the Avoxes traitors. Against what? It could only be the Capitol. But they had everything here. No cause to rebel.\n\n“I’d leave here,” Peeta blurts out. Then he looks around nervously. It was loud enough to hear above the chimes. He laughs. “I’d go home now if they let me. But you have to admit, the food’s prime.”\n\nHe’s covered again. If that’s all you’d heard it would just sound like the words of a scared tribute, not someone contemplating the unquestionable goodness of the Capitol.\n\n“It’s getting chilly. We better go in,” he says. Inside the dome, it’s warm and bright. His tone is conversational. “Your friend Gale. He’s the one who took your sister away at the reaping?”\n\n“Yes. Do you know him?” I ask.\n\n“Not really. I hear the girls talk about him a lot. I thought he was your cousin or something. You favor each other,” he says.\n\n“No, we’re not related,” I say.\n\nPeeta nods, unreadable. “Did he come to say good-bye to you?”\n\n“Yes,” I say, observing him carefully. “So did your father. He brought me cookies.”\n\nPeeta raises his eyebrows as if this is news. But after watching him lie so smoothly, I don’t give this much weight. “Really? Well, he likes you and your sister. I think he wishes he had a daughter instead of a houseful of boys.”",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["pretend to", "делать вид, что", "pretend to examine a blossom"],
+          ["wait for", "ждать", "waiting for game"],
+          ["run for one's life", "бежать, спасая жизнь", "their lives depended on it"],
+          ["watch", "наблюдать", "we only watched"],
+          ["drop down", "опускаться вниз", "A net dropped down"],
+          ["carry up", "поднимать вверх", "carried her up"],
+          ["wrap around", "накинуть на", "wraps it around my shoulders"],
+          ["take a step back", "отступить на шаг", "take a step back"],
+          ["go in", "зайти внутрь", "We better go in"],
+          ["hear about", "слышать о", "I hear the girls talk about him"],
+          ["be related", "быть родственниками", "we're not related"],
+          ["say good-bye", "попрощаться", "come to say good-bye"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["tattered clothes", "рваная одежда", "Their clothes were tattered"],
+          ["dark circles under one's eyes", "тёмные круги под глазами", "dark circles under their eyes"],
+          ["be taken by surprise", "быть застигнутым врасплох", "taken by surprise"],
+          ["at bay", "загнанный в угол", "animals look at bay"],
+          ["appear out of nowhere", "появиться из ниоткуда", "appeared out of nowhere"],
+          ["vanish into thin air", "исчезнуть без следа", "vanished into thin air"],
+          ["lock eyes with", "встретиться взглядом", "locked eyes with me"],
+          ["call out for help", "звать на помощь", "called out for help"],
+          ["shiver", "дрожать", "You're shivering"],
+          ["secure a button", "застегнуть пуговицу", "secures a button"],
+          ["blurts out", "выпалить", "Peeta blurts out"],
+          ["favor each other", "быть похожими друг на друга", "You favor each other"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["immobilize someone", "парализовать от потрясения", "immobilized us"],
+          ["conceal someone", "укрывать, скрывать", "Concealed them"],
+          ["a hovercraft", "ховеркрафт, летающий корабль", "The hovercraft appeared"],
+          ["haul someone up", "втащить наверх", "hauled him up"],
+          ["under a shelf of rock", "под каменным выступом", "under a shelf of rock"],
+          ["blow all the warmth from one's body", "лишить всякого тепла", "blown all the warmth from my body"],
+          ["accept someone's kindness", "принять чью-то доброту", "accept both his jacket and his kindness"],
+          ["have a Capitol look about someone", "иметь типичный вид жителя Капитолия", "had that Capitol look about them"],
+          ["be the end of the line", "быть последней точкой пути", "the end of the line"],
+          ["smolder from toxic bombs", "тлеть после токсических бомб", "still smolder from the toxic bombs"],
+          ["the unquestionable goodness of", "несомненное превосходство", "unquestionable goodness of the Capitol"],
+          ["contemplating", "размышляющий", "someone contemplating"],
+          ["unreadable expression", "непроницаемое выражение лица", "Peeta nods, unreadable"],
+          ["raise one's eyebrows", "поднять брови", "Peeta raises his eyebrows"],
+          ["lie smoothly", "лгать непринуждённо", "lie so smoothly"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What did Katniss and Gale witness in the woods?",
+        "options": [
+          "A hunting accident",
+          "A Capitol hovercraft capturing two runaways",
+          "A forest fire",
+          "A fight between Peacekeepers"
+        ],
+        "answer": 1,
+        "explanation": "They saw a hovercraft capture a girl in a net and kill a boy with a spear-like weapon."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss feel guilty about the captured girl?",
+        "options": [
+          "She reported her",
+          "She stole from her",
+          "The girl asked for help and Katniss did nothing",
+          "She knew her personally"
+        ],
+        "answer": 2,
+        "explanation": "Katniss remembers the girl looking directly at her and calling for help."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Peeta lend Katniss his jacket?",
+        "options": [
+          "He wants it back cleaned",
+          "She is shivering from cold and emotion",
+          "It is part of his strategy",
+          "Haymitch told him to"
+        ],
+        "answer": 1,
+        "explanation": "Katniss is physically cold and emotionally shaken by the memory."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Peeta careful after saying he would leave the Capitol?",
+        "options": [
+          "He remembers they may be overheard",
+          "He dislikes Katniss",
+          "He sees Peacekeepers nearby",
+          "He changes his mind"
+        ],
+        "answer": 0,
+        "explanation": "Peeta quickly covers his statement with a joke about the food because criticism of the Capitol is dangerous."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss begin to suspect about Peeta in this chapter?",
+        "options": [
+          "He is weak",
+          "He is secretly working for the Capitol",
+          "He is much more intelligent and careful than he appears",
+          "He knows the Avox girl"
+        ],
+        "answer": 2,
+        "explanation": "Peeta protects Katniss, speaks cautiously, and hides his true thoughts very skillfully."
+      }
+    ]
+}

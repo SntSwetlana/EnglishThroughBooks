@@ -1,0 +1,121 @@
+{
+    "chapter": "The Hunger Games — Chapter 6",
+    "part": "Page 6",
+    "title": "Chapter 6 Page 6",
+    "level": "B2/C1/C2",
+    "text": "The idea that I might ever have been discussed, around the dinner table, at the bakery fire, just in passing in Peeta’s house gives me a start. It must have been when the mother was out of the room.\n\n“He knew your mother when they were kids,” says Peeta.\n\nAnother surprise. But probably true. “Oh, yes. She grew up in town,” I say. It seems impolite to say she never mentioned the baker except to compliment his bread.\n\nWe’re at my door. I give back his jacket. “See you in the morning then.”\n\n“See you,” he says, and walks off down the hall.\n\nWhen I open my door, the redheaded girl is collecting my unitard and boots from where I left them on the floor before my shower. I want to apologize for possibly getting her in trouble earlier. But I remember I’m not supposed to speak to her unless I’m giving her an order.\n\n“Oh, sorry,” I say. “I was supposed to get those back to Cinna. I’m sorry. Can you take them to him?”\n\nShe avoids my eyes, gives a small nod, and heads out the door.\n\nI’d set out to tell her I was sorry about dinner. But I know that my apology runs much deeper. That I’m ashamed I never tried to help her in the woods. That I let the Capitol kill the boy and mutilate her without lifting a finger.\n\nJust like I was watching the Games.\n\nI kick off my shoes and climb under the covers in my clothes. The shivering hasn’t stopped. Perhaps the girl doesn’t even remember me. But I know she does. You don’t forget the face of the person who was your last hope. I pull the covers up over my head as if this will protect me from the redheaded girl who can’t speak. But I can feel her eyes staring at me, piercing through walls and doors and bedding.\n\nI wonder if she’ll enjoy watching me die.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["grow up", "вырасти", "She grew up in town"],
+          ["walk off", "уйти", "walks off down the hall"],
+          ["collect", "собирать, забирать", "is collecting my unitard"],
+          ["give a nod", "кивнуть", "gives a small nod"],
+          ["head out", "выйти", "heads out the door"],
+          ["kick off", "скинуть", "kick off my shoes"],
+          ["climb under the covers", "залезть под одеяло", "climb under the covers"],
+          ["pull up", "натянуть", "pull the covers up"],
+          ["watch someone die", "наблюдать чью-то смерть", "watching me die"],
+          ["see you in the morning", "увидимся утром", "See you in the morning"],
+          ["give back", "вернуть", "give back his jacket"],
+          ["take something to someone", "отнести что-то кому-то", "take them to him"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["in passing", "мимоходом", "just in passing"],
+          ["give someone a start", "поразить, удивить", "gives me a start"],
+          ["avoid someone's eyes", "избегать чьего-то взгляда", "avoids my eyes"],
+          ["get someone in trouble", "навлечь неприятности", "getting her in trouble"],
+          ["run much deeper", "быть гораздо глубже", "my apology runs much deeper"],
+          ["lift a finger", "пошевелить пальцем", "without lifting a finger"],
+          ["the shivering hasn't stopped", "дрожь не проходит", "The shivering hasn't stopped"],
+          ["be ashamed", "стыдиться", "I'm ashamed"],
+          ["protect someone from", "защитить от", "protect me from"],
+          ["pierce through", "пронизывать", "piercing through walls"],
+          ["last hope", "последняя надежда", "your last hope"],
+          ["enjoy watching", "получать удовольствие от наблюдения", "enjoy watching me die"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["it seems impolite to", "кажется невежливым", "It seems impolite to say"],
+          ["mutilate someone", "изувечить кого-либо", "mutilate her"],
+          ["without lifting a finger", "не пошевелив и пальцем", "without lifting a finger"],
+          ["just like I was watching the Games", "словно я сама была зрителем Игр", "Just like I was watching the Games"],
+          ["the face of the person who was your last hope", "лицо человека, бывшего твоей последней надеждой", "the person who was your last hope"],
+          ["stare at someone", "пристально смотреть на кого-либо", "eyes staring at me"],
+          ["pierce through walls and doors", "проникать сквозь стены и двери", "piercing through walls and doors"],
+          ["deeper guilt", "глубокое чувство вины", "my apology runs much deeper"],
+          ["a silent accusation", "молчаливое обвинение", "she can't speak"],
+          ["haunt someone", "преследовать в мыслях", "I can feel her eyes"],
+          ["carry a burden of guilt", "нести груз вины", "I'm ashamed"],
+          ["be someone's last hope", "быть чьей-то последней надеждой", "your last hope"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss surprised by Peeta's comment about his father?",
+        "options": [
+          "She didn't know Peeta had a father",
+          "She learns that the baker knew her mother when they were young",
+          "She discovers Peeta has a sister",
+          "She learns the baker is from the Capitol"
+        ],
+        "answer": 1,
+        "explanation": "Peeta reveals that his father and Katniss's mother knew each other as children."
+      },
+      {
+        "type": "choice",
+        "question": "Why doesn't Katniss apologize directly to the red-haired girl?",
+        "options": [
+          "She has forgotten the incident",
+          "She is angry with the girl",
+          "Avoxes are not supposed to be spoken to casually",
+          "The girl leaves immediately"
+        ],
+        "answer": 2,
+        "explanation": "Katniss remembers the rule that tributes should only speak to an Avox when giving an order."
+      },
+      {
+        "type": "choice",
+        "question": "What is Katniss truly ashamed of?",
+        "options": [
+          "Forgetting her clothes",
+          "Being rude at dinner",
+          "Not helping the girl and the boy in the woods",
+          "Talking to Peeta"
+        ],
+        "answer": 2,
+        "explanation": "Her guilt comes from standing by while the Capitol captured the girl and killed the boy."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss think the red-haired girl remembers her?",
+        "options": [
+          "They were childhood friends",
+          "The girl worked in District 12",
+          "Katniss was the last person who could have helped her",
+          "Peeta told her"
+        ],
+        "answer": 2,
+        "explanation": "Katniss believes people never forget the face of their last hope."
+      },
+      {
+        "type": "choice",
+        "question": "What feeling dominates Katniss at the end of the passage?",
+        "options": [
+          "Excitement",
+          "Confidence",
+          "Relief",
+          "Guilt and fear"
+        ],
+        "answer": 3,
+        "explanation": "She is haunted by guilt over the girl and fears being judged as she faces her own possible death."
+      }
+    ]
+}

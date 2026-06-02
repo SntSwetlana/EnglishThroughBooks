@@ -1,0 +1,124 @@
+{
+    "chapter": "The Hunger Games — Chapter 6",
+    "part": "Page 4",
+    "title": "Chapter 6 Page 4",
+    "level": "B2/C1/C2",
+    "text": "I realize I do want to talk to someone about the girl. Someone who might be able to help me figure out her story.\n\nGale would be my first choice, but it’s unlikely I’ll ever see Gale again. I try to think if telling Peeta could give him any possible advantage over me, but I don’t see how. Maybe sharing a confidence will actually make him believe I see him as a friend.\n\nBesides, the idea of the girl with her maimed tongue frightens me. She has reminded me why I’m here. Not to model flashy costumes and eat delicacies. But to die a bloody death while the crowds urge on my killer.\n\nTo tell or not to tell? My brain still feels slow from the wine. I stare down the empty corridor as if the decision lies there.\n\nPeeta picks up on my hesitation. “Have you been on the roof yet?” I shake my head. “Cinna showed me. You can practically see the whole city. The wind’s a bit loud, though.”\n\nI translate this into “No one will overhear us talking” in my head. You do have the sense that we might be under surveillance here. “Can we just go up?”\n\n“Sure, come on,” says Peeta. I follow him to a flight of stairs that lead to the roof. There’s a small dome-shaped room with a door to the outside. As we step into the cool, windy evening air, I catch my breath at the view. The Capitol twinkles like a vast field of fireflies. Electricity in District 12 comes and goes, usually we only have it a few hours a day. Often the evenings are spent in candlelight. The only time you can count on it is when they’re airing the Games or some important government message on television that it’s mandatory to watch. But here there would be no shortage. Ever.\n\nPeeta and I walk to a railing at the edge of the roof. I look straight down the side of the building to the street, which is buzzing with people. You can hear their cars, an occasional shout, and a strange metallic tinkling. In District 12, we’d all be thinking about bed right now.\n\n“I asked Cinna why they let us up here. Weren’t they worried that some of the tributes might decide to jump right over the side?” says Peeta.\n\n“What’d he say?” I ask.\n\n“You can’t,” says Peeta. He holds out his hand into seemingly empty space. There’s a sharp zap and he jerks it back. “Some kind of electric field throws you back on the roof.”\n\n“Always worried about our safety,” I say. Even though Cinna has shown Peeta the roof, I wonder if we’re supposed to be up here now, so late and alone. I’ve never seen tributes on the Training Center roof before. But that doesn’t mean we’re not being taped. “Do you think they’re watching us now?”\n\n“Maybe,” he admits. “Come see the garden.”\n\nOn the other side of the dome, they’ve built a garden with flower beds and potted trees. From the branches hang hundreds of wind chimes, which account for the tinkling I heard. Here in the garden, on this windy night, it’s enough to drown out two people who are trying not to be heard. Peeta looks at me expectantly.\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["talk to someone about", "поговорить с кем-либо о", "talk to someone about the girl"],
+          ["figure out", "выяснить, понять", "figure out her story"],
+          ["share a confidence", "поделиться секретом", "sharing a confidence"],
+          ["pick up on", "заметить, уловить", "Peeta picks up on my hesitation"],
+          ["shake one's head", "покачать головой", "I shake my head"],
+          ["lead to", "вести к", "lead to the roof"],
+          ["catch one's breath", "затаить дыхание", "I catch my breath"],
+          ["count on", "рассчитывать на", "count on it"],
+          ["hold out one's hand", "протянуть руку", "holds out his hand"],
+          ["jerk back", "резко отдёрнуть", "jerks it back"],
+          ["come see", "пойти посмотреть", "Come see the garden"],
+          ["look at someone expectantly", "смотреть выжидающе", "looks at me expectantly"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["unlikely", "маловероятно", "it's unlikely"],
+          ["give someone an advantage", "дать преимущество", "possible advantage over me"],
+          ["maimed tongue", "изуродованный язык", "her maimed tongue"],
+          ["urge on", "подбадривать, подстрекать", "crowds urge on my killer"],
+          ["hesitation", "колебание", "my hesitation"],
+          ["under surveillance", "под наблюдением", "under surveillance"],
+          ["vast field of fireflies", "огромное поле светлячков", "vast field of fireflies"],
+          ["mandatory to watch", "обязательный к просмотру", "mandatory to watch"],
+          ["buzz with people", "кишеть людьми", "street is buzzing with people"],
+          ["electric field", "электрическое поле", "electric field"],
+          ["throw someone back", "отбрасывать назад", "throws you back"],
+          ["account for", "объяснять, быть причиной", "account for the tinkling"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["first choice", "предпочтительный выбор", "my first choice"],
+          ["see someone again", "увидеть кого-либо снова", "ever see Gale again"],
+          ["delicacy", "деликатес", "eat delicacies"],
+          ["bloody death", "кровавая смерть", "die a bloody death"],
+          ["to tell or not to tell", "говорить или не говорить", "To tell or not to tell"],
+          ["the decision lies there", "решение скрывается там", "the decision lies there"],
+          ["practically see the whole city", "почти видеть весь город", "practically see the whole city"],
+          ["there would be no shortage", "не было бы недостатка", "there would be no shortage"],
+          ["occasional shout", "редкий выкрик", "an occasional shout"],
+          ["jump right over the side", "спрыгнуть прямо вниз", "jump right over the side"],
+          ["always worried about our safety", "вечно заботятся о нашей безопасности", "Always worried about our safety"],
+          ["be taped", "быть записываемым", "we're not being taped"],
+          ["wind chime", "музыка ветра", "hundreds of wind chimes"],
+          ["drown out", "заглушать", "enough to drown out two people"],
+          ["trying not to be heard", "пытаясь остаться неуслышанными", "trying not to be heard"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss considering telling Peeta about the Avox girl?",
+        "options": [
+          "Haymitch ordered her to",
+          "She wants someone to help her understand what happened to the girl",
+          "She wants to test Peeta",
+          "She is no longer afraid of being watched"
+        ],
+        "answer": 1,
+        "explanation": "Katniss feels troubled by the girl's fate and wants someone to discuss it with."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Peeta suggest going to the roof?",
+        "options": [
+          "To admire the city",
+          "To exercise",
+          "To find a place where they can talk privately",
+          "To meet Cinna"
+        ],
+        "answer": 2,
+        "explanation": "Katniss understands that Peeta means they can speak without being overheard."
+      },
+      {
+        "type": "choice",
+        "question": "What surprises Katniss when she reaches the roof?",
+        "options": [
+          "The presence of other tributes",
+          "The magnificent view of the illuminated Capitol",
+          "President Snow",
+          "The electric barrier"
+        ],
+        "answer": 1,
+        "explanation": "She is amazed by the city's lights, which contrast sharply with life in District 12."
+      },
+      {
+        "type": "choice",
+        "question": "Why can't tributes jump off the Training Center roof?",
+        "options": [
+          "The roof is locked",
+          "Peacekeepers guard it",
+          "An electric field pushes them back",
+          "The building is too low"
+        ],
+        "answer": 2,
+        "explanation": "Peeta demonstrates that an invisible electric field prevents anyone from jumping."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Peeta bring Katniss to the garden with the wind chimes?",
+        "options": [
+          "To show her rare flowers",
+          "To avoid the cold wind",
+          "Because the noise helps hide their conversation",
+          "Because it is his favorite place"
+        ],
+        "answer": 2,
+        "explanation": "The sound of the wind chimes creates privacy by drowning out their voices."
+      }
+    ]
+}

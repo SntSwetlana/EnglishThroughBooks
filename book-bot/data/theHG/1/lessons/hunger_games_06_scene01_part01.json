@@ -1,0 +1,124 @@
+{
+    "chapter": "The Hunger Games — Chapter 6",
+    "part": "Page 1",
+    "title": "Chapter 6 Page 1",
+    "level": "B2/C1/C2",
+    "text": "The Training Center has a tower designed exclusively for the tributes and their teams. This will be our home until the actual Games begin. Each district has an entire floor. You simply step onto an elevator and press the number of your district. Easy enough to remember.\n\nI’ve ridden the elevator a couple of times in the Justice Building back in District 12. Once to receive the medal for my father’s death and then yesterday to say my final goodbyes to my friends and family. But that’s a dark and creaky thing that moves like a snail and smells of sour milk. The walls of this elevator are made of crystal so that you can watch the people on the ground floor shrink to ants as you shoot up into the air. It’s exhilarating and I’m tempted to ask Effie Trinket if we can ride it again, but somehow that seems childish.\n\nApparently, Effie Trinket’s duties did not conclude at the station. She and Haymitch will be overseeing us right into the arena. In a way, that’s a plus because at least she can be counted on to corral us around to places on time whereas we haven’t seen Haymitch since he agreed to help us on the train. Probably passed out somewhere. Effie Trinket, on the other hand, seems to be flying high. We’re the first team she’s ever chaperoned that made a splash at the opening ceremonies. She’s complimentary about not just our costumes but how we conducted ourselves. And, to hear her tell it, Effie knows everyone who’s anyone in the Capitol and has been talking us up all day, trying to win us sponsors.\n\n“I’ve been very mysterious, though,” she says, her eyes squint half shut. “Because, of course, Haymitch hasn’t bothered to tell me your strategies. But I’ve done my best with what I had to work with. How Katniss sacrificed herself for her sister. How you’ve both successfully struggled to overcome the barbarism of your district.”\n\nBarbarism? That’s ironic coming from a woman helping to prepare us for slaughter. And what’s she basing our success on? Our table manners?\n\n“Everyone has their reservations, naturally. You being from the coal district. But I said, and this was very clever of me, I said, ‘Well, if you put enough pressure on coal it turns to pearls!’“ Effie beams at us so brilliantly that we have no choice but to respond enthusiastically to her cleverness even though it’s wrong.\n\nCoal doesn’t turn to pearls. They grow in shellfish. Possibly she meant coal turns to diamonds, but that’s untrue, too. I’ve heard they have some sort of machine in District 1 that can turn graphite into diamonds. But we don’t mine graphite in District 12. That was part of District 13’s job until they were destroyed.\n\nI wonder if the people she’s been plugging us to all day either know or care.\n\n“Unfortunately, I can’t seal the sponsor deals for you. Only Haymitch can do that,” says Effie grimly. “But don’t worry, I’ll get him to the table at gunpoint if necessary.”\n\nAlthough lacking in many departments, Effie Trinket has a certain determination I have to admire.\n\nMy quarters are larger than our entire house back home. They are plush, like the train car, but also have so many automatic gadgets that I’m sure I won’t have time to press all the buttons. The shower alone has a panel with more than a hundred options you can choose regulating water temperature, pressure, soaps, shampoos, scents, oils, and massaging sponges. When you step out on a mat, heaters come on that blow-dry your body. Instead of struggling with the knots in my wet hair, I merely place my hand on a box that sends a current through my scalp, untangling, parting, and drying my hair almost instantly. It floats down around my shoulders in a glossy curtain.\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["ride an elevator", "ехать на лифте", "ridden the elevator"],
+          ["say one's goodbyes", "попрощаться", "say my final goodbyes"],
+          ["watch something shrink", "наблюдать, как что-то уменьшается", "watch the people ... shrink"],
+          ["ask someone to do something", "попросить кого-либо сделать что-либо", "ask Effie Trinket"],
+          ["count on", "полагаться на", "can be counted on"],
+          ["pass out", "отключиться", "passed out somewhere"],
+          ["make a splash", "произвести фурор", "made a splash"],
+          ["talk someone up", "расхваливать кого-либо", "talking us up all day"],
+          ["respond to", "реагировать на", "respond enthusiastically"],
+          ["care about", "интересоваться чем-либо", "know or care"],
+          ["step out", "выходить", "When you step out"],
+          ["blow-dry", "сушить феном", "blow-dry your body"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["dark and creaky", "тёмный и скрипучий", "dark and creaky thing"],
+          ["move like a snail", "двигаться как улитка", "moves like a snail"],
+          ["shoot up into the air", "взмывать вверх", "shoot up into the air"],
+          ["exhilarating", "захватывающий", "It's exhilarating"],
+          ["oversee", "курировать, контролировать", "overseeing us"],
+          ["corral someone around", "организовывать и направлять кого-либо", "corral us around"],
+          ["fly high", "быть на подъёме", "seems to be flying high"],
+          ["complimentary about", "хвалебно отзываться о", "complimentary about"],
+          ["sacrifice oneself", "пожертвовать собой", "Katniss sacrificed herself"],
+          ["struggle to overcome", "бороться, чтобы преодолеть", "struggled to overcome"],
+          ["have reservations", "иметь сомнения", "Everyone has their reservations"],
+          ["seal a deal", "заключить сделку", "seal the sponsor deals"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["designed exclusively for", "предназначенный исключительно для", "designed exclusively for the tributes"],
+          ["tempted to", "испытывать соблазн", "tempted to ask"],
+          ["conclude one's duties", "закончить свои обязанности", "duties did not conclude"],
+          ["be mysterious", "напускать таинственность", "I've been very mysterious"],
+          ["barbarism", "варварство", "barbarism of your district"],
+          ["help prepare someone for slaughter", "помогать готовить кого-либо к бойне", "prepare us for slaughter"],
+          ["beam brilliantly", "сиять от гордости", "Effie beams at us"],
+          ["have no choice but to", "не иметь выбора кроме как", "have no choice but to respond"],
+          ["plug someone to sponsors", "продвигать кого-либо среди спонсоров", "been plugging us"],
+          ["at gunpoint", "под дулом пистолета", "at gunpoint if necessary"],
+          ["lacking in many departments", "имеющий много недостатков", "lacking in many departments"],
+          ["automatic gadget", "автоматическое устройство", "automatic gadgets"],
+          ["regulate temperature and pressure", "регулировать температуру и давление", "regulating water temperature, pressure"],
+          ["send a current through", "пропускать электрический ток через", "sends a current through my scalp"],
+          ["glossy curtain of hair", "блестящая завеса волос", "a glossy curtain"]
+        ]
+      }
+    }, 
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss find the Capitol elevator exciting?",
+        "options": [
+          "It moves very slowly",
+          "It has crystal walls and rises high above the city",
+          "It plays music",
+          "It is reserved for victors"
+        ],
+        "answer": 1,
+        "explanation": "The transparent walls allow Katniss to watch the ground disappear beneath her."
+      },
+      {
+        "type": "choice",
+        "question": "What role does Effie continue to play after the opening ceremonies?",
+        "options": [
+          "She returns to District 12",
+          "She becomes a stylist",
+          "She continues supervising and promoting the tributes",
+          "She trains the tributes"
+        ],
+        "answer": 2,
+        "explanation": "Effie remains responsible for managing and promoting Katniss and Peeta."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss find Effie's comment about barbarism ironic?",
+        "options": [
+          "Effie grew up in District 12",
+          "Effie is helping prepare children to kill one another",
+          "Effie dislikes the Games",
+          "Effie refuses to meet sponsors"
+        ],
+        "answer": 1,
+        "explanation": "Katniss sees the Hunger Games themselves as far more barbaric than District 12."
+      },
+      {
+        "type": "choice",
+        "question": "What mistake does Effie make about coal?",
+        "options": [
+          "She says coal becomes pearls",
+          "She says coal becomes wood",
+          "She says coal becomes gold",
+          "She says coal becomes oil"
+        ],
+        "answer": 0,
+        "explanation": "Effie incorrectly claims that enough pressure can turn coal into pearls."
+      },
+      {
+        "type": "choice",
+        "question": "What impresses Katniss most about her new quarters?",
+        "options": [
+          "The large windows",
+          "The expensive furniture",
+          "The advanced automatic technology",
+          "The view of President Snow's mansion"
+        ],
+        "answer": 2,
+        "explanation": "Katniss is amazed by the automated shower, hair dryer, and other Capitol gadgets."
+      }
+    ]
+}
