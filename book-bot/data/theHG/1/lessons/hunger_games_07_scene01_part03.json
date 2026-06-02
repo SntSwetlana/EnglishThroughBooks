@@ -1,0 +1,136 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 3",
+    "title": "Chapter 7 Page 3",
+    "level": "B2/C1/C2",
+    "text": "Suddenly I’m behind the bakery and I can feel the chill of the rain running down my back, the hollowness in my belly. I sound eleven years old when I speak. “But only because someone helped me.”\n\nPeeta’s eyes flicker down to the roll in my hands, and I know he remembers that day, too. But he just shrugs. “People will help you in the arena. They’ll be tripping over each other to sponsor you.”\n\n“No more than you,” I say.\n\nPeeta rolls his eyes at Haymitch. “She has no idea. The effect she can have.” He runs his fingernail along the wood grain in the table, refusing to look at me.\n\nWhat on earth does he mean? People help me? When we were dying of starvation, no one helped me! No one except Peeta. Once I had something to barter with, things changed. I’m a tough trader. Or am I? What effect do I have? That I’m weak and needy? Is he suggesting that I got good deals because people pitied me? I try to think if this is true. Perhaps some of the merchants were a little generous in their trades, but I always attributed that to their long-standing relationship with my father. Besides, my game is first-class. No one pitied me!\n\nI glower at the roll sure he meant to insult me.\n\nAfter about a minute of this, Haymitch says, “Well, then. Well, well, well. Katniss, there’s no guarantee they’ll be bows and arrows in the arena, but during your private session with the Gamemakers, show them what you can do. Until then, stay clear of archery. Are you any good at trapping?”\n\n“I know a few basic snares,” I mutter.\n\n“That may be significant in terms of food,” says Haymitch. “And Peeta, she’s right, never underestimate strength in the arena. Very often, physical power tilts the advantage to a player. In the Training Center, they will have weights, but don’t reveal how much you can lift in front of the other tributes. The plan’s the same for both of you. You go to group training. Spend the time trying to learn something you don’t know. Throw a spear. Swing a mace. Learn to tie a decent knot. Save showing what you’re best at until your private sessions. Are we clear?” says Haymitch. Peeta and I nod.\n\n“One last thing. In public, I want you by each other’s side every minute,” says Haymitch. We both start to object, but Haymitch slams his hand on the table. “Every minute! It’s not open for discussion! You agreed to do as I said! You will be together, you will appear amiable to each other. Now get out. Meet Effie at the elevator at ten for training.”",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["shrug", "пожать плечами", "he just shrugs"],
+          ["roll one's eyes", "закатить глаза", "Peeta rolls his eyes"],
+          ["look at", "смотреть на", "refusing to look at me"],
+          ["think of", "думать о", "I try to think"],
+          ["attribute something to", "объяснять что-либо", "I always attributed that"],
+          ["stay clear of", "держаться подальше от", "stay clear of archery"],
+          ["know a few", "знать несколько", "I know a few basic snares"],
+          ["learn to", "научиться", "Learn to tie a decent knot"],
+          ["start to object", "начать возражать", "We both start to object"],
+          ["slam one's hand on", "ударить рукой по", "slams his hand on the table"],
+          ["get out", "убираться", "Now get out"],
+          ["meet someone at", "встретиться с кем-либо у", "Meet Effie at the elevator"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["flicker down", "опустить взгляд", "Peeta's eyes flicker down"],
+          ["the effect someone can have", "влияние, которое кто-то оказывает", "The effect she can have"],
+          ["barter with", "обменивать на товары", "something to barter with"],
+          ["a tough trader", "жёсткий торговец", "I'm a tough trader"],
+          ["first-class", "первоклассный", "my game is first-class"],
+          ["glower at", "мрачно смотреть на", "I glower at the roll"],
+          ["there's no guarantee", "нет никаких гарантий", "There's no guarantee"],
+          ["private session", "индивидуальная сессия", "private session with the Gamemakers"],
+          ["be significant in terms of", "быть важным с точки зрения", "significant in terms of food"],
+          ["underestimate", "недооценивать", "never underestimate strength"],
+          ["tilt the advantage", "склонить преимущество", "tilts the advantage"],
+          ["be clear", "понять всё ясно", "Are we clear?"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["people will be tripping over each other", "люди будут из кожи вон лезть", "tripping over each other to sponsor you"],
+          ["long-standing relationship", "давние отношения", "long-standing relationship with my father"],
+          ["pitied someone", "жалеть кого-либо", "people pitied me"],
+          ["rub someone the wrong way", "задевать, раздражать", "this rubs me the wrong way"],
+          ["assessment of skills", "оценка способностей", "assessment of my skills"],
+          ["show someone what you can do", "показать, на что способен", "show them what you can do"],
+          ["reveal how much you can lift", "раскрыть свою силу", "don't reveal how much you can lift"],
+          ["save something until later", "приберечь до позже", "Save showing what you're best at"],
+          ["physical power", "физическая сила", "physical power tilts the advantage"],
+          ["appear amiable", "выглядеть дружелюбным", "appear amiable to each other"],
+          ["it's not open for discussion", "это не обсуждается", "It's not open for discussion"],
+          ["live up in some tree", "отсиживаться на дереве", "living up in some tree"],
+          ["pick off people", "снимать людей одного за другим", "picking off people with arrows"],
+          ["pull someone up short", "ошеломить, заставить остановиться", "That pulls me up short"],
+          ["rate someone over", "ставить выше кого-либо", "Did she rate me over her son"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Haymitch initially offer to coach Katniss and Peeta separately?",
+        "options": [
+          "Because they dislike each other",
+          "Because they may want to keep secret skills hidden",
+          "Because the rules require it",
+          "Because Effie suggested it"
+        ],
+        "answer": 1,
+        "explanation": "Haymitch thinks each tribute may have abilities they do not want the other to know about."
+      },
+      {
+        "type": "choice",
+        "question": "What hunting skill of Katniss particularly impresses Peeta?",
+        "options": [
+          "She catches fish",
+          "She uses traps",
+          "She hits squirrels directly in the eye",
+          "She hunts bears"
+        ],
+        "answer": 2,
+        "explanation": "Peeta explains that her arrows hit squirrels in the eye without damaging the meat."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss become annoyed by Peeta's praise?",
+        "options": [
+          "She thinks he is mocking her",
+          "She dislikes compliments",
+          "She suspects he has another motive",
+          "She wants Haymitch's attention"
+        ],
+        "answer": 2,
+        "explanation": "Katniss is suspicious and wonders why Peeta is talking her up."
+      },
+      {
+        "type": "choice",
+        "question": "What advice does Haymitch give about training?",
+        "options": [
+          "Show all your best skills immediately",
+          "Avoid training with others",
+          "Learn new skills and hide your strongest abilities",
+          "Focus only on physical strength"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch tells them to practice unfamiliar skills and save their strengths for the private evaluation."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Peeta upset about what his mother said?",
+        "options": [
+          "She wanted him to quit",
+          "She believed Katniss was more likely to survive",
+          "She forgot to visit him",
+          "She criticized his wrestling"
+        ],
+        "answer": 1,
+        "explanation": "Peeta feels hurt because his mother seemed to believe Katniss had a better chance than her own son."
+      },
+      {
+        "type": "choice",
+        "question": "What final order does Haymitch give Katniss and Peeta?",
+        "options": [
+          "Train separately",
+          "Avoid talking to sponsors",
+          "Stay together and act friendly in public",
+          "Tell nobody about their skills"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch insists they remain together at all times in public and appear amiable to one another."
+      }
+    ]
+}

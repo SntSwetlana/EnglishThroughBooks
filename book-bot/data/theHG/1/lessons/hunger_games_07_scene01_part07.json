@@ -1,0 +1,130 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 7",
+    "title": "Chapter 7 Page 7",
+    "level": "B2/C1/C2",
+    "text": "I bite my lip. Rue is a small yellow flower that grows in the Meadow. Rue. Primrose. Neither of them could tip the scale at seventy pounds soaking wet.\n\n“What can we do about it?” I ask him, more harshly than I intended.\n\n“Nothing to do,” he says back. “Just making conversation.”\n\nNow that I know she’s there, it’s hard to ignore the child. She slips up and joins us at different stations. Like me, she’s clever with plants, climbs swiftly, and has good aim. She can hit the target every time with a slingshot. But what is a slingshot against a 220-pound male with a sword?\n\nBack on the District 12 floor, Haymitch and Effie grill us throughout breakfast and dinner about every moment of the day. What we did, who watched us, how the other tributes size up. Cinna and Portia aren’t around, so there’s no one to add any sanity to the meals. Not that Haymitch and Effie are fighting anymore. Instead they seem to be of one mind, determined to whip us into shape. Full of endless directions about what we should do and not do in training. Peeta is more patient, but I become fed up and surly.\n\nWhen we finally escape to bed on the second night, Peeta mumbles, “Someone ought to get Haymitch a drink.”\n\nI make a sound that is somewhere between a snort and a laugh. Then catch myself. It’s messing with my mind too much, trying to keep straight when we’re supposedly friends and when we’re not. At least when we get into the arena, I’ll know where we stand. “Don’t. Don’t let’s pretend when there’s no one around.”\n\n“All right, Katniss,” he says tiredly. After that, we only talk in front of people.\n\nOn the third day of training, they start to call us out of lunch for our private sessions with the Gamemakers. District by district, first the boy, then the girl tribute. As usual, District 12 is slated to go last. We linger in the dining room, unsure where else to go. No one comes back once they have left. As the room empties, the pressure to appear friendly lightens. By the time they call Rue, we are left alone. We sit in silence until they summon Peeta. He rises.\n\n“Remember what Haymitch said about being sure to throw the weights.” The words come out of my mouth without permission.\n\n“Thanks. I will,” he says. “You… shoot straight.”\n\nI nod. I don’t know why I said anything at all. Although if I’m going to lose, I’d rather Peeta win than the others. Better for our district, for my mother and Prim.\n\nAfter about fifteen minutes, they call my name. I smooth my hair, set my shoulders back, and walk into the gymnasium. Instantly, I know I’m in trouble. They’ve been here too long, the Gamemakers. Sat through twenty-three other demonstrations. Had too much to wine, most of them. Want more than anything to go home.\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["bite one's lip", "прикусить губу", "I bite my lip"],
+          ["make conversation", "поддерживать разговор", "Just making conversation"],
+          ["join someone", "присоединиться к кому-то", "She slips up and joins us"],
+          ["have good aim", "метко стрелять", "has good aim"],
+          ["be fed up", "быть сытым по горло", "I become fed up"],
+          ["escape to bed", "наконец уйти спать", "we finally escape to bed"],
+          ["catch oneself", "поймать себя на чём-то", "Then catch myself"],
+          ["be slated to", "быть назначенным на", "District 12 is slated to go last"],
+          ["rise", "встать", "He rises"],
+          ["walk into", "войти", "walk into the gymnasium"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["size somebody up", "оценивать кого-либо", "how the other tributes size up"],
+          ["be of one mind", "быть единодушными", "they seem to be of one mind"],
+          ["whip someone into shape", "привести кого-то в форму", "whip us into shape"],
+          ["surly", "угрюмый, раздражительный", "I become fed up and surly"],
+          ["mess with someone's mind", "сбивать с толку", "It's messing with my mind"],
+          ["keep straight", "разобраться, не путаться", "trying to keep straight"],
+          ["appear friendly", "казаться дружелюбным", "pressure to appear friendly"],
+          ["without permission", "непроизвольно", "come out of my mouth without permission"],
+          ["set one's shoulders back", "расправить плечи", "set my shoulders back"],
+          ["linger", "задерживаться", "We linger in the dining room"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["not tip the scale at", "не весить и", "Neither of them could tip the scale"],
+          ["soaking wet", "насквозь мокрый (для указания веса)", "seventy pounds soaking wet"],
+          ["slip up", "незаметно подойти", "She slips up and joins us"],
+          ["grill someone about", "подробно расспрашивать", "Haymitch and Effie grill us"],
+          ["add sanity to", "вносить здравый смысл", "add any sanity to the meals"],
+          ["somewhere between", "что-то среднее между", "somewhere between a snort and a laugh"],
+          ["where we stand", "каково наше положение", "I'll know where we stand"],
+          ["lighten", "ослабевать", "pressure to appear friendly lightens"],
+          ["smooth one's hair", "пригладить волосы", "I smooth my hair"],
+          ["want nothing more than", "больше всего хотеть", "Want more than anything to go home"],
+          ["sit through", "высидеть, пережить", "Sat through twenty-three demonstrations"],
+          ["in trouble", "в неприятностях", "Instantly, I know I'm in trouble"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Rue remind Katniss of Prim?",
+        "options": [
+          "She has blonde hair",
+          "She is small, light, and young like Prim",
+          "She comes from District 12",
+          "She is a hunter"
+        ],
+        "answer": 1,
+        "explanation": "Katniss compares Rue and Prim because both are tiny, young, and vulnerable."
+      },
+      {
+        "type": "choice",
+        "question": "What skill does Rue demonstrate particularly well?",
+        "options": [
+          "Sword fighting",
+          "Archery",
+          "Slingshot shooting",
+          "Wrestling"
+        ],
+        "answer": 2,
+        "explanation": "Rue can hit the target every time with her slingshot."
+      },
+      {
+        "type": "choice",
+        "question": "How do Haymitch and Effie behave during meals on the second day?",
+        "options": [
+          "They ignore the tributes",
+          "They argue constantly",
+          "They question and instruct Katniss and Peeta relentlessly",
+          "They discuss fashion"
+        ],
+        "answer": 2,
+        "explanation": "They keep grilling the tributes and giving endless advice."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss tell Peeta not to pretend when no one is around?",
+        "options": [
+          "She is angry with Haymitch",
+          "She finds the act of friendship emotionally exhausting",
+          "She wants to train alone",
+          "She suspects Peeta of cheating"
+        ],
+        "answer": 1,
+        "explanation": "Katniss feels confused and emotionally drained by constantly pretending to be friends."
+      },
+      {
+        "type": "choice",
+        "question": "What advice does Katniss give Peeta before his private session?",
+        "options": [
+          "Use camouflage",
+          "Throw the weights",
+          "Avoid the Careers",
+          "Use a spear"
+        ],
+        "answer": 1,
+        "explanation": "She reminds him of Haymitch's advice to hide his true strength."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss immediately think she is in trouble when entering her private session?",
+        "options": [
+          "She forgot her bow",
+          "The Careers are watching",
+          "The Gamemakers seem bored, tired, and distracted",
+          "She arrives late"
+        ],
+        "answer": 2,
+        "explanation": "The Gamemakers have already watched twenty-three demonstrations and seem more interested in leaving than paying attention."
+      }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 6",
+    "title": "Chapter 7 Page 6",
+    "level": "B2/C1/C2",
+    "text": "So the next three days pass with Peeta and I going quietly from station to station. We do pick up some valuable skills, from starting fires, to knife throwing, to making shelter. Despite Haymitch’s order to appear mediocre, Peeta excels in hand-to-hand combat, and I sweep the edible plants test without blinking an eye. We steer clear of archery and weightlifting though, wanting to save those for our private sessions.\n\nThe Gamemakers appeared early on the first day. Twenty or so men and women dressed in deep purple robes. They sit in the elevated stands that surround the gymnasium, sometimes wandering about to watch us, jotting down notes, other times eating at the endless banquet that has been set for them, ignoring the lot of us. But they do seem to be keeping their eye on the District 12 tributes. Several times I’ve looked up to find one fixated on me. They consult with the trainers during our meals as well. We see them all gathered together when we come back.\n\nBreakfast and dinner are served on our floor, but at lunch the twenty-four of us eat in a dining room off the gymnasium. Food is arranged on carts around the room and you serve yourself. The Career Tributes tend to gather rowdily around one table, as if to prove their superiority, that they have no fear of one another and consider the rest of us beneath notice. Most of the other tributes sit alone, like lost sheep. No one says a word to us. Peeta and I eat together, and since Haymitch keeps dogging us about it, try to keep up a friendly conversation during the meals.\n\nIt’s not easy to find a topic. Talking of home is painful. Talking of the present unbearable. One day, Peeta empties our breadbasket and points out how they have been careful to include types from the districts along with the refined bread of the Capitol. The fish-shaped loaf tinted green with seaweed from District 4. The crescent moon roll dotted with seeds from District 11. Somehow, although it’s made from the same stuff, it looks a lot more appetizing than the ugly drop biscuits that are the standard fare at home.\n\n“And there you have it,” says Peeta, scooping the breads back in the basket.\n\n“You certainly know a lot,” I say.\n\n“Only about bread,” he says. “Okay, now laugh as if I’ve said something funny.”\n\nWe both give a somewhat convincing laugh and ignore the stares from around the room.\n\n“All right, I’ll keep smiling pleasantly and you talk,” says Peeta. It’s wearing us both out, Haymitch’s direction to be friendly. Because ever since I slammed my door, there’s been a chill in the air between us. But we have our orders.\n\n“Did I ever tell you about the time I was chased by a bear?” I ask.\n\n“No, but it sounds fascinating,” says Peeta.\n\nI try and animate my face as I recall the event, a true story, in which I’d foolishly challenged a black bear over the rights to a beehive. Peeta laughs and asks questions right on cue. He’s much better at this than I am.\n\nOn the second day, while we’re taking a shot at spear throwing, he whispers to me. “I think we have a shadow.”\n\nI throw my spear, which I’m not too bad at actually, if I don’t have to throw too far, and see the little girl from District 11 standing back a bit, watching us. She’s the twelve-year-old, the one who reminded me so of Prim in stature. Up close she looks about ten. She has bright, dark, eyes and satiny brown skin and stands tilted up on her toes with her arms slightly extended to her sides, as if ready to take wing at the slightest sound. It’s impossible not to think of a bird.\n\nI pick up another spear while Peeta throws. “I think her name’s Rue,” he says softly.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["pick up a skill", "освоить навык", "pick up some valuable skills"],
+          ["start a fire", "развести огонь", "starting fires"],
+          ["make a shelter", "строить укрытие", "making shelter"],
+          ["keep one's eye on", "следить за", "keeping their eye on"],
+          ["serve oneself", "обслуживать себя самому", "you serve yourself"],
+          ["sit alone", "сидеть одному", "Most of the other tributes sit alone"],
+          ["point out", "указывать на", "points out how they have included"],
+          ["keep smiling", "продолжать улыбаться", "I'll keep smiling pleasantly"],
+          ["be chased by", "быть преследуемым", "I was chased by a bear"],
+          ["take a shot at", "попробовать сделать что-то", "taking a shot at spear throwing"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["steer clear of", "держаться подальше от", "We steer clear of archery"],
+          ["without blinking an eye", "не моргнув глазом", "without blinking an eye"],
+          ["fixate on", "пристально наблюдать за", "find one fixated on me"],
+          ["jot down notes", "делать заметки", "jotting down notes"],
+          ["gather rowdily", "собираться шумной компанией", "gather rowdily around one table"],
+          ["beneath notice", "не заслуживающий внимания", "consider the rest of us beneath notice"],
+          ["keep up a conversation", "поддерживать разговор", "keep up a friendly conversation"],
+          ["standard fare", "обычная еда", "the standard fare at home"],
+          ["on cue", "точно по сигналу", "asks questions right on cue"],
+          ["a chill in the air", "напряжённость в отношениях", "there's been a chill in the air"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["appear mediocre", "казаться посредственным", "order to appear mediocre"],
+          ["wander about", "бродить вокруг", "sometimes wandering about"],
+          ["endless banquet", "бесконечное пиршество", "the endless banquet"],
+          ["lost sheep", "потерянные овечки", "sit alone, like lost sheep"],
+          ["refined bread", "изысканный хлеб", "the refined bread of the Capitol"],
+          ["look more appetizing", "выглядеть аппетитнее", "looks a lot more appetizing"],
+          ["wear someone out", "изматывать кого-то", "It's wearing us both out"],
+          ["foolishly challenge", "безрассудно бросить вызов", "I'd foolishly challenged a black bear"],
+          ["a shadow", "хвост, наблюдатель", "I think we have a shadow"],
+          ["take wing", "вспорхнуть, улететь", "ready to take wing"],
+          ["at the slightest sound", "от малейшего звука", "at the slightest sound"],
+          ["satiny skin", "атласная кожа", "satiny brown skin"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why do Katniss and Peeta avoid archery and weightlifting during training?",
+        "options": [
+          "They dislike those activities",
+          "They are forbidden",
+          "They want to save their best skills for the private sessions",
+          "The equipment is broken"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch told them not to reveal their strongest abilities until the private evaluation."
+      },
+      {
+        "type": "choice",
+        "question": "How do the Career Tributes behave during lunch?",
+        "options": [
+          "They sit quietly alone",
+          "They gather together and act superior",
+          "They train instead of eating",
+          "They talk to everyone"
+        ],
+        "answer": 1,
+        "explanation": "The Careers sit together loudly and act as though the other tributes are beneath them."
+      },
+      {
+        "type": "choice",
+        "question": "What subject helps Katniss and Peeta keep a conversation going?",
+        "options": [
+          "Politics",
+          "The Capitol",
+          "Bread from different districts",
+          "The Hunger Games winners"
+        ],
+        "answer": 2,
+        "explanation": "Peeta discusses the different types of bread served from various districts."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Peeta ask Katniss to laugh?",
+        "options": [
+          "He tells a joke",
+          "He wants to impress the Careers",
+          "They are pretending to be friendly for observers",
+          "Haymitch is watching them"
+        ],
+        "answer": 2,
+        "explanation": "They are following Haymitch's instructions to appear friendly and united."
+      },
+      {
+        "type": "choice",
+        "question": "Who is secretly watching Katniss and Peeta during training?",
+        "options": [
+          "Clove",
+          "Foxface",
+          "Rue",
+          "Effie"
+        ],
+        "answer": 2,
+        "explanation": "Peeta notices that the young tribute from District 11 is watching them."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Rue remind Katniss of a bird?",
+        "options": [
+          "She sings beautifully",
+          "She wears feathers",
+          "She stands lightly on her toes as if ready to fly",
+          "She trains with birds"
+        ],
+        "answer": 2,
+        "explanation": "Rue's posture and quick, alert movements make Katniss think of a bird ready to take wing."
+      }
+    ]
+}

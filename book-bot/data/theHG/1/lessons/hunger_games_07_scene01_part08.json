@@ -1,0 +1,128 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 8",
+    "title": "Chapter 7 Page 8",
+    "level": "B2/C1/C2",
+    "text": "There’s nothing I can do but continue with the plan. I walk to the archery station. Oh, the weapons! I’ve been itching to get my hands on them for days! Bows made of wood and plastic and metal and materials I can’t even name. Arrows with feathers cut in flawless uniform lines. I choose a bow, string it, and sling the matching quiver of arrows over my shoulder. There’s a shooting range, but it’s much too limited. Standard bull’s-eyes and human silhouettes. I walk to the center of the gymnasium and pick my first target. The dummy used for knife practice. Even as I pull back on the bow I know something is wrong. The string’s tighter than the one I use at home. The arrow’s more rigid. I miss the dummy by a couple of inches and lose what little attention I had been commanding. For a moment, I’m humiliated, then I head back to the bull’s-eye. I shoot again and again until I get the feel of these new weapons.\n\nBack in the center of the gymnasium, I take my initial position and skewer the dummy right through the heart. Then I sever the rope that holds the sandbag for boxing, and the bag splits open as it slams to the ground. Without pausing, I shoulder-roll forward, come up on one knee, and send an arrow into one of the hanging lights high above the gymnasium floor. A shower of sparks bursts from the fixture.\n\nIt’s excellent shooting. I turn to the Gamemakers. A few are nodding approval, but the majority of them are fixated on a roast pig that has just arrived at their banquet table.\n\nSuddenly I am furious, that with my life on the line, they don’t even have the decency to pay attention to me. That I’m being upstaged by a dead pig. My heart starts to pound, I can feel my face burning. Without thinking, I pull an arrow from my quiver and send it straight at the Gamemakers’ table. I hear shouts of alarm as people stumble back. The arrow skewers the apple in the pig’s mouth and pins it to the wall behind it. Everyone stares at me in disbelief.\n\n“Thank you for your consideration,” I say. Then I give a slight bow and walk straight toward the exit without being dismissed.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["get one's hands on", "добраться до, заполучить", "I've been itching to get my hands on them"],
+          ["bull's-eye", "яблочко мишени", "Standard bull's-eyes"],
+          ["shoot again and again", "стрелять снова и снова", "I shoot again and again"],
+          ["get the feel of", "привыкнуть к чему-либо", "get the feel of these new weapons"],
+          ["right through the heart", "прямо в сердце", "right through the heart"],
+          ["slam to the ground", "рухнуть на землю", "it slams to the ground"],
+          ["without pausing", "не останавливаясь", "Without pausing"],
+          ["come up on one knee", "подняться на одно колено", "come up on one knee"],
+          ["burst from", "вырваться из", "A shower of sparks bursts"],
+          ["walk straight toward", "направиться прямо к", "walk straight toward the exit"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["itch to do something", "страстно хотеть что-то сделать", "I've been itching to get my hands on them"],
+          ["command attention", "привлекать внимание", "attention I had been commanding"],
+          ["for a moment", "на мгновение", "For a moment, I'm humiliated"],
+          ["skewer", "пронзить насквозь", "skewer the dummy"],
+          ["sever the rope", "перерезать верёвку", "I sever the rope"],
+          ["shoulder-roll", "перекат через плечо", "I shoulder-roll forward"],
+          ["fixated on", "зацикленный на", "fixated on a roast pig"],
+          ["on the line", "под угрозой", "my life on the line"],
+          ["have the decency to", "иметь приличие сделать что-либо", "don't even have the decency"],
+          ["upstage", "затмить, оттянуть внимание", "I'm being upstaged by a dead pig"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["sling a quiver over one's shoulder", "закинуть колчан на плечо", "sling the matching quiver"],
+          ["lose what little attention", "потерять то немногое внимание", "lose what little attention"],
+          ["shower of sparks", "сноп искр", "A shower of sparks"],
+          ["nod approval", "одобрительно кивнуть", "A few are nodding approval"],
+          ["stumble back", "отшатнуться назад", "people stumble back"],
+          ["skewer the apple", "пронзить яблоко", "The arrow skewers the apple"],
+          ["pin to the wall", "пригвоздить к стене", "pins it to the wall"],
+          ["stare in disbelief", "смотреть с недоверием", "Everyone stares at me in disbelief"],
+          ["thank you for your consideration", "спасибо за внимание (иронично)", "Thank you for your consideration"],
+          ["without being dismissed", "не дожидаясь разрешения уйти", "without being dismissed"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss miss her first shot?",
+        "options": [
+          "She is nervous",
+          "The target moves",
+          "The bow and arrow are different from her own",
+          "The lighting is poor"
+        ],
+        "answer": 2,
+        "explanation": "The bowstring is tighter and the arrow is more rigid than what she normally uses."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss do after practicing with the new bow?",
+        "options": [
+          "Leaves the gym",
+          "Hits the dummy through the heart",
+          "Challenges another tribute",
+          "Breaks the bow"
+        ],
+        "answer": 1,
+        "explanation": "After adjusting to the weapon, she shoots the knife-practice dummy directly through the heart."
+      },
+      {
+        "type": "choice",
+        "question": "How do most of the Gamemakers react to Katniss's impressive shooting?",
+        "options": [
+          "They applaud loudly",
+          "They give her a standing ovation",
+          "They ignore her and focus on food",
+          "They ask her questions"
+        ],
+        "answer": 2,
+        "explanation": "Most of them are paying attention to a roast pig instead of her performance."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss become furious?",
+        "options": [
+          "She misses several shots",
+          "Another tribute mocks her",
+          "The Gamemakers are not paying attention",
+          "Her bow breaks"
+        ],
+        "answer": 2,
+        "explanation": "She is angry because her future depends on the evaluation and they are ignoring her."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss shoot at the Gamemakers' table?",
+        "options": [
+          "A wine glass",
+          "A roast pig",
+          "A chair",
+          "An apple in the pig's mouth"
+        ],
+        "answer": 3,
+        "explanation": "Her arrow pins the apple from the pig's mouth to the wall behind it."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss say before leaving the room?",
+        "options": [
+          "Watch me next time",
+          "I deserve a higher score",
+          "Thank you for your consideration",
+          "Good luck with your dinner"
+        ],
+        "answer": 2,
+        "explanation": "She sarcastically thanks the Gamemakers for their 'consideration' before leaving."
+      }
+    ]
+}

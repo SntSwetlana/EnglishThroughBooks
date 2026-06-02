@@ -1,0 +1,130 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 4",
+    "title": "Chapter 7 Page 4",
+    "level": "B2/C1/C2",
+    "text": "I bite my lip and stalk back to my room, making sure Peeta can hear the door slam. I sit on the bed, hating Haymitch, hating Peeta, hating myself for mentioning that day long ago in the rain.\n\nIt’s such a joke! Peeta and I going along pretending to be friends! Talking up each other’s strengths, insisting the other take credit for their abilities. Because, in fact, at some point, we’re going to have to knock it off and accept we’re bitter adversaries. Which I’d be prepared to do right now if it wasn’t for Haymitch’s stupid instruction that we stick together in training. It’s my own fault, I guess, for telling him he didn’t have to coach us separately. But that didn’t mean I wanted to do everything with Peeta. Who, by the way, clearly doesn’t want to be partnering up with me, either.\n\nI hear Peeta’s voice in my head. She has no idea. The effect she can have. Obviously meant to demean me. Right? but a tiny part of me wonders if this was a compliment. That he meant I was appealing in some way. It’s weird, how much he’s noticed me. Like the attention he’s paid to my hunting. And apparently, I have not been as oblivious to him as I imagined, either. The flour. The wrestling. I have kept track of the boy with the bread.\n\nIt’s almost ten. I clean my teeth and smooth back my hair again. Anger temporarily blocked out my nervousness about meeting the other tributes, but now I can feel my anxiety rising again. By the time I meet Effie and Peeta at the elevator, I catch myself biting my nails. I stop at once.\n\nThe actual training rooms are below ground level of our building. With these elevators, the ride is less than a minute. The doors open into an enormous gymnasium filled with various weapons and obstacle courses. Although it’s not yet ten, we’re the last ones to arrive. The other tributes are gathered in a tense circle. They each have a cloth square with their district number on it pinned to their shirts. While someone pins the number 12 on my back, I do a quick assessment. Peeta and I are the only two dressed alike.\n\nAs soon as we join the circle, the head trainer, a tall, athletic woman named Atala steps up and begins to explain the training schedule. Experts in each skill will remain at their stations. We will be free to travel from area to area as we choose, per our mentor’s instructions. Some of the stations teach survival skills, others fighting techniques. We are forbidden to engage in any combative exercise with another tribute. There are assistants on hand if we want to practice with a partner.\n\nWhen Atala begins to read down the list of the skill stations, my eyes can’t help flitting around to the other tributes. It’s the first time we’ve been assembled, on level ground, in simple clothes. My heart sinks. Almost all of the boys and at least half of the girls are bigger than I am, even though many of the tributes have never been fed properly. You can see it in their bones, their skin, the hollow look in their eyes. I may be smaller naturally, but overall my family’s resourcefulness has given me an edge in that area. I stand straight, and while I’m thin, I’m strong. The meat and plants from the woods combined with the exertion it took to get them have given me a healthier body than most of those I see around me.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["bite one's lip", "прикусить губу", "I bite my lip"],
+          ["slam the door", "хлопнуть дверью", "hear the door slam"],
+          ["go along with", "соглашаться, подыгрывать", "going along pretending to be friends"],
+          ["stick together", "держаться вместе", "we stick together in training"],
+          ["keep track of", "следить за", "I have kept track of the boy"],
+          ["meet someone at", "встретиться с кем-то у", "meet Effie and Peeta at the elevator"],
+          ["catch oneself doing something", "поймать себя на том, что", "I catch myself biting my nails"],
+          ["assessment", "оценка", "I do a quick assessment"],
+          ["stand straight", "стоять прямо", "I stand straight"],
+          ["edge", "преимущество", "given me an edge"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["bitter adversaries", "заклятые противники", "we're bitter adversaries"],
+          ["partner up with", "объединиться с кем-то", "partnering up with me"],
+          ["demean", "унижать", "meant to demean me"],
+          ["appealing", "привлекательный", "I was appealing in some way"],
+          ["oblivious to", "не замечающий", "I have not been as oblivious"],
+          ["anxiety rising", "нарастающая тревога", "I can feel my anxiety rising"],
+          ["tension", "напряжение", "a tense circle"],
+          ["forbidden to", "запрещено", "We are forbidden to engage"],
+          ["combat exercise", "боевое упражнение", "combative exercise"],
+          ["resourcefulness", "находчивость", "my family's resourcefulness"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["talk up someone's strengths", "расхваливать чьи-то сильные стороны", "Talking up each other's strengths"],
+          ["accept the reality", "принять реальность", "accept we're bitter adversaries"],
+          ["rub someone the wrong way", "задевать, раздражать", "meant to demean me"],
+          ["pay attention to", "обращать внимание на", "the attention he's paid"],
+          ["block out nervousness", "заглушить нервозность", "Anger temporarily blocked out my nervousness"],
+          ["flit around", "быстро перебегать взглядом", "my eyes can't help flitting around"],
+          ["hollow look", "пустой, изможденный взгляд", "the hollow look in their eyes"],
+          ["combined with", "в сочетании с", "combined with the exertion"],
+          ["exertion", "физическое напряжение", "the exertion it took"],
+          ["give someone an edge", "дать преимущество", "has given me an edge"],
+          ["level ground", "на равных условиях", "assembled on level ground"],
+          ["overall", "в целом", "overall my family's resourcefulness"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why is Katniss angry when she returns to her room?",
+        "options": [
+          "She lost her training schedule",
+          "She dislikes having to pretend to be friends with Peeta",
+          "Haymitch punished her",
+          "Effie embarrassed her"
+        ],
+        "answer": 1,
+        "explanation": "Katniss hates the idea of pretending to be friendly with someone she may later have to kill."
+      },
+      {
+        "type": "choice",
+        "question": "What thought briefly makes Katniss question Peeta's intentions?",
+        "options": [
+          "He ignored her",
+          "He insulted her hunting skills",
+          "His comments might actually have been compliments",
+          "He lied to Haymitch"
+        ],
+        "answer": 2,
+        "explanation": "A small part of Katniss wonders whether Peeta's remarks were genuine compliments."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss become nervous again before training?",
+        "options": [
+          "She is worried about Effie",
+          "She must face the other tributes for the first time",
+          "She fears the Capitol citizens",
+          "She forgot Haymitch's instructions"
+        ],
+        "answer": 1,
+        "explanation": "Meeting the other tributes face-to-face makes her anxiety return."
+      },
+      {
+        "type": "choice",
+        "question": "What are tributes forbidden to do during training?",
+        "options": [
+          "Use weapons",
+          "Talk to each other",
+          "Practice survival skills",
+          "Fight directly with another tribute"
+        ],
+        "answer": 3,
+        "explanation": "Atala explains that tributes may not engage in combative exercises with one another."
+      },
+      {
+        "type": "choice",
+        "question": "What observation depresses Katniss when she studies the other tributes?",
+        "options": [
+          "They seem smarter than her",
+          "Most of them are physically larger than she is",
+          "They all have sponsors",
+          "They know each other already"
+        ],
+        "answer": 1,
+        "explanation": "She notices that nearly all the boys and many of the girls are bigger than her."
+      },
+      {
+        "type": "choice",
+        "question": "What advantage does Katniss believe she has over many tributes?",
+        "options": [
+          "Better education",
+          "More money",
+          "A healthier and stronger body from hunting and gathering",
+          "Special training from Haymitch"
+        ],
+        "answer": 2,
+        "explanation": "Years of hunting, gathering food, and physical work have made her stronger and healthier than many competitors."
+      }
+    ]
+}

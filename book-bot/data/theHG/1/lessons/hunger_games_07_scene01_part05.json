@@ -1,0 +1,130 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 5",
+    "title": "Chapter 7 Page 5",
+    "level": "B2/C1/C2",
+    "text": "The exceptions are the kids from the wealthier districts, the volunteers, the ones who have been fed and trained throughout their lives for this moment. The tributes from 1, 2, and 4 traditionally have this look about them. It’s technically against the rules to train tributes before they reach the Capitol but it happens every year. In District 12, we call them the Career Tributes, or just the Careers. And like as not, the winner will be one of them.\n\nThe slight advantage I held coming into the Training Center, my fiery entrance last night, seems to vanish in the presence of my competition. The other tributes were jealous of us, but not because we were amazing, because our stylists were. Now I see nothing but contempt in the glances of the Career Tributes. Each must have fifty to a hundred pounds on me. They project arrogance and brutality. When Atala releases us, they head straight for the deadliest-looking weapons in the gym and handle them with ease.\n\nI’m thinking that it’s lucky I’m a fast runner when Peeta nudges my arm and I jump. He is still beside me, per Haymitch’s instructions. His expression is sober. “Where would you like to start?”\n\nI look around at the Career Tributes who are showing off, clearly trying to intimidate the field. Then at the others, the underfed, the incompetent, shakily having their first lessons with a knife or an ax.\n\n“Suppose we tie some knots,” I say.\n\n“Right you are,” says Peeta. We cross to an empty station where the trainer seems pleased to have students. You get the feeling that the knot-tying class is not the Hunger games hot spot. When he realizes I know something about snares, he shows us a simple, excellent trap that will leave a human competitor dangling by a leg from a tree. We concentrate on this one skill for an hour until both of us have mastered it. Then we move on to camouflage. Peeta genuinely seems to enjoy this station, swirling a combination of mud and clay and berry juices around on his pale skin, weaving disguises from vines and leaves. The trainer who runs the camouflage station is full of enthusiasm at his work.\n\n“I do the cakes,” he admits to me.\n\n“The cakes?” I ask. I’ve been preoccupied with watching the boy from District 2 send a spear through a dummy’s heart from fifteen yards. “What cakes?”\n\n“At home. The iced ones, for the bakery,” he says.\n\nHe means the ones they display in the windows. Fancy cakes with flowers and pretty things painted in frosting. They’re for birthdays and New Year’s Day. When we’re in the square, Prim always drags me over to admire them, although we’d never be able to afford one. There’s little enough beauty in District 12, though, so I can hardly deny her this.\n\nI look more critically at the design on Peeta’s arm. The alternating pattern of light and dark suggests sunlight falling through the leaves in the woods. I wonder how he knows this, since I doubt he’s ever been beyond the fence. Has he been able to pick this up from just that scraggly old apple tree in his backyard? Somehow the whole thing — his skill, those inaccessible cakes, the praise of the camouflage expert — annoys me.\n\n“It’s lovely. If only you could frost someone to death,” I say.\n\n“Don’t be so superior. You can never tell what you’ll find in the arena. Say it’s actually a gigantic cake —” begins Peeta.\n\n“Say we move on,” I break in.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["train throughout one's life", "тренироваться всю жизнь", "trained throughout their lives"],
+          ["show off", "хвастаться, выпендриваться", "showing off"],
+          ["tie a knot", "завязать узел", "tie some knots"],
+          ["move on", "перейти дальше", "Say we move on"],
+          ["master a skill", "овладеть навыком", "both of us have mastered it"],
+          ["cross to", "подойти к", "We cross to an empty station"],
+          ["pick up", "подхватить, узнать", "pick this up"],
+          ["drag someone over", "тащить кого-то", "Prim always drags me over"],
+          ["afford", "позволить себе", "we'd never be able to afford one"],
+          ["look around", "осматриваться", "I look around"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["hold contempt for", "презирать", "nothing but contempt"],
+          ["project arrogance", "излучать высокомерие", "They project arrogance"],
+          ["intimidate", "запугивать", "trying to intimidate the field"],
+          ["underfed", "недокормленный", "the underfed"],
+          ["incompetent", "некомпетентный", "the incompetent"],
+          ["dangle by a leg", "висеть за ногу", "dangling by a leg"],
+          ["camouflage", "маскировка", "move on to camouflage"],
+          ["weave a disguise", "плести маскировку", "weaving disguises"],
+          ["be preoccupied with", "быть поглощённым", "I've been preoccupied with"],
+          ["inaccessible", "недоступный", "those inaccessible cakes"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["Career Tribute", "карьерный трибут", "the Career Tributes"],
+          ["traditionally have this look about them", "традиционно выглядеть определённым образом", "traditionally have this look about them"],
+          ["as likely as not", "скорее всего", "like as not"],
+          ["vanish in the presence of", "меркнуть на фоне", "seems to vanish in the presence"],
+          ["handle with ease", "обращаться с лёгкостью", "handle them with ease"],
+          ["Hunger Games hot spot", "самое популярное место на тренировке", "the Hunger Games hot spot"],
+          ["swirl around", "размазывать круговыми движениями", "swirling a combination"],
+          ["alternating pattern", "чередующийся узор", "The alternating pattern"],
+          ["suggest sunlight filtering through", "напоминать солнечный свет сквозь листья", "suggests sunlight falling through the leaves"],
+          ["scraggly old tree", "чахлое старое дерево", "that scraggly old apple tree"],
+          ["frost someone to death", "убить кого-то глазурью (шутл.)", "If only you could frost someone to death"],
+          ["hold a slight advantage", "иметь небольшое преимущество", "The slight advantage I held"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Who are the Career Tributes?",
+        "options": [
+          "Former winners",
+          "Tributes from poor districts",
+          "Well-fed and trained volunteers from wealthy districts",
+          "Gamemakers' assistants"
+        ],
+        "answer": 2,
+        "explanation": "Career Tributes usually come from Districts 1, 2, and 4 and have trained for the Games all their lives."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss feel less confident after seeing the other tributes?",
+        "options": [
+          "She has no training",
+          "The Career Tributes are larger, stronger, and intimidating",
+          "Peeta criticizes her",
+          "She misses home"
+        ],
+        "answer": 1,
+        "explanation": "The Careers appear powerful, skilled, and physically imposing."
+      },
+      {
+        "type": "choice",
+        "question": "What skill do Katniss and Peeta practice first?",
+        "options": [
+          "Archery",
+          "Spear throwing",
+          "Camouflage",
+          "Knot-tying and snares"
+        ],
+        "answer": 3,
+        "explanation": "They spend an hour learning knots and a trap that can leave someone hanging from a tree."
+      },
+      {
+        "type": "choice",
+        "question": "Which training station does Peeta particularly enjoy?",
+        "options": [
+          "Sword fighting",
+          "Camouflage",
+          "Weight lifting",
+          "Fire making"
+        ],
+        "answer": 1,
+        "explanation": "Peeta shows talent and enthusiasm for camouflage and creating disguises."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss annoyed by Peeta's camouflage skill?",
+        "options": [
+          "He refuses to teach her",
+          "It reminds her of Capitol luxury and his different upbringing",
+          "He mocks her hunting",
+          "The trainer prefers him"
+        ],
+        "answer": 1,
+        "explanation": "His artistic talent, bakery background, and praise from the trainer irritate Katniss."
+      },
+      {
+        "type": "choice",
+        "question": "What joke does Peeta make at the end of the scene?",
+        "options": [
+          "The arena might be a giant bakery",
+          "The arena might actually be a gigantic cake",
+          "The Careers are made of icing",
+          "Katniss should become a baker"
+        ],
+        "answer": 1,
+        "explanation": "Peeta jokingly suggests that camouflage might be useful if the arena turned out to be a giant cake."
+      }
+    ]
+}

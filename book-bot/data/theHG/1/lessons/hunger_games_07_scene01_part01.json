@@ -1,0 +1,135 @@
+{
+    "chapter": "The Hunger Games — Chapter 7",
+    "part": "Page 1",
+    "title": "Chapter 7 Page 1",
+    "level": "B2/C1/C2",
+    "text": "My slumbers are filled with disturbing dreams. The face of the redheaded girl intertwines with gory images from earlier Hunger Games, with my mother withdrawn and unreachable, with Prim emaciated and terrified. I bolt up screaming for my father to run as the mine explodes into a million deadly bits of light.\n\nDawn is breaking through the windows. The Capitol has a misty, haunted air. My head aches and I must have bitten into the side of my cheek in the night. My tongue probes the ragged flesh and I taste blood.\n\nSlowly, I drag myself out of bed and into the shower. I arbitrarily punch buttons on the control board and end up hopping from foot to foot as alternating jets of icy cold and steaming hot water assault me. Then I’m deluged in lemony foam that I have to scrape off with a heavy bristled brush. Oh, well. At least my blood is flowing.\n\nWhen I’m dried and moisturized with lotion, I find an outfit has been left for me at the front of the closet. Tight black pants, a long-sleeved burgundy tunic, and leather shoes. I put my hair in the single braid down my back. This is the first time since the morning of the reaping that I resemble myself. No fancy hair and clothes, no flaming capes. Just me. Looking like I could be headed for the woods. It calms me.\n\nHaymitch didn’t give us an exact time to meet for breakfast and no one has contacted me this morning, but I’m hungry so I head down to the dining room, hoping there will be food. I’m not disappointed. While the table is empty, a long board off to the side has been laid with at least twenty dishes. A young man, an Avox, stands at attention by the spread. When I ask if I can serve myself, he nods assent. I load a plate with eggs, sausages, batter cakes covered in thick orange preserves, slices of pale purple melon. As I gorge myself, I watch the sun rise over the Capitol. I have a second plate of hot grain smothered in beef stew. Finally, I fill a plate with rolls and sit at the table, breaking oil bits and dipping them into hot chocolate, the way Peeta did on the train.\n\nMy mind wanders to my mother and Prim. They must be up. My mother getting their breakfast of mush. Prim milking her goat before school. Just two mornings ago, I was home. Can that be right? Yes, just two. And now how empty the house feels, even from a distance. What did they say last night about my fiery debut at the Games? Did it give them hope, or simply add to their terror when they saw the reality of twenty-four tributes circled together, knowing only one could live?\n\nHaymitch and Peeta come in, bid me good morning, fill their plates. It makes me irritated that Peeta is wearing exactly the same outfit I am. I need to say something to Cinna. This twins act is going to blow up in out faces once the Games begin. Surely, they must know this. Then I remember Haymitch telling me to do exactly what the stylists tell me to do. If it was anyone but Cinna, I might be tempted to ignore him. But after last night’s triumph, I don’t have a lot of room to criticize his choices.\n\nI’m nervous about the training. There will be three days in which all the tributes practice together. On the last afternoon, we’ll each get a chance to perform in private before the Gamemakers. The thought of meeting the other tributes face-to-face makes me queasy. I turn the roll I have just taken from the basket over and over in my hands, but my appetite is gone.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["bolt up", "резко вскочить", "I bolt up screaming"],
+          ["drag oneself out of bed", "заставить себя встать с постели", "drag myself out of bed"],
+          ["hop from foot to foot", "переминаться с ноги на ногу", "hopping from foot to foot"],
+          ["put one's hair in a braid", "заплести волосы в косу", "put my hair in the single braid"],
+          ["head down to", "направиться в", "head down to the dining room"],
+          ["stand at attention", "стоять по стойке смирно", "stands at attention"],
+          ["serve oneself", "накладывать себе еду самому", "serve myself"],
+          ["load a plate with", "наполить тарелку", "load a plate with eggs"],
+          ["gorge oneself", "наедаться до отвала", "As I gorge myself"],
+          ["fill a plate with", "наполнить тарелку", "fill a plate with rolls"],
+          ["bid someone good morning", "пожелать доброго утра", "bid me good morning"],
+          ["turn something over in one's hands", "вертеть что-либо в руках", "turn the roll over and over"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["disturbing dream", "тревожный сон", "filled with disturbing dreams"],
+          ["withdrawn and unreachable", "замкнутый и недоступный", "withdrawn and unreachable"],
+          ["emaciated and terrified", "истощённый и напуганный", "emaciated and terrified"],
+          ["dawn is breaking", "рассветает", "Dawn is breaking"],
+          ["ragged flesh", "разодранная плоть", "ragged flesh"],
+          ["alternating jets", "чередующиеся струи", "alternating jets"],
+          ["assault someone", "обрушиваться на кого-либо", "water assault me"],
+          ["deluge someone in", "облить чем-либо", "I'm deluged in lemony foam"],
+          ["resemble oneself", "быть похожим на самого себя", "I resemble myself"],
+          ["wander to", "переноситься мыслями к", "My mind wanders to"],
+          ["fiery debut", "огненный дебют", "my fiery debut"],
+          ["face-to-face", "лицом к лицу", "face-to-face"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["intertwine with", "переплетаться с", "intertwines with gory images"],
+          ["gory image", "кровавая картина", "gory images"],
+          ["probe", "нащупывать, исследовать", "My tongue probes"],
+          ["arbitrarily", "наугад", "I arbitrarily punch buttons"],
+          ["scrape off", "соскребать", "scrape off with a brush"],
+          ["blood is flowing", "кровь разогналась", "my blood is flowing"],
+          ["looking like I could be headed for the woods", "выглядеть так, будто собираешься в лес", "headed for the woods"],
+          ["not disappointed", "не быть разочарованным", "I'm not disappointed"],
+          ["smothered in", "щедро покрытый", "smothered in beef stew"],
+          ["from a distance", "издалека", "even from a distance"],
+          ["blow up in our faces", "обернуться против нас", "blow up in our faces"],
+          ["have room to criticize", "иметь основания для критики", "don't have a lot of room to criticize"],
+          ["make someone queasy", "вызывать тошноту", "makes me queasy"],
+          ["appetite is gone", "аппетит пропал", "my appetite is gone"]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "type": "choice",
+        "question": "What wakes Katniss from her nightmare?",
+        "options": [
+          "An alarm",
+          "A loud explosion outside",
+          "A dream about her father dying in the mine explosion",
+          "Effie knocking on the door"
+        ],
+        "answer": 2,
+        "explanation": "She wakes screaming for her father to run as the mine explodes in her dream."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss feel calmer after getting dressed?",
+        "options": [
+          "The clothes are expensive",
+          "The outfit makes her look more like herself and reminds her of hunting",
+          "Cinna compliments her",
+          "She no longer has to train"
+        ],
+        "answer": 1,
+        "explanation": "The simple clothes make her feel like the Katniss who belongs in the woods."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss think about while eating breakfast?",
+        "options": [
+          "The Capitol fashions",
+          "Winning sponsors",
+          "Her mother and Prim back home",
+          "The Gamemakers"
+        ],
+        "answer": 2,
+        "explanation": "She imagines their morning routine and wonders how they reacted to her debut."
+      },
+      {
+        "type": "choice",
+        "question": "Why is Katniss irritated when Peeta arrives?",
+        "options": [
+          "He is late",
+          "He copies her breakfast",
+          "He is wearing the same outfit",
+          "He ignores her"
+        ],
+        "answer": 2,
+        "explanation": "She dislikes the idea of them constantly being presented as a pair."
+      },
+      {
+        "type": "choice",
+        "question": "What worries Katniss most about the upcoming training sessions?",
+        "options": [
+          "The food",
+          "Meeting the other tributes face-to-face",
+          "Talking to Haymitch",
+          "Wearing uniforms"
+        ],
+        "answer": 1,
+        "explanation": "The reality of facing the other tributes makes her feel physically sick."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss decide not to question Cinna's decisions?",
+        "options": [
+          "Haymitch forbids it",
+          "She is afraid of him",
+          "His success at the opening ceremonies earned her trust",
+          "Effie insists on it"
+        ],
+        "answer": 2,
+        "explanation": "After the triumph of the fiery costumes, Katniss respects Cinna's judgment."
+      }
+    ]
+}
