@@ -1,0 +1,128 @@
+{
+    "chapter": "The Hunger Games — Chapter 8",
+    "part": "Page 1",
+    "title": "Chapter 8 Page 1",
+    "level": "B2/C1/C2",
+    "text": "As I stride toward the elevator, I fling my bow to one side and my quiver to the other. I brush past the gaping Avoxes who guard the elevators and hit the number twelve button with my fist. The doors slide together and I zip upward. I actually make it back to my floor before the tears start running down my cheeks. I can hear the others calling me from the sitting room, but I fly down the hall into my room, bolt the door, and fling myself onto my bed. Then I really begin to sob.\n\nNow I’ve done it! Now I’ve ruined everything! If I’d stood even a ghost of chance, it vanished when I sent that arrow flying at the Gamemakers. What will they do to me now? Arrest me? Execute me? Cut my tongue and turn me into an Avox so I can wait on the future tributes of Panem? What was I thinking, shooting at the Gamemakers? Of course, I wasn’t, I was shooting at that apple because I was so angry at being ignored. I wasn’t trying to kill one of them. If I were, they’d be dead!\n\nOh, what does it matter? It’s not like I was going to win the Games anyway. Who cares what they do to me? What really scares me is what they might do to my mother and Prim, how my family might suffer now because of my impulsiveness. Will they take their few belongings, or send my mother to prison and Prim to the community home, or kill them? They wouldn’t kill them, would they? Why not? What do they care?\n\nI should have stayed and apologized. Or laughed, like it was a big joke. Then maybe I would have found some leniency. But instead I stalked out of the place in the most disrespectful manner possible.\n\nHaymitch and Effie are knocking on my door. I shout for them to go away and eventually they do. It takes at least an hour for me to cry myself out. Then I just lay curled up on the bed, stroking the silken sheets, watching the sun set over the artificial candy Capitol.\n\nAt first, I expect guards to come for me. But as time passes, it seems less likely. I calm down. They still need a girl tribute from District 12, don’t they? If the Gamemakers want to punish me, they can do it publicly. Wait until I’m in the arena and see starving wild animals on me. You can bet they’ll make sure I don’t have a bow and arrow to defend myself.\n\nBefore that though, they’ll give me a score so low, no one in their right mind would sponsor me. That’s what will happen tonight. Since the training isn’t open to viewers, the Gamemakers announce a score for each player. It gives the audience a starting place for the betting that will continue throughout the Games. The number, which is between one and twelve, one being irredeemably bad and twelve being unattainably high, signifies the promise of the tribute. The mark is not a guarantee of which person will win. It’s only an indication of the potential a tribute showed in training. Often, because of the variables in the actual arena, high-scoring tributes go down almost immediately. And a few years ago, the boy who won the Games only received a three. Still, the scores can help or hurt an individual tribute in terms of sponsorship. I had been hoping my shooting skills might get me a six or a seven, even if I’m not particularly powerful. Now I’m sure I’ll have the lowest score of the twenty-four. If no one sponsors me, my odds of staying alive decrease to almost zero.",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["brush past", "пройти мимо, не обращая внимания", "I brush past the gaping Avoxes"],
+          ["burst into tears", "разрыдаться", "the tears start running down my cheeks"],
+          ["fly down the hall", "стремительно бежать по коридору", "I fly down the hall"],
+          ["fling oneself onto", "броситься на", "fling myself onto my bed"],
+          ["cry oneself out", "выплакаться", "cry myself out"],
+          ["go away", "уйти прочь", "I shout for them to go away"],
+          ["calm down", "успокоиться", "I calm down"],
+          ["stay alive", "остаться в живых", "my odds of staying alive"],
+          ["make sure", "убедиться", "they’ll make sure I don’t have a bow"],
+          ["odds", "шансы", "my odds of staying alive"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["stand a ghost of a chance", "иметь хоть малейший шанс", "If I’d stood even a ghost of chance"],
+          ["vanish", "исчезнуть", "it vanished when I sent that arrow"],
+          ["suffer from", "пострадать из-за", "my family might suffer now"],
+          ["impulsiveness", "импульсивность", "because of my impulsiveness"],
+          ["show leniency", "проявить снисхождение", "I would have found some leniency"],
+          ["stalk out", "демонстративно уйти", "I stalked out of the place"],
+          ["in the most disrespectful manner possible", "максимально неуважительно", "in the most disrespectful manner possible"],
+          ["curl up on the bed", "свернуться на кровати", "lay curled up on the bed"],
+          ["in their right mind", "в здравом уме", "no one in their right mind"],
+          ["decrease to almost zero", "снизиться почти до нуля", "decrease to almost zero"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["gaping Avoxes", "ошеломлённые авоксы", "the gaping Avoxes"],
+          ["irredeemably bad", "безнадёжно плохой", "one being irredeemably bad"],
+          ["unattainably high", "недостижимо высокий", "twelve being unattainably high"],
+          ["signify the promise of", "указывать на потенциал", "signifies the promise of the tribute"],
+          ["an indication of potential", "показатель потенциала", "an indication of the potential"],
+          ["go down immediately", "быстро выбыть", "high-scoring tributes go down almost immediately"],
+          ["variables in the arena", "переменные факторы арены", "because of the variables in the actual arena"],
+          ["help or hurt", "помогать или вредить", "scores can help or hurt"],
+          ["publicly punish", "наказать публично", "they can do it publicly"],
+          ["future tributes", "будущие трибуты", "wait on the future tributes of Panem"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss begin crying after returning to her floor?",
+        "options": [
+          "She misses Prim",
+          "She believes she has ruined everything by shooting the arrow",
+          "She lost her bow",
+          "She failed the training test"
+        ],
+        "answer": 1,
+        "explanation": "Katniss is convinced her impulsive action has destroyed her chances in the Games."
+      },
+      {
+        "type": "choice",
+        "question": "What punishment does Katniss fear for herself?",
+        "options": [
+          "Being sent home",
+          "Being forced to repeat training",
+          "Being turned into an Avox",
+          "Being expelled from the Games"
+        ],
+        "answer": 2,
+        "explanation": "She imagines having her tongue cut out and becoming an Avox."
+      },
+      {
+        "type": "choice",
+        "question": "What worries Katniss more than her own punishment?",
+        "options": [
+          "Losing sponsors",
+          "Her score",
+          "The reaction of Peeta",
+          "What might happen to her mother and Prim"
+        ],
+        "answer": 3,
+        "explanation": "Her greatest fear is that her family will suffer because of her actions."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss think she should have stayed after shooting the arrow?",
+        "options": [
+          "To continue training",
+          "To apologize or pretend it was a joke",
+          "To ask for a higher score",
+          "To explain her strategy"
+        ],
+        "answer": 1,
+        "explanation": "She believes an apology might have earned some leniency."
+      },
+      {
+        "type": "choice",
+        "question": "What do the training scores represent?",
+        "options": [
+          "The tribute’s popularity",
+          "The chance of winning",
+          "The tribute’s potential shown in training",
+          "The number of sponsors"
+        ],
+        "answer": 2,
+        "explanation": "The scores indicate how promising the tribute appears to the Gamemakers."
+      },
+      {
+        "type": "choice",
+        "question": "Why are training scores important?",
+        "options": [
+          "They determine arena placement",
+          "They affect sponsorship opportunities",
+          "They decide who enters the Games",
+          "They replace the interviews"
+        ],
+        "answer": 1,
+        "explanation": "Higher scores often attract sponsors who can send valuable aid during the Games."
+      }
+    ]
+}

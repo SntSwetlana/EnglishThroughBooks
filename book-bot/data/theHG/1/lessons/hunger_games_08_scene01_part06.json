@@ -1,0 +1,128 @@
+{
+    "chapter": "The Hunger Games — Chapter 8",
+    "part": "Page 6",
+    "title": "Chapter 8 Page 6",
+    "level": "B2/C1/C2",
+    "text": "I call him my friend, but in the last year it’s seemed too casual a word for what Gale is to me. A pang of longing shoots through my chest. If only he was with me now! But, of course, I don’t want that. I don’t want him in the arena where he’d be dead in a few days. I just… I just miss him. And I hate being so alone. Does he miss me? He must.\n\nI think of the eleven flashing under my name last night. I know exactly what he’d say to me. “Well, there’s some room for improvement there.” And then he’d give me a smile and I’d return it without hesitating now.\n\nI can’t help comparing what I have with Gale to what I’m pretending to have with Peeta. How I never question Gale’s motives while I do nothing but doubt the latter’s. It’s not a fair comparison really. Gale and I were thrown together by a mutual need to survive. Peeta and I know the other’s survival means our own death. How do you sidestep that?\n\nEffie’s knocking at the door, reminding me there’s another “big, big, big day!” ahead. Tomorrow night will be our televised interviews. I guess the whole team will have their hands full readying us for that.\n\nI get up and take a quick shower, being a bit more careful about the buttons I hit, and head down to the dining room. Peeta, Effie, and Haymitch are huddled around the table talking in hushed voices. That seems odd, but hunger wins out over curiosity and I load up my plate with breakfast before I join them.\n\nThe stew’s made with tender chunks of lamb and dried plums today. Perfect on the bed of wild rice. I’ve shoveled about halfway through the mound when I realize no one’s talking. I take a big gulp of orange juice and wipe my mouth. “So, what’s going on? You’re coaching us on interviews today, right?”\n\n“That’s right,” says Haymitch.\n\n“You don’t have to wait until I’m done. I can listen and eat at the same time,” I say.\n\n“Well, there’s been a change of plans. About our current approach,” says Haymitch.\n\n“What’s that?” I ask. I’m not sure what our current approach is. Trying to appear mediocre in front of the other tributes is the last bit of strategy I remember.\n\nHaymitch shrugs. “Peeta has asked to be coached separately.”",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["a pang of longing", "приступ тоски", "A pang of longing shoots through my chest"],
+          ["miss somebody", "скучать по кому-либо", "Does he miss me?"],
+          ["sidestep something", "обойти проблему", "How do you sidestep that?"],
+          ["huddle around", "собраться вокруг", "Peeta, Effie, and Haymitch are huddled around the table"],
+          ["in hushed voices", "приглушёнными голосами", "talking in hushed voices"],
+          ["load up a plate", "нагрузить тарелку едой", "I load up my plate with breakfast"],
+          ["shovel food down", "быстро есть", "I’ve shoveled about halfway through the mound"],
+          ["a change of plans", "изменение планов", "there’s been a change of plans"],
+          ["ahead", "впереди", "there’s another 'big, big, big day!' ahead"],
+          ["listen and eat at the same time", "слушать и есть одновременно", "I can listen and eat at the same time"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["be thrown together", "оказаться вместе по воле обстоятельств", "Gale and I were thrown together by a mutual need to survive"],
+          ["mutual need", "общая необходимость", "a mutual need to survive"],
+          ["question somebody’s motives", "сомневаться в чьих-либо мотивах", "I never question Gale’s motives"],
+          ["survival means somebody’s death", "чьё-то выживание означает смерть другого", "the other’s survival means our own death"],
+          ["have one’s hands full", "быть очень занятым", "the whole team will have their hands full"],
+          ["curiosity wins out", "любопытство берёт верх", "hunger wins out over curiosity"],
+          ["tender chunks of lamb", "нежные кусочки ягнёнка", "The stew’s made with tender chunks of lamb"],
+          ["wipe one’s mouth", "вытереть рот", "I wipe my mouth"],
+          ["current approach", "текущая стратегия", "About our current approach"],
+          ["appear mediocre", "казаться посредственным", "Trying to appear mediocre"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["too casual a word", "слишком слабое определение", "it’s seemed too casual a word"],
+          ["without hesitation", "без колебаний", "I’d return it without hesitating now"],
+          ["do nothing but", "только и делать что", "I do nothing but doubt"],
+          ["a fair comparison", "справедливое сравнение", "It’s not a fair comparison really"],
+          ["be dead in a few days", "быть обречённым погибнуть через несколько дней", "he’d be dead in a few days"],
+          ["another big day ahead", "ещё один важный день впереди", "another 'big, big, big day!' ahead"],
+          ["talk in hushed voices", "разговаривать вполголоса", "talking in hushed voices"],
+          ["a bed of wild rice", "подушка из дикого риса", "Perfect on the bed of wild rice"],
+          ["shrug", "пожать плечами", "Haymitch shrugs"],
+          ["be coached separately", "получать подготовку отдельно", "Peeta has asked to be coached separately"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss think Gale and Peeta are difficult to compare?",
+        "options": [
+          "Gale is older than Peeta",
+          "Gale is richer than Peeta",
+          "Her relationship with Gale is built on trust, while Peeta is also a competitor",
+          "She knows Gale better because they are relatives"
+        ],
+        "answer": 2,
+        "explanation": "Katniss trusts Gale completely, while Peeta’s survival in the Games would mean her own death."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss think Gale would say about her training score of eleven?",
+        "options": [
+          "It is perfect",
+          "There is still room for improvement",
+          "It is unfair",
+          "It means she will win"
+        ],
+        "answer": 1,
+        "explanation": "Katniss imagines Gale joking that there is still room for improvement despite the excellent score."
+      },
+      {
+        "type": "choice",
+        "question": "What meal is Katniss eating when she joins the others?",
+        "options": [
+          "Fish stew",
+          "Chicken soup",
+          "Lamb stew with dried plums and wild rice",
+          "Roast beef and potatoes"
+        ],
+        "answer": 2,
+        "explanation": "She enjoys a stew made with tender chunks of lamb and dried plums over wild rice."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss notice something unusual at breakfast?",
+        "options": [
+          "Haymitch is absent",
+          "Everyone is laughing loudly",
+          "Peeta, Haymitch, and Effie are talking secretly",
+          "There is no food"
+        ],
+        "answer": 2,
+        "explanation": "The three are huddled around the table speaking in hushed voices."
+      },
+      {
+        "type": "choice",
+        "question": "What does Haymitch reveal about the interview preparations?",
+        "options": [
+          "The interviews are cancelled",
+          "Katniss will go first",
+          "Effie will coach them",
+          "Peeta wants separate coaching"
+        ],
+        "answer": 3,
+        "explanation": "Haymitch informs Katniss that Peeta has requested to be coached separately."
+      },
+      {
+        "type": "choice",
+        "question": "How does Katniss react to hearing the news about Peeta?",
+        "options": [
+          "She is relieved",
+          "She is confused because she thought they were following the same strategy",
+          "She is happy for him",
+          "She already knew about it"
+        ],
+        "answer": 1,
+        "explanation": "Katniss is surprised because she thought they were still working together under Haymitch’s plan."
+      }
+    ]
+}

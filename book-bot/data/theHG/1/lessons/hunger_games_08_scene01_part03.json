@@ -1,0 +1,128 @@
+{
+    "chapter": "The Hunger Games — Chapter 8",
+    "part": "Page 3",
+    "title": "Chapter 8 Page 3",
+    "level": "B2/C1/C2",
+    "text": "“Well, they’ve already promised to do that to us any way,” says Peeta.\n\n“Very true,” says Haymitch. And I realize the impossible has happened. They have actually cheered me up. Haymitch picks up a pork chop with his fingers, which makes Effie frown, and dunks it in his wine. He rips off a hunk of meat and starts to chuckle. “What were their faces like?”\n\nI can feel the edges of my mouth tilting up. “Shocked. Terrified. Uh, ridiculous, some of them.” An image pops into my mind. “One man tripped backward into a bowl of punch.”\n\nHaymitch guffaws and we all start laughing except Effie, although even she is suppressing a smile. “Well, it serves them right. It’s their job to pay attention to you. And just because you come from District Twelve is no excuse to ignore you.” Then her eyes dart around as if she’s said something totally outrageous. “I’m sorry, but that’s what I think,” she says to no one in particular.\n\n“I’ll get a very bad score,” I say.\n\n“Scores only matter if they’re very good, no one pays much attention to the bad or mediocre ones. For all they know, you could be hiding your talents to get a low score on purpose. People use that strategy,” said Portia.\n\n“I hope that’s how people interpret the four I’ll probably get,” says Peeta. “If that. Really, is anything less impressive than watching a person pick up a heavy ball and throw it a couple of yards. One almost landed on my foot.”\n\nI grin at him and realize that I’m starving. I cut off a piece of pork, dunk it in mashed potatoes, and start eating. It’s okay. My family is safe. And if they are safe, no real harm has been done.\n\nAfter dinner, we go to sitting room to watch the scores announced on television. First they show a photo of the tribute, then flash their score below it. The Career Tributes naturally get in the eight-to-ten range. Most of the other players average a five. Surprisingly, little Rue comes up with a seven. I don’t know what she showed the judges, but she’s so tiny it must have been impressive.\n\nDistrict 12 comes up last, as usual. Peeta pulls an eight so at least a couple of the Gamemakers must have been watching him. I dig my fingernails into my palms as my face comes up, expecting the worst. Then they’re flashing the number eleven on the screen.\n\nEleven!",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["cheer somebody up", "подбодрить кого-либо", "They have actually cheered me up"],
+          ["start laughing", "начать смеяться", "we all start laughing"],
+          ["serve somebody right", "так ему и надо", "it serves them right"],
+          ["pay attention to", "обращать внимание на", "their job to pay attention to you"],
+          ["pick up", "поднять", "watching a person pick up a heavy ball"],
+          ["throw it", "бросить это", "and throw it a couple of yards"],
+          ["come up", "появиться", "little Rue comes up with a seven"],
+          ["dig one’s fingernails into", "впиться ногтями в", "I dig my fingernails into my palms"],
+          ["expect the worst", "ожидать худшего", "expecting the worst"],
+          ["flash on the screen", "появиться на экране", "flashing the number eleven on the screen"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["the impossible has happened", "случилось невозможное", "the impossible has happened"],
+          ["tilt up", "подняться вверх", "the edges of my mouth tilting up"],
+          ["pop into one’s mind", "всплыть в памяти", "An image pops into my mind"],
+          ["trip backward", "отшатнуться назад", "One man tripped backward"],
+          ["dart around", "быстро бегать глазами", "her eyes dart around"],
+          ["totally outrageous", "совершенно возмутительный", "something totally outrageous"],
+          ["hide one’s talents", "скрывать свои способности", "you could be hiding your talents"],
+          ["on purpose", "нарочно", "on purpose"],
+          ["interpret something as", "истолковывать что-либо как", "how people interpret the four"],
+          ["at least", "по крайней мере", "at least a couple of the Gamemakers"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["rip off a hunk of meat", "оторвать кусок мяса", "He rips off a hunk of meat"],
+          ["guffaw", "громко расхохотаться", "Haymitch guffaws"],
+          ["come from District Twelve", "быть из Дистрикта 12", "you come from District Twelve"],
+          ["mediocre score", "посредственная оценка", "the bad or mediocre ones"],
+          ["use a strategy", "использовать стратегию", "People use that strategy"],
+          ["almost landed on my foot", "чуть не упал мне на ногу", "One almost landed on my foot"],
+          ["no real harm has been done", "настоящего вреда не произошло", "no real harm has been done"],
+          ["naturally", "естественно", "The Career Tributes naturally get"],
+          ["must have been impressive", "должно быть, это было впечатляюще", "it must have been impressive"],
+          ["pull an eight", "получить восьмёрку", "Peeta pulls an eight"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Who helps Katniss feel better about her actions?",
+        "options": [
+          "Only Peeta",
+          "Haymitch, Peeta, and the others",
+          "Only Effie",
+          "Only Cinna"
+        ],
+        "answer": 1,
+        "explanation": "The group's reactions and humor help Katniss calm down."
+      },
+      {
+        "type": "choice",
+        "question": "What funny image makes everyone laugh?",
+        "options": [
+          "A Gamemaker dropping his bow",
+          "A Gamemaker tripping into a bowl of punch",
+          "Haymitch falling asleep",
+          "Peeta dropping a weight"
+        ],
+        "answer": 1,
+        "explanation": "Katniss remembers a Gamemaker falling backward into punch after her arrow shot."
+      },
+      {
+        "type": "choice",
+        "question": "What does Portia say about low scores?",
+        "options": [
+          "They guarantee death",
+          "People always remember them",
+          "They may be part of a strategy",
+          "Sponsors prefer them"
+        ],
+        "answer": 2,
+        "explanation": "Some tributes deliberately appear weaker by earning lower scores."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Katniss finally relax during dinner?",
+        "options": [
+          "She learns her score",
+          "She realizes her family is probably safe",
+          "The Games are canceled",
+          "She receives a sponsor"
+        ],
+        "answer": 1,
+        "explanation": "Knowing her family is unlikely to be punished eases her fears."
+      },
+      {
+        "type": "choice",
+        "question": "What score does Rue receive?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "answer": 2,
+        "explanation": "Rue surprises Katniss by earning a strong score of seven."
+      },
+      {
+        "type": "choice",
+        "question": "What score does Katniss receive from the Gamemakers?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "answer": 3,
+        "explanation": "Katniss is shocked to receive an exceptionally high score of eleven."
+      }
+    ]
+}

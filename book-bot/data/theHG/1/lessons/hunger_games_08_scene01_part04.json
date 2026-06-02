@@ -1,0 +1,128 @@
+{
+    "chapter": "The Hunger Games — Chapter 8",
+    "part": "Page 4",
+    "title": "Chapter 8 Page 4",
+    "level": "B2/C1/C2",
+    "text": "Effie Trinket lets out a squeal, and everybody is slapping me on the back and cheering and congratulating me. But it doesn’t seem real.\n\n“There must be a mistake. How… how could that happen?” I ask Haymitch.\n\n“Guess they liked your temper,” he says. “They’ve got a show to put on. They need some players with some heat.”\n\n“Katniss, the girl who was on fire,” says Cinna and gives me a hug. “Oh, wait until you see your interview dress.” “More flames?” I ask. “Of a sort,” he says mischievously.\n\nPeeta and I congratulate each other, another awkward moment. We’ve both done well, but what does that mean for the other? I escape to my room as quickly as possible and burrow down under the covers. The stress of the day, particularly the crying, has worn me out. I drift off, reprieved, relieved, and with the number eleven still flashing behind my eyelids.\n\nAt dawn, I lie in bed for a while, watching the sun come up on a beautiful morning. It’s Sunday. A day off at home. I wonder if Gale is in the woods yet. Usually we devote all of Sunday to stocking up for the week. Rising early, hunting and gathering, then trading at the Hob. I think of Gale without me. Both of us can hunt alone, but we’re better as a pair. Particularly if we’re trying for bigger game. But also in the littler things, having a partner lightened the load, could even make the arduous task of filling my family’s table enjoyable.\n\nI had been struggling along on my own for about six months when I first ran into Gale in the woods. It was a Sunday in October, the air cool and pungent with dying things. I’d spent the morning competing with the squirrels for nuts and the slightly warmer afternoon wading in shallow ponds harvesting Katniss. The only meat I’d shot was a squirrel that had practically run over my toes in its quest for acorns, but the animals would still be afoot when the snow buried my other food sources. Having strayed farther afield than usual, I was hurrying back home, lugging my burlap sacks when I came across a dead rabbit. It was hanging by its neck in a thin wire a foot above my head. About fifteen yards away was another. I recognized the twitch-up snares because my father had used them. When the prey is caught, it’s yanked into the air out of the reach of other hungry animals. I’d been trying to use snares all summer with no success, so I couldn’t help dropping my sacks to examine this one. My fingers were just on the wire above one of the rabbits when a voice rang out. “That’s dangerous.”\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["let out a squeal", "взвизгнуть", "Effie Trinket lets out a squeal"],
+          ["slap somebody on the back", "похлопать кого-либо по спине", "slapping me on the back"],
+          ["drift off", "заснуть", "I drift off"],
+          ["day off", "выходной день", "A day off at home"],
+          ["stock up", "запасаться", "stocking up for the week"],
+          ["lighten the load", "облегчить нагрузку", "having a partner lightened the load"],
+          ["run into somebody", "случайно встретить кого-либо", "I first ran into Gale"],
+          ["hurry back home", "спешить домой", "I was hurrying back home"],
+          ["drop one’s sacks", "бросить мешки", "dropping my sacks"],
+          ["ring out", "раздаться (о голосе)", "a voice rang out"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["put on a show", "устраивать представление", "They’ve got a show to put on"],
+          ["escape to one’s room", "скрыться у себя в комнате", "I escape to my room"],
+          ["burrow down under the covers", "зарыться под одеяло", "burrow down under the covers"],
+          ["wear somebody out", "измотать кого-либо", "has worn me out"],
+          ["flash behind one’s eyelids", "стоять перед глазами", "eleven still flashing behind my eyelids"],
+          ["devote all day to", "посвятить весь день чему-либо", "we devote all of Sunday"],
+          ["bigger game", "крупная дичь", "trying for bigger game"],
+          ["arduous task", "тяжёлая задача", "the arduous task of filling my family’s table"],
+          ["struggle along on one’s own", "справляться самостоятельно", "I’d been struggling along on my own"],
+          ["stray farther afield", "забрести дальше обычного", "Having strayed farther afield than usual"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["of a sort", "в некотором роде", "Of a sort"],
+          ["mischievously", "лукаво, озорно", "he says mischievously"],
+          ["reprieved and relieved", "испытывая облегчение и отсрочку", "reprieved, relieved"],
+          ["cool and pungent", "прохладный и резкий (о воздухе)", "the air cool and pungent"],
+          ["be afoot", "быть активным, бродить", "the animals would still be afoot"],
+          ["lug burlap sacks", "тащить мешки из мешковины", "lugging my burlap sacks"],
+          ["twitch-up snare", "подвесная силковая ловушка", "I recognized the twitch-up snares"],
+          ["yank into the air", "резко подбросить в воздух", "it’s yanked into the air"],
+          ["out of the reach of", "вне досягаемости", "out of the reach of other hungry animals"],
+          ["examine closely", "внимательно изучать", "to examine this one"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Haymitch think Katniss received such a high score?",
+        "options": [
+          "Because she followed all instructions",
+          "Because the Gamemakers liked her temper and drama",
+          "Because she was the strongest tribute",
+          "Because Cinna influenced the judges"
+        ],
+        "answer": 1,
+        "explanation": "Haymitch says the Gamemakers need exciting players and liked Katniss’s fiery attitude."
+      },
+      {
+        "type": "choice",
+        "question": "How does Cinna react to Katniss’s score?",
+        "options": [
+          "He criticizes her recklessness",
+          "He ignores it",
+          "He congratulates and hugs her",
+          "He leaves the room"
+        ],
+        "answer": 2,
+        "explanation": "Cinna is delighted and gives Katniss a hug."
+      },
+      {
+        "type": "choice",
+        "question": "What does Katniss think about on Sunday morning?",
+        "options": [
+          "The Capitol fashions",
+          "The interview preparations",
+          "Her hunting routine with Gale",
+          "The Career Tributes"
+        ],
+        "answer": 2,
+        "explanation": "She remembers spending Sundays hunting, gathering, and trading with Gale."
+      },
+      {
+        "type": "choice",
+        "question": "Why were Katniss and Gale effective hunting partners?",
+        "options": [
+          "They had better weapons",
+          "They knew secret locations",
+          "Working together made difficult tasks easier",
+          "They hunted only large animals"
+        ],
+        "answer": 2,
+        "explanation": "Katniss explains that having a partner lightened the burden and improved their success."
+      },
+      {
+        "type": "choice",
+        "question": "What did Katniss discover hanging in the woods?",
+        "options": [
+          "A deer",
+          "Two rabbits caught in snares",
+          "A bow",
+          "A wild turkey"
+        ],
+        "answer": 1,
+        "explanation": "She finds two dead rabbits suspended in twitch-up snares."
+      },
+      {
+        "type": "choice",
+        "question": "What happens at the end of the passage?",
+        "options": [
+          "Katniss catches a rabbit",
+          "She meets Rue",
+          "A voice warns her that the snare is dangerous",
+          "She returns home"
+        ],
+        "answer": 2,
+        "explanation": "As she examines the snare, a voice suddenly warns her: 'That’s dangerous.'"
+      }
+    ]
+  }

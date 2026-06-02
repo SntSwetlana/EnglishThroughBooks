@@ -1,0 +1,128 @@
+{
+    "chapter": "The Hunger Games — Chapter 8",
+    "part": "Page 2",
+    "title": "Chapter 8 Page 2",
+    "level": "B2/C1/C2",
+    "text": "When Effie taps on the door to call me to dinner, I decide I may as well go. The scores will be televised tonight. It’s not like I can hide what happened forever. I go to the bathroom and wash my face, but it’s still red and splotchy.\n\nEveryone’s waiting at the table, even Cinna and Portia. I wish the stylists hadn’t shown up because for some reason, I don’t like the idea of disappointing them. It’s as if I’ve thrown away all the good work they did on the opening ceremonies without a thought. I avoid looking at anyone as I take tiny spoonfuls of fish soup. The saltiness reminds me of my tears.\n\nThe adults begin some chitchat about the weather forecast, and I let my eyes meet Peeta’s. He raises his eyebrows. A question. What happened? I just give my head a small shake. Then, as they’re serving the main course, I hear Haymitch say, “Okay, enough small talk, just how bad were you today?”\n\nPeeta jumps in. “I don’t know that it mattered. By the time I showed up, no one even bothered to look at me. They were singing some kind of drinking song, I think. So, I threw around some heavy objects until they told me I could go.”\n\nThat makes me feel a bit better. It’s not like Peeta attacked the Gamemakers, but at least he was provoked, too.\n\n“And you, sweetheart?” says Haymitch.\n\nSomehow Haymitch calling me sweetheart ticks me off enough that I’m at least able to speak. “I shot an arrow at the Gamemakers.”\n\nEveryone stops eating. “You what?” The horror in Effie’s voice confirms my worse suspicions.\n\n“I shot an arrow at them. Not exactly at them. In their direction. It’s like Peeta said, I was shooting and they were ignoring me and I just… I just lost my head, so I shot an apple out of their stupid roast pig’s mouth!” I say defiantly.\n\n“And what did they say?” says Cinna carefully.\n\n“Nothing. Or I don’t know. I walked out after that,” I say.\n\n“Without being dismissed?” gasps Effie.\n\n“I dismissed myself,” I said. I remember how I promised Prim that I really would try to win and I feel like a ton of coal has dropped on me.\n\n“Well, that’s that,” says Haymitch. Then he butters a roll.\n\n“Do you think they’ll arrest me?” I ask.\n\n“Doubt it. Be a pain to replace you at this stage,” says Haymitch.\n\n“What about my family?” I say. “Will they punish them?”\n\n“Don’t think so. Wouldn’t make much sense. See they’d have to reveal what happened in the Training Center for it to have any worthwhile effect on the population. People would need to know what you did. But they can’t since it’s secret, so it’d be a waste of effort,” says Haymitch. “More likely they’ll make your life hell in the arena.”\n\n",
+    "levels": {
+      "B2": {
+        "quizlet": [
+          ["tap on the door", "постучать в дверь", "When Effie taps on the door"],
+          ["hide something forever", "скрывать что-либо вечно", "I can hide what happened forever"],
+          ["tiny spoonfuls", "маленькие ложечки", "I take tiny spoonfuls of fish soup"],
+          ["small talk", "светская беседа", "Okay, enough small talk"],
+          ["jump in", "вмешаться в разговор", "Peeta jumps in"],
+          ["look at someone", "смотреть на кого-либо", "no one even bothered to look at me"],
+          ["lose one’s head", "потерять самообладание", "I just lost my head"],
+          ["walk out", "уйти", "I walked out after that"],
+          ["at this stage", "на данном этапе", "replace you at this stage"],
+          ["make life hell", "сделать жизнь невыносимой", "make your life hell in the arena"]
+        ]
+      },
+
+      "C1": {
+        "quizlet": [
+          ["raise one’s eyebrows", "приподнять брови", "He raises his eyebrows"],
+          ["tick someone off", "раздражать кого-либо", "calling me sweetheart ticks me off"],
+          ["confirm one’s worst suspicions", "подтвердить худшие подозрения", "confirms my worst suspicions"],
+          ["in someone’s direction", "в чью-либо сторону", "In their direction"],
+          ["shoot an apple out of", "сбить яблоко с", "shot an apple out of their stupid roast pig’s mouth"],
+          ["without being dismissed", "не дождавшись разрешения уйти", "Without being dismissed"],
+          ["dismiss oneself", "уйти по собственной инициативе", "I dismissed myself"],
+          ["a ton of coal", "огромная тяжесть (образно)", "a ton of coal has dropped on me"],
+          ["wouldn’t make much sense", "не имело бы особого смысла", "Wouldn’t make much sense"],
+          ["a waste of effort", "пустая трата усилий", "it’d be a waste of effort"]
+        ]
+      },
+
+      "C2": {
+        "quizlet": [
+          ["red and splotchy", "красный и пятнистый", "it’s still red and splotchy"],
+          ["throw away good work", "свести на нет хорошую работу", "I’ve thrown away all the good work"],
+          ["the saltiness reminds me of my tears", "солёность напоминает мне мои слёзы", "The saltiness reminds me of my tears"],
+          ["provoke someone", "спровоцировать кого-либо", "he was provoked, too"],
+          ["say defiantly", "сказать вызывающе", "I say defiantly"],
+          ["horror in someone’s voice", "ужас в чьём-либо голосе", "The horror in Effie’s voice"],
+          ["replace someone", "заменить кого-либо", "Be a pain to replace you"],
+          ["have a worthwhile effect", "оказать значимый эффект", "have any worthwhile effect"],
+          ["reveal what happened", "раскрыть произошедшее", "They’d have to reveal what happened"],
+          ["the population", "население", "effect on the population"]
+        ]
+      }
+    },
+
+    "questions": [
+      {
+        "type": "choice",
+        "question": "Why does Katniss go to dinner despite wanting to avoid everyone?",
+        "options": [
+          "She is hungry",
+          "She knows she cannot hide what happened forever",
+          "Cinna orders her to come",
+          "Peeta asks her to join"
+        ],
+        "answer": 1,
+        "explanation": "Katniss realizes the scores will be announced publicly, so avoiding people is pointless."
+      },
+      {
+        "type": "choice",
+        "question": "How does Peeta describe his private session with the Gamemakers?",
+        "options": [
+          "They were very impressed",
+          "He refused to participate",
+          "They ignored him and were singing",
+          "He achieved a perfect score"
+        ],
+        "answer": 2,
+        "explanation": "Peeta says the Gamemakers paid little attention and seemed distracted."
+      },
+      {
+        "type": "choice",
+        "question": "What exactly does Katniss admit she did?",
+        "options": [
+          "Threatened a Gamemaker",
+          "Destroyed the equipment",
+          "Shot an arrow toward the Gamemakers",
+          "Refused to perform"
+        ],
+        "answer": 2,
+        "explanation": "She confesses that she shot an arrow in their direction and hit the apple in the pig’s mouth."
+      },
+      {
+        "type": "choice",
+        "question": "What shocks Effie the most after hearing the story?",
+        "options": [
+          "Katniss missed the target",
+          "Katniss shouted at the Gamemakers",
+          "Katniss left without being dismissed",
+          "Katniss cried afterward"
+        ],
+        "answer": 2,
+        "explanation": "Effie is horrified that Katniss walked out without permission."
+      },
+      {
+        "type": "choice",
+        "question": "Why does Haymitch think Katniss’s family is unlikely to be punished?",
+        "options": [
+          "President Snow likes District 12",
+          "The event was secret and cannot be revealed",
+          "Katniss is too important",
+          "Peeta would protect them"
+        ],
+        "answer": 1,
+        "explanation": "Haymitch explains that punishing them would require revealing what happened in the private session."
+      },
+      {
+        "type": "choice",
+        "question": "According to Haymitch, how are the Gamemakers most likely to punish Katniss?",
+        "options": [
+          "By arresting her",
+          "By lowering her score",
+          "By making the arena especially difficult for her",
+          "By replacing her as tribute"
+        ],
+        "answer": 2,
+        "explanation": "Haymitch believes they will make her life miserable once she enters the arena."
+      }
+    ]
+}
